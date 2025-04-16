@@ -27,11 +27,23 @@
     "item_name": "Золотые минералы",
     "profitable_lots": [
       {
-        "unit_price": 3846,
-        "avg_unit_price": 4509,
-        "total_price": 50000,
-        "quantity": 13,
-        "percent_diff": 14.7
+        "unit_price": 4300,
+        "avg_unit_price": 4944,
+        "total_price": 17200,
+        "quantity": 4,
+        "percent_diff": 13.03
+      }
+    ]
+  },
+  "rrrz": {
+    "item_name": "Бледнолист",
+    "profitable_lots": [
+      {
+        "unit_price": 300,
+        "avg_unit_price": 328,
+        "total_price": 15000,
+        "quantity": 50,
+        "percent_diff": 8.54
       }
     ]
   },
@@ -39,11 +51,11 @@
     "item_name": "Кислотная крапива",
     "profitable_lots": [
       {
-        "unit_price": 460,
-        "avg_unit_price": 660,
-        "total_price": 23000,
+        "unit_price": 239,
+        "avg_unit_price": 490,
+        "total_price": 11999,
         "quantity": 50,
-        "percent_diff": 30.3
+        "percent_diff": 51.22
       }
     ]
   },
