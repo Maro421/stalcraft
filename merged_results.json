@@ -299,15 +299,15 @@
       }
     ]
   },
-  "5dp0": {
-    "item_name": "Банка с пшеном",
+  "g02p": {
+    "item_name": "Банка с горохом",
     "profitable_lots": [
       {
-        "unit_price": 3600,
-        "avg_unit_price": 3863,
-        "total_price": 180000,
-        "quantity": 50,
-        "percent_diff": 6.81
+        "unit_price": 1365,
+        "avg_unit_price": 1926,
+        "total_price": 65556,
+        "quantity": 48,
+        "percent_diff": 29.13
       }
     ]
   },
@@ -2240,6 +2240,18 @@
         "total_price": 100000,
         "quantity": 1,
         "percent_diff": 42.37
+      }
+    ]
+  },
+  "g4y5p": {
+    "item_name": "Бронекостюм «КЗ-3а»",
+    "profitable_lots": [
+      {
+        "unit_price": 230000,
+        "avg_unit_price": 233333,
+        "total_price": 230000,
+        "quantity": 1,
+        "percent_diff": 1.43
       }
     ]
   },
