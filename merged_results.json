@@ -1072,10 +1072,10 @@
     "profitable_lots": [
       {
         "unit_price": 27500,
-        "avg_unit_price": 31180,
+        "avg_unit_price": 33143,
         "total_price": 55000,
         "quantity": 2,
-        "percent_diff": 11.8
+        "percent_diff": 17.03
       }
     ]
   },
@@ -1084,10 +1084,10 @@
     "profitable_lots": [
       {
         "unit_price": 7950,
-        "avg_unit_price": 7981,
+        "avg_unit_price": 7968,
         "total_price": 7950,
         "quantity": 1,
-        "percent_diff": 0.39
+        "percent_diff": 0.23
       }
     ]
   },
@@ -1840,10 +1840,10 @@
     "profitable_lots": [
       {
         "unit_price": 230000,
-        "avg_unit_price": 232242,
+        "avg_unit_price": 230662,
         "total_price": 230000,
         "quantity": 1,
-        "percent_diff": 0.97
+        "percent_diff": 0.29
       }
     ]
   },
@@ -2031,11 +2031,11 @@
     "item_name": "СОК-94",
     "profitable_lots": [
       {
-        "unit_price": 20000,
+        "unit_price": 15000,
         "avg_unit_price": 21070,
-        "total_price": 20000,
+        "total_price": 15000,
         "quantity": 1,
-        "percent_diff": 5.08
+        "percent_diff": 28.81
       }
     ]
   },
