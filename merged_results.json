@@ -75,11 +75,23 @@
     "item_name": "Гнозис",
     "profitable_lots": [
       {
-        "unit_price": 78,
-        "avg_unit_price": 91,
-        "total_price": 3900,
+        "unit_price": 76,
+        "avg_unit_price": 121,
+        "total_price": 3800,
         "quantity": 50,
-        "percent_diff": 14.29
+        "percent_diff": 37.19
+      }
+    ]
+  },
+  "npp9": {
+    "item_name": "Чертоцвет",
+    "profitable_lots": [
+      {
+        "unit_price": 1799,
+        "avg_unit_price": 1915,
+        "total_price": 89999,
+        "quantity": 50,
+        "percent_diff": 6.06
       }
     ]
   },
