@@ -1695,11 +1695,11 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8000,
-        "avg_unit_price": 9912,
-        "total_price": 80000,
-        "quantity": 10,
-        "percent_diff": 19.29
+        "unit_price": 8333,
+        "avg_unit_price": 10830,
+        "total_price": 100001,
+        "quantity": 12,
+        "percent_diff": 23.06
       }
     ]
   },
@@ -1707,11 +1707,11 @@
     "item_name": "Ноотроп",
     "profitable_lots": [
       {
-        "unit_price": 11580,
+        "unit_price": 8033,
         "avg_unit_price": 12123,
-        "total_price": 579000,
-        "quantity": 50,
-        "percent_diff": 4.48
+        "total_price": 80333,
+        "quantity": 10,
+        "percent_diff": 33.74
       }
     ]
   },
@@ -2151,11 +2151,11 @@
     "item_name": "НР-43",
     "profitable_lots": [
       {
-        "unit_price": 9999,
-        "avg_unit_price": 10836,
-        "total_price": 9999,
+        "unit_price": 8000,
+        "avg_unit_price": 8503,
+        "total_price": 8000,
         "quantity": 1,
-        "percent_diff": 7.72
+        "percent_diff": 5.92
       }
     ]
   },
