@@ -1667,6 +1667,18 @@
       }
     ]
   },
+  "0rl9k": {
+    "item_name": "Голова крысы",
+    "profitable_lots": [
+      {
+        "unit_price": 4100,
+        "avg_unit_price": 4832,
+        "total_price": 4100,
+        "quantity": 1,
+        "percent_diff": 15.15
+      }
+    ]
+  },
   "1rl4r": {
     "item_name": "Хвост сильной шавки",
     "profitable_lots": [
