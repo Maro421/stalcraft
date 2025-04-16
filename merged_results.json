@@ -1011,11 +1011,11 @@
     "item_name": "Полипропилен",
     "profitable_lots": [
       {
-        "unit_price": 1499,
-        "avg_unit_price": 2395,
-        "total_price": 1499,
+        "unit_price": 1000,
+        "avg_unit_price": 2495,
+        "total_price": 1000,
         "quantity": 1,
-        "percent_diff": 37.41
+        "percent_diff": 59.92
       }
     ]
   },
@@ -1947,11 +1947,11 @@
     "item_name": "Steyr Scout",
     "profitable_lots": [
       {
-        "unit_price": 164999,
-        "avg_unit_price": 178757,
-        "total_price": 164999,
+        "unit_price": 165000,
+        "avg_unit_price": 170093,
+        "total_price": 165000,
         "quantity": 1,
-        "percent_diff": 7.7
+        "percent_diff": 2.99
       }
     ]
   },
