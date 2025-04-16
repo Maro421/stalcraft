@@ -951,11 +951,11 @@
     "item_name": "Продвинутый электрод",
     "profitable_lots": [
       {
-        "unit_price": 8999,
-        "avg_unit_price": 13066,
-        "total_price": 89999,
-        "quantity": 10,
-        "percent_diff": 31.13
+        "unit_price": 9090,
+        "avg_unit_price": 13116,
+        "total_price": 100000,
+        "quantity": 11,
+        "percent_diff": 30.7
       }
     ]
   },
@@ -1859,6 +1859,18 @@
       }
     ]
   },
+  "7l1kr": {
+    "item_name": "Подсумок с аптечками проводника",
+    "profitable_lots": [
+      {
+        "unit_price": 7250,
+        "avg_unit_price": 8836,
+        "total_price": 7250,
+        "quantity": 1,
+        "percent_diff": 17.95
+      }
+    ]
+  },
   "96zjw": {
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
@@ -1887,23 +1899,11 @@
     "item_name": "Сумка СБП 5.45 мм",
     "profitable_lots": [
       {
-        "unit_price": 7650,
+        "unit_price": 8000,
         "avg_unit_price": 8327,
-        "total_price": 7650,
+        "total_price": 8000,
         "quantity": 1,
-        "percent_diff": 8.13
-      }
-    ]
-  },
-  "qjq69": {
-    "item_name": "Сумка СБП 5.56 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 9000,
-        "avg_unit_price": 9944,
-        "total_price": 9000,
-        "quantity": 1,
-        "percent_diff": 9.49
+        "percent_diff": 3.93
       }
     ]
   },
@@ -1923,11 +1923,11 @@
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 6500,
+        "unit_price": 7000,
         "avg_unit_price": 14532,
-        "total_price": 6500,
+        "total_price": 7000,
         "quantity": 1,
-        "percent_diff": 55.27
+        "percent_diff": 51.83
       }
     ]
   },
@@ -1948,10 +1948,10 @@
     "profitable_lots": [
       {
         "unit_price": 5400,
-        "avg_unit_price": 9602,
+        "avg_unit_price": 8324,
         "total_price": 540000,
         "quantity": 100,
-        "percent_diff": 43.76
+        "percent_diff": 35.13
       }
     ]
   },
@@ -1959,35 +1959,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3100000,
-        "avg_unit_price": 3217142,
-        "total_price": 3100000,
+        "unit_price": 3199999,
+        "avg_unit_price": 3231428,
+        "total_price": 3199999,
         "quantity": 1,
-        "percent_diff": 3.64
-      }
-    ]
-  },
-  "zzwmm": {
-    "item_name": "Сыворотка изменения",
-    "profitable_lots": [
-      {
-        "unit_price": 229999,
-        "avg_unit_price": 252941,
-        "total_price": 229999,
-        "quantity": 1,
-        "percent_diff": 9.07
-      }
-    ]
-  },
-  "4q27o": {
-    "item_name": "Камуфляж «Флора»",
-    "profitable_lots": [
-      {
-        "unit_price": 400000,
-        "avg_unit_price": 404437,
-        "total_price": 400000,
-        "quantity": 1,
-        "percent_diff": 1.1
+        "percent_diff": 0.97
       }
     ]
   },
@@ -2007,47 +1983,11 @@
     "item_name": "Steyr Scout",
     "profitable_lots": [
       {
-        "unit_price": 155000,
+        "unit_price": 165000,
         "avg_unit_price": 170093,
-        "total_price": 155000,
+        "total_price": 165000,
         "quantity": 1,
-        "percent_diff": 8.87
-      }
-    ]
-  },
-  "wj7v3": {
-    "item_name": "РМО-93",
-    "profitable_lots": [
-      {
-        "unit_price": 2000000,
-        "avg_unit_price": 2064326,
-        "total_price": 2000000,
-        "quantity": 1,
-        "percent_diff": 3.12
-      }
-    ]
-  },
-  "m0mz2": {
-    "item_name": "M1014 Breacher",
-    "profitable_lots": [
-      {
-        "unit_price": 570000,
-        "avg_unit_price": 649709,
-        "total_price": 570000,
-        "quantity": 1,
-        "percent_diff": 12.27
-      }
-    ]
-  },
-  "1r7v1": {
-    "item_name": "IMI Mini Uzi",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 5918,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 15.51
+        "percent_diff": 2.99
       }
     ]
   },
@@ -2072,6 +2012,18 @@
         "total_price": 60000,
         "quantity": 1,
         "percent_diff": 32.13
+      }
+    ]
+  },
+  "y32po": {
+    "item_name": "Ingram MAC-10",
+    "profitable_lots": [
+      {
+        "unit_price": 7000,
+        "avg_unit_price": 8379,
+        "total_price": 7000,
+        "quantity": 1,
+        "percent_diff": 16.46
       }
     ]
   },
@@ -2128,10 +2080,46 @@
     "profitable_lots": [
       {
         "unit_price": 395000,
-        "avg_unit_price": 445824,
+        "avg_unit_price": 452929,
         "total_price": 395000,
         "quantity": 1,
-        "percent_diff": 11.4
+        "percent_diff": 12.79
+      }
+    ]
+  },
+  "969jz": {
+    "item_name": "Steyr AUG A2",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 203362,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 1.65
+      }
+    ]
+  },
+  "g4mdp": {
+    "item_name": "АК-12",
+    "profitable_lots": [
+      {
+        "unit_price": 1400000,
+        "avg_unit_price": 1496388,
+        "total_price": 1400000,
+        "quantity": 1,
+        "percent_diff": 6.44
+      }
+    ]
+  },
+  "zz24n": {
+    "item_name": "SIG SG 550 Sniper",
+    "profitable_lots": [
+      {
+        "unit_price": 280000,
+        "avg_unit_price": 315678,
+        "total_price": 280000,
+        "quantity": 1,
+        "percent_diff": 11.3
       }
     ]
   },
@@ -2140,10 +2128,10 @@
     "profitable_lots": [
       {
         "unit_price": 178999,
-        "avg_unit_price": 201333,
+        "avg_unit_price": 200994,
         "total_price": 178999,
         "quantity": 1,
-        "percent_diff": 11.09
+        "percent_diff": 10.94
       }
     ]
   },
@@ -2183,54 +2171,6 @@
       }
     ]
   },
-  "knvmj": {
-    "item_name": "Jagdkommando",
-    "profitable_lots": [
-      {
-        "unit_price": 9500000,
-        "avg_unit_price": 10061551,
-        "total_price": 9500000,
-        "quantity": 1,
-        "percent_diff": 5.58
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7460,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 32.98
-      }
-    ]
-  },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
-        "quantity": 1,
-        "percent_diff": 13.35
-      }
-    ]
-  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2248,10 +2188,10 @@
     "profitable_lots": [
       {
         "unit_price": 99999,
-        "avg_unit_price": 116222,
+        "avg_unit_price": 112176,
         "total_price": 99999,
         "quantity": 1,
-        "percent_diff": 13.96
+        "percent_diff": 10.86
       }
     ]
   },
@@ -2271,23 +2211,11 @@
     "item_name": "НР-43",
     "profitable_lots": [
       {
-        "unit_price": 9999,
-        "avg_unit_price": 10836,
-        "total_price": 9999,
+        "unit_price": 8500,
+        "avg_unit_price": 9336,
+        "total_price": 8500,
         "quantity": 1,
-        "percent_diff": 7.72
-      }
-    ]
-  },
-  "5lv9o": {
-    "item_name": "Прицел оптический Sig Sauer",
-    "profitable_lots": [
-      {
-        "unit_price": 245000,
-        "avg_unit_price": 262788,
-        "total_price": 245000,
-        "quantity": 1,
-        "percent_diff": 6.77
+        "percent_diff": 8.95
       }
     ]
   },
@@ -2295,23 +2223,23 @@
     "item_name": "Прицел коллиматорный DM",
     "profitable_lots": [
       {
-        "unit_price": 455555,
-        "avg_unit_price": 520385,
-        "total_price": 455555,
+        "unit_price": 440000,
+        "avg_unit_price": 487783,
+        "total_price": 440000,
         "quantity": 1,
-        "percent_diff": 12.46
+        "percent_diff": 9.8
       }
     ]
   },
-  "5lpo4": {
-    "item_name": "ПБС-4",
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
     "profitable_lots": [
       {
-        "unit_price": 350000,
-        "avg_unit_price": 366353,
-        "total_price": 350000,
+        "unit_price": 1800000,
+        "avg_unit_price": 1807647,
+        "total_price": 1800000,
         "quantity": 1,
-        "percent_diff": 4.46
+        "percent_diff": 0.42
       }
     ]
   },
@@ -2324,30 +2252,6 @@
         "total_price": 1301000,
         "quantity": 1,
         "percent_diff": 12.97
-      }
-    ]
-  },
-  "wjro3": {
-    "item_name": "Барабанный магазин 5.56 NATO, хаки",
-    "profitable_lots": [
-      {
-        "unit_price": 2400000,
-        "avg_unit_price": 2539087,
-        "total_price": 2400000,
-        "quantity": 1,
-        "percent_diff": 5.48
-      }
-    ]
-  },
-  "j52lg": {
-    "item_name": "Магазин 7.62 NATO PMAG, хаки",
-    "profitable_lots": [
-      {
-        "unit_price": 8000000,
-        "avg_unit_price": 8049723,
-        "total_price": 8000000,
-        "quantity": 1,
-        "percent_diff": 0.62
       }
     ]
   },
