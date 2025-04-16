@@ -1019,15 +1019,15 @@
       }
     ]
   },
-  "p3o4": {
-    "item_name": "Роторная система",
+  "nmo2": {
+    "item_name": "Прочный металл",
     "profitable_lots": [
       {
-        "unit_price": 49990,
-        "avg_unit_price": 52992,
-        "total_price": 49990,
-        "quantity": 1,
-        "percent_diff": 5.67
+        "unit_price": 69999,
+        "avg_unit_price": 71010,
+        "total_price": 699999,
+        "quantity": 10,
+        "percent_diff": 1.42
       }
     ]
   },
@@ -1679,18 +1679,6 @@
       }
     ]
   },
-  "2o6zl": {
-    "item_name": "Сумка стальных пластин IV",
-    "profitable_lots": [
-      {
-        "unit_price": 1999,
-        "avg_unit_price": 2000,
-        "total_price": 1999,
-        "quantity": 1,
-        "percent_diff": 0.05
-      }
-    ]
-  },
   "96qjl": {
     "item_name": "Сумка керамических пластин III",
     "profitable_lots": [
@@ -2312,18 +2300,6 @@
         "total_price": 9999,
         "quantity": 1,
         "percent_diff": 44.09
-      }
-    ]
-  },
-  "dm0dn": {
-    "item_name": "Прицел коллиматорный ПК-01(Т/З)",
-    "profitable_lots": [
-      {
-        "unit_price": 800000,
-        "avg_unit_price": 849062,
-        "total_price": 800000,
-        "quantity": 1,
-        "percent_diff": 5.78
       }
     ]
   },
