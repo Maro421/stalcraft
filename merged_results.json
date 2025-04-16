@@ -291,11 +291,11 @@
     "item_name": "Мясо хрюши",
     "profitable_lots": [
       {
-        "unit_price": 4400,
-        "avg_unit_price": 4704,
-        "total_price": 4400,
-        "quantity": 1,
-        "percent_diff": 6.46
+        "unit_price": 2150,
+        "avg_unit_price": 4699,
+        "total_price": 4300,
+        "quantity": 2,
+        "percent_diff": 54.25
       }
     ]
   },
@@ -2055,11 +2055,11 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 380000,
-        "avg_unit_price": 509333,
-        "total_price": 380000,
+        "unit_price": 475000,
+        "avg_unit_price": 502111,
+        "total_price": 475000,
         "quantity": 1,
-        "percent_diff": 25.39
+        "percent_diff": 5.4
       }
     ]
   },
