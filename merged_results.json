@@ -95,15 +95,15 @@
       }
     ]
   },
-  "g0vn": {
-    "item_name": "Канистра с бензином",
+  "prrd": {
+    "item_name": "Янтарная полынь",
     "profitable_lots": [
       {
-        "unit_price": 5555,
-        "avg_unit_price": 5599,
-        "total_price": 11111,
-        "quantity": 2,
-        "percent_diff": 0.79
+        "unit_price": 12000,
+        "avg_unit_price": 13522,
+        "total_price": 12000,
+        "quantity": 1,
+        "percent_diff": 11.26
       }
     ]
   },
@@ -2012,6 +2012,18 @@
         "total_price": 50000,
         "quantity": 1,
         "percent_diff": 42.41
+      }
+    ]
+  },
+  "ly2m1": {
+    "item_name": "M1014",
+    "profitable_lots": [
+      {
+        "unit_price": 130000,
+        "avg_unit_price": 166944,
+        "total_price": 130000,
+        "quantity": 1,
+        "percent_diff": 22.13
       }
     ]
   },
