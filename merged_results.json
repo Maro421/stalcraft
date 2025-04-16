@@ -448,10 +448,10 @@
     "profitable_lots": [
       {
         "unit_price": 3500,
-        "avg_unit_price": 7861,
-        "total_price": 7000,
-        "quantity": 2,
-        "percent_diff": 55.48
+        "avg_unit_price": 3552,
+        "total_price": 3500,
+        "quantity": 1,
+        "percent_diff": 1.46
       }
     ]
   },
@@ -459,11 +459,11 @@
     "item_name": "Набор болтов",
     "profitable_lots": [
       {
-        "unit_price": 6500,
-        "avg_unit_price": 9074,
-        "total_price": 13000,
-        "quantity": 2,
-        "percent_diff": 28.37
+        "unit_price": 7000,
+        "avg_unit_price": 7853,
+        "total_price": 7000,
+        "quantity": 1,
+        "percent_diff": 10.86
       }
     ]
   },
@@ -1827,11 +1827,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6500,
-        "avg_unit_price": 6666,
-        "total_price": 65000,
-        "quantity": 10,
-        "percent_diff": 2.49
+        "unit_price": 5150,
+        "avg_unit_price": 6103,
+        "total_price": 515000,
+        "quantity": 100,
+        "percent_diff": 15.62
       }
     ]
   },
@@ -1983,11 +1983,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4790000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 13.86
       }
     ]
   },
@@ -2019,11 +2019,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 199999,
-        "avg_unit_price": 210578,
-        "total_price": 199999,
+        "unit_price": 189999,
+        "avg_unit_price": 208944,
+        "total_price": 189999,
         "quantity": 1,
-        "percent_diff": 5.02
+        "percent_diff": 9.07
       }
     ]
   },
@@ -2043,11 +2043,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 160001,
-        "avg_unit_price": 168926,
-        "total_price": 160001,
+        "unit_price": 149999,
+        "avg_unit_price": 167516,
+        "total_price": 149999,
         "quantity": 1,
-        "percent_diff": 5.28
+        "percent_diff": 10.46
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "«Рапира»",
     "profitable_lots": [
       {
-        "unit_price": 1400000,
-        "avg_unit_price": 1532393,
-        "total_price": 1400000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1554772,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 8.64
+        "percent_diff": 3.52
       }
     ]
   },
