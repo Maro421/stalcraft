@@ -1203,11 +1203,11 @@
     "item_name": "Мутировавшие ферменты",
     "profitable_lots": [
       {
-        "unit_price": 4000,
+        "unit_price": 3333,
         "avg_unit_price": 5022,
-        "total_price": 120000,
+        "total_price": 99999,
         "quantity": 30,
-        "percent_diff": 20.35
+        "percent_diff": 33.63
       }
     ]
   },
