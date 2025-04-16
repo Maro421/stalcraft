@@ -1108,10 +1108,10 @@
     "profitable_lots": [
       {
         "unit_price": 7950,
-        "avg_unit_price": 7983,
+        "avg_unit_price": 7981,
         "total_price": 7950,
         "quantity": 1,
-        "percent_diff": 0.41
+        "percent_diff": 0.39
       }
     ]
   },
@@ -1120,10 +1120,10 @@
     "profitable_lots": [
       {
         "unit_price": 54000,
-        "avg_unit_price": 56606,
+        "avg_unit_price": 55474,
         "total_price": 54000,
         "quantity": 1,
-        "percent_diff": 4.6
+        "percent_diff": 2.66
       }
     ]
   },
@@ -1803,11 +1803,11 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8249,
-        "avg_unit_price": 9977,
-        "total_price": 98999,
-        "quantity": 12,
-        "percent_diff": 17.32
+        "unit_price": 9000,
+        "avg_unit_price": 10244,
+        "total_price": 162000,
+        "quantity": 18,
+        "percent_diff": 12.14
       }
     ]
   },
