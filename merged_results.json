@@ -1931,18 +1931,6 @@
       }
     ]
   },
-  "lyrdq": {
-    "item_name": "Сумка СБП 9x39 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 12999,
-        "avg_unit_price": 13191,
-        "total_price": 12999,
-        "quantity": 1,
-        "percent_diff": 1.46
-      }
-    ]
-  },
   "m0q7r": {
     "item_name": "Сумка зажигательных 5.45 мм",
     "profitable_lots": [
@@ -1959,11 +1947,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5799,
-        "avg_unit_price": 6289,
-        "total_price": 289999,
-        "quantity": 50,
-        "percent_diff": 7.79
+        "unit_price": 6111,
+        "avg_unit_price": 6420,
+        "total_price": 61111,
+        "quantity": 10,
+        "percent_diff": 4.81
       }
     ]
   },
@@ -1971,11 +1959,11 @@
     "item_name": "Сыворотка изменения",
     "profitable_lots": [
       {
-        "unit_price": 290000,
-        "avg_unit_price": 292117,
-        "total_price": 290000,
+        "unit_price": 280000,
+        "avg_unit_price": 284947,
+        "total_price": 280000,
         "quantity": 1,
-        "percent_diff": 0.72
+        "percent_diff": 1.74
       }
     ]
   },
@@ -2147,15 +2135,15 @@
       }
     ]
   },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
+  "g4mdp": {
+    "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 210000,
-        "avg_unit_price": 217310,
-        "total_price": 210000,
+        "unit_price": 1350000,
+        "avg_unit_price": 1419210,
+        "total_price": 1350000,
         "quantity": 1,
-        "percent_diff": 3.36
+        "percent_diff": 4.88
       }
     ]
   },
@@ -2163,11 +2151,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 120000,
-        "avg_unit_price": 163259,
-        "total_price": 120000,
+        "unit_price": 139001,
+        "avg_unit_price": 155481,
+        "total_price": 139001,
         "quantity": 1,
-        "percent_diff": 26.5
+        "percent_diff": 10.6
       }
     ]
   },
@@ -2195,6 +2183,42 @@
       }
     ]
   },
+  "y3j20": {
+    "item_name": "Gerber Downrange Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 4900000,
+        "avg_unit_price": 4984357,
+        "total_price": 4900000,
+        "quantity": 1,
+        "percent_diff": 1.69
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 6999,
+        "avg_unit_price": 10864,
+        "total_price": 6999,
+        "quantity": 1,
+        "percent_diff": 35.58
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 6244,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 19.92
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2216,18 +2240,6 @@
         "total_price": 170000,
         "quantity": 1,
         "percent_diff": 12.76
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.24
       }
     ]
   },
