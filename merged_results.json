@@ -179,18 +179,6 @@
       }
     ]
   },
-  "qvrk": {
-    "item_name": "Борная кислота",
-    "profitable_lots": [
-      {
-        "unit_price": 270,
-        "avg_unit_price": 1957,
-        "total_price": 270,
-        "quantity": 1,
-        "percent_diff": 86.2
-      }
-    ]
-  },
   "jl66": {
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
@@ -1287,11 +1275,11 @@
     "item_name": "Мутировавшие ферменты",
     "profitable_lots": [
       {
-        "unit_price": 4666,
+        "unit_price": 4000,
         "avg_unit_price": 5022,
-        "total_price": 140000,
+        "total_price": 120000,
         "quantity": 30,
-        "percent_diff": 7.09
+        "percent_diff": 20.35
       }
     ]
   },
