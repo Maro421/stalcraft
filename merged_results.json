@@ -1523,6 +1523,18 @@
       }
     ]
   },
+  "p6kgw": {
+    "item_name": "Сумка 12.7 мм Easy mode",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5555,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 9.99
+      }
+    ]
+  },
   "dmlwj": {
     "item_name": "Сумка дальнобойных 9x39 мм",
     "profitable_lots": [
@@ -2332,10 +2344,10 @@
     "profitable_lots": [
       {
         "unit_price": 22500000,
-        "avg_unit_price": 22605450,
+        "avg_unit_price": 22574748,
         "total_price": 22500000,
         "quantity": 1,
-        "percent_diff": 0.47
+        "percent_diff": 0.33
       }
     ]
   },
@@ -2343,11 +2355,11 @@
     "item_name": "КИМ-100 «Гранат»",
     "profitable_lots": [
       {
-        "unit_price": 19999,
-        "avg_unit_price": 28735,
-        "total_price": 19999,
+        "unit_price": 20000,
+        "avg_unit_price": 31602,
+        "total_price": 20000,
         "quantity": 1,
-        "percent_diff": 30.4
+        "percent_diff": 36.71
       }
     ]
   },
