@@ -467,27 +467,15 @@
       }
     ]
   },
-  "2d56": {
-    "item_name": "Набор болтов",
-    "profitable_lots": [
-      {
-        "unit_price": 6500,
-        "avg_unit_price": 7223,
-        "total_price": 13000,
-        "quantity": 2,
-        "percent_diff": 10.01
-      }
-    ]
-  },
   "9mr0": {
     "item_name": "Жгут",
     "profitable_lots": [
       {
         "unit_price": 50,
-        "avg_unit_price": 90,
+        "avg_unit_price": 86,
         "total_price": 2500,
         "quantity": 50,
-        "percent_diff": 44.44
+        "percent_diff": 41.86
       }
     ]
   },
@@ -2264,18 +2252,6 @@
         "total_price": 1301000,
         "quantity": 1,
         "percent_diff": 2.56
-      }
-    ]
-  },
-  "wjro3": {
-    "item_name": "Барабанный магазин 5.56 NATO, хаки",
-    "profitable_lots": [
-      {
-        "unit_price": 2333333,
-        "avg_unit_price": 2561571,
-        "total_price": 2333333,
-        "quantity": 1,
-        "percent_diff": 8.91
       }
     ]
   },
