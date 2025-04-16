@@ -911,6 +911,18 @@
       }
     ]
   },
+  "4nkr": {
+    "item_name": "Алюминиевый порошок",
+    "profitable_lots": [
+      {
+        "unit_price": 299,
+        "avg_unit_price": 1189,
+        "total_price": 299,
+        "quantity": 1,
+        "percent_diff": 74.85
+      }
+    ]
+  },
   "jon0": {
     "item_name": "Нашатырь",
     "profitable_lots": [
