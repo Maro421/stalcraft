@@ -23,18 +23,6 @@
       }
     ]
   },
-  "rrrz": {
-    "item_name": "Бледнолист",
-    "profitable_lots": [
-      {
-        "unit_price": 300,
-        "avg_unit_price": 339,
-        "total_price": 15000,
-        "quantity": 50,
-        "percent_diff": 11.5
-      }
-    ]
-  },
   "m22k": {
     "item_name": "Водонос",
     "profitable_lots": [
@@ -1779,11 +1767,11 @@
     "item_name": "Сосуд реактора",
     "profitable_lots": [
       {
-        "unit_price": 243799,
-        "avg_unit_price": 245575,
-        "total_price": 243799,
+        "unit_price": 230000,
+        "avg_unit_price": 234610,
+        "total_price": 230000,
         "quantity": 1,
-        "percent_diff": 0.72
+        "percent_diff": 1.96
       }
     ]
   },
