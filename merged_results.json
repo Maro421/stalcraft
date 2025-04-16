@@ -375,11 +375,11 @@
     "item_name": "Молоко",
     "profitable_lots": [
       {
-        "unit_price": 300,
-        "avg_unit_price": 592,
-        "total_price": 15000,
+        "unit_price": 260,
+        "avg_unit_price": 555,
+        "total_price": 13000,
         "quantity": 50,
-        "percent_diff": 49.32
+        "percent_diff": 53.15
       }
     ]
   },
@@ -388,10 +388,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 1053,
-        "total_price": 4000,
-        "quantity": 4,
-        "percent_diff": 5.03
+        "avg_unit_price": 1177,
+        "total_price": 50000,
+        "quantity": 50,
+        "percent_diff": 15.04
       }
     ]
   },
@@ -1384,10 +1384,10 @@
     "profitable_lots": [
       {
         "unit_price": 50,
-        "avg_unit_price": 77,
+        "avg_unit_price": 88,
         "total_price": 50,
         "quantity": 1,
-        "percent_diff": 35.06
+        "percent_diff": 43.18
       }
     ]
   },
@@ -1395,11 +1395,11 @@
     "item_name": "Композитная пластина IV",
     "profitable_lots": [
       {
-        "unit_price": 150,
-        "avg_unit_price": 360,
-        "total_price": 150,
+        "unit_price": 2,
+        "avg_unit_price": 496,
+        "total_price": 2,
         "quantity": 1,
-        "percent_diff": 58.33
+        "percent_diff": 99.6
       }
     ]
   },
@@ -1955,15 +1955,39 @@
       }
     ]
   },
+  "j5qd4": {
+    "item_name": "Сумка СБП 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 18000,
+        "avg_unit_price": 19000,
+        "total_price": 18000,
+        "quantity": 1,
+        "percent_diff": 5.26
+      }
+    ]
+  },
   "lyrdq": {
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 8999,
-        "avg_unit_price": 11527,
-        "total_price": 8999,
+        "unit_price": 13400,
+        "avg_unit_price": 13960,
+        "total_price": 13400,
         "quantity": 1,
-        "percent_diff": 21.93
+        "percent_diff": 4.01
+      }
+    ]
+  },
+  "m0q7r": {
+    "item_name": "Сумка зажигательных 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 2678,
+        "total_price": 500,
+        "quantity": 1,
+        "percent_diff": 81.33
       }
     ]
   },
@@ -1971,11 +1995,23 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5599,
-        "avg_unit_price": 6666,
-        "total_price": 55995,
+        "unit_price": 5699,
+        "avg_unit_price": 6193,
+        "total_price": 56999,
         "quantity": 10,
-        "percent_diff": 16.01
+        "percent_diff": 7.98
+      }
+    ]
+  },
+  "1rlw2": {
+    "item_name": "Эссенция сброса",
+    "profitable_lots": [
+      {
+        "unit_price": 3000000,
+        "avg_unit_price": 3271249,
+        "total_price": 3000000,
+        "quantity": 1,
+        "percent_diff": 8.29
       }
     ]
   },
