@@ -239,6 +239,18 @@
       }
     ]
   },
+  "npq3": {
+    "item_name": "Аномальная плазма",
+    "profitable_lots": [
+      {
+        "unit_price": 2142,
+        "avg_unit_price": 2359,
+        "total_price": 15000,
+        "quantity": 7,
+        "percent_diff": 9.2
+      }
+    ]
+  },
   "prl2": {
     "item_name": "Кофе",
     "profitable_lots": [
