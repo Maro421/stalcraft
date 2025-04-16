@@ -623,6 +623,18 @@
       }
     ]
   },
+  "prm6": {
+    "item_name": "Свинец",
+    "profitable_lots": [
+      {
+        "unit_price": 499,
+        "avg_unit_price": 584,
+        "total_price": 24999,
+        "quantity": 50,
+        "percent_diff": 14.55
+      }
+    ]
+  },
   "dqg5": {
     "item_name": "Животный жир",
     "profitable_lots": [
@@ -1451,6 +1463,18 @@
       }
     ]
   },
+  "wwod": {
+    "item_name": "M18 Claymore",
+    "profitable_lots": [
+      {
+        "unit_price": 19444,
+        "avg_unit_price": 23552,
+        "total_price": 38888,
+        "quantity": 2,
+        "percent_diff": 17.44
+      }
+    ]
+  },
   "g54p": {
     "item_name": "Патрон 9 мм экспансивный",
     "profitable_lots": [
@@ -2084,6 +2108,18 @@
         "total_price": 4000,
         "quantity": 1,
         "percent_diff": 7.32
+      }
+    ]
+  },
+  "zz2rn": {
+    "item_name": "АК-105",
+    "profitable_lots": [
+      {
+        "unit_price": 400000,
+        "avg_unit_price": 519340,
+        "total_price": 400000,
+        "quantity": 1,
+        "percent_diff": 22.98
       }
     ]
   },
