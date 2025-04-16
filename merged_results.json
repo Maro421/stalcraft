@@ -424,10 +424,10 @@
     "profitable_lots": [
       {
         "unit_price": 1309,
-        "avg_unit_price": 2054,
+        "avg_unit_price": 1963,
         "total_price": 55000,
         "quantity": 42,
-        "percent_diff": 36.27
+        "percent_diff": 33.32
       }
     ]
   },
@@ -435,11 +435,11 @@
     "item_name": "Кастрюля",
     "profitable_lots": [
       {
-        "unit_price": 1990,
-        "avg_unit_price": 2466,
-        "total_price": 99500,
+        "unit_price": 2000,
+        "avg_unit_price": 2088,
+        "total_price": 100000,
         "quantity": 50,
-        "percent_diff": 19.3
+        "percent_diff": 4.21
       }
     ]
   },
@@ -2223,11 +2223,23 @@
     "item_name": "Глушитель FA556 Mini",
     "profitable_lots": [
       {
-        "unit_price": 1556000,
-        "avg_unit_price": 1571570,
-        "total_price": 1556000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1581970,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 0.99
+        "percent_diff": 5.18
+      }
+    ]
+  },
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
+    "profitable_lots": [
+      {
+        "unit_price": 1650000,
+        "avg_unit_price": 1707222,
+        "total_price": 1650000,
+        "quantity": 1,
+        "percent_diff": 3.35
       }
     ]
   },
