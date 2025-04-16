@@ -267,11 +267,11 @@
     "item_name": "Аномальная плазма",
     "profitable_lots": [
       {
-        "unit_price": 2000,
-        "avg_unit_price": 2471,
-        "total_price": 2000,
-        "quantity": 1,
-        "percent_diff": 19.06
+        "unit_price": 1999,
+        "avg_unit_price": 2479,
+        "total_price": 99999,
+        "quantity": 50,
+        "percent_diff": 19.36
       }
     ]
   },
@@ -280,10 +280,10 @@
     "profitable_lots": [
       {
         "unit_price": 3666,
-        "avg_unit_price": 5621,
+        "avg_unit_price": 5683,
         "total_price": 21999,
         "quantity": 6,
-        "percent_diff": 34.78
+        "percent_diff": 35.49
       }
     ]
   },
@@ -1348,22 +1348,10 @@
     "profitable_lots": [
       {
         "unit_price": 180000,
-        "avg_unit_price": 204666,
+        "avg_unit_price": 202333,
         "total_price": 180000,
         "quantity": 1,
-        "percent_diff": 12.05
-      }
-    ]
-  },
-  "49dj": {
-    "item_name": "Контейнер «Берлога-6у»",
-    "profitable_lots": [
-      {
-        "unit_price": 9800000,
-        "avg_unit_price": 10067017,
-        "total_price": 9800000,
-        "quantity": 1,
-        "percent_diff": 2.65
+        "percent_diff": 11.04
       }
     ]
   },
@@ -1371,11 +1359,11 @@
     "item_name": "Рюкзак NPA",
     "profitable_lots": [
       {
-        "unit_price": 60000,
-        "avg_unit_price": 60993,
-        "total_price": 60000,
+        "unit_price": 55555,
+        "avg_unit_price": 60660,
+        "total_price": 55555,
         "quantity": 1,
-        "percent_diff": 1.63
+        "percent_diff": 8.42
       }
     ]
   },
