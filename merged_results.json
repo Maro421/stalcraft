@@ -1863,11 +1863,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3200000,
-        "avg_unit_price": 3216110,
-        "total_price": 3200000,
+        "unit_price": 3199999,
+        "avg_unit_price": 3207777,
+        "total_price": 3199999,
         "quantity": 1,
-        "percent_diff": 0.5
+        "percent_diff": 0.24
       }
     ]
   },
@@ -1875,11 +1875,11 @@
     "item_name": "Сыворотка изменения",
     "profitable_lots": [
       {
-        "unit_price": 250000,
-        "avg_unit_price": 339058,
-        "total_price": 250000,
+        "unit_price": 280000,
+        "avg_unit_price": 288055,
+        "total_price": 280000,
         "quantity": 1,
-        "percent_diff": 26.27
+        "percent_diff": 2.8
       }
     ]
   },
