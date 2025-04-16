@@ -40,22 +40,10 @@
     "profitable_lots": [
       {
         "unit_price": 255,
-        "avg_unit_price": 259,
-        "total_price": 12790,
-        "quantity": 50,
-        "percent_diff": 1.54
-      }
-    ]
-  },
-  "033k": {
-    "item_name": "Кислотная крапива",
-    "profitable_lots": [
-      {
-        "unit_price": 199,
-        "avg_unit_price": 243,
-        "total_price": 9998,
-        "quantity": 50,
-        "percent_diff": 18.11
+        "avg_unit_price": 260,
+        "total_price": 9200,
+        "quantity": 36,
+        "percent_diff": 1.92
       }
     ]
   },
@@ -1900,10 +1888,10 @@
     "profitable_lots": [
       {
         "unit_price": 5000,
-        "avg_unit_price": 9944,
+        "avg_unit_price": 10214,
         "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 49.72
+        "percent_diff": 51.05
       }
     ]
   },
