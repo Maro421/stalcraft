@@ -11,15 +11,27 @@
       }
     ]
   },
+  "qvv4": {
+    "item_name": "Пурпурные минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 379,
+        "avg_unit_price": 400,
+        "total_price": 18999,
+        "quantity": 50,
+        "percent_diff": 5.25
+      }
+    ]
+  },
   "jlll": {
     "item_name": "Алые минералы",
     "profitable_lots": [
       {
         "unit_price": 560,
-        "avg_unit_price": 741,
+        "avg_unit_price": 796,
         "total_price": 28000,
         "quantity": 50,
-        "percent_diff": 24.43
+        "percent_diff": 29.65
       }
     ]
   },
