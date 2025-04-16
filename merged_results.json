@@ -1007,18 +1007,6 @@
       }
     ]
   },
-  "mmn2": {
-    "item_name": "Кровяная сыворотка",
-    "profitable_lots": [
-      {
-        "unit_price": 2750,
-        "avg_unit_price": 2950,
-        "total_price": 55000,
-        "quantity": 20,
-        "percent_diff": 6.78
-      }
-    ]
-  },
   "om6m": {
     "item_name": "Измерительное оборудование",
     "profitable_lots": [
@@ -1683,11 +1671,11 @@
     "item_name": "Ящик гранат «Вонючка»",
     "profitable_lots": [
       {
-        "unit_price": 35000,
-        "avg_unit_price": 41333,
-        "total_price": 35000,
+        "unit_price": 34499,
+        "avg_unit_price": 41529,
+        "total_price": 34499,
         "quantity": 1,
-        "percent_diff": 15.32
+        "percent_diff": 16.93
       }
     ]
   },
