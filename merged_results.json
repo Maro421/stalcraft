@@ -375,11 +375,11 @@
     "item_name": "Молоко",
     "profitable_lots": [
       {
-        "unit_price": 260,
+        "unit_price": 175,
         "avg_unit_price": 555,
-        "total_price": 13000,
-        "quantity": 50,
-        "percent_diff": 53.15
+        "total_price": 7000,
+        "quantity": 40,
+        "percent_diff": 68.47
       }
     ]
   },
@@ -1252,10 +1252,10 @@
     "profitable_lots": [
       {
         "unit_price": 55555,
-        "avg_unit_price": 137894,
+        "avg_unit_price": 175000,
         "total_price": 55555,
         "quantity": 1,
-        "percent_diff": 59.71
+        "percent_diff": 68.25
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "IWI Tavor X95",
     "profitable_lots": [
       {
-        "unit_price": 14600000,
-        "avg_unit_price": 18203845,
-        "total_price": 14600000,
+        "unit_price": 14200000,
+        "avg_unit_price": 16919444,
+        "total_price": 14200000,
         "quantity": 1,
-        "percent_diff": 19.8
+        "percent_diff": 16.07
       }
     ]
   },
