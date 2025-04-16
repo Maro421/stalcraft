@@ -99,11 +99,11 @@
     "item_name": "Канистра с дизелем",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 5615,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 10.95
+        "unit_price": 4000,
+        "avg_unit_price": 5130,
+        "total_price": 8000,
+        "quantity": 2,
+        "percent_diff": 22.03
       }
     ]
   },
@@ -111,11 +111,11 @@
     "item_name": "Баллон с пропаном",
     "profitable_lots": [
       {
-        "unit_price": 5100,
-        "avg_unit_price": 5991,
-        "total_price": 5100,
-        "quantity": 1,
-        "percent_diff": 14.87
+        "unit_price": 3400,
+        "avg_unit_price": 4992,
+        "total_price": 10200,
+        "quantity": 3,
+        "percent_diff": 31.89
       }
     ]
   },
