@@ -1775,18 +1775,6 @@
       }
     ]
   },
-  "5logg": {
-    "item_name": "Странный артефакт",
-    "profitable_lots": [
-      {
-        "unit_price": 916,
-        "avg_unit_price": 1328,
-        "total_price": 5500,
-        "quantity": 6,
-        "percent_diff": 31.02
-      }
-    ]
-  },
   "wjlrd": {
     "item_name": "Дешевые инструменты",
     "profitable_lots": [
@@ -1988,30 +1976,6 @@
         "total_price": 560000,
         "quantity": 1,
         "percent_diff": 4.24
-      }
-    ]
-  },
-  "969vz": {
-    "item_name": "HK UMP9",
-    "profitable_lots": [
-      {
-        "unit_price": 18000,
-        "avg_unit_price": 32204,
-        "total_price": 18000,
-        "quantity": 1,
-        "percent_diff": 44.11
-      }
-    ]
-  },
-  "1r7v1": {
-    "item_name": "IMI Mini Uzi",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 5580,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 10.39
       }
     ]
   },
