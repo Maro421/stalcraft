@@ -963,11 +963,11 @@
     "item_name": "Метан",
     "profitable_lots": [
       {
-        "unit_price": 18000,
-        "avg_unit_price": 24296,
-        "total_price": 90000,
-        "quantity": 5,
-        "percent_diff": 25.91
+        "unit_price": 22000,
+        "avg_unit_price": 23753,
+        "total_price": 22000,
+        "quantity": 1,
+        "percent_diff": 7.38
       }
     ]
   },
@@ -1616,6 +1616,18 @@
         "total_price": 5000,
         "quantity": 1,
         "percent_diff": 19.95
+      }
+    ]
+  },
+  "wjnq2": {
+    "item_name": "Ящик кустарных осколочных гранат",
+    "profitable_lots": [
+      {
+        "unit_price": 2500,
+        "avg_unit_price": 4555,
+        "total_price": 2500,
+        "quantity": 1,
+        "percent_diff": 45.12
       }
     ]
   },
@@ -2408,6 +2420,18 @@
         "total_price": 150000,
         "quantity": 1,
         "percent_diff": 17.13
+      }
+    ]
+  },
+  "wjg2o": {
+    "item_name": "Тяжелый комплект «Алтын-Т»",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 71876,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 2.61
       }
     ]
   },
