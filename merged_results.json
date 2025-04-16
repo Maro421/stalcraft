@@ -443,27 +443,27 @@
       }
     ]
   },
+  "pry2": {
+    "item_name": "Пластиковая бутылка",
+    "profitable_lots": [
+      {
+        "unit_price": 650,
+        "avg_unit_price": 996,
+        "total_price": 2600,
+        "quantity": 4,
+        "percent_diff": 34.74
+      }
+    ]
+  },
   "vrld": {
     "item_name": "Консервная банка",
     "profitable_lots": [
       {
-        "unit_price": 259,
+        "unit_price": 244,
         "avg_unit_price": 268,
-        "total_price": 2599,
+        "total_price": 2444,
         "quantity": 10,
-        "percent_diff": 3.36
-      }
-    ]
-  },
-  "dq2n": {
-    "item_name": "Мультитул",
-    "profitable_lots": [
-      {
-        "unit_price": 2999,
-        "avg_unit_price": 5047,
-        "total_price": 2999,
-        "quantity": 1,
-        "percent_diff": 40.58
+        "percent_diff": 8.96
       }
     ]
   },
@@ -1376,6 +1376,18 @@
         "total_price": 49,
         "quantity": 2,
         "percent_diff": 51.02
+      }
+    ]
+  },
+  "qmjk": {
+    "item_name": "Зажигательные 12 калибра",
+    "profitable_lots": [
+      {
+        "unit_price": 18,
+        "avg_unit_price": 36,
+        "total_price": 1500,
+        "quantity": 80,
+        "percent_diff": 50.0
       }
     ]
   },
