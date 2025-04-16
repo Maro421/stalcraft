@@ -1919,6 +1919,18 @@
       }
     ]
   },
+  "ly2m1": {
+    "item_name": "M1014",
+    "profitable_lots": [
+      {
+        "unit_price": 195000,
+        "avg_unit_price": 196399,
+        "total_price": 195000,
+        "quantity": 1,
+        "percent_diff": 0.71
+      }
+    ]
+  },
   "okm10": {
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
