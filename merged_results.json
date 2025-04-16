@@ -1731,11 +1731,11 @@
     "item_name": "Хроносфера",
     "profitable_lots": [
       {
-        "unit_price": 325000,
-        "avg_unit_price": 376721,
-        "total_price": 325000,
-        "quantity": 1,
-        "percent_diff": 13.73
+        "unit_price": 369500,
+        "avg_unit_price": 381402,
+        "total_price": 739000,
+        "quantity": 2,
+        "percent_diff": 3.12
       }
     ]
   },
@@ -1839,11 +1839,11 @@
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
       {
-        "unit_price": 1199,
+        "unit_price": 3999,
         "avg_unit_price": 4500,
-        "total_price": 1199,
+        "total_price": 3999,
         "quantity": 1,
-        "percent_diff": 73.36
+        "percent_diff": 11.13
       }
     ]
   },
@@ -1876,10 +1876,22 @@
     "profitable_lots": [
       {
         "unit_price": 13400,
-        "avg_unit_price": 14138,
+        "avg_unit_price": 13960,
         "total_price": 13400,
         "quantity": 1,
-        "percent_diff": 5.22
+        "percent_diff": 4.01
+      }
+    ]
+  },
+  "m0q7r": {
+    "item_name": "Сумка зажигательных 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 2678,
+        "total_price": 500,
+        "quantity": 1,
+        "percent_diff": 81.33
       }
     ]
   },
@@ -1887,11 +1899,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5485,
-        "avg_unit_price": 7128,
-        "total_price": 548500,
+        "unit_price": 5250,
+        "avg_unit_price": 8092,
+        "total_price": 525000,
         "quantity": 100,
-        "percent_diff": 23.05
+        "percent_diff": 35.12
       }
     ]
   },
@@ -1899,11 +1911,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3199999,
-        "avg_unit_price": 3275999,
-        "total_price": 3199999,
+        "unit_price": 3000000,
+        "avg_unit_price": 3271249,
+        "total_price": 3000000,
         "quantity": 1,
-        "percent_diff": 2.32
+        "percent_diff": 8.29
       }
     ]
   },
@@ -2255,51 +2267,51 @@
       }
     ]
   },
-  "dm0dn": {
-    "item_name": "Прицел коллиматорный ПК-01(Т/З)",
-    "profitable_lots": [
-      {
-        "unit_price": 800000,
-        "avg_unit_price": 849062,
-        "total_price": 800000,
-        "quantity": 1,
-        "percent_diff": 5.78
-      }
-    ]
-  },
-  "zz939": {
-    "item_name": "ДТК «Вихрь»",
-    "profitable_lots": [
-      {
-        "unit_price": 175000,
-        "avg_unit_price": 182589,
-        "total_price": 175000,
-        "quantity": 1,
-        "percent_diff": 4.16
-      }
-    ]
-  },
-  "y3mgw": {
-    "item_name": "Глушитель FA556 Mini",
-    "profitable_lots": [
-      {
-        "unit_price": 1400000,
-        "avg_unit_price": 1689673,
-        "total_price": 1400000,
-        "quantity": 1,
-        "percent_diff": 17.14
-      }
-    ]
-  },
   "wjr9d": {
     "item_name": "Глушитель Salvo 12",
     "profitable_lots": [
       {
-        "unit_price": 2200000,
-        "avg_unit_price": 2382895,
-        "total_price": 2200000,
+        "unit_price": 1700000,
+        "avg_unit_price": 1794937,
+        "total_price": 1700000,
         "quantity": 1,
-        "percent_diff": 7.68
+        "percent_diff": 5.29
+      }
+    ]
+  },
+  "5lpo4": {
+    "item_name": "ПБС-4",
+    "profitable_lots": [
+      {
+        "unit_price": 350000,
+        "avg_unit_price": 366353,
+        "total_price": 350000,
+        "quantity": 1,
+        "percent_diff": 4.46
+      }
+    ]
+  },
+  "y3mnw": {
+    "item_name": "Глушитель АТГ",
+    "profitable_lots": [
+      {
+        "unit_price": 1200000,
+        "avg_unit_price": 1541888,
+        "total_price": 1200000,
+        "quantity": 1,
+        "percent_diff": 22.17
+      }
+    ]
+  },
+  "j52lg": {
+    "item_name": "Магазин 7.62 NATO PMAG, хаки",
+    "profitable_lots": [
+      {
+        "unit_price": 8000000,
+        "avg_unit_price": 8143808,
+        "total_price": 8000000,
+        "quantity": 1,
+        "percent_diff": 1.77
       }
     ]
   },
@@ -2307,11 +2319,23 @@
     "item_name": "Магазин 7.62 NATO PMAG, черный",
     "profitable_lots": [
       {
-        "unit_price": 11000000,
+        "unit_price": 10350000,
         "avg_unit_price": 11616327,
-        "total_price": 11000000,
+        "total_price": 10350000,
         "quantity": 1,
-        "percent_diff": 5.31
+        "percent_diff": 10.9
+      }
+    ]
+  },
+  "rw4ry": {
+    "item_name": "Барабанный магазин 5.56 NATO EMAG",
+    "profitable_lots": [
+      {
+        "unit_price": 5099998,
+        "avg_unit_price": 5194175,
+        "total_price": 5099998,
+        "quantity": 1,
+        "percent_diff": 1.81
       }
     ]
   },
