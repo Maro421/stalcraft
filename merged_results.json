@@ -1671,11 +1671,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 25000,
-        "avg_unit_price": 31946,
-        "total_price": 350000,
-        "quantity": 14,
-        "percent_diff": 21.74
+        "unit_price": 28750,
+        "avg_unit_price": 29631,
+        "total_price": 230000,
+        "quantity": 8,
+        "percent_diff": 2.97
       }
     ]
   },
@@ -2240,18 +2240,6 @@
         "total_price": 11500000,
         "quantity": 1,
         "percent_diff": 7.81
-      }
-    ]
-  },
-  "ok0m6": {
-    "item_name": "Бандитский костюм с баллонами",
-    "profitable_lots": [
-      {
-        "unit_price": 220000,
-        "avg_unit_price": 306593,
-        "total_price": 220000,
-        "quantity": 1,
-        "percent_diff": 28.24
       }
     ]
   },
