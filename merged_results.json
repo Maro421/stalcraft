@@ -107,18 +107,6 @@
       }
     ]
   },
-  "z7lk": {
-    "item_name": "Канистра с дизелем",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5086,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 21.35
-      }
-    ]
-  },
   "y7j0": {
     "item_name": "Баллон с метаном",
     "profitable_lots": [
