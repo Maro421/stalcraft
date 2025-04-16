@@ -916,10 +916,10 @@
     "profitable_lots": [
       {
         "unit_price": 269,
-        "avg_unit_price": 504,
+        "avg_unit_price": 540,
         "total_price": 13477,
         "quantity": 50,
-        "percent_diff": 46.63
+        "percent_diff": 50.19
       }
     ]
   },
@@ -1611,11 +1611,11 @@
     "item_name": "Ящик гранат «Подорожник»",
     "profitable_lots": [
       {
-        "unit_price": 24000,
-        "avg_unit_price": 26882,
-        "total_price": 24000,
+        "unit_price": 23999,
+        "avg_unit_price": 26722,
+        "total_price": 23999,
         "quantity": 1,
-        "percent_diff": 10.72
+        "percent_diff": 10.19
       }
     ]
   },
