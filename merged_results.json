@@ -399,11 +399,11 @@
     "item_name": "Полимеры",
     "profitable_lots": [
       {
-        "unit_price": 1295,
-        "avg_unit_price": 1525,
-        "total_price": 64750,
-        "quantity": 50,
-        "percent_diff": 15.08
+        "unit_price": 1333,
+        "avg_unit_price": 3228,
+        "total_price": 40000,
+        "quantity": 30,
+        "percent_diff": 58.71
       }
     ]
   },
