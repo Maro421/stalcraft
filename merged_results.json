@@ -1667,18 +1667,6 @@
       }
     ]
   },
-  "r22z": {
-    "item_name": "Ноотроп",
-    "profitable_lots": [
-      {
-        "unit_price": 8033,
-        "avg_unit_price": 12123,
-        "total_price": 80333,
-        "quantity": 10,
-        "percent_diff": 33.74
-      }
-    ]
-  },
   "022k": {
     "item_name": "Сверло",
     "profitable_lots": [
