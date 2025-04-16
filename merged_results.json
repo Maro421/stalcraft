@@ -927,11 +927,11 @@
     "item_name": "Продвинутый электрод",
     "profitable_lots": [
       {
-        "unit_price": 8999,
+        "unit_price": 9090,
         "avg_unit_price": 12805,
-        "total_price": 89999,
-        "quantity": 10,
-        "percent_diff": 29.72
+        "total_price": 100000,
+        "quantity": 11,
+        "percent_diff": 29.01
       }
     ]
   },
@@ -1828,10 +1828,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 1316,
+        "avg_unit_price": 1021,
         "total_price": 1000,
         "quantity": 1,
-        "percent_diff": 24.01
+        "percent_diff": 2.06
       }
     ]
   },
@@ -1899,11 +1899,23 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6300,
-        "avg_unit_price": 6587,
-        "total_price": 63000,
+        "unit_price": 6111,
+        "avg_unit_price": 6420,
+        "total_price": 61111,
         "quantity": 10,
-        "percent_diff": 4.36
+        "percent_diff": 4.81
+      }
+    ]
+  },
+  "zzwmm": {
+    "item_name": "Сыворотка изменения",
+    "profitable_lots": [
+      {
+        "unit_price": 280000,
+        "avg_unit_price": 284947,
+        "total_price": 280000,
+        "quantity": 1,
+        "percent_diff": 1.74
       }
     ]
   },
@@ -2111,18 +2123,6 @@
       }
     ]
   },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 6348,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 36.99
-      }
-    ]
-  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2144,6 +2144,18 @@
         "total_price": 170000,
         "quantity": 1,
         "percent_diff": 12.76
+      }
+    ]
+  },
+  "m0vvk": {
+    "item_name": "НР-43",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 7066,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 29.24
       }
     ]
   },
