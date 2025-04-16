@@ -171,11 +171,11 @@
     "item_name": "Баллон с метаном",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7470,
-        "total_price": 20000,
-        "quantity": 3,
-        "percent_diff": 10.76
+        "unit_price": 7000,
+        "avg_unit_price": 7299,
+        "total_price": 7000,
+        "quantity": 1,
+        "percent_diff": 4.1
       }
     ]
   },
@@ -184,10 +184,10 @@
     "profitable_lots": [
       {
         "unit_price": 6499,
-        "avg_unit_price": 7998,
+        "avg_unit_price": 6599,
         "total_price": 64999,
         "quantity": 10,
-        "percent_diff": 18.74
+        "percent_diff": 1.52
       }
     ]
   },
@@ -1979,18 +1979,6 @@
       }
     ]
   },
-  "j5qd4": {
-    "item_name": "Сумка СБП 7.62 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 15000,
-        "avg_unit_price": 15561,
-        "total_price": 15000,
-        "quantity": 1,
-        "percent_diff": 3.61
-      }
-    ]
-  },
   "lyrdq": {
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
@@ -2007,11 +1995,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5320,
-        "avg_unit_price": 6561,
-        "total_price": 532000,
-        "quantity": 100,
-        "percent_diff": 18.91
+        "unit_price": 5950,
+        "avg_unit_price": 6062,
+        "total_price": 119000,
+        "quantity": 20,
+        "percent_diff": 1.85
       }
     ]
   },
@@ -2019,11 +2007,11 @@
     "item_name": "Сыворотка изменения",
     "profitable_lots": [
       {
-        "unit_price": 200000,
-        "avg_unit_price": 256473,
-        "total_price": 400000,
+        "unit_price": 225000,
+        "avg_unit_price": 270499,
+        "total_price": 450000,
         "quantity": 2,
-        "percent_diff": 22.02
+        "percent_diff": 16.82
       }
     ]
   },
@@ -2163,11 +2151,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4444444,
-        "avg_unit_price": 5560818,
-        "total_price": 4444444,
+        "unit_price": 4790000,
+        "avg_unit_price": 5484210,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 20.08
+        "percent_diff": 12.66
       }
     ]
   },
@@ -2183,27 +2171,27 @@
       }
     ]
   },
-  "6w64y": {
-    "item_name": "Grizzly 8.5",
-    "profitable_lots": [
-      {
-        "unit_price": 529999,
-        "avg_unit_price": 537736,
-        "total_price": 529999,
-        "quantity": 1,
-        "percent_diff": 1.44
-      }
-    ]
-  },
   "969jz": {
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
         "unit_price": 190000,
-        "avg_unit_price": 227659,
+        "avg_unit_price": 226607,
         "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 16.54
+        "percent_diff": 16.15
+      }
+    ]
+  },
+  "zz24n": {
+    "item_name": "SIG SG 550 Sniper",
+    "profitable_lots": [
+      {
+        "unit_price": 310000,
+        "avg_unit_price": 311022,
+        "total_price": 310000,
+        "quantity": 1,
+        "percent_diff": 0.33
       }
     ]
   },
@@ -2243,15 +2231,39 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 6999,
+        "avg_unit_price": 9667,
+        "total_price": 6999,
+        "quantity": 1,
+        "percent_diff": 27.6
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 98932,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 29.24
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 22222,
         "avg_unit_price": 34205,
-        "total_price": 25000,
+        "total_price": 22222,
         "quantity": 1,
-        "percent_diff": 26.91
+        "percent_diff": 35.03
       }
     ]
   },
