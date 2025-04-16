@@ -808,10 +808,10 @@
     "profitable_lots": [
       {
         "unit_price": 5777,
-        "avg_unit_price": 6310,
+        "avg_unit_price": 6399,
         "total_price": 28888,
         "quantity": 5,
-        "percent_diff": 8.45
+        "percent_diff": 9.72
       }
     ]
   },
@@ -819,11 +819,11 @@
     "item_name": "Водород",
     "profitable_lots": [
       {
-        "unit_price": 27299,
+        "unit_price": 20000,
         "avg_unit_price": 27392,
-        "total_price": 27299,
-        "quantity": 1,
-        "percent_diff": 0.34
+        "total_price": 100000,
+        "quantity": 5,
+        "percent_diff": 26.99
       }
     ]
   },
