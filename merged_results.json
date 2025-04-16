@@ -508,10 +508,10 @@
     "profitable_lots": [
       {
         "unit_price": 59,
-        "avg_unit_price": 108,
+        "avg_unit_price": 105,
         "total_price": 2999,
         "quantity": 50,
-        "percent_diff": 45.37
+        "percent_diff": 43.81
       }
     ]
   },
@@ -519,11 +519,11 @@
     "item_name": "Щепки",
     "profitable_lots": [
       {
-        "unit_price": 66,
+        "unit_price": 33,
         "avg_unit_price": 91,
-        "total_price": 199,
+        "total_price": 100,
         "quantity": 3,
-        "percent_diff": 27.47
+        "percent_diff": 63.74
       }
     ]
   },
@@ -531,11 +531,11 @@
     "item_name": "Набор для шитья",
     "profitable_lots": [
       {
-        "unit_price": 1200,
-        "avg_unit_price": 1586,
-        "total_price": 60000,
+        "unit_price": 1280,
+        "avg_unit_price": 1512,
+        "total_price": 64000,
         "quantity": 50,
-        "percent_diff": 24.34
+        "percent_diff": 15.34
       }
     ]
   },
@@ -2060,6 +2060,18 @@
         "total_price": 60000,
         "quantity": 1,
         "percent_diff": 32.13
+      }
+    ]
+  },
+  "y32po": {
+    "item_name": "Ingram MAC-10",
+    "profitable_lots": [
+      {
+        "unit_price": 7000,
+        "avg_unit_price": 8379,
+        "total_price": 7000,
+        "quantity": 1,
+        "percent_diff": 16.46
       }
     ]
   },
