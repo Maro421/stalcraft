@@ -2171,15 +2171,39 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 9490,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 5.17
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 98928,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 29.24
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 22222,
         "avg_unit_price": 34205,
-        "total_price": 25000,
+        "total_price": 22222,
         "quantity": 1,
-        "percent_diff": 26.91
+        "percent_diff": 35.03
       }
     ]
   },
@@ -2187,23 +2211,23 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 170000,
+        "unit_price": 150000,
         "avg_unit_price": 194863,
-        "total_price": 170000,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 12.76
+        "percent_diff": 23.02
       }
     ]
   },
-  "m0vvk": {
-    "item_name": "НР-43",
+  "knwdv": {
+    "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
+        "unit_price": 1900000,
+        "avg_unit_price": 1913883,
+        "total_price": 1900000,
         "quantity": 1,
-        "percent_diff": 29.24
+        "percent_diff": 0.73
       }
     ]
   },
@@ -2211,23 +2235,11 @@
     "item_name": "Пламегаситель AKademia Тьма",
     "profitable_lots": [
       {
-        "unit_price": 120000,
+        "unit_price": 105000,
         "avg_unit_price": 124058,
-        "total_price": 120000,
+        "total_price": 105000,
         "quantity": 1,
-        "percent_diff": 3.27
-      }
-    ]
-  },
-  "zz939": {
-    "item_name": "ДТК «Вихрь»",
-    "profitable_lots": [
-      {
-        "unit_price": 150000,
-        "avg_unit_price": 167160,
-        "total_price": 150000,
-        "quantity": 1,
-        "percent_diff": 10.27
+        "percent_diff": 15.36
       }
     ]
   },
@@ -2235,11 +2247,23 @@
     "item_name": "Глушитель FA556 Mini",
     "profitable_lots": [
       {
-        "unit_price": 1556000,
-        "avg_unit_price": 1571570,
-        "total_price": 1556000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1581970,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 0.99
+        "percent_diff": 5.18
+      }
+    ]
+  },
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
+    "profitable_lots": [
+      {
+        "unit_price": 1630000,
+        "avg_unit_price": 1670294,
+        "total_price": 1630000,
+        "quantity": 1,
+        "percent_diff": 2.41
       }
     ]
   },
@@ -2259,11 +2283,11 @@
     "item_name": "Барабанный магазин 5.56 NATO, хаки",
     "profitable_lots": [
       {
-        "unit_price": 2333333,
-        "avg_unit_price": 2561571,
-        "total_price": 2333333,
+        "unit_price": 2300000,
+        "avg_unit_price": 2426731,
+        "total_price": 2300000,
         "quantity": 1,
-        "percent_diff": 8.91
+        "percent_diff": 5.22
       }
     ]
   },
@@ -2271,11 +2295,11 @@
     "item_name": "Магазин 7.62 NATO PMAG, черный",
     "profitable_lots": [
       {
-        "unit_price": 10350000,
+        "unit_price": 8200000,
         "avg_unit_price": 11616327,
-        "total_price": 10350000,
+        "total_price": 8200000,
         "quantity": 1,
-        "percent_diff": 10.9
+        "percent_diff": 29.41
       }
     ]
   },
@@ -2283,11 +2307,11 @@
     "item_name": "Барабанный магазин 5.56 NATO EMAG",
     "profitable_lots": [
       {
-        "unit_price": 5000000,
-        "avg_unit_price": 5146235,
-        "total_price": 5000000,
+        "unit_price": 4500000,
+        "avg_unit_price": 5117557,
+        "total_price": 4500000,
         "quantity": 1,
-        "percent_diff": 2.84
+        "percent_diff": 12.07
       }
     ]
   },
