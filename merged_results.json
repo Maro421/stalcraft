@@ -1683,11 +1683,11 @@
     "item_name": "Сумка композитных пластин IV",
     "profitable_lots": [
       {
-        "unit_price": 24500,
-        "avg_unit_price": 25093,
-        "total_price": 24500,
+        "unit_price": 22000,
+        "avg_unit_price": 25000,
+        "total_price": 22000,
         "quantity": 1,
-        "percent_diff": 2.36
+        "percent_diff": 12.0
       }
     ]
   },
@@ -1851,11 +1851,11 @@
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
       {
-        "unit_price": 3999,
+        "unit_price": 1199,
         "avg_unit_price": 4500,
-        "total_price": 3999,
+        "total_price": 1199,
         "quantity": 1,
-        "percent_diff": 11.13
+        "percent_diff": 73.36
       }
     ]
   },
@@ -1888,10 +1888,10 @@
     "profitable_lots": [
       {
         "unit_price": 13400,
-        "avg_unit_price": 13960,
+        "avg_unit_price": 14138,
         "total_price": 13400,
         "quantity": 1,
-        "percent_diff": 4.01
+        "percent_diff": 5.22
       }
     ]
   },
@@ -2279,15 +2279,51 @@
       }
     ]
   },
+  "dm0dn": {
+    "item_name": "Прицел коллиматорный ПК-01(Т/З)",
+    "profitable_lots": [
+      {
+        "unit_price": 800000,
+        "avg_unit_price": 849062,
+        "total_price": 800000,
+        "quantity": 1,
+        "percent_diff": 5.78
+      }
+    ]
+  },
+  "zz939": {
+    "item_name": "ДТК «Вихрь»",
+    "profitable_lots": [
+      {
+        "unit_price": 175000,
+        "avg_unit_price": 182589,
+        "total_price": 175000,
+        "quantity": 1,
+        "percent_diff": 4.16
+      }
+    ]
+  },
+  "y3mgw": {
+    "item_name": "Глушитель FA556 Mini",
+    "profitable_lots": [
+      {
+        "unit_price": 1400000,
+        "avg_unit_price": 1689673,
+        "total_price": 1400000,
+        "quantity": 1,
+        "percent_diff": 17.14
+      }
+    ]
+  },
   "wjr9d": {
     "item_name": "Глушитель Salvo 12",
     "profitable_lots": [
       {
-        "unit_price": 1700000,
-        "avg_unit_price": 1794937,
-        "total_price": 1700000,
+        "unit_price": 2200000,
+        "avg_unit_price": 2382895,
+        "total_price": 2200000,
         "quantity": 1,
-        "percent_diff": 5.29
+        "percent_diff": 7.68
       }
     ]
   },
