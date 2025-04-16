@@ -64,10 +64,10 @@
     "profitable_lots": [
       {
         "unit_price": 3500,
-        "avg_unit_price": 4815,
+        "avg_unit_price": 4797,
         "total_price": 7000,
         "quantity": 2,
-        "percent_diff": 27.31
+        "percent_diff": 27.04
       }
     ]
   },
@@ -75,11 +75,11 @@
     "item_name": "Бледнолист",
     "profitable_lots": [
       {
-        "unit_price": 255,
+        "unit_price": 260,
         "avg_unit_price": 270,
-        "total_price": 9200,
-        "quantity": 36,
-        "percent_diff": 5.56
+        "total_price": 13000,
+        "quantity": 50,
+        "percent_diff": 3.7
       }
     ]
   },
@@ -1887,11 +1887,11 @@
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
       {
-        "unit_price": 770,
+        "unit_price": 780,
         "avg_unit_price": 800,
-        "total_price": 770,
+        "total_price": 780,
         "quantity": 1,
-        "percent_diff": 3.75
+        "percent_diff": 2.5
       }
     ]
   },
@@ -1904,6 +1904,18 @@
         "total_price": 8000,
         "quantity": 1,
         "percent_diff": 4.42
+      }
+    ]
+  },
+  "j5qd4": {
+    "item_name": "Сумка СБП 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 15000,
+        "avg_unit_price": 16384,
+        "total_price": 15000,
+        "quantity": 1,
+        "percent_diff": 8.45
       }
     ]
   },
@@ -1924,10 +1936,10 @@
     "profitable_lots": [
       {
         "unit_price": 6110,
-        "avg_unit_price": 6439,
+        "avg_unit_price": 6452,
         "total_price": 61100,
         "quantity": 10,
-        "percent_diff": 5.11
+        "percent_diff": 5.3
       }
     ]
   },
@@ -2103,11 +2115,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 200000,
-        "avg_unit_price": 224385,
-        "total_price": 200000,
+        "unit_price": 190000,
+        "avg_unit_price": 222807,
+        "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 10.87
+        "percent_diff": 14.72
       }
     ]
   },
@@ -2116,10 +2128,10 @@
     "profitable_lots": [
       {
         "unit_price": 280000,
-        "avg_unit_price": 311022,
+        "avg_unit_price": 299725,
         "total_price": 280000,
         "quantity": 1,
-        "percent_diff": 9.97
+        "percent_diff": 6.58
       }
     ]
   },
@@ -2156,6 +2168,18 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 9490,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 5.17
       }
     ]
   },
