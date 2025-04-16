@@ -2159,6 +2159,30 @@
       }
     ]
   },
+  "y3j20": {
+    "item_name": "Gerber Downrange Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 5000000,
+        "avg_unit_price": 5006579,
+        "total_price": 5000000,
+        "quantity": 1,
+        "percent_diff": 0.13
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 10511,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 52.43
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
