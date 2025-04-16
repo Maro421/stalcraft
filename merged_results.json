@@ -311,15 +311,27 @@
       }
     ]
   },
+  "5dp0": {
+    "item_name": "Банка с пшеном",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 3280,
+        "total_price": 150000,
+        "quantity": 50,
+        "percent_diff": 8.54
+      }
+    ]
+  },
   "y7mo": {
     "item_name": "Банка с макаронами",
     "profitable_lots": [
       {
-        "unit_price": 280,
-        "avg_unit_price": 366,
-        "total_price": 14000,
+        "unit_price": 399,
+        "avg_unit_price": 428,
+        "total_price": 19995,
         "quantity": 50,
-        "percent_diff": 23.5
+        "percent_diff": 6.78
       }
     ]
   },
@@ -1240,10 +1252,10 @@
     "profitable_lots": [
       {
         "unit_price": 2,
-        "avg_unit_price": 555,
+        "avg_unit_price": 678,
         "total_price": 2,
         "quantity": 1,
-        "percent_diff": 99.64
+        "percent_diff": 99.71
       }
     ]
   },
@@ -1839,11 +1851,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5440,
-        "avg_unit_price": 6056,
-        "total_price": 544000,
+        "unit_price": 5399,
+        "avg_unit_price": 9000,
+        "total_price": 539998,
         "quantity": 100,
-        "percent_diff": 10.17
+        "percent_diff": 40.01
       }
     ]
   },
