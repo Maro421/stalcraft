@@ -755,18 +755,6 @@
       }
     ]
   },
-  "z719": {
-    "item_name": "Сталь",
-    "profitable_lots": [
-      {
-        "unit_price": 799,
-        "avg_unit_price": 831,
-        "total_price": 39990,
-        "quantity": 50,
-        "percent_diff": 3.85
-      }
-    ]
-  },
   "wo2d": {
     "item_name": "Хлор",
     "profitable_lots": [
