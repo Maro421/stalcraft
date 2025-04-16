@@ -371,6 +371,18 @@
       }
     ]
   },
+  "7rp7": {
+    "item_name": "Чеснок",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 2089,
+        "total_price": 100000,
+        "quantity": 50,
+        "percent_diff": 4.26
+      }
+    ]
+  },
   "6rpy": {
     "item_name": "Помидор",
     "profitable_lots": [
