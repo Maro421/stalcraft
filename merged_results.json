@@ -243,11 +243,11 @@
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
       {
-        "unit_price": 7000,
-        "avg_unit_price": 12221,
-        "total_price": 105000,
+        "unit_price": 6666,
+        "avg_unit_price": 11804,
+        "total_price": 100000,
         "quantity": 15,
-        "percent_diff": 42.72
+        "percent_diff": 43.53
       }
     ]
   },
@@ -2087,15 +2087,15 @@
       }
     ]
   },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
+  "g4mdp": {
+    "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 210000,
-        "avg_unit_price": 217310,
-        "total_price": 210000,
+        "unit_price": 1350000,
+        "avg_unit_price": 1419210,
+        "total_price": 1350000,
         "quantity": 1,
-        "percent_diff": 3.36
+        "percent_diff": 4.88
       }
     ]
   },
@@ -2103,11 +2103,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 120000,
-        "avg_unit_price": 163259,
-        "total_price": 120000,
+        "unit_price": 139001,
+        "avg_unit_price": 155481,
+        "total_price": 139001,
         "quantity": 1,
-        "percent_diff": 26.5
+        "percent_diff": 10.6
       }
     ]
   },
