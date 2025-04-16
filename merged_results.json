@@ -1583,18 +1583,6 @@
       }
     ]
   },
-  "p6kgw": {
-    "item_name": "Сумка 12.7 мм Easy mode",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 5555,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 9.99
-      }
-    ]
-  },
   "dmlwj": {
     "item_name": "Сумка дальнобойных 9x39 мм",
     "profitable_lots": [
@@ -1892,6 +1880,18 @@
         "total_price": 1000,
         "quantity": 1,
         "percent_diff": 2.06
+      }
+    ]
+  },
+  "dmyd9": {
+    "item_name": "Сумка бронебойных 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 4001,
+        "avg_unit_price": 4437,
+        "total_price": 4001,
+        "quantity": 1,
+        "percent_diff": 9.83
       }
     ]
   },
