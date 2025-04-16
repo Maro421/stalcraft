@@ -887,18 +887,6 @@
       }
     ]
   },
-  "z7m9": {
-    "item_name": "Мультимер",
-    "profitable_lots": [
-      {
-        "unit_price": 1666,
-        "avg_unit_price": 1813,
-        "total_price": 25000,
-        "quantity": 15,
-        "percent_diff": 8.11
-      }
-    ]
-  },
   "5dm4": {
     "item_name": "Контрольная плата",
     "profitable_lots": [
@@ -915,11 +903,11 @@
     "item_name": "Детали электромотора",
     "profitable_lots": [
       {
-        "unit_price": 100,
+        "unit_price": 62,
         "avg_unit_price": 430,
-        "total_price": 200,
-        "quantity": 2,
-        "percent_diff": 76.74
+        "total_price": 500,
+        "quantity": 8,
+        "percent_diff": 85.58
       }
     ]
   },
