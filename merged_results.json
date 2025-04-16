@@ -435,23 +435,11 @@
     "item_name": "Газовый баллон",
     "profitable_lots": [
       {
-        "unit_price": 5777,
-        "avg_unit_price": 6570,
-        "total_price": 288888,
+        "unit_price": 5200,
+        "avg_unit_price": 9310,
+        "total_price": 260000,
         "quantity": 50,
-        "percent_diff": 12.07
-      }
-    ]
-  },
-  "m2g7": {
-    "item_name": "Текстолит",
-    "profitable_lots": [
-      {
-        "unit_price": 1000,
-        "avg_unit_price": 1171,
-        "total_price": 1000,
-        "quantity": 1,
-        "percent_diff": 14.6
+        "percent_diff": 44.15
       }
     ]
   },
@@ -1424,18 +1412,6 @@
         "total_price": 3000,
         "quantity": 1,
         "percent_diff": 43.31
-      }
-    ]
-  },
-  "o37m": {
-    "item_name": "Экспериментальная термопластина IV",
-    "profitable_lots": [
-      {
-        "unit_price": 3400,
-        "avg_unit_price": 5583,
-        "total_price": 3400,
-        "quantity": 1,
-        "percent_diff": 39.1
       }
     ]
   },
