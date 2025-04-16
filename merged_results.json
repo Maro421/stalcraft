@@ -1715,15 +1715,15 @@
       }
     ]
   },
-  "7l127": {
-    "item_name": "Аномальная пыль",
+  "96z2z": {
+    "item_name": "Хронопыль",
     "profitable_lots": [
       {
-        "unit_price": 331,
-        "avg_unit_price": 354,
-        "total_price": 50000,
-        "quantity": 151,
-        "percent_diff": 6.5
+        "unit_price": 70000,
+        "avg_unit_price": 76364,
+        "total_price": 700000,
+        "quantity": 10,
+        "percent_diff": 8.33
       }
     ]
   },
