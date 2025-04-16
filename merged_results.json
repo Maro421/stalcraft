@@ -1828,10 +1828,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 1021,
+        "avg_unit_price": 1316,
         "total_price": 1000,
         "quantity": 1,
-        "percent_diff": 2.06
+        "percent_diff": 24.01
       }
     ]
   },
@@ -2111,6 +2111,18 @@
       }
     ]
   },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 6348,
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 36.99
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2132,18 +2144,6 @@
         "total_price": 170000,
         "quantity": 1,
         "percent_diff": 12.76
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.24
       }
     ]
   },
