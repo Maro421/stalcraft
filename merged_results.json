@@ -2267,27 +2267,15 @@
       }
     ]
   },
-  "qj1lk": {
-    "item_name": "Бронекостюм «КЗ-4»",
-    "profitable_lots": [
-      {
-        "unit_price": 22500000,
-        "avg_unit_price": 22605450,
-        "total_price": 22500000,
-        "quantity": 1,
-        "percent_diff": 0.47
-      }
-    ]
-  },
   "rwgl5": {
     "item_name": "КИМ-100 «Гранат»",
     "profitable_lots": [
       {
-        "unit_price": 19999,
-        "avg_unit_price": 28735,
-        "total_price": 19999,
+        "unit_price": 27000,
+        "avg_unit_price": 32433,
+        "total_price": 27000,
         "quantity": 1,
-        "percent_diff": 30.4
+        "percent_diff": 16.75
       }
     ]
   },
