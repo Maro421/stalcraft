@@ -1391,6 +1391,18 @@
       }
     ]
   },
+  "2p16": {
+    "item_name": "Патрон 5.56 мм бронебойный",
+    "profitable_lots": [
+      {
+        "unit_price": 1,
+        "avg_unit_price": 2,
+        "total_price": 250,
+        "quantity": 150,
+        "percent_diff": 50.0
+      }
+    ]
+  },
   "5250": {
     "item_name": "Патрон 7.62 мм зажигательный",
     "profitable_lots": [
