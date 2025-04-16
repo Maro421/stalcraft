@@ -755,18 +755,6 @@
       }
     ]
   },
-  "5d24": {
-    "item_name": "Ртуть",
-    "profitable_lots": [
-      {
-        "unit_price": 800,
-        "avg_unit_price": 927,
-        "total_price": 40000,
-        "quantity": 50,
-        "percent_diff": 13.7
-      }
-    ]
-  },
   "y79w": {
     "item_name": "Медная крошка",
     "profitable_lots": [
@@ -1871,6 +1859,18 @@
       }
     ]
   },
+  "7l1kr": {
+    "item_name": "Подсумок с аптечками проводника",
+    "profitable_lots": [
+      {
+        "unit_price": 7250,
+        "avg_unit_price": 8836,
+        "total_price": 7250,
+        "quantity": 1,
+        "percent_diff": 17.95
+      }
+    ]
+  },
   "96zjw": {
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
@@ -1899,23 +1899,11 @@
     "item_name": "Сумка СБП 5.45 мм",
     "profitable_lots": [
       {
-        "unit_price": 7650,
+        "unit_price": 8000,
         "avg_unit_price": 8327,
-        "total_price": 7650,
+        "total_price": 8000,
         "quantity": 1,
-        "percent_diff": 8.13
-      }
-    ]
-  },
-  "qjq69": {
-    "item_name": "Сумка СБП 5.56 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 9000,
-        "avg_unit_price": 9944,
-        "total_price": 9000,
-        "quantity": 1,
-        "percent_diff": 9.49
+        "percent_diff": 3.93
       }
     ]
   },
@@ -1935,11 +1923,11 @@
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 6500,
+        "unit_price": 7000,
         "avg_unit_price": 14532,
-        "total_price": 6500,
+        "total_price": 7000,
         "quantity": 1,
-        "percent_diff": 55.27
+        "percent_diff": 51.83
       }
     ]
   },
@@ -1960,10 +1948,10 @@
     "profitable_lots": [
       {
         "unit_price": 5400,
-        "avg_unit_price": 9602,
+        "avg_unit_price": 8324,
         "total_price": 540000,
         "quantity": 100,
-        "percent_diff": 43.76
+        "percent_diff": 35.13
       }
     ]
   },
@@ -1971,23 +1959,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3100000,
-        "avg_unit_price": 3217142,
-        "total_price": 3100000,
+        "unit_price": 3199999,
+        "avg_unit_price": 3231428,
+        "total_price": 3199999,
         "quantity": 1,
-        "percent_diff": 3.64
-      }
-    ]
-  },
-  "zzwmm": {
-    "item_name": "Сыворотка изменения",
-    "profitable_lots": [
-      {
-        "unit_price": 229999,
-        "avg_unit_price": 252941,
-        "total_price": 229999,
-        "quantity": 1,
-        "percent_diff": 9.07
+        "percent_diff": 0.97
       }
     ]
   },
@@ -2104,10 +2080,46 @@
     "profitable_lots": [
       {
         "unit_price": 395000,
-        "avg_unit_price": 445824,
+        "avg_unit_price": 452929,
         "total_price": 395000,
         "quantity": 1,
-        "percent_diff": 11.4
+        "percent_diff": 12.79
+      }
+    ]
+  },
+  "969jz": {
+    "item_name": "Steyr AUG A2",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 203362,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 1.65
+      }
+    ]
+  },
+  "g4mdp": {
+    "item_name": "АК-12",
+    "profitable_lots": [
+      {
+        "unit_price": 1400000,
+        "avg_unit_price": 1496388,
+        "total_price": 1400000,
+        "quantity": 1,
+        "percent_diff": 6.44
+      }
+    ]
+  },
+  "zz24n": {
+    "item_name": "SIG SG 550 Sniper",
+    "profitable_lots": [
+      {
+        "unit_price": 280000,
+        "avg_unit_price": 315678,
+        "total_price": 280000,
+        "quantity": 1,
+        "percent_diff": 11.3
       }
     ]
   },
@@ -2116,10 +2128,10 @@
     "profitable_lots": [
       {
         "unit_price": 178999,
-        "avg_unit_price": 201333,
+        "avg_unit_price": 200994,
         "total_price": 178999,
         "quantity": 1,
-        "percent_diff": 11.09
+        "percent_diff": 10.94
       }
     ]
   },
