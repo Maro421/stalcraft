@@ -1355,18 +1355,6 @@
       }
     ]
   },
-  "nv43": {
-    "item_name": "Рюкзак NPA",
-    "profitable_lots": [
-      {
-        "unit_price": 32000,
-        "avg_unit_price": 60092,
-        "total_price": 32000,
-        "quantity": 1,
-        "percent_diff": 46.75
-      }
-    ]
-  },
   "p062": {
     "item_name": "Патрон 5.45 мм зажигательный",
     "profitable_lots": [
