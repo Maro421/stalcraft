@@ -771,23 +771,11 @@
     "item_name": "Тканевая сумка",
     "profitable_lots": [
       {
-        "unit_price": 449,
+        "unit_price": 439,
         "avg_unit_price": 894,
-        "total_price": 22498,
+        "total_price": 21999,
         "quantity": 50,
-        "percent_diff": 49.78
-      }
-    ]
-  },
-  "g05g": {
-    "item_name": "Латунь",
-    "profitable_lots": [
-      {
-        "unit_price": 370,
-        "avg_unit_price": 376,
-        "total_price": 18500,
-        "quantity": 50,
-        "percent_diff": 1.6
+        "percent_diff": 50.89
       }
     ]
   },
@@ -2175,11 +2163,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 120000,
-        "avg_unit_price": 163259,
-        "total_price": 120000,
+        "unit_price": 135000,
+        "avg_unit_price": 144820,
+        "total_price": 135000,
         "quantity": 1,
-        "percent_diff": 26.5
+        "percent_diff": 6.78
       }
     ]
   },
