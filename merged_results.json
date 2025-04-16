@@ -208,10 +208,10 @@
     "profitable_lots": [
       {
         "unit_price": 6666,
-        "avg_unit_price": 12082,
+        "avg_unit_price": 11764,
         "total_price": 100000,
         "quantity": 15,
-        "percent_diff": 44.83
+        "percent_diff": 43.34
       }
     ]
   },
@@ -1319,18 +1319,6 @@
       }
     ]
   },
-  "1p2r": {
-    "item_name": "«КЗС-3у»",
-    "profitable_lots": [
-      {
-        "unit_price": 1001,
-        "avg_unit_price": 1594,
-        "total_price": 1001,
-        "quantity": 1,
-        "percent_diff": 37.2
-      }
-    ]
-  },
   "l3n2": {
     "item_name": "Контейнер «Берлога-4у»",
     "profitable_lots": [
@@ -2180,6 +2168,18 @@
         "total_price": 5000,
         "quantity": 1,
         "percent_diff": 29.38
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 74000,
+        "avg_unit_price": 98823,
+        "total_price": 74000,
+        "quantity": 1,
+        "percent_diff": 25.12
       }
     ]
   },
