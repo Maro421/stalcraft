@@ -1611,11 +1611,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 29090,
-        "avg_unit_price": 32501,
-        "total_price": 319999,
-        "quantity": 11,
-        "percent_diff": 10.5
+        "unit_price": 29166,
+        "avg_unit_price": 32677,
+        "total_price": 350000,
+        "quantity": 12,
+        "percent_diff": 10.74
       }
     ]
   },
@@ -2055,23 +2055,11 @@
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 30000,
+        "unit_price": 25000,
         "avg_unit_price": 34205,
-        "total_price": 30000,
+        "total_price": 25000,
         "quantity": 1,
-        "percent_diff": 12.29
-      }
-    ]
-  },
-  "3g9n1": {
-    "item_name": "Алюминиевая бита",
-    "profitable_lots": [
-      {
-        "unit_price": 99999,
-        "avg_unit_price": 116222,
-        "total_price": 99999,
-        "quantity": 1,
-        "percent_diff": 13.96
+        "percent_diff": 26.91
       }
     ]
   },
