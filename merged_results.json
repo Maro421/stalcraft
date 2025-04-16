@@ -1095,9 +1095,9 @@
     "item_name": "Защитное покрытие",
     "profitable_lots": [
       {
-        "unit_price": 55000,
+        "unit_price": 54999,
         "avg_unit_price": 57054,
-        "total_price": 55000,
+        "total_price": 54999,
         "quantity": 1,
         "percent_diff": 3.6
       }
@@ -1832,18 +1832,6 @@
         "total_price": 3100000,
         "quantity": 1,
         "percent_diff": 3.34
-      }
-    ]
-  },
-  "zzwmm": {
-    "item_name": "Сыворотка изменения",
-    "profitable_lots": [
-      {
-        "unit_price": 260000,
-        "avg_unit_price": 281882,
-        "total_price": 260000,
-        "quantity": 1,
-        "percent_diff": 7.76
       }
     ]
   },
