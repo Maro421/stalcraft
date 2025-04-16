@@ -964,10 +964,10 @@
     "profitable_lots": [
       {
         "unit_price": 999,
-        "avg_unit_price": 2770,
+        "avg_unit_price": 2513,
         "total_price": 22999,
         "quantity": 23,
-        "percent_diff": 63.94
+        "percent_diff": 60.25
       }
     ]
   },
@@ -975,11 +975,11 @@
     "item_name": "Алюминий",
     "profitable_lots": [
       {
-        "unit_price": 833,
+        "unit_price": 625,
         "avg_unit_price": 1932,
-        "total_price": 20000,
-        "quantity": 24,
-        "percent_diff": 56.88
+        "total_price": 10000,
+        "quantity": 16,
+        "percent_diff": 67.65
       }
     ]
   },
@@ -1516,22 +1516,10 @@
     "profitable_lots": [
       {
         "unit_price": 29999,
-        "avg_unit_price": 31199,
+        "avg_unit_price": 30766,
         "total_price": 29999,
         "quantity": 1,
-        "percent_diff": 3.85
-      }
-    ]
-  },
-  "7l4q6": {
-    "item_name": "Ящик кустарных гранат",
-    "profitable_lots": [
-      {
-        "unit_price": 1000,
-        "avg_unit_price": 1999,
-        "total_price": 1000,
-        "quantity": 1,
-        "percent_diff": 49.97
+        "percent_diff": 2.49
       }
     ]
   },
