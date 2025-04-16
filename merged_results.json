@@ -2255,18 +2255,6 @@
       }
     ]
   },
-  "5lv9o": {
-    "item_name": "Прицел оптический Sig Sauer",
-    "profitable_lots": [
-      {
-        "unit_price": 380000,
-        "avg_unit_price": 390562,
-        "total_price": 380000,
-        "quantity": 1,
-        "percent_diff": 2.7
-      }
-    ]
-  },
   "knwdv": {
     "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
