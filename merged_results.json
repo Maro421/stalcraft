@@ -1,4 +1,16 @@
 {
+  "kllj": {
+    "item_name": "Лазурные минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 200,
+        "avg_unit_price": 389,
+        "total_price": 1000,
+        "quantity": 5,
+        "percent_diff": 48.59
+      }
+    ]
+  },
   "jlll": {
     "item_name": "Алые минералы",
     "profitable_lots": [
@@ -1772,6 +1784,30 @@
         "total_price": 10000,
         "quantity": 14,
         "percent_diff": 49.72
+      }
+    ]
+  },
+  "y3nmw": {
+    "item_name": "Продвинутые запчасти",
+    "profitable_lots": [
+      {
+        "unit_price": 59000,
+        "avg_unit_price": 63777,
+        "total_price": 59000,
+        "quantity": 1,
+        "percent_diff": 7.49
+      }
+    ]
+  },
+  "wjlrd": {
+    "item_name": "Дешевые инструменты",
+    "profitable_lots": [
+      {
+        "unit_price": 45000,
+        "avg_unit_price": 48461,
+        "total_price": 45000,
+        "quantity": 1,
+        "percent_diff": 7.14
       }
     ]
   },
