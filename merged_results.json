@@ -1307,6 +1307,18 @@
       }
     ]
   },
+  "49dj": {
+    "item_name": "Контейнер «Берлога-6у»",
+    "profitable_lots": [
+      {
+        "unit_price": 9433333,
+        "avg_unit_price": 10185555,
+        "total_price": 9433333,
+        "quantity": 1,
+        "percent_diff": 7.39
+      }
+    ]
+  },
   "dkq9": {
     "item_name": "РГД-5",
     "profitable_lots": [
@@ -2024,6 +2036,18 @@
         "total_price": 120000,
         "quantity": 1,
         "percent_diff": 28.62
+      }
+    ]
+  },
+  "2ony6": {
+    "item_name": "IWI Tavor X95",
+    "profitable_lots": [
+      {
+        "unit_price": 14777774,
+        "avg_unit_price": 14972592,
+        "total_price": 14777774,
+        "quantity": 1,
+        "percent_diff": 1.3
       }
     ]
   },
