@@ -315,11 +315,11 @@
     "item_name": "Помидор",
     "profitable_lots": [
       {
-        "unit_price": 4000,
-        "avg_unit_price": 4073,
-        "total_price": 80000,
-        "quantity": 20,
-        "percent_diff": 1.79
+        "unit_price": 2900,
+        "avg_unit_price": 3808,
+        "total_price": 2900,
+        "quantity": 1,
+        "percent_diff": 23.84
       }
     ]
   },
@@ -1331,30 +1331,6 @@
       }
     ]
   },
-  "zj9m": {
-    "item_name": "Стальная пластина IV",
-    "profitable_lots": [
-      {
-        "unit_price": 15,
-        "avg_unit_price": 254,
-        "total_price": 15,
-        "quantity": 1,
-        "percent_diff": 94.09
-      }
-    ]
-  },
-  "514q": {
-    "item_name": "Стальная пластина V",
-    "profitable_lots": [
-      {
-        "unit_price": 999,
-        "avg_unit_price": 1218,
-        "total_price": 999,
-        "quantity": 1,
-        "percent_diff": 17.98
-      }
-    ]
-  },
   "m3o2": {
     "item_name": "Керамическая пластина V",
     "profitable_lots": [
@@ -1935,11 +1911,11 @@
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
       {
-        "unit_price": 2000,
-        "avg_unit_price": 4999,
-        "total_price": 2000,
+        "unit_price": 3999,
+        "avg_unit_price": 4500,
+        "total_price": 3999,
         "quantity": 1,
-        "percent_diff": 59.99
+        "percent_diff": 11.13
       }
     ]
   },
