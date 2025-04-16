@@ -2195,18 +2195,6 @@
       }
     ]
   },
-  "ok0m6": {
-    "item_name": "Бандитский костюм с баллонами",
-    "profitable_lots": [
-      {
-        "unit_price": 220000,
-        "avg_unit_price": 306593,
-        "total_price": 220000,
-        "quantity": 1,
-        "percent_diff": 28.24
-      }
-    ]
-  },
   "knq0p": {
     "item_name": "Бронекостюм «Рысь»",
     "profitable_lots": [
