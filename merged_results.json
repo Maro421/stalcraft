@@ -83,27 +83,15 @@
       }
     ]
   },
-  "g0vn": {
-    "item_name": "Канистра с бензином",
-    "profitable_lots": [
-      {
-        "unit_price": 3300,
-        "avg_unit_price": 5402,
-        "total_price": 3300,
-        "quantity": 1,
-        "percent_diff": 38.91
-      }
-    ]
-  },
   "z7lk": {
     "item_name": "Канистра с дизелем",
     "profitable_lots": [
       {
-        "unit_price": 2500,
-        "avg_unit_price": 4920,
-        "total_price": 5000,
-        "quantity": 2,
-        "percent_diff": 49.19
+        "unit_price": 3500,
+        "avg_unit_price": 4665,
+        "total_price": 3500,
+        "quantity": 1,
+        "percent_diff": 24.97
       }
     ]
   },
@@ -2168,30 +2156,6 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 2.11
-      }
-    ]
-  },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
-        "quantity": 1,
-        "percent_diff": 13.35
       }
     ]
   },
