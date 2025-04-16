@@ -219,11 +219,11 @@
     "item_name": "Дрожжи",
     "profitable_lots": [
       {
-        "unit_price": 3700,
-        "avg_unit_price": 5238,
-        "total_price": 3700,
-        "quantity": 1,
-        "percent_diff": 29.36
+        "unit_price": 4444,
+        "avg_unit_price": 4787,
+        "total_price": 8888,
+        "quantity": 2,
+        "percent_diff": 7.17
       }
     ]
   },
@@ -1179,11 +1179,11 @@
     "item_name": "Детектор узкого диапазона «Эльбрус»",
     "profitable_lots": [
       {
-        "unit_price": 55555555,
+        "unit_price": 55400000,
         "avg_unit_price": 55920307,
-        "total_price": 55555555,
+        "total_price": 55400000,
         "quantity": 1,
-        "percent_diff": 0.65
+        "percent_diff": 0.93
       }
     ]
   },
