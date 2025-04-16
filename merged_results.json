@@ -275,15 +275,15 @@
       }
     ]
   },
-  "7rp7": {
-    "item_name": "Чеснок",
+  "3rpg": {
+    "item_name": "Полутухлая рыба",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 1675,
-        "total_price": 50000,
+        "unit_price": 4000,
+        "avg_unit_price": 4093,
+        "total_price": 200000,
         "quantity": 50,
-        "percent_diff": 40.3
+        "percent_diff": 2.27
       }
     ]
   },
@@ -291,11 +291,11 @@
     "item_name": "Помидор",
     "profitable_lots": [
       {
-        "unit_price": 2900,
+        "unit_price": 3333,
         "avg_unit_price": 3521,
-        "total_price": 2900,
-        "quantity": 1,
-        "percent_diff": 17.64
+        "total_price": 10000,
+        "quantity": 3,
+        "percent_diff": 5.34
       }
     ]
   },
@@ -1791,11 +1791,11 @@
     "item_name": "Сумка СБП 7.62 мм",
     "profitable_lots": [
       {
-        "unit_price": 15000,
+        "unit_price": 10000,
         "avg_unit_price": 18368,
-        "total_price": 15000,
+        "total_price": 10000,
         "quantity": 1,
-        "percent_diff": 18.34
+        "percent_diff": 45.56
       }
     ]
   },
@@ -1803,11 +1803,11 @@
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 13500,
+        "unit_price": 10000,
         "avg_unit_price": 14160,
-        "total_price": 13500,
+        "total_price": 10000,
         "quantity": 1,
-        "percent_diff": 4.66
+        "percent_diff": 29.38
       }
     ]
   },
