@@ -159,11 +159,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 877,
-        "avg_unit_price": 2212,
-        "total_price": 43888,
+        "unit_price": 800,
+        "avg_unit_price": 2120,
+        "total_price": 40000,
         "quantity": 50,
-        "percent_diff": 60.35
+        "percent_diff": 62.26
       }
     ]
   },
@@ -171,11 +171,11 @@
     "item_name": "Перчатки",
     "profitable_lots": [
       {
-        "unit_price": 850,
+        "unit_price": 800,
         "avg_unit_price": 979,
-        "total_price": 850,
+        "total_price": 800,
         "quantity": 1,
-        "percent_diff": 13.18
+        "percent_diff": 18.28
       }
     ]
   },
