@@ -683,18 +683,6 @@
       }
     ]
   },
-  "1dk6": {
-    "item_name": "Набор специй",
-    "profitable_lots": [
-      {
-        "unit_price": 5400,
-        "avg_unit_price": 6288,
-        "total_price": 5400,
-        "quantity": 1,
-        "percent_diff": 14.12
-      }
-    ]
-  },
   "z7y2": {
     "item_name": "Протертые овощи",
     "profitable_lots": [
