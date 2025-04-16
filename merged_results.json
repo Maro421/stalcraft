@@ -359,27 +359,15 @@
       }
     ]
   },
-  "jl26": {
-    "item_name": "Полимеры",
-    "profitable_lots": [
-      {
-        "unit_price": 1500,
-        "avg_unit_price": 1944,
-        "total_price": 15000,
-        "quantity": 10,
-        "percent_diff": 22.84
-      }
-    ]
-  },
   "ll11": {
     "item_name": "Сломанный прибор",
     "profitable_lots": [
       {
-        "unit_price": 640,
+        "unit_price": 630,
         "avg_unit_price": 2782,
-        "total_price": 32000,
+        "total_price": 31500,
         "quantity": 50,
-        "percent_diff": 76.99
+        "percent_diff": 77.35
       }
     ]
   },
@@ -1328,6 +1316,18 @@
         "total_price": 150000,
         "quantity": 1,
         "percent_diff": 27.6
+      }
+    ]
+  },
+  "dkq9": {
+    "item_name": "РГД-5",
+    "profitable_lots": [
+      {
+        "unit_price": 25,
+        "avg_unit_price": 49,
+        "total_price": 50,
+        "quantity": 2,
+        "percent_diff": 48.98
       }
     ]
   },
