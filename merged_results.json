@@ -299,6 +299,30 @@
       }
     ]
   },
+  "ovj0": {
+    "item_name": "Гипофиз мертвеца",
+    "profitable_lots": [
+      {
+        "unit_price": 5555,
+        "avg_unit_price": 6088,
+        "total_price": 5555,
+        "quantity": 1,
+        "percent_diff": 8.75
+      }
+    ]
+  },
+  "npq3": {
+    "item_name": "Аномальная плазма",
+    "profitable_lots": [
+      {
+        "unit_price": 2444,
+        "avg_unit_price": 2471,
+        "total_price": 2444,
+        "quantity": 1,
+        "percent_diff": 1.09
+      }
+    ]
+  },
   "prl2": {
     "item_name": "Кофе",
     "profitable_lots": [
@@ -1895,6 +1919,18 @@
       }
     ]
   },
+  "lyrdq": {
+    "item_name": "Сумка СБП 9x39 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 12999,
+        "avg_unit_price": 13191,
+        "total_price": 12999,
+        "quantity": 1,
+        "percent_diff": 1.46
+      }
+    ]
+  },
   "m0q7r": {
     "item_name": "Сумка зажигательных 5.45 мм",
     "profitable_lots": [
@@ -2099,15 +2135,15 @@
       }
     ]
   },
-  "g4mdp": {
-    "item_name": "АК-12",
+  "969jz": {
+    "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 1350000,
-        "avg_unit_price": 1419210,
-        "total_price": 1350000,
+        "unit_price": 210000,
+        "avg_unit_price": 217310,
+        "total_price": 210000,
         "quantity": 1,
-        "percent_diff": 4.88
+        "percent_diff": 3.36
       }
     ]
   },
@@ -2115,11 +2151,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 139001,
-        "avg_unit_price": 155481,
-        "total_price": 139001,
+        "unit_price": 120000,
+        "avg_unit_price": 163259,
+        "total_price": 120000,
         "quantity": 1,
-        "percent_diff": 10.6
+        "percent_diff": 26.5
       }
     ]
   },
