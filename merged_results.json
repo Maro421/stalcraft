@@ -783,11 +783,11 @@
     "item_name": "Карбоноволокно",
     "profitable_lots": [
       {
-        "unit_price": 2222,
+        "unit_price": 2790,
         "avg_unit_price": 8691,
-        "total_price": 60000,
-        "quantity": 27,
-        "percent_diff": 74.43
+        "total_price": 120000,
+        "quantity": 43,
+        "percent_diff": 67.9
       }
     ]
   },
@@ -2216,18 +2216,6 @@
         "total_price": 11500000,
         "quantity": 1,
         "percent_diff": 7.81
-      }
-    ]
-  },
-  "5lr4q": {
-    "item_name": "Защитный бронекостюм «Йорш»",
-    "profitable_lots": [
-      {
-        "unit_price": 2700000,
-        "avg_unit_price": 2784122,
-        "total_price": 2700000,
-        "quantity": 1,
-        "percent_diff": 3.02
       }
     ]
   },
