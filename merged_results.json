@@ -267,23 +267,11 @@
     "item_name": "Глаз зомби",
     "profitable_lots": [
       {
-        "unit_price": 900,
-        "avg_unit_price": 3063,
-        "total_price": 900,
-        "quantity": 1,
-        "percent_diff": 70.62
-      }
-    ]
-  },
-  "ovj0": {
-    "item_name": "Гипофиз мертвеца",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 6804,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 26.51
+        "unit_price": 967,
+        "avg_unit_price": 1017,
+        "total_price": 30000,
+        "quantity": 31,
+        "percent_diff": 4.92
       }
     ]
   },
