@@ -255,11 +255,11 @@
     "item_name": "Кофе",
     "profitable_lots": [
       {
-        "unit_price": 3900,
-        "avg_unit_price": 5075,
-        "total_price": 3900,
+        "unit_price": 2999,
+        "avg_unit_price": 3027,
+        "total_price": 2999,
         "quantity": 1,
-        "percent_diff": 23.15
+        "percent_diff": 0.93
       }
     ]
   },
@@ -1304,18 +1304,6 @@
         "total_price": 95000,
         "quantity": 1,
         "percent_diff": 4.79
-      }
-    ]
-  },
-  "z2y2": {
-    "item_name": "Аномальные гены",
-    "profitable_lots": [
-      {
-        "unit_price": 80000,
-        "avg_unit_price": 109075,
-        "total_price": 80000,
-        "quantity": 1,
-        "percent_diff": 26.66
       }
     ]
   },
