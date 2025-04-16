@@ -1743,11 +1743,11 @@
     "item_name": "Сумка керамических пластин III",
     "profitable_lots": [
       {
-        "unit_price": 2800,
+        "unit_price": 3666,
         "avg_unit_price": 3962,
-        "total_price": 2800,
+        "total_price": 3666,
         "quantity": 1,
-        "percent_diff": 29.33
+        "percent_diff": 7.47
       }
     ]
   },
