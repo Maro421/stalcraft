@@ -23,27 +23,15 @@
       }
     ]
   },
-  "jlll": {
-    "item_name": "Алые минералы",
-    "profitable_lots": [
-      {
-        "unit_price": 465,
-        "avg_unit_price": 796,
-        "total_price": 19999,
-        "quantity": 43,
-        "percent_diff": 41.58
-      }
-    ]
-  },
   "lll2": {
     "item_name": "Золотые минералы",
     "profitable_lots": [
       {
-        "unit_price": 3913,
-        "avg_unit_price": 4701,
-        "total_price": 90000,
-        "quantity": 23,
-        "percent_diff": 16.76
+        "unit_price": 3500,
+        "avg_unit_price": 4710,
+        "total_price": 7000,
+        "quantity": 2,
+        "percent_diff": 25.69
       }
     ]
   },
