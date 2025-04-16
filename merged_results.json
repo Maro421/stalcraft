@@ -820,10 +820,10 @@
     "profitable_lots": [
       {
         "unit_price": 9500,
-        "avg_unit_price": 9594,
+        "avg_unit_price": 10546,
         "total_price": 380000,
         "quantity": 40,
-        "percent_diff": 0.98
+        "percent_diff": 9.92
       }
     ]
   },
@@ -2216,6 +2216,18 @@
         "total_price": 150000,
         "quantity": 1,
         "percent_diff": 23.02
+      }
+    ]
+  },
+  "5lv9o": {
+    "item_name": "Прицел оптический Sig Sauer",
+    "profitable_lots": [
+      {
+        "unit_price": 300000,
+        "avg_unit_price": 305045,
+        "total_price": 300000,
+        "quantity": 1,
+        "percent_diff": 1.65
       }
     ]
   },
