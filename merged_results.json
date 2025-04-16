@@ -467,6 +467,18 @@
       }
     ]
   },
+  "9mr0": {
+    "item_name": "Жгут",
+    "profitable_lots": [
+      {
+        "unit_price": 79,
+        "avg_unit_price": 110,
+        "total_price": 3999,
+        "quantity": 50,
+        "percent_diff": 28.18
+      }
+    ]
+  },
   "1d56": {
     "item_name": "Щепки",
     "profitable_lots": [
@@ -1407,11 +1419,23 @@
     "item_name": "Контейнер «Берлога-4у»",
     "profitable_lots": [
       {
-        "unit_price": 39000,
-        "avg_unit_price": 63911,
-        "total_price": 39000,
+        "unit_price": 35000,
+        "avg_unit_price": 35230,
+        "total_price": 35000,
         "quantity": 1,
-        "percent_diff": 38.98
+        "percent_diff": 0.65
+      }
+    ]
+  },
+  "rg1z": {
+    "item_name": "«КЗС-4у»",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 9232,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 45.84
       }
     ]
   },
@@ -1971,11 +1995,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5250,
-        "avg_unit_price": 8092,
-        "total_price": 525000,
-        "quantity": 100,
-        "percent_diff": 35.12
+        "unit_price": 5699,
+        "avg_unit_price": 6193,
+        "total_price": 56999,
+        "quantity": 10,
+        "percent_diff": 7.98
       }
     ]
   },
@@ -1995,11 +2019,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 750000,
-        "avg_unit_price": 792444,
-        "total_price": 750000,
+        "unit_price": 645000,
+        "avg_unit_price": 793611,
+        "total_price": 645000,
         "quantity": 1,
-        "percent_diff": 5.36
+        "percent_diff": 18.73
       }
     ]
   },
