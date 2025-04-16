@@ -940,10 +940,10 @@
     "profitable_lots": [
       {
         "unit_price": 4560,
-        "avg_unit_price": 5474,
+        "avg_unit_price": 5445,
         "total_price": 4560,
         "quantity": 1,
-        "percent_diff": 16.7
+        "percent_diff": 16.25
       }
     ]
   },
