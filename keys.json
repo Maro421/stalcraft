@@ -1,14 +1,17 @@
 {
   "maro123": {
     "user": "Тестовый пользователь",
-    "valid_until": "2025-12-31"
+    "valid_until": "2025-12-31",
+    "hwid": null
   },
   "stalkey456": {
     "user": "Подписчик",
-    "valid_until": "2025-07-01"
+    "valid_until": "2025-07-01",
+    "hwid": null
   },
   "vip999": {
     "user": "VIP клиент",
-    "valid_until": "2026-01-01"
+    "valid_until": "2026-01-01",
+    "hwid": null
   }
 }
