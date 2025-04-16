@@ -1767,11 +1767,11 @@
     "item_name": "Странный артефакт",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 1393,
-        "total_price": 1000,
-        "quantity": 1,
-        "percent_diff": 28.21
+        "unit_price": 714,
+        "avg_unit_price": 1420,
+        "total_price": 10000,
+        "quantity": 14,
+        "percent_diff": 49.72
       }
     ]
   },
