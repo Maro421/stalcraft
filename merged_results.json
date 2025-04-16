@@ -279,11 +279,11 @@
     "item_name": "Мясо кабана",
     "profitable_lots": [
       {
-        "unit_price": 3999,
-        "avg_unit_price": 4329,
-        "total_price": 3999,
-        "quantity": 1,
-        "percent_diff": 7.62
+        "unit_price": 2350,
+        "avg_unit_price": 4237,
+        "total_price": 4700,
+        "quantity": 2,
+        "percent_diff": 44.54
       }
     ]
   },
@@ -1331,18 +1331,6 @@
       }
     ]
   },
-  "9ypy": {
-    "item_name": "Стальная пластина I",
-    "profitable_lots": [
-      {
-        "unit_price": 45,
-        "avg_unit_price": 50,
-        "total_price": 45,
-        "quantity": 1,
-        "percent_diff": 10.0
-      }
-    ]
-  },
   "g325": {
     "item_name": "Стальная пластина III",
     "profitable_lots": [
@@ -1948,10 +1936,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 2157,
+        "avg_unit_price": 1422,
         "total_price": 1000,
         "quantity": 1,
-        "percent_diff": 53.64
+        "percent_diff": 29.68
       }
     ]
   },
