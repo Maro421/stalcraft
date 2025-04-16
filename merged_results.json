@@ -699,11 +699,11 @@
     "item_name": "Микроэлектроника",
     "profitable_lots": [
       {
-        "unit_price": 1299,
+        "unit_price": 1793,
         "avg_unit_price": 2245,
-        "total_price": 64999,
-        "quantity": 50,
-        "percent_diff": 42.14
+        "total_price": 26900,
+        "quantity": 15,
+        "percent_diff": 20.13
       }
     ]
   },
@@ -712,10 +712,10 @@
     "profitable_lots": [
       {
         "unit_price": 19999,
-        "avg_unit_price": 21772,
+        "avg_unit_price": 22161,
         "total_price": 999999,
         "quantity": 50,
-        "percent_diff": 8.14
+        "percent_diff": 9.76
       }
     ]
   },
