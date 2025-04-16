@@ -820,10 +820,10 @@
     "profitable_lots": [
       {
         "unit_price": 2000,
-        "avg_unit_price": 4959,
+        "avg_unit_price": 4565,
         "total_price": 20000,
         "quantity": 10,
-        "percent_diff": 59.67
+        "percent_diff": 56.19
       }
     ]
   },
@@ -2240,6 +2240,18 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 5.18
+      }
+    ]
+  },
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
+    "profitable_lots": [
+      {
+        "unit_price": 1630000,
+        "avg_unit_price": 1670294,
+        "total_price": 1630000,
+        "quantity": 1,
+        "percent_diff": 2.41
       }
     ]
   },
