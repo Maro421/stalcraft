@@ -2087,6 +2087,18 @@
       }
     ]
   },
+  "1r39q": {
+    "item_name": "Пламегаситель AKademia Тьма",
+    "profitable_lots": [
+      {
+        "unit_price": 111111,
+        "avg_unit_price": 125889,
+        "total_price": 111111,
+        "quantity": 1,
+        "percent_diff": 11.74
+      }
+    ]
+  },
   "5lpo4": {
     "item_name": "ПБС-4",
     "profitable_lots": [
