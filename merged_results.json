@@ -1715,6 +1715,30 @@
       }
     ]
   },
+  "y3nmw": {
+    "item_name": "Продвинутые запчасти",
+    "profitable_lots": [
+      {
+        "unit_price": 64000,
+        "avg_unit_price": 65266,
+        "total_price": 320000,
+        "quantity": 5,
+        "percent_diff": 1.94
+      }
+    ]
+  },
+  "wjlrd": {
+    "item_name": "Дешевые инструменты",
+    "profitable_lots": [
+      {
+        "unit_price": 30000,
+        "avg_unit_price": 47746,
+        "total_price": 30000,
+        "quantity": 1,
+        "percent_diff": 37.17
+      }
+    ]
+  },
   "4q7pl": {
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
