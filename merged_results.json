@@ -1683,11 +1683,11 @@
     "item_name": "Едкое мясо бестии",
     "profitable_lots": [
       {
-        "unit_price": 2989,
-        "avg_unit_price": 3307,
-        "total_price": 29890,
+        "unit_price": 2499,
+        "avg_unit_price": 3349,
+        "total_price": 24999,
         "quantity": 10,
-        "percent_diff": 9.62
+        "percent_diff": 25.38
       }
     ]
   },
@@ -1695,11 +1695,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 30000,
-        "avg_unit_price": 30302,
-        "total_price": 90000,
-        "quantity": 3,
-        "percent_diff": 1.0
+        "unit_price": 27999,
+        "avg_unit_price": 29961,
+        "total_price": 139999,
+        "quantity": 5,
+        "percent_diff": 6.55
       }
     ]
   },
@@ -1707,11 +1707,11 @@
     "item_name": "Аномальная пыль",
     "profitable_lots": [
       {
-        "unit_price": 330,
-        "avg_unit_price": 387,
-        "total_price": 140000,
-        "quantity": 424,
-        "percent_diff": 14.73
+        "unit_price": 360,
+        "avg_unit_price": 382,
+        "total_price": 183333,
+        "quantity": 508,
+        "percent_diff": 5.76
       }
     ]
   },
