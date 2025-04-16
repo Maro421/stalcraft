@@ -155,18 +155,6 @@
       }
     ]
   },
-  "qvrk": {
-    "item_name": "Борная кислота",
-    "profitable_lots": [
-      {
-        "unit_price": 1511,
-        "avg_unit_price": 1911,
-        "total_price": 75555,
-        "quantity": 50,
-        "percent_diff": 20.93
-      }
-    ]
-  },
   "jl66": {
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
@@ -1863,11 +1851,11 @@
     "item_name": "Подсумок с аптечками проводника",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 9883,
-        "total_price": 5000,
+        "unit_price": 7250,
+        "avg_unit_price": 12357,
+        "total_price": 7250,
         "quantity": 1,
-        "percent_diff": 49.41
+        "percent_diff": 41.33
       }
     ]
   },
@@ -1876,10 +1864,10 @@
     "profitable_lots": [
       {
         "unit_price": 1050,
-        "avg_unit_price": 1089,
+        "avg_unit_price": 1092,
         "total_price": 1050,
         "quantity": 1,
-        "percent_diff": 3.58
+        "percent_diff": 3.85
       }
     ]
   },
@@ -2175,11 +2163,23 @@
     "item_name": "Саперная лопата",
     "profitable_lots": [
       {
-        "unit_price": 5500,
-        "avg_unit_price": 5584,
-        "total_price": 5500,
+        "unit_price": 5000,
+        "avg_unit_price": 7460,
+        "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 1.5
+        "percent_diff": 32.98
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 5544,
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 27.85
       }
     ]
   },
@@ -2187,11 +2187,11 @@
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 95000,
-        "avg_unit_price": 95397,
-        "total_price": 95000,
+        "unit_price": 85000,
+        "avg_unit_price": 98092,
+        "total_price": 85000,
         "quantity": 1,
-        "percent_diff": 0.42
+        "percent_diff": 13.35
       }
     ]
   },
