@@ -387,11 +387,11 @@
     "item_name": "Газовый баллон",
     "profitable_lots": [
       {
-        "unit_price": 5560,
+        "unit_price": 7800,
         "avg_unit_price": 7874,
-        "total_price": 278000,
-        "quantity": 50,
-        "percent_diff": 29.39
+        "total_price": 7800,
+        "quantity": 1,
+        "percent_diff": 0.94
       }
     ]
   },
@@ -2307,23 +2307,11 @@
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
       {
-        "unit_price": 22500000,
+        "unit_price": 22000000,
         "avg_unit_price": 22605450,
-        "total_price": 22500000,
+        "total_price": 22000000,
         "quantity": 1,
-        "percent_diff": 0.47
-      }
-    ]
-  },
-  "rwgl5": {
-    "item_name": "КИМ-100 «Гранат»",
-    "profitable_lots": [
-      {
-        "unit_price": 19999,
-        "avg_unit_price": 28735,
-        "total_price": 19999,
-        "quantity": 1,
-        "percent_diff": 30.4
+        "percent_diff": 2.68
       }
     ]
   },
