@@ -555,11 +555,11 @@
     "item_name": "Термическая смесь",
     "profitable_lots": [
       {
-        "unit_price": 300,
-        "avg_unit_price": 345,
-        "total_price": 15000,
+        "unit_price": 340,
+        "avg_unit_price": 346,
+        "total_price": 17000,
         "quantity": 50,
-        "percent_diff": 13.04
+        "percent_diff": 1.73
       }
     ]
   },
@@ -567,11 +567,11 @@
     "item_name": "Гипс",
     "profitable_lots": [
       {
-        "unit_price": 400,
-        "avg_unit_price": 461,
-        "total_price": 20000,
+        "unit_price": 380,
+        "avg_unit_price": 470,
+        "total_price": 19000,
         "quantity": 50,
-        "percent_diff": 13.23
+        "percent_diff": 19.15
       }
     ]
   },
