@@ -40,10 +40,10 @@
     "profitable_lots": [
       {
         "unit_price": 4300,
-        "avg_unit_price": 4895,
+        "avg_unit_price": 4570,
         "total_price": 17200,
         "quantity": 4,
-        "percent_diff": 12.16
+        "percent_diff": 5.91
       }
     ]
   },
@@ -51,23 +51,11 @@
     "item_name": "Бледнолист",
     "profitable_lots": [
       {
-        "unit_price": 280,
-        "avg_unit_price": 325,
-        "total_price": 14000,
+        "unit_price": 272,
+        "avg_unit_price": 281,
+        "total_price": 13600,
         "quantity": 50,
-        "percent_diff": 13.85
-      }
-    ]
-  },
-  "033k": {
-    "item_name": "Кислотная крапива",
-    "profitable_lots": [
-      {
-        "unit_price": 300,
-        "avg_unit_price": 499,
-        "total_price": 15000,
-        "quantity": 50,
-        "percent_diff": 39.88
+        "percent_diff": 3.2
       }
     ]
   },
@@ -2192,18 +2180,6 @@
         "total_price": 1700000,
         "quantity": 1,
         "percent_diff": 5.35
-      }
-    ]
-  },
-  "3g7wg": {
-    "item_name": "Прицел коллиматорный DM",
-    "profitable_lots": [
-      {
-        "unit_price": 455555,
-        "avg_unit_price": 520385,
-        "total_price": 455555,
-        "quantity": 1,
-        "percent_diff": 12.46
       }
     ]
   },
