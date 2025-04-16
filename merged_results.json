@@ -171,11 +171,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 1160,
-        "avg_unit_price": 1189,
-        "total_price": 58001,
+        "unit_price": 1300,
+        "avg_unit_price": 1628,
+        "total_price": 65000,
         "quantity": 50,
-        "percent_diff": 2.44
+        "percent_diff": 20.15
       }
     ]
   },
@@ -183,11 +183,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 900,
-        "avg_unit_price": 1545,
-        "total_price": 45000,
+        "unit_price": 877,
+        "avg_unit_price": 2212,
+        "total_price": 43888,
         "quantity": 50,
-        "percent_diff": 41.75
+        "percent_diff": 60.35
       }
     ]
   },
@@ -1900,10 +1900,10 @@
     "profitable_lots": [
       {
         "unit_price": 12999,
-        "avg_unit_price": 13177,
+        "avg_unit_price": 13191,
         "total_price": 12999,
         "quantity": 1,
-        "percent_diff": 1.35
+        "percent_diff": 1.46
       }
     ]
   },
@@ -2063,18 +2063,6 @@
       }
     ]
   },
-  "okm10": {
-    "item_name": "Steyr AUG 9mm",
-    "profitable_lots": [
-      {
-        "unit_price": 500000,
-        "avg_unit_price": 506833,
-        "total_price": 500000,
-        "quantity": 1,
-        "percent_diff": 1.35
-      }
-    ]
-  },
   "n4m93": {
     "item_name": "МР-412",
     "profitable_lots": [
@@ -2091,23 +2079,23 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4790000,
+        "unit_price": 4444444,
         "avg_unit_price": 5560818,
-        "total_price": 4790000,
+        "total_price": 4444444,
         "quantity": 1,
-        "percent_diff": 13.86
+        "percent_diff": 20.08
       }
     ]
   },
-  "6w64y": {
-    "item_name": "Grizzly 8.5",
+  "969jz": {
+    "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 500000,
-        "avg_unit_price": 538263,
-        "total_price": 500000,
+        "unit_price": 215000,
+        "avg_unit_price": 226080,
+        "total_price": 215000,
         "quantity": 1,
-        "percent_diff": 7.11
+        "percent_diff": 4.9
       }
     ]
   },
@@ -2115,11 +2103,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 135000,
-        "avg_unit_price": 144820,
-        "total_price": 135000,
+        "unit_price": 140000,
+        "avg_unit_price": 143777,
+        "total_price": 140000,
         "quantity": 1,
-        "percent_diff": 6.78
+        "percent_diff": 2.63
       }
     ]
   },
