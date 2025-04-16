@@ -1719,11 +1719,23 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 28750,
-        "avg_unit_price": 29631,
-        "total_price": 230000,
-        "quantity": 8,
-        "percent_diff": 2.97
+        "unit_price": 27027,
+        "avg_unit_price": 30051,
+        "total_price": 1000000,
+        "quantity": 37,
+        "percent_diff": 10.06
+      }
+    ]
+  },
+  "7l127": {
+    "item_name": "Аномальная пыль",
+    "profitable_lots": [
+      {
+        "unit_price": 369,
+        "avg_unit_price": 377,
+        "total_price": 34000,
+        "quantity": 92,
+        "percent_diff": 2.12
       }
     ]
   },
@@ -2048,18 +2060,6 @@
         "total_price": 480000,
         "quantity": 1,
         "percent_diff": 4.67
-      }
-    ]
-  },
-  "dmjwn": {
-    "item_name": "HK416",
-    "profitable_lots": [
-      {
-        "unit_price": 1200000,
-        "avg_unit_price": 1213580,
-        "total_price": 1200000,
-        "quantity": 1,
-        "percent_diff": 1.12
       }
     ]
   },
