@@ -315,11 +315,23 @@
     "item_name": "Полутухлая рыба",
     "profitable_lots": [
       {
-        "unit_price": 3181,
-        "avg_unit_price": 4185,
-        "total_price": 35000,
-        "quantity": 11,
-        "percent_diff": 23.99
+        "unit_price": 3000,
+        "avg_unit_price": 4295,
+        "total_price": 15000,
+        "quantity": 5,
+        "percent_diff": 30.15
+      }
+    ]
+  },
+  "7rp7": {
+    "item_name": "Чеснок",
+    "profitable_lots": [
+      {
+        "unit_price": 1600,
+        "avg_unit_price": 1629,
+        "total_price": 80000,
+        "quantity": 50,
+        "percent_diff": 1.78
       }
     ]
   },
