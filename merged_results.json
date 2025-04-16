@@ -315,11 +315,11 @@
     "item_name": "Мясо кабана",
     "profitable_lots": [
       {
-        "unit_price": 3800,
+        "unit_price": 3777,
         "avg_unit_price": 3849,
-        "total_price": 190000,
+        "total_price": 188888,
         "quantity": 50,
-        "percent_diff": 1.27
+        "percent_diff": 1.87
       }
     ]
   },
@@ -1359,11 +1359,23 @@
     "item_name": "Контейнер «Берлога-6у»",
     "profitable_lots": [
       {
-        "unit_price": 10000000,
+        "unit_price": 9800000,
         "avg_unit_price": 10067017,
-        "total_price": 10000000,
+        "total_price": 9800000,
         "quantity": 1,
-        "percent_diff": 0.67
+        "percent_diff": 2.65
+      }
+    ]
+  },
+  "nv43": {
+    "item_name": "Рюкзак NPA",
+    "profitable_lots": [
+      {
+        "unit_price": 60000,
+        "avg_unit_price": 60993,
+        "total_price": 60000,
+        "quantity": 1,
+        "percent_diff": 1.63
       }
     ]
   },
@@ -2144,6 +2156,18 @@
         "total_price": 4999,
         "quantity": 1,
         "percent_diff": 29.69
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 95000,
+        "avg_unit_price": 99332,
+        "total_price": 95000,
+        "quantity": 1,
+        "percent_diff": 4.36
       }
     ]
   },
