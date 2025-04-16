@@ -2331,11 +2331,11 @@
     "item_name": "Бронескелет «Альбатрос-Разведчик»",
     "profitable_lots": [
       {
-        "unit_price": 8300000,
-        "avg_unit_price": 8564182,
-        "total_price": 8300000,
+        "unit_price": 8250000,
+        "avg_unit_price": 8488187,
+        "total_price": 8250000,
         "quantity": 1,
-        "percent_diff": 3.08
+        "percent_diff": 2.81
       }
     ]
   },
