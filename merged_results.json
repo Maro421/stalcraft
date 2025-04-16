@@ -735,11 +735,11 @@
     "item_name": "Протертые овощи",
     "profitable_lots": [
       {
-        "unit_price": 8444,
+        "unit_price": 8555,
         "avg_unit_price": 8742,
-        "total_price": 422222,
-        "quantity": 50,
-        "percent_diff": 3.41
+        "total_price": 85555,
+        "quantity": 10,
+        "percent_diff": 2.14
       }
     ]
   },
@@ -2192,6 +2192,18 @@
         "total_price": 150000,
         "quantity": 1,
         "percent_diff": 23.02
+      }
+    ]
+  },
+  "knwdv": {
+    "item_name": "Прицел коллиматорный Barska",
+    "profitable_lots": [
+      {
+        "unit_price": 1900000,
+        "avg_unit_price": 1913883,
+        "total_price": 1900000,
+        "quantity": 1,
+        "percent_diff": 0.73
       }
     ]
   },
