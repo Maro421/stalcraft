@@ -1983,11 +1983,11 @@
     "item_name": "Ingram MAC-10",
     "profitable_lots": [
       {
-        "unit_price": 5000,
+        "unit_price": 4000,
         "avg_unit_price": 6165,
-        "total_price": 5000,
+        "total_price": 4000,
         "quantity": 1,
-        "percent_diff": 18.9
+        "percent_diff": 35.12
       }
     ]
   },
