@@ -1991,18 +1991,6 @@
       }
     ]
   },
-  "qjq69": {
-    "item_name": "Сумка СБП 5.56 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 10214,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 51.05
-      }
-    ]
-  },
   "j5qd4": {
     "item_name": "Сумка СБП 7.62 мм",
     "profitable_lots": [
