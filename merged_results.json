@@ -472,10 +472,10 @@
     "profitable_lots": [
       {
         "unit_price": 59,
-        "avg_unit_price": 110,
+        "avg_unit_price": 108,
         "total_price": 2999,
         "quantity": 50,
-        "percent_diff": 46.36
+        "percent_diff": 45.37
       }
     ]
   },
@@ -2360,18 +2360,6 @@
         "total_price": 11500000,
         "quantity": 1,
         "percent_diff": 7.81
-      }
-    ]
-  },
-  "ok0m6": {
-    "item_name": "Бандитский костюм с баллонами",
-    "profitable_lots": [
-      {
-        "unit_price": 220000,
-        "avg_unit_price": 306593,
-        "total_price": 220000,
-        "quantity": 1,
-        "percent_diff": 28.24
       }
     ]
   },
