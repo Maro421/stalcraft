@@ -1811,18 +1811,6 @@
       }
     ]
   },
-  "y3nmw": {
-    "item_name": "Продвинутые запчасти",
-    "profitable_lots": [
-      {
-        "unit_price": 62500,
-        "avg_unit_price": 65250,
-        "total_price": 250000,
-        "quantity": 4,
-        "percent_diff": 4.21
-      }
-    ]
-  },
   "wjlrd": {
     "item_name": "Дешевые инструменты",
     "profitable_lots": [
@@ -2372,6 +2360,30 @@
         "total_price": 230000,
         "quantity": 1,
         "percent_diff": 0.96
+      }
+    ]
+  },
+  "5lr20": {
+    "item_name": "Бронекостюм «КЗ-3б»",
+    "profitable_lots": [
+      {
+        "unit_price": 199999,
+        "avg_unit_price": 201180,
+        "total_price": 199999,
+        "quantity": 1,
+        "percent_diff": 0.59
+      }
+    ]
+  },
+  "y359o": {
+    "item_name": "Тяжелый бронекостюм «Туманный охотник»",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 221760,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 9.81
       }
     ]
   },
