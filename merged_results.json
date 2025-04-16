@@ -399,11 +399,11 @@
     "item_name": "Асбест",
     "profitable_lots": [
       {
-        "unit_price": 199,
-        "avg_unit_price": 305,
-        "total_price": 9999,
+        "unit_price": 200,
+        "avg_unit_price": 272,
+        "total_price": 10000,
         "quantity": 50,
-        "percent_diff": 34.75
+        "percent_diff": 26.47
       }
     ]
   },
@@ -1323,11 +1323,11 @@
     "item_name": "«КЗС-3у»",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 4537,
-        "total_price": 1000,
+        "unit_price": 3500,
+        "avg_unit_price": 4388,
+        "total_price": 3500,
         "quantity": 1,
-        "percent_diff": 77.96
+        "percent_diff": 20.24
       }
     ]
   },
@@ -2315,15 +2315,27 @@
       }
     ]
   },
+  "j52lg": {
+    "item_name": "Магазин 7.62 NATO PMAG, хаки",
+    "profitable_lots": [
+      {
+        "unit_price": 8000000,
+        "avg_unit_price": 8049723,
+        "total_price": 8000000,
+        "quantity": 1,
+        "percent_diff": 0.62
+      }
+    ]
+  },
   "ly1lo": {
     "item_name": "Магазин 7.62 NATO PMAG, черный",
     "profitable_lots": [
       {
-        "unit_price": 11000000,
+        "unit_price": 10350000,
         "avg_unit_price": 11616327,
-        "total_price": 11000000,
+        "total_price": 10350000,
         "quantity": 1,
-        "percent_diff": 5.31
+        "percent_diff": 10.9
       }
     ]
   },
