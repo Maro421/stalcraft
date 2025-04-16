@@ -1007,18 +1007,6 @@
       }
     ]
   },
-  "5njq": {
-    "item_name": "Алюминий",
-    "profitable_lots": [
-      {
-        "unit_price": 625,
-        "avg_unit_price": 1932,
-        "total_price": 10000,
-        "quantity": 16,
-        "percent_diff": 67.65
-      }
-    ]
-  },
   "y263": {
     "item_name": "Метан",
     "profitable_lots": [
@@ -1715,18 +1703,6 @@
       }
     ]
   },
-  "5lo3o": {
-    "item_name": "Копыто сильного кабана",
-    "profitable_lots": [
-      {
-        "unit_price": 3492,
-        "avg_unit_price": 4148,
-        "total_price": 24444,
-        "quantity": 7,
-        "percent_diff": 15.81
-      }
-    ]
-  },
   "dmypg": {
     "item_name": "Едкое мясо бестии",
     "profitable_lots": [
@@ -1988,6 +1964,18 @@
         "total_price": 1998999,
         "quantity": 1,
         "percent_diff": 0.36
+      }
+    ]
+  },
+  "m0mz2": {
+    "item_name": "M1014 Breacher",
+    "profitable_lots": [
+      {
+        "unit_price": 560000,
+        "avg_unit_price": 584803,
+        "total_price": 560000,
+        "quantity": 1,
+        "percent_diff": 4.24
       }
     ]
   },
