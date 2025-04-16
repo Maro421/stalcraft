@@ -99,11 +99,11 @@
     "item_name": "Чертоцвет",
     "profitable_lots": [
       {
-        "unit_price": 1799,
+        "unit_price": 1777,
         "avg_unit_price": 1973,
-        "total_price": 89999,
+        "total_price": 88889,
         "quantity": 50,
-        "percent_diff": 8.82
+        "percent_diff": 9.93
       }
     ]
   },
@@ -1887,11 +1887,11 @@
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
       {
-        "unit_price": 770,
+        "unit_price": 780,
         "avg_unit_price": 800,
-        "total_price": 770,
+        "total_price": 780,
         "quantity": 1,
-        "percent_diff": 3.75
+        "percent_diff": 2.5
       }
     ]
   },
@@ -1904,6 +1904,18 @@
         "total_price": 8000,
         "quantity": 1,
         "percent_diff": 4.42
+      }
+    ]
+  },
+  "j5qd4": {
+    "item_name": "Сумка СБП 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 15000,
+        "avg_unit_price": 16384,
+        "total_price": 15000,
+        "quantity": 1,
+        "percent_diff": 8.45
       }
     ]
   },
@@ -1924,10 +1936,10 @@
     "profitable_lots": [
       {
         "unit_price": 6110,
-        "avg_unit_price": 6439,
+        "avg_unit_price": 6452,
         "total_price": 61100,
         "quantity": 10,
-        "percent_diff": 5.11
+        "percent_diff": 5.3
       }
     ]
   },
@@ -2103,11 +2115,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 200000,
-        "avg_unit_price": 224385,
-        "total_price": 200000,
+        "unit_price": 190000,
+        "avg_unit_price": 222807,
+        "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 10.87
+        "percent_diff": 14.72
       }
     ]
   },
@@ -2116,10 +2128,10 @@
     "profitable_lots": [
       {
         "unit_price": 280000,
-        "avg_unit_price": 311022,
+        "avg_unit_price": 299725,
         "total_price": 280000,
         "quantity": 1,
-        "percent_diff": 9.97
+        "percent_diff": 6.58
       }
     ]
   },
@@ -2159,15 +2171,39 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 9490,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 5.17
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 98928,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 29.24
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 22222,
         "avg_unit_price": 34205,
-        "total_price": 25000,
+        "total_price": 22222,
         "quantity": 1,
-        "percent_diff": 26.91
+        "percent_diff": 35.03
       }
     ]
   },
@@ -2175,11 +2211,11 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 170000,
+        "unit_price": 150000,
         "avg_unit_price": 194863,
-        "total_price": 170000,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 12.76
+        "percent_diff": 23.02
       }
     ]
   },
