@@ -311,18 +311,6 @@
       }
     ]
   },
-  "6rpy": {
-    "item_name": "Помидор",
-    "profitable_lots": [
-      {
-        "unit_price": 2500,
-        "avg_unit_price": 3428,
-        "total_price": 2500,
-        "quantity": 1,
-        "percent_diff": 27.07
-      }
-    ]
-  },
   "g02p": {
     "item_name": "Банка с горохом",
     "profitable_lots": [
@@ -1995,11 +1983,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4790000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 13.86
       }
     ]
   },
