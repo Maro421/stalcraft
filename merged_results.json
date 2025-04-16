@@ -2043,11 +2043,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 209999,
-        "avg_unit_price": 228189,
-        "total_price": 209999,
+        "unit_price": 200000,
+        "avg_unit_price": 213111,
+        "total_price": 200000,
         "quantity": 1,
-        "percent_diff": 7.97
+        "percent_diff": 6.15
       }
     ]
   },
