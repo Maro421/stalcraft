@@ -1031,27 +1031,15 @@
       }
     ]
   },
-  "om6m": {
-    "item_name": "Измерительное оборудование",
-    "profitable_lots": [
-      {
-        "unit_price": 20000,
-        "avg_unit_price": 31647,
-        "total_price": 60000,
-        "quantity": 3,
-        "percent_diff": 36.8
-      }
-    ]
-  },
   "nmo2": {
     "item_name": "Прочный металл",
     "profitable_lots": [
       {
-        "unit_price": 69800,
+        "unit_price": 68000,
         "avg_unit_price": 71010,
-        "total_price": 349000,
-        "quantity": 5,
-        "percent_diff": 1.7
+        "total_price": 680000,
+        "quantity": 10,
+        "percent_diff": 4.24
       }
     ]
   },
@@ -1060,10 +1048,10 @@
     "profitable_lots": [
       {
         "unit_price": 52500,
-        "avg_unit_price": 54813,
+        "avg_unit_price": 55549,
         "total_price": 210000,
         "quantity": 4,
-        "percent_diff": 4.22
+        "percent_diff": 5.49
       }
     ]
   },
@@ -2108,6 +2096,30 @@
         "total_price": 485000,
         "quantity": 1,
         "percent_diff": 8.26
+      }
+    ]
+  },
+  "g4mdp": {
+    "item_name": "АК-12",
+    "profitable_lots": [
+      {
+        "unit_price": 1450000,
+        "avg_unit_price": 1502499,
+        "total_price": 1450000,
+        "quantity": 1,
+        "percent_diff": 3.49
+      }
+    ]
+  },
+  "zz24n": {
+    "item_name": "SIG SG 550 Sniper",
+    "profitable_lots": [
+      {
+        "unit_price": 300000,
+        "avg_unit_price": 301986,
+        "total_price": 300000,
+        "quantity": 1,
+        "percent_diff": 0.66
       }
     ]
   },
