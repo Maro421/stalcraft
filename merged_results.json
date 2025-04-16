@@ -167,27 +167,15 @@
       }
     ]
   },
-  "40vn": {
-    "item_name": "Аммиак",
-    "profitable_lots": [
-      {
-        "unit_price": 8500,
-        "avg_unit_price": 9790,
-        "total_price": 8500,
-        "quantity": 1,
-        "percent_diff": 13.18
-      }
-    ]
-  },
   "klwv": {
     "item_name": "Нефть",
     "profitable_lots": [
       {
-        "unit_price": 1820,
-        "avg_unit_price": 1892,
-        "total_price": 91000,
-        "quantity": 50,
-        "percent_diff": 3.81
+        "unit_price": 1291,
+        "avg_unit_price": 1848,
+        "total_price": 15500,
+        "quantity": 12,
+        "percent_diff": 30.14
       }
     ]
   },
