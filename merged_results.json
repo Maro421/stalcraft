@@ -2187,11 +2187,11 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 170000,
+        "unit_price": 150000,
         "avg_unit_price": 194863,
-        "total_price": 170000,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 12.76
+        "percent_diff": 23.02
       }
     ]
   },
