@@ -1336,22 +1336,10 @@
     "profitable_lots": [
       {
         "unit_price": 6000,
-        "avg_unit_price": 6401,
+        "avg_unit_price": 6480,
         "total_price": 6000,
         "quantity": 1,
-        "percent_diff": 6.26
-      }
-    ]
-  },
-  "3d11": {
-    "item_name": "«КЗС-5у»",
-    "profitable_lots": [
-      {
-        "unit_price": 200000,
-        "avg_unit_price": 205624,
-        "total_price": 200000,
-        "quantity": 1,
-        "percent_diff": 2.74
+        "percent_diff": 7.41
       }
     ]
   },
