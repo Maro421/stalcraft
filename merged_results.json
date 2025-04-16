@@ -155,6 +155,18 @@
       }
     ]
   },
+  "wopo": {
+    "item_name": "Перчатки",
+    "profitable_lots": [
+      {
+        "unit_price": 911,
+        "avg_unit_price": 1057,
+        "total_price": 45555,
+        "quantity": 50,
+        "percent_diff": 13.81
+      }
+    ]
+  },
   "klwv": {
     "item_name": "Нефть",
     "profitable_lots": [
@@ -1940,18 +1952,6 @@
         "total_price": 25000,
         "quantity": 1,
         "percent_diff": 16.88
-      }
-    ]
-  },
-  "g4mgp": {
-    "item_name": "IMI Micro Uzi",
-    "profitable_lots": [
-      {
-        "unit_price": 7001,
-        "avg_unit_price": 10113,
-        "total_price": 7001,
-        "quantity": 1,
-        "percent_diff": 30.77
       }
     ]
   },
