@@ -2116,10 +2116,10 @@
     "profitable_lots": [
       {
         "unit_price": 190000,
-        "avg_unit_price": 226296,
+        "avg_unit_price": 222807,
         "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 16.04
+        "percent_diff": 14.72
       }
     ]
   },
@@ -2168,18 +2168,6 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 8999,
-        "avg_unit_price": 9490,
-        "total_price": 8999,
-        "quantity": 1,
-        "percent_diff": 5.17
       }
     ]
   },
