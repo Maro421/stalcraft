@@ -771,11 +771,11 @@
     "item_name": "Медная крошка",
     "profitable_lots": [
       {
-        "unit_price": 700,
-        "avg_unit_price": 761,
-        "total_price": 35000,
+        "unit_price": 680,
+        "avg_unit_price": 757,
+        "total_price": 34000,
         "quantity": 50,
-        "percent_diff": 8.02
+        "percent_diff": 10.17
       }
     ]
   },
@@ -2216,18 +2216,6 @@
         "total_price": 150000,
         "quantity": 1,
         "percent_diff": 23.02
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.24
       }
     ]
   },
