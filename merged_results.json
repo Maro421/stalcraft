@@ -47,15 +47,27 @@
       }
     ]
   },
+  "m22k": {
+    "item_name": "Водонос",
+    "profitable_lots": [
+      {
+        "unit_price": 420,
+        "avg_unit_price": 508,
+        "total_price": 21000,
+        "quantity": 50,
+        "percent_diff": 17.32
+      }
+    ]
+  },
   "ovv5": {
     "item_name": "Гнозис",
     "profitable_lots": [
       {
         "unit_price": 79,
-        "avg_unit_price": 119,
+        "avg_unit_price": 116,
         "total_price": 3999,
         "quantity": 50,
-        "percent_diff": 33.61
+        "percent_diff": 31.9
       }
     ]
   },
@@ -1208,6 +1220,18 @@
         "total_price": 52000000,
         "quantity": 1,
         "percent_diff": 5.14
+      }
+    ]
+  },
+  "514q": {
+    "item_name": "Стальная пластина V",
+    "profitable_lots": [
+      {
+        "unit_price": 1300,
+        "avg_unit_price": 1346,
+        "total_price": 1300,
+        "quantity": 1,
+        "percent_diff": 3.42
       }
     ]
   },
