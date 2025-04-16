@@ -124,10 +124,10 @@
     "profitable_lots": [
       {
         "unit_price": 1111,
-        "avg_unit_price": 2385,
+        "avg_unit_price": 2149,
         "total_price": 55555,
         "quantity": 50,
-        "percent_diff": 53.42
+        "percent_diff": 48.3
       }
     ]
   },
@@ -135,11 +135,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 888,
-        "avg_unit_price": 1277,
-        "total_price": 44444,
+        "unit_price": 1044,
+        "avg_unit_price": 1299,
+        "total_price": 52222,
         "quantity": 50,
-        "percent_diff": 30.46
+        "percent_diff": 19.63
       }
     ]
   },
@@ -1179,11 +1179,11 @@
     "item_name": "Детектор узкого диапазона «Эльбрус»",
     "profitable_lots": [
       {
-        "unit_price": 54980000,
-        "avg_unit_price": 55186138,
-        "total_price": 54980000,
+        "unit_price": 54900000,
+        "avg_unit_price": 54922980,
+        "total_price": 54900000,
         "quantity": 1,
-        "percent_diff": 0.37
+        "percent_diff": 0.04
       }
     ]
   },
@@ -2180,18 +2180,6 @@
         "total_price": 1301000,
         "quantity": 1,
         "percent_diff": 2.56
-      }
-    ]
-  },
-  "j52lg": {
-    "item_name": "Магазин 7.62 NATO PMAG, хаки",
-    "profitable_lots": [
-      {
-        "unit_price": 8000000,
-        "avg_unit_price": 8049723,
-        "total_price": 8000000,
-        "quantity": 1,
-        "percent_diff": 0.62
       }
     ]
   },
