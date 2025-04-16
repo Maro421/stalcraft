@@ -171,11 +171,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 1100,
-        "avg_unit_price": 1160,
-        "total_price": 55000,
+        "unit_price": 940,
+        "avg_unit_price": 1221,
+        "total_price": 47000,
         "quantity": 50,
-        "percent_diff": 5.17
+        "percent_diff": 23.01
       }
     ]
   },
