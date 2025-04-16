@@ -291,11 +291,11 @@
     "item_name": "Полутухлая рыба",
     "profitable_lots": [
       {
-        "unit_price": 4400,
-        "avg_unit_price": 6080,
-        "total_price": 220000,
-        "quantity": 50,
-        "percent_diff": 27.63
+        "unit_price": 1450,
+        "avg_unit_price": 3699,
+        "total_price": 1450,
+        "quantity": 1,
+        "percent_diff": 60.8
       }
     ]
   },
@@ -303,11 +303,11 @@
     "item_name": "Чеснок",
     "profitable_lots": [
       {
-        "unit_price": 1779,
-        "avg_unit_price": 2239,
-        "total_price": 88999,
-        "quantity": 50,
-        "percent_diff": 20.54
+        "unit_price": 1462,
+        "avg_unit_price": 2069,
+        "total_price": 5850,
+        "quantity": 4,
+        "percent_diff": 29.34
       }
     ]
   },
@@ -1331,18 +1331,6 @@
       }
     ]
   },
-  "g325": {
-    "item_name": "Стальная пластина III",
-    "profitable_lots": [
-      {
-        "unit_price": 15,
-        "avg_unit_price": 16,
-        "total_price": 15,
-        "quantity": 1,
-        "percent_diff": 6.25
-      }
-    ]
-  },
   "zj9m": {
     "item_name": "Стальная пластина IV",
     "profitable_lots": [
@@ -1940,18 +1928,6 @@
         "total_price": 1000,
         "quantity": 1,
         "percent_diff": 29.68
-      }
-    ]
-  },
-  "7l1kr": {
-    "item_name": "Подсумок с аптечками проводника",
-    "profitable_lots": [
-      {
-        "unit_price": 6333,
-        "avg_unit_price": 6703,
-        "total_price": 6333,
-        "quantity": 1,
-        "percent_diff": 5.52
       }
     ]
   },
