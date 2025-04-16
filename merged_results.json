@@ -87,11 +87,11 @@
     "item_name": "Канистра с бензином",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 5408,
-        "total_price": 10000,
+        "unit_price": 2700,
+        "avg_unit_price": 4385,
+        "total_price": 5400,
         "quantity": 2,
-        "percent_diff": 7.54
+        "percent_diff": 38.43
       }
     ]
   },
