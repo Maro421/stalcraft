@@ -1527,11 +1527,11 @@
     "item_name": "Ящик гранат «Кустарник-1»",
     "profitable_lots": [
       {
-        "unit_price": 5000,
+        "unit_price": 6655,
         "avg_unit_price": 6661,
-        "total_price": 5000,
+        "total_price": 6655,
         "quantity": 1,
-        "percent_diff": 24.94
+        "percent_diff": 0.09
       }
     ]
   },
@@ -1959,11 +1959,11 @@
     "item_name": "ТКБ-0146М",
     "profitable_lots": [
       {
-        "unit_price": 450000,
+        "unit_price": 430000,
         "avg_unit_price": 458719,
-        "total_price": 450000,
+        "total_price": 430000,
         "quantity": 1,
-        "percent_diff": 1.9
+        "percent_diff": 6.26
       }
     ]
   },
@@ -1971,11 +1971,11 @@
     "item_name": "Grizzly 8.5",
     "profitable_lots": [
       {
-        "unit_price": 499999,
-        "avg_unit_price": 534578,
-        "total_price": 499999,
+        "unit_price": 500000,
+        "avg_unit_price": 532736,
+        "total_price": 500000,
         "quantity": 1,
-        "percent_diff": 6.47
+        "percent_diff": 6.14
       }
     ]
   },
