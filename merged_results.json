@@ -495,11 +495,11 @@
     "item_name": "Набор для шитья",
     "profitable_lots": [
       {
-        "unit_price": 600,
-        "avg_unit_price": 777,
-        "total_price": 18000,
-        "quantity": 30,
-        "percent_diff": 22.78
+        "unit_price": 1200,
+        "avg_unit_price": 1707,
+        "total_price": 60000,
+        "quantity": 50,
+        "percent_diff": 29.7
       }
     ]
   },
@@ -1439,15 +1439,27 @@
       }
     ]
   },
+  "49dj": {
+    "item_name": "Контейнер «Берлога-6у»",
+    "profitable_lots": [
+      {
+        "unit_price": 10199999,
+        "avg_unit_price": 11349414,
+        "total_price": 10199999,
+        "quantity": 1,
+        "percent_diff": 10.13
+      }
+    ]
+  },
   "nv43": {
     "item_name": "Рюкзак NPA",
     "profitable_lots": [
       {
-        "unit_price": 70000,
-        "avg_unit_price": 91312,
-        "total_price": 70000,
+        "unit_price": 44000,
+        "avg_unit_price": 44499,
+        "total_price": 44000,
         "quantity": 1,
-        "percent_diff": 23.34
+        "percent_diff": 1.12
       }
     ]
   },
@@ -1995,11 +2007,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5699,
-        "avg_unit_price": 6193,
-        "total_price": 56999,
-        "quantity": 10,
-        "percent_diff": 7.98
+        "unit_price": 5250,
+        "avg_unit_price": 8092,
+        "total_price": 525000,
+        "quantity": 100,
+        "percent_diff": 35.12
       }
     ]
   },
@@ -2019,23 +2031,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 645000,
-        "avg_unit_price": 793611,
-        "total_price": 645000,
+        "unit_price": 750000,
+        "avg_unit_price": 792444,
+        "total_price": 750000,
         "quantity": 1,
-        "percent_diff": 18.73
-      }
-    ]
-  },
-  "4qnkr": {
-    "item_name": "Steyr Scout",
-    "profitable_lots": [
-      {
-        "unit_price": 164999,
-        "avg_unit_price": 178757,
-        "total_price": 164999,
-        "quantity": 1,
-        "percent_diff": 7.7
+        "percent_diff": 5.36
       }
     ]
   },
