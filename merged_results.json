@@ -1839,11 +1839,11 @@
     "item_name": "Сумка бронебойных 7.62 мм",
     "profitable_lots": [
       {
-        "unit_price": 4001,
+        "unit_price": 1900,
         "avg_unit_price": 4437,
-        "total_price": 4001,
+        "total_price": 1900,
         "quantity": 1,
-        "percent_diff": 9.83
+        "percent_diff": 57.18
       }
     ]
   },
