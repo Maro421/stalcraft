@@ -2008,10 +2008,10 @@
     "profitable_lots": [
       {
         "unit_price": 10000,
-        "avg_unit_price": 10780,
+        "avg_unit_price": 11043,
         "total_price": 10000,
         "quantity": 1,
-        "percent_diff": 7.24
+        "percent_diff": 9.44
       }
     ]
   },
