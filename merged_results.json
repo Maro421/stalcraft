@@ -335,6 +335,18 @@
       }
     ]
   },
+  "5dp0": {
+    "item_name": "Банка с пшеном",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 3564,
+        "total_price": 30000,
+        "quantity": 10,
+        "percent_diff": 15.82
+      }
+    ]
+  },
   "y7mo": {
     "item_name": "Банка с макаронами",
     "profitable_lots": [
@@ -1995,11 +2007,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 679999,
-        "avg_unit_price": 805588,
-        "total_price": 679999,
+        "unit_price": 690000,
+        "avg_unit_price": 809124,
+        "total_price": 690000,
         "quantity": 1,
-        "percent_diff": 15.59
+        "percent_diff": 14.72
       }
     ]
   },
