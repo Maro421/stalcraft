@@ -735,23 +735,11 @@
     "item_name": "Древесный уголь",
     "profitable_lots": [
       {
-        "unit_price": 300,
-        "avg_unit_price": 450,
-        "total_price": 15000,
+        "unit_price": 200,
+        "avg_unit_price": 220,
+        "total_price": 10000,
         "quantity": 50,
-        "percent_diff": 33.33
-      }
-    ]
-  },
-  "1dnq": {
-    "item_name": "Тканевая сумка",
-    "profitable_lots": [
-      {
-        "unit_price": 210,
-        "avg_unit_price": 268,
-        "total_price": 10500,
-        "quantity": 50,
-        "percent_diff": 21.64
+        "percent_diff": 9.09
       }
     ]
   },
@@ -2048,6 +2036,18 @@
         "total_price": 5000,
         "quantity": 1,
         "percent_diff": 0.32
+      }
+    ]
+  },
+  "g4mgp": {
+    "item_name": "IMI Micro Uzi",
+    "profitable_lots": [
+      {
+        "unit_price": 7001,
+        "avg_unit_price": 10113,
+        "total_price": 7001,
+        "quantity": 1,
+        "percent_diff": 30.77
       }
     ]
   },
