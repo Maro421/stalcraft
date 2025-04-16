@@ -207,11 +207,11 @@
     "item_name": "Дрожжи",
     "profitable_lots": [
       {
-        "unit_price": 4990,
-        "avg_unit_price": 5066,
-        "total_price": 49900,
-        "quantity": 10,
-        "percent_diff": 1.5
+        "unit_price": 3700,
+        "avg_unit_price": 5238,
+        "total_price": 3700,
+        "quantity": 1,
+        "percent_diff": 29.36
       }
     ]
   },
@@ -1292,18 +1292,6 @@
         "total_price": 95000,
         "quantity": 1,
         "percent_diff": 4.79
-      }
-    ]
-  },
-  "4npn": {
-    "item_name": "Теломераза",
-    "profitable_lots": [
-      {
-        "unit_price": 100000,
-        "avg_unit_price": 106935,
-        "total_price": 1000000,
-        "quantity": 10,
-        "percent_diff": 6.49
       }
     ]
   },
