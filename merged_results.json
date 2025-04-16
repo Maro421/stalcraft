@@ -183,11 +183,11 @@
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
       {
-        "unit_price": 7333,
-        "avg_unit_price": 9105,
-        "total_price": 110000,
+        "unit_price": 7733,
+        "avg_unit_price": 10020,
+        "total_price": 115998,
         "quantity": 15,
-        "percent_diff": 19.46
+        "percent_diff": 22.82
       }
     ]
   },
@@ -195,11 +195,11 @@
     "item_name": "Изолента",
     "profitable_lots": [
       {
-        "unit_price": 79,
-        "avg_unit_price": 143,
-        "total_price": 79,
+        "unit_price": 99,
+        "avg_unit_price": 183,
+        "total_price": 99,
         "quantity": 1,
-        "percent_diff": 44.76
+        "percent_diff": 45.9
       }
     ]
   },
@@ -1280,6 +1280,18 @@
         "total_price": 120000,
         "quantity": 30,
         "percent_diff": 20.35
+      }
+    ]
+  },
+  "w7ro": {
+    "item_name": "Мутаген",
+    "profitable_lots": [
+      {
+        "unit_price": 95000,
+        "avg_unit_price": 99778,
+        "total_price": 95000,
+        "quantity": 1,
+        "percent_diff": 4.79
       }
     ]
   },
