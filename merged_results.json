@@ -1143,11 +1143,11 @@
     "item_name": "Набор кухонных ножей",
     "profitable_lots": [
       {
-        "unit_price": 7950,
+        "unit_price": 7900,
         "avg_unit_price": 7968,
-        "total_price": 7950,
+        "total_price": 7900,
         "quantity": 1,
-        "percent_diff": 0.23
+        "percent_diff": 0.85
       }
     ]
   },
@@ -1208,18 +1208,6 @@
         "total_price": 30000,
         "quantity": 15,
         "percent_diff": 34.51
-      }
-    ]
-  },
-  "99pz": {
-    "item_name": "Полиэтиленовая основа",
-    "profitable_lots": [
-      {
-        "unit_price": 6400,
-        "avg_unit_price": 6959,
-        "total_price": 32000,
-        "quantity": 5,
-        "percent_diff": 8.03
       }
     ]
   },
@@ -2139,11 +2127,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 200000,
-        "avg_unit_price": 224385,
-        "total_price": 200000,
+        "unit_price": 190000,
+        "avg_unit_price": 222807,
+        "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 10.87
+        "percent_diff": 14.72
       }
     ]
   },
