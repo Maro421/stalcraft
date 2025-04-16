@@ -459,11 +459,11 @@
     "item_name": "Кастрюля",
     "profitable_lots": [
       {
-        "unit_price": 655,
-        "avg_unit_price": 3395,
-        "total_price": 655,
-        "quantity": 1,
-        "percent_diff": 80.71
+        "unit_price": 2222,
+        "avg_unit_price": 4843,
+        "total_price": 100000,
+        "quantity": 45,
+        "percent_diff": 54.12
       }
     ]
   },
