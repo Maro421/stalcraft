@@ -867,11 +867,11 @@
     "item_name": "Детали электромотора",
     "profitable_lots": [
       {
-        "unit_price": 750,
-        "avg_unit_price": 822,
-        "total_price": 750,
+        "unit_price": 400,
+        "avg_unit_price": 511,
+        "total_price": 400,
         "quantity": 1,
-        "percent_diff": 8.76
+        "percent_diff": 21.72
       }
     ]
   },
@@ -2139,11 +2139,11 @@
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
       {
-        "unit_price": 290000,
-        "avg_unit_price": 324168,
-        "total_price": 290000,
+        "unit_price": 330000,
+        "avg_unit_price": 340679,
+        "total_price": 330000,
         "quantity": 1,
-        "percent_diff": 10.54
+        "percent_diff": 3.13
       }
     ]
   },
