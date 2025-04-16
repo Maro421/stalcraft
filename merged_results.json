@@ -887,18 +887,6 @@
       }
     ]
   },
-  "gmn6": {
-    "item_name": "Пулевой сплав",
-    "profitable_lots": [
-      {
-        "unit_price": 12,
-        "avg_unit_price": 15,
-        "total_price": 600,
-        "quantity": 50,
-        "percent_diff": 20.0
-      }
-    ]
-  },
   "q2yj": {
     "item_name": "Крепкая сталь",
     "profitable_lots": [
@@ -1515,11 +1503,11 @@
     "item_name": "Сумка СЭП 7.62 мм",
     "profitable_lots": [
       {
-        "unit_price": 99700,
-        "avg_unit_price": 102687,
-        "total_price": 99700,
+        "unit_price": 99998,
+        "avg_unit_price": 101142,
+        "total_price": 99998,
         "quantity": 1,
-        "percent_diff": 2.91
+        "percent_diff": 1.13
       }
     ]
   },
@@ -2156,6 +2144,18 @@
         "total_price": 17000000,
         "quantity": 1,
         "percent_diff": 7.58
+      }
+    ]
+  },
+  "2ony6": {
+    "item_name": "IWI Tavor X95",
+    "profitable_lots": [
+      {
+        "unit_price": 14600000,
+        "avg_unit_price": 18203845,
+        "total_price": 14600000,
+        "quantity": 1,
+        "percent_diff": 19.8
       }
     ]
   },
