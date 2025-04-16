@@ -587,18 +587,6 @@
       }
     ]
   },
-  "404p": {
-    "item_name": "Термическая смесь",
-    "profitable_lots": [
-      {
-        "unit_price": 289,
-        "avg_unit_price": 320,
-        "total_price": 14495,
-        "quantity": 50,
-        "percent_diff": 9.69
-      }
-    ]
-  },
   "qv76": {
     "item_name": "Нефтяной кокс",
     "profitable_lots": [
@@ -1751,6 +1739,18 @@
       }
     ]
   },
+  "1rlgq": {
+    "item_name": "Подсумок с военными аптечками",
+    "profitable_lots": [
+      {
+        "unit_price": 780,
+        "avg_unit_price": 799,
+        "total_price": 780,
+        "quantity": 1,
+        "percent_diff": 2.38
+      }
+    ]
+  },
   "4q7yl": {
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
@@ -1803,11 +1803,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5200,
-        "avg_unit_price": 7000,
-        "total_price": 520000,
+        "unit_price": 5290,
+        "avg_unit_price": 6848,
+        "total_price": 529000,
         "quantity": 100,
-        "percent_diff": 25.71
+        "percent_diff": 22.75
       }
     ]
   },
@@ -1820,6 +1820,18 @@
         "total_price": 3100000,
         "quantity": 1,
         "percent_diff": 3.34
+      }
+    ]
+  },
+  "zzwmm": {
+    "item_name": "Сыворотка изменения",
+    "profitable_lots": [
+      {
+        "unit_price": 260000,
+        "avg_unit_price": 281882,
+        "total_price": 260000,
+        "quantity": 1,
+        "percent_diff": 7.76
       }
     ]
   },
@@ -1911,23 +1923,23 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 500000,
-        "avg_unit_price": 506833,
-        "total_price": 500000,
+        "unit_price": 480000,
+        "avg_unit_price": 503500,
+        "total_price": 480000,
         "quantity": 1,
-        "percent_diff": 1.35
+        "percent_diff": 4.67
       }
     ]
   },
-  "n4m93": {
-    "item_name": "МР-412",
+  "dmjwn": {
+    "item_name": "HK416",
     "profitable_lots": [
       {
-        "unit_price": 600000,
-        "avg_unit_price": 607036,
-        "total_price": 600000,
+        "unit_price": 1100000,
+        "avg_unit_price": 1292691,
+        "total_price": 1100000,
         "quantity": 1,
-        "percent_diff": 1.16
+        "percent_diff": 14.91
       }
     ]
   },
@@ -1935,11 +1947,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4850000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4850000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 12.78
       }
     ]
   },
@@ -1960,10 +1972,10 @@
     "profitable_lots": [
       {
         "unit_price": 500000,
-        "avg_unit_price": 535368,
+        "avg_unit_price": 532736,
         "total_price": 500000,
         "quantity": 1,
-        "percent_diff": 6.61
+        "percent_diff": 6.14
       }
     ]
   },
@@ -1972,10 +1984,10 @@
     "profitable_lots": [
       {
         "unit_price": 1400000,
-        "avg_unit_price": 1481198,
+        "avg_unit_price": 1491725,
         "total_price": 1400000,
         "quantity": 1,
-        "percent_diff": 5.48
+        "percent_diff": 6.15
       }
     ]
   },
@@ -1983,23 +1995,23 @@
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
       {
-        "unit_price": 270000,
+        "unit_price": 297000,
         "avg_unit_price": 298876,
-        "total_price": 270000,
+        "total_price": 297000,
         "quantity": 1,
-        "percent_diff": 9.66
+        "percent_diff": 0.63
       }
     ]
   },
-  "okm20": {
-    "item_name": "HK PSG1",
+  "p63d2": {
+    "item_name": "HK417",
     "profitable_lots": [
       {
-        "unit_price": 160000,
-        "avg_unit_price": 168370,
-        "total_price": 160000,
+        "unit_price": 16990000,
+        "avg_unit_price": 17547215,
+        "total_price": 16990000,
         "quantity": 1,
-        "percent_diff": 4.97
+        "percent_diff": 3.18
       }
     ]
   },
