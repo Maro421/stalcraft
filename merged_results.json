@@ -2147,15 +2147,15 @@
       }
     ]
   },
-  "5lpo4": {
-    "item_name": "ПБС-4",
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
     "profitable_lots": [
       {
-        "unit_price": 350000,
-        "avg_unit_price": 366353,
-        "total_price": 350000,
+        "unit_price": 1750000,
+        "avg_unit_price": 1793680,
+        "total_price": 1750000,
         "quantity": 1,
-        "percent_diff": 4.46
+        "percent_diff": 2.44
       }
     ]
   },
