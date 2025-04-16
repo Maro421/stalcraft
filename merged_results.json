@@ -1,4 +1,16 @@
 {
+  "wooz": {
+    "item_name": "Тусклые минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 1177,
+        "avg_unit_price": 1200,
+        "total_price": 58888,
+        "quantity": 50,
+        "percent_diff": 1.92
+      }
+    ]
+  },
   "kllj": {
     "item_name": "Лазурные минералы",
     "profitable_lots": [
@@ -1108,10 +1120,10 @@
     "profitable_lots": [
       {
         "unit_price": 2000,
-        "avg_unit_price": 3537,
+        "avg_unit_price": 3296,
         "total_price": 30000,
         "quantity": 15,
-        "percent_diff": 43.45
+        "percent_diff": 39.32
       }
     ]
   },
