@@ -527,6 +527,18 @@
       }
     ]
   },
+  "404p": {
+    "item_name": "Термическая смесь",
+    "profitable_lots": [
+      {
+        "unit_price": 289,
+        "avg_unit_price": 320,
+        "total_price": 14495,
+        "quantity": 50,
+        "percent_diff": 9.69
+      }
+    ]
+  },
   "qv76": {
     "item_name": "Нефтяной кокс",
     "profitable_lots": [
@@ -1739,18 +1751,6 @@
       }
     ]
   },
-  "7l1kr": {
-    "item_name": "Подсумок с аптечками проводника",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5083,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 21.31
-      }
-    ]
-  },
   "4q7yl": {
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
@@ -1955,27 +1955,15 @@
       }
     ]
   },
-  "dmjwn": {
-    "item_name": "HK416",
-    "profitable_lots": [
-      {
-        "unit_price": 1150000,
-        "avg_unit_price": 1302080,
-        "total_price": 1150000,
-        "quantity": 1,
-        "percent_diff": 11.68
-      }
-    ]
-  },
   "2onz6": {
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4900000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4900000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 11.88
       }
     ]
   },
@@ -1983,11 +1971,11 @@
     "item_name": "ТКБ-0146М",
     "profitable_lots": [
       {
-        "unit_price": 450000,
+        "unit_price": 430000,
         "avg_unit_price": 458719,
-        "total_price": 450000,
+        "total_price": 430000,
         "quantity": 1,
-        "percent_diff": 1.9
+        "percent_diff": 6.26
       }
     ]
   },
@@ -1996,10 +1984,22 @@
     "profitable_lots": [
       {
         "unit_price": 499999,
-        "avg_unit_price": 534578,
+        "avg_unit_price": 533000,
         "total_price": 499999,
         "quantity": 1,
-        "percent_diff": 6.47
+        "percent_diff": 6.19
+      }
+    ]
+  },
+  "969jz": {
+    "item_name": "Steyr AUG A2",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 211836,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 5.59
       }
     ]
   },
@@ -2007,23 +2007,11 @@
     "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 1500000,
-        "avg_unit_price": 1501388,
-        "total_price": 1500000,
+        "unit_price": 1400000,
+        "avg_unit_price": 1507514,
+        "total_price": 1400000,
         "quantity": 1,
-        "percent_diff": 0.09
-      }
-    ]
-  },
-  "zz24n": {
-    "item_name": "SIG SG 550 Sniper",
-    "profitable_lots": [
-      {
-        "unit_price": 270000,
-        "avg_unit_price": 303142,
-        "total_price": 270000,
-        "quantity": 1,
-        "percent_diff": 10.93
+        "percent_diff": 7.13
       }
     ]
   },
