@@ -3,11 +3,11 @@
     "item_name": "Алые минералы",
     "profitable_lots": [
       {
-        "unit_price": 540,
-        "avg_unit_price": 666,
-        "total_price": 27000,
+        "unit_price": 539,
+        "avg_unit_price": 674,
+        "total_price": 26999,
         "quantity": 50,
-        "percent_diff": 18.92
+        "percent_diff": 20.03
       }
     ]
   },
@@ -15,11 +15,11 @@
     "item_name": "Золотые минералы",
     "profitable_lots": [
       {
-        "unit_price": 3499,
-        "avg_unit_price": 4479,
-        "total_price": 34999,
-        "quantity": 10,
-        "percent_diff": 21.88
+        "unit_price": 3642,
+        "avg_unit_price": 4491,
+        "total_price": 51000,
+        "quantity": 14,
+        "percent_diff": 18.9
       }
     ]
   },
@@ -1767,11 +1767,11 @@
     "item_name": "Ноотроп",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 14285,
-        "total_price": 200000,
-        "quantity": 20,
-        "percent_diff": 30.0
+        "unit_price": 11000,
+        "avg_unit_price": 11501,
+        "total_price": 550000,
+        "quantity": 50,
+        "percent_diff": 4.36
       }
     ]
   },
