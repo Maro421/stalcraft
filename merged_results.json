@@ -647,6 +647,18 @@
       }
     ]
   },
+  "1dk6": {
+    "item_name": "Набор специй",
+    "profitable_lots": [
+      {
+        "unit_price": 5833,
+        "avg_unit_price": 6683,
+        "total_price": 70000,
+        "quantity": 12,
+        "percent_diff": 12.72
+      }
+    ]
+  },
   "z7y2": {
     "item_name": "Протертые овощи",
     "profitable_lots": [
@@ -2307,23 +2319,11 @@
     "item_name": "Бронекостюм «КЗ-3б»",
     "profitable_lots": [
       {
-        "unit_price": 240000,
-        "avg_unit_price": 270499,
-        "total_price": 240000,
+        "unit_price": 133333,
+        "avg_unit_price": 141882,
+        "total_price": 133333,
         "quantity": 1,
-        "percent_diff": 11.28
-      }
-    ]
-  },
-  "y359o": {
-    "item_name": "Тяжелый бронекостюм «Туманный охотник»",
-    "profitable_lots": [
-      {
-        "unit_price": 271000,
-        "avg_unit_price": 312879,
-        "total_price": 271000,
-        "quantity": 1,
-        "percent_diff": 13.39
+        "percent_diff": 6.03
       }
     ]
   },
