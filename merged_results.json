@@ -4,10 +4,10 @@
     "profitable_lots": [
       {
         "unit_price": 3333,
-        "avg_unit_price": 6903,
+        "avg_unit_price": 6934,
         "total_price": 9999,
         "quantity": 3,
-        "percent_diff": 51.72
+        "percent_diff": 51.93
       }
     ]
   },
@@ -1899,11 +1899,11 @@
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
       {
-        "unit_price": 780,
+        "unit_price": 770,
         "avg_unit_price": 800,
-        "total_price": 780,
+        "total_price": 770,
         "quantity": 1,
-        "percent_diff": 2.5
+        "percent_diff": 3.75
       }
     ]
   },
@@ -1916,18 +1916,6 @@
         "total_price": 8000,
         "quantity": 1,
         "percent_diff": 4.42
-      }
-    ]
-  },
-  "j5qd4": {
-    "item_name": "Сумка СБП 7.62 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 15000,
-        "avg_unit_price": 16384,
-        "total_price": 15000,
-        "quantity": 1,
-        "percent_diff": 8.45
       }
     ]
   },
@@ -1948,10 +1936,10 @@
     "profitable_lots": [
       {
         "unit_price": 6110,
-        "avg_unit_price": 6452,
+        "avg_unit_price": 6439,
         "total_price": 61100,
         "quantity": 10,
-        "percent_diff": 5.3
+        "percent_diff": 5.11
       }
     ]
   },
@@ -2127,11 +2115,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 190000,
-        "avg_unit_price": 222807,
-        "total_price": 190000,
+        "unit_price": 200000,
+        "avg_unit_price": 224385,
+        "total_price": 200000,
         "quantity": 1,
-        "percent_diff": 14.72
+        "percent_diff": 10.87
       }
     ]
   },
@@ -2140,10 +2128,10 @@
     "profitable_lots": [
       {
         "unit_price": 280000,
-        "avg_unit_price": 299725,
+        "avg_unit_price": 311022,
         "total_price": 280000,
         "quantity": 1,
-        "percent_diff": 6.58
+        "percent_diff": 9.97
       }
     ]
   },
