@@ -1576,10 +1576,10 @@
     "profitable_lots": [
       {
         "unit_price": 34499,
-        "avg_unit_price": 41529,
+        "avg_unit_price": 41750,
         "total_price": 34499,
         "quantity": 1,
-        "percent_diff": 16.93
+        "percent_diff": 17.37
       }
     ]
   },
@@ -2060,18 +2060,6 @@
         "total_price": 270000,
         "quantity": 1,
         "percent_diff": 10.93
-      }
-    ]
-  },
-  "okm20": {
-    "item_name": "HK PSG1",
-    "profitable_lots": [
-      {
-        "unit_price": 170000,
-        "avg_unit_price": 194210,
-        "total_price": 170000,
-        "quantity": 1,
-        "percent_diff": 12.47
       }
     ]
   },
