@@ -1071,11 +1071,11 @@
     "item_name": "Защитное покрытие",
     "profitable_lots": [
       {
-        "unit_price": 57000,
+        "unit_price": 56000,
         "avg_unit_price": 57051,
-        "total_price": 57000,
+        "total_price": 56000,
         "quantity": 1,
-        "percent_diff": 0.09
+        "percent_diff": 1.84
       }
     ]
   },
@@ -1604,18 +1604,6 @@
         "total_price": 6000,
         "quantity": 2,
         "percent_diff": 45.1
-      }
-    ]
-  },
-  "5lo3o": {
-    "item_name": "Копыто сильного кабана",
-    "profitable_lots": [
-      {
-        "unit_price": 3428,
-        "avg_unit_price": 3603,
-        "total_price": 24000,
-        "quantity": 7,
-        "percent_diff": 4.86
       }
     ]
   },
