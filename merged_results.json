@@ -1096,10 +1096,10 @@
     "profitable_lots": [
       {
         "unit_price": 8600,
-        "avg_unit_price": 10068,
+        "avg_unit_price": 9887,
         "total_price": 430000,
         "quantity": 50,
-        "percent_diff": 14.58
+        "percent_diff": 13.02
       }
     ]
   },
@@ -1816,10 +1816,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 1316,
+        "avg_unit_price": 1021,
         "total_price": 1000,
         "quantity": 1,
-        "percent_diff": 24.01
+        "percent_diff": 2.06
       }
     ]
   },
@@ -1887,11 +1887,23 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6300,
-        "avg_unit_price": 6587,
-        "total_price": 63000,
+        "unit_price": 6111,
+        "avg_unit_price": 6420,
+        "total_price": 61111,
         "quantity": 10,
-        "percent_diff": 4.36
+        "percent_diff": 4.81
+      }
+    ]
+  },
+  "zzwmm": {
+    "item_name": "Сыворотка изменения",
+    "profitable_lots": [
+      {
+        "unit_price": 280000,
+        "avg_unit_price": 284947,
+        "total_price": 280000,
+        "quantity": 1,
+        "percent_diff": 1.74
       }
     ]
   },
@@ -1936,10 +1948,10 @@
     "profitable_lots": [
       {
         "unit_price": 2000000,
-        "avg_unit_price": 2057543,
+        "avg_unit_price": 2047017,
         "total_price": 2000000,
         "quantity": 1,
-        "percent_diff": 2.8
+        "percent_diff": 2.3
       }
     ]
   },
@@ -2099,18 +2111,6 @@
       }
     ]
   },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 6348,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 36.99
-      }
-    ]
-  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2135,15 +2135,27 @@
       }
     ]
   },
+  "m0vvk": {
+    "item_name": "НР-43",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 7066,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 29.24
+      }
+    ]
+  },
   "1r39q": {
     "item_name": "Пламегаситель AKademia Тьма",
     "profitable_lots": [
       {
-        "unit_price": 105000,
+        "unit_price": 120000,
         "avg_unit_price": 124058,
-        "total_price": 105000,
+        "total_price": 120000,
         "quantity": 1,
-        "percent_diff": 15.36
+        "percent_diff": 3.27
       }
     ]
   },
@@ -2163,23 +2175,11 @@
     "item_name": "Глушитель FA556 Mini",
     "profitable_lots": [
       {
-        "unit_price": 1566666,
-        "avg_unit_price": 1581970,
-        "total_price": 1566666,
+        "unit_price": 1556000,
+        "avg_unit_price": 1571570,
+        "total_price": 1556000,
         "quantity": 1,
-        "percent_diff": 0.97
-      }
-    ]
-  },
-  "wjr9d": {
-    "item_name": "Глушитель Salvo 12",
-    "profitable_lots": [
-      {
-        "unit_price": 1740000,
-        "avg_unit_price": 1793680,
-        "total_price": 1740000,
-        "quantity": 1,
-        "percent_diff": 2.99
+        "percent_diff": 0.99
       }
     ]
   },
@@ -2199,11 +2199,11 @@
     "item_name": "Барабанный магазин 5.56 NATO, хаки",
     "profitable_lots": [
       {
-        "unit_price": 2450000,
-        "avg_unit_price": 2496113,
-        "total_price": 2450000,
+        "unit_price": 2333333,
+        "avg_unit_price": 2561571,
+        "total_price": 2333333,
         "quantity": 1,
-        "percent_diff": 1.85
+        "percent_diff": 8.91
       }
     ]
   },
@@ -2223,11 +2223,11 @@
     "item_name": "Барабанный магазин 5.56 NATO EMAG",
     "profitable_lots": [
       {
-        "unit_price": 5000490,
-        "avg_unit_price": 5140352,
-        "total_price": 5000490,
+        "unit_price": 5000000,
+        "avg_unit_price": 5146235,
+        "total_price": 5000000,
         "quantity": 1,
-        "percent_diff": 2.72
+        "percent_diff": 2.84
       }
     ]
   },
@@ -2235,11 +2235,11 @@
     "item_name": "Увеличенный магазин АК-308",
     "profitable_lots": [
       {
-        "unit_price": 2489999,
+        "unit_price": 2499999,
         "avg_unit_price": 2523535,
-        "total_price": 2489999,
+        "total_price": 2499999,
         "quantity": 1,
-        "percent_diff": 1.33
+        "percent_diff": 0.93
       }
     ]
   },
