@@ -791,27 +791,15 @@
       }
     ]
   },
-  "wogp": {
-    "item_name": "Доски",
-    "profitable_lots": [
-      {
-        "unit_price": 1100,
-        "avg_unit_price": 1190,
-        "total_price": 55000,
-        "quantity": 50,
-        "percent_diff": 7.56
-      }
-    ]
-  },
   "40lp": {
     "item_name": "Микроэлектроника",
     "profitable_lots": [
       {
-        "unit_price": 1793,
+        "unit_price": 1199,
         "avg_unit_price": 2282,
-        "total_price": 26900,
-        "quantity": 15,
-        "percent_diff": 21.43
+        "total_price": 59999,
+        "quantity": 50,
+        "percent_diff": 47.46
       }
     ]
   },
@@ -1996,10 +1984,10 @@
     "profitable_lots": [
       {
         "unit_price": 15000,
-        "avg_unit_price": 15561,
+        "avg_unit_price": 16384,
         "total_price": 15000,
         "quantity": 1,
-        "percent_diff": 3.61
+        "percent_diff": 8.45
       }
     ]
   },
