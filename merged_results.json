@@ -1047,23 +1047,11 @@
     "item_name": "Набор кухонных ножей",
     "profitable_lots": [
       {
-        "unit_price": 7000,
-        "avg_unit_price": 7768,
-        "total_price": 91000,
-        "quantity": 13,
-        "percent_diff": 9.89
-      }
-    ]
-  },
-  "2nw5": {
-    "item_name": "Защитное покрытие",
-    "profitable_lots": [
-      {
-        "unit_price": 49999,
-        "avg_unit_price": 57145,
-        "total_price": 249999,
-        "quantity": 5,
-        "percent_diff": 12.51
+        "unit_price": 7333,
+        "avg_unit_price": 7493,
+        "total_price": 110000,
+        "quantity": 15,
+        "percent_diff": 2.14
       }
     ]
   },
@@ -1688,18 +1676,6 @@
         "total_price": 2800,
         "quantity": 1,
         "percent_diff": 29.33
-      }
-    ]
-  },
-  "1r0gg": {
-    "item_name": "Сумка керамических пластин IV",
-    "profitable_lots": [
-      {
-        "unit_price": 7000,
-        "avg_unit_price": 7136,
-        "total_price": 7000,
-        "quantity": 1,
-        "percent_diff": 1.91
       }
     ]
   },
