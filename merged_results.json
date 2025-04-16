@@ -1583,6 +1583,18 @@
       }
     ]
   },
+  "knydy": {
+    "item_name": "Ящик гранат «Завеса»",
+    "profitable_lots": [
+      {
+        "unit_price": 15000,
+        "avg_unit_price": 29088,
+        "total_price": 15000,
+        "quantity": 1,
+        "percent_diff": 48.43
+      }
+    ]
+  },
   "qjl6j": {
     "item_name": "Ящик гранат «Искра»",
     "profitable_lots": [
