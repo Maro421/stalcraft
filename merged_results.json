@@ -71,27 +71,27 @@
       }
     ]
   },
+  "npp9": {
+    "item_name": "Чертоцвет",
+    "profitable_lots": [
+      {
+        "unit_price": 1799,
+        "avg_unit_price": 1973,
+        "total_price": 89999,
+        "quantity": 50,
+        "percent_diff": 8.82
+      }
+    ]
+  },
   "prrd": {
     "item_name": "Янтарная полынь",
     "profitable_lots": [
       {
-        "unit_price": 11500,
-        "avg_unit_price": 13522,
-        "total_price": 195500,
-        "quantity": 17,
-        "percent_diff": 14.95
-      }
-    ]
-  },
-  "g0vn": {
-    "item_name": "Канистра с бензином",
-    "profitable_lots": [
-      {
-        "unit_price": 5999,
-        "avg_unit_price": 6485,
-        "total_price": 11999,
-        "quantity": 2,
-        "percent_diff": 7.49
+        "unit_price": 9545,
+        "avg_unit_price": 14363,
+        "total_price": 105000,
+        "quantity": 11,
+        "percent_diff": 33.54
       }
     ]
   },
@@ -1912,10 +1912,10 @@
     "profitable_lots": [
       {
         "unit_price": 5000,
-        "avg_unit_price": 10214,
+        "avg_unit_price": 9944,
         "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 51.05
+        "percent_diff": 49.72
       }
     ]
   },
@@ -2108,6 +2108,18 @@
         "total_price": 529999,
         "quantity": 1,
         "percent_diff": 1.25
+      }
+    ]
+  },
+  "p63d2": {
+    "item_name": "HK417",
+    "profitable_lots": [
+      {
+        "unit_price": 16600000,
+        "avg_unit_price": 17196470,
+        "total_price": 16600000,
+        "quantity": 1,
+        "percent_diff": 3.47
       }
     ]
   },
