@@ -76,10 +76,10 @@
     "profitable_lots": [
       {
         "unit_price": 3500,
-        "avg_unit_price": 4710,
+        "avg_unit_price": 4815,
         "total_price": 7000,
         "quantity": 2,
-        "percent_diff": 25.69
+        "percent_diff": 27.31
       }
     ]
   },
@@ -1967,18 +1967,6 @@
       }
     ]
   },
-  "j5qd4": {
-    "item_name": "Сумка СБП 7.62 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 15000,
-        "avg_unit_price": 15561,
-        "total_price": 15000,
-        "quantity": 1,
-        "percent_diff": 3.61
-      }
-    ]
-  },
   "lyrdq": {
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
@@ -2151,11 +2139,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4444444,
-        "avg_unit_price": 5560818,
-        "total_price": 4444444,
+        "unit_price": 4790000,
+        "avg_unit_price": 5484210,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 20.08
+        "percent_diff": 12.66
       }
     ]
   },
@@ -2171,27 +2159,27 @@
       }
     ]
   },
-  "6w64y": {
-    "item_name": "Grizzly 8.5",
-    "profitable_lots": [
-      {
-        "unit_price": 529999,
-        "avg_unit_price": 537736,
-        "total_price": 529999,
-        "quantity": 1,
-        "percent_diff": 1.44
-      }
-    ]
-  },
   "969jz": {
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
         "unit_price": 190000,
-        "avg_unit_price": 227659,
+        "avg_unit_price": 226607,
         "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 16.54
+        "percent_diff": 16.15
+      }
+    ]
+  },
+  "zz24n": {
+    "item_name": "SIG SG 550 Sniper",
+    "profitable_lots": [
+      {
+        "unit_price": 310000,
+        "avg_unit_price": 311022,
+        "total_price": 310000,
+        "quantity": 1,
+        "percent_diff": 0.33
       }
     ]
   },
