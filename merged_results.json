@@ -2043,11 +2043,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 160001,
-        "avg_unit_price": 168926,
-        "total_price": 160001,
+        "unit_price": 148000,
+        "avg_unit_price": 167516,
+        "total_price": 148000,
         "quantity": 1,
-        "percent_diff": 5.28
+        "percent_diff": 11.65
       }
     ]
   },
