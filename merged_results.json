@@ -447,11 +447,11 @@
     "item_name": "Сковорода",
     "profitable_lots": [
       {
-        "unit_price": 1333,
-        "avg_unit_price": 1857,
-        "total_price": 4000,
-        "quantity": 3,
-        "percent_diff": 28.22
+        "unit_price": 1900,
+        "avg_unit_price": 1931,
+        "total_price": 1900,
+        "quantity": 1,
+        "percent_diff": 1.61
       }
     ]
   },
@@ -459,11 +459,11 @@
     "item_name": "Кастрюля",
     "profitable_lots": [
       {
-        "unit_price": 1900,
-        "avg_unit_price": 2033,
-        "total_price": 19000,
-        "quantity": 10,
-        "percent_diff": 6.54
+        "unit_price": 2000,
+        "avg_unit_price": 2031,
+        "total_price": 100000,
+        "quantity": 50,
+        "percent_diff": 1.53
       }
     ]
   },
@@ -1739,18 +1739,6 @@
       }
     ]
   },
-  "1rlgq": {
-    "item_name": "Подсумок с военными аптечками",
-    "profitable_lots": [
-      {
-        "unit_price": 780,
-        "avg_unit_price": 799,
-        "total_price": 780,
-        "quantity": 1,
-        "percent_diff": 2.38
-      }
-    ]
-  },
   "4q7yl": {
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
@@ -1911,23 +1899,23 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 480000,
-        "avg_unit_price": 503500,
-        "total_price": 480000,
+        "unit_price": 500000,
+        "avg_unit_price": 506833,
+        "total_price": 500000,
         "quantity": 1,
-        "percent_diff": 4.67
+        "percent_diff": 1.35
       }
     ]
   },
-  "dmjwn": {
-    "item_name": "HK416",
+  "n4m93": {
+    "item_name": "МР-412",
     "profitable_lots": [
       {
-        "unit_price": 1100000,
-        "avg_unit_price": 1292691,
-        "total_price": 1100000,
+        "unit_price": 600000,
+        "avg_unit_price": 607036,
+        "total_price": 600000,
         "quantity": 1,
-        "percent_diff": 14.91
+        "percent_diff": 1.16
       }
     ]
   },
@@ -1935,11 +1923,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4850000,
+        "unit_price": 4800000,
         "avg_unit_price": 5560818,
-        "total_price": 4850000,
+        "total_price": 4800000,
         "quantity": 1,
-        "percent_diff": 12.78
+        "percent_diff": 13.68
       }
     ]
   },
@@ -1960,10 +1948,10 @@
     "profitable_lots": [
       {
         "unit_price": 500000,
-        "avg_unit_price": 532736,
+        "avg_unit_price": 535368,
         "total_price": 500000,
         "quantity": 1,
-        "percent_diff": 6.14
+        "percent_diff": 6.61
       }
     ]
   },
@@ -1972,10 +1960,10 @@
     "profitable_lots": [
       {
         "unit_price": 1400000,
-        "avg_unit_price": 1491725,
+        "avg_unit_price": 1481198,
         "total_price": 1400000,
         "quantity": 1,
-        "percent_diff": 6.15
+        "percent_diff": 5.48
       }
     ]
   },
@@ -1983,11 +1971,11 @@
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
       {
-        "unit_price": 297000,
+        "unit_price": 270000,
         "avg_unit_price": 298876,
-        "total_price": 297000,
+        "total_price": 270000,
         "quantity": 1,
-        "percent_diff": 0.63
+        "percent_diff": 9.66
       }
     ]
   },
