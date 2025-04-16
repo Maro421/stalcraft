@@ -388,10 +388,10 @@
     "profitable_lots": [
       {
         "unit_price": 5100,
-        "avg_unit_price": 7780,
+        "avg_unit_price": 7699,
         "total_price": 255000,
         "quantity": 50,
-        "percent_diff": 34.45
+        "percent_diff": 33.76
       }
     ]
   },
@@ -1983,11 +1983,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4790000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 13.86
       }
     ]
   },
@@ -2019,11 +2019,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 199999,
-        "avg_unit_price": 210578,
-        "total_price": 199999,
+        "unit_price": 189999,
+        "avg_unit_price": 208944,
+        "total_price": 189999,
         "quantity": 1,
-        "percent_diff": 5.02
+        "percent_diff": 9.07
       }
     ]
   },
@@ -2043,11 +2043,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 160001,
-        "avg_unit_price": 168926,
-        "total_price": 160001,
+        "unit_price": 149999,
+        "avg_unit_price": 167516,
+        "total_price": 149999,
         "quantity": 1,
-        "percent_diff": 5.28
+        "percent_diff": 10.46
       }
     ]
   },
