@@ -1695,11 +1695,11 @@
     "item_name": "Копыто сильного кабана",
     "profitable_lots": [
       {
-        "unit_price": 3142,
-        "avg_unit_price": 3677,
-        "total_price": 22000,
+        "unit_price": 3785,
+        "avg_unit_price": 4027,
+        "total_price": 26500,
         "quantity": 7,
-        "percent_diff": 14.55
+        "percent_diff": 6.01
       }
     ]
   },
@@ -1707,11 +1707,11 @@
     "item_name": "Едкое мясо бестии",
     "profitable_lots": [
       {
-        "unit_price": 2833,
-        "avg_unit_price": 3018,
-        "total_price": 8500,
+        "unit_price": 3000,
+        "avg_unit_price": 3222,
+        "total_price": 9000,
         "quantity": 3,
-        "percent_diff": 6.13
+        "percent_diff": 6.89
       }
     ]
   },
