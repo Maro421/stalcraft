@@ -1475,18 +1475,6 @@
       }
     ]
   },
-  "g54p": {
-    "item_name": "Патрон 9 мм экспансивный",
-    "profitable_lots": [
-      {
-        "unit_price": 1,
-        "avg_unit_price": 2,
-        "total_price": 500,
-        "quantity": 300,
-        "percent_diff": 50.0
-      }
-    ]
-  },
   "52l0": {
     "item_name": "Патрон 9 мм СБП",
     "profitable_lots": [
