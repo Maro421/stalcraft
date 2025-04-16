@@ -1527,11 +1527,11 @@
     "item_name": "Сумка зажигательных 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 34000,
+        "unit_price": 27500,
         "avg_unit_price": 35587,
-        "total_price": 34000,
+        "total_price": 27500,
         "quantity": 1,
-        "percent_diff": 4.46
+        "percent_diff": 22.72
       }
     ]
   },
