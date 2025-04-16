@@ -3,11 +3,11 @@
     "item_name": "Лазурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 83,
+        "unit_price": 357,
         "avg_unit_price": 410,
-        "total_price": 3999,
-        "quantity": 48,
-        "percent_diff": 79.76
+        "total_price": 9999,
+        "quantity": 28,
+        "percent_diff": 12.93
       }
     ]
   },
@@ -15,11 +15,11 @@
     "item_name": "Пурпурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 365,
+        "unit_price": 360,
         "avg_unit_price": 400,
-        "total_price": 14999,
-        "quantity": 41,
-        "percent_diff": 8.75
+        "total_price": 18000,
+        "quantity": 50,
+        "percent_diff": 10.0
       }
     ]
   },
@@ -1220,6 +1220,18 @@
         "total_price": 50000,
         "quantity": 2,
         "percent_diff": 1.72
+      }
+    ]
+  },
+  "gdj6": {
+    "item_name": "Детектор узкого диапазона «Эльбрус»",
+    "profitable_lots": [
+      {
+        "unit_price": 52000000,
+        "avg_unit_price": 54817717,
+        "total_price": 52000000,
+        "quantity": 1,
+        "percent_diff": 5.14
       }
     ]
   },
