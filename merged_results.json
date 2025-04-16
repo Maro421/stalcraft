@@ -2255,6 +2255,18 @@
       }
     ]
   },
+  "wjro3": {
+    "item_name": "Барабанный магазин 5.56 NATO, хаки",
+    "profitable_lots": [
+      {
+        "unit_price": 2300000,
+        "avg_unit_price": 2583205,
+        "total_price": 2300000,
+        "quantity": 1,
+        "percent_diff": 10.96
+      }
+    ]
+  },
   "ly1lo": {
     "item_name": "Магазин 7.62 NATO PMAG, черный",
     "profitable_lots": [
