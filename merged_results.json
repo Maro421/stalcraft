@@ -431,6 +431,18 @@
       }
     ]
   },
+  "qvwk": {
+    "item_name": "Клей",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1055,
+        "total_price": 50000,
+        "quantity": 50,
+        "percent_diff": 5.21
+      }
+    ]
+  },
   "ll11": {
     "item_name": "Сломанный прибор",
     "profitable_lots": [
@@ -2115,9 +2127,9 @@
     "item_name": "АК-105",
     "profitable_lots": [
       {
-        "unit_price": 430000,
+        "unit_price": 429999,
         "avg_unit_price": 502027,
-        "total_price": 430000,
+        "total_price": 429999,
         "quantity": 1,
         "percent_diff": 14.35
       }
