@@ -1611,11 +1611,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 25000,
-        "avg_unit_price": 30333,
-        "total_price": 100000,
-        "quantity": 4,
-        "percent_diff": 17.58
+        "unit_price": 29090,
+        "avg_unit_price": 32501,
+        "total_price": 319999,
+        "quantity": 11,
+        "percent_diff": 10.5
       }
     ]
   },
@@ -1623,11 +1623,11 @@
     "item_name": "Аномальная пыль",
     "profitable_lots": [
       {
-        "unit_price": 350,
-        "avg_unit_price": 387,
-        "total_price": 3851,
-        "quantity": 11,
-        "percent_diff": 9.56
+        "unit_price": 373,
+        "avg_unit_price": 378,
+        "total_price": 345555,
+        "quantity": 924,
+        "percent_diff": 1.32
       }
     ]
   },
@@ -2084,18 +2084,6 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 2.11
-      }
-    ]
-  },
-  "knvmj": {
-    "item_name": "Jagdkommando",
-    "profitable_lots": [
-      {
-        "unit_price": 9500000,
-        "avg_unit_price": 10061551,
-        "total_price": 9500000,
-        "quantity": 1,
-        "percent_diff": 5.58
       }
     ]
   },
