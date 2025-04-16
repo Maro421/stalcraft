@@ -467,18 +467,6 @@
       }
     ]
   },
-  "dq2n": {
-    "item_name": "Мультитул",
-    "profitable_lots": [
-      {
-        "unit_price": 3000,
-        "avg_unit_price": 3921,
-        "total_price": 3000,
-        "quantity": 1,
-        "percent_diff": 23.49
-      }
-    ]
-  },
   "1d56": {
     "item_name": "Щепки",
     "profitable_lots": [
@@ -1983,11 +1971,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5699,
-        "avg_unit_price": 6193,
-        "total_price": 56999,
-        "quantity": 10,
-        "percent_diff": 7.98
+        "unit_price": 5250,
+        "avg_unit_price": 8092,
+        "total_price": 525000,
+        "quantity": 100,
+        "percent_diff": 35.12
       }
     ]
   },
