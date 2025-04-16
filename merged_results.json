@@ -2111,6 +2111,18 @@
       }
     ]
   },
+  "p63d2": {
+    "item_name": "HK417",
+    "profitable_lots": [
+      {
+        "unit_price": 16600000,
+        "avg_unit_price": 17196470,
+        "total_price": 16600000,
+        "quantity": 1,
+        "percent_diff": 3.47
+      }
+    ]
+  },
   "2ony6": {
     "item_name": "IWI Tavor X95",
     "profitable_lots": [
