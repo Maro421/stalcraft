@@ -1720,22 +1720,10 @@
     "profitable_lots": [
       {
         "unit_price": 4100,
-        "avg_unit_price": 4832,
+        "avg_unit_price": 4860,
         "total_price": 4100,
         "quantity": 1,
-        "percent_diff": 15.15
-      }
-    ]
-  },
-  "1rl4r": {
-    "item_name": "Хвост сильной шавки",
-    "profitable_lots": [
-      {
-        "unit_price": 4166,
-        "avg_unit_price": 4944,
-        "total_price": 24999,
-        "quantity": 6,
-        "percent_diff": 15.74
+        "percent_diff": 15.64
       }
     ]
   },
@@ -1743,11 +1731,11 @@
     "item_name": "Копыто сильного кабана",
     "profitable_lots": [
       {
-        "unit_price": 3785,
+        "unit_price": 3142,
         "avg_unit_price": 4027,
-        "total_price": 26500,
+        "total_price": 22000,
         "quantity": 7,
-        "percent_diff": 6.01
+        "percent_diff": 21.98
       }
     ]
   },
@@ -2372,18 +2360,6 @@
         "total_price": 2700000,
         "quantity": 1,
         "percent_diff": 3.02
-      }
-    ]
-  },
-  "knq0p": {
-    "item_name": "Бронекостюм «Рысь»",
-    "profitable_lots": [
-      {
-        "unit_price": 35000,
-        "avg_unit_price": 41647,
-        "total_price": 35000,
-        "quantity": 1,
-        "percent_diff": 15.96
       }
     ]
   },
