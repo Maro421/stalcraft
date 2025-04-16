@@ -827,6 +827,18 @@
       }
     ]
   },
+  "z7m9": {
+    "item_name": "Мультимер",
+    "profitable_lots": [
+      {
+        "unit_price": 1600,
+        "avg_unit_price": 1815,
+        "total_price": 1600,
+        "quantity": 1,
+        "percent_diff": 11.85
+      }
+    ]
+  },
   "5dm4": {
     "item_name": "Контрольная плата",
     "profitable_lots": [
