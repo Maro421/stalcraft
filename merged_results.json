@@ -291,11 +291,11 @@
     "item_name": "Полутухлая рыба",
     "profitable_lots": [
       {
-        "unit_price": 3000,
-        "avg_unit_price": 4305,
-        "total_price": 15000,
-        "quantity": 5,
-        "percent_diff": 30.31
+        "unit_price": 1999,
+        "avg_unit_price": 4317,
+        "total_price": 5999,
+        "quantity": 3,
+        "percent_diff": 53.69
       }
     ]
   },
