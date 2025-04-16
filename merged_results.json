@@ -159,11 +159,11 @@
     "item_name": "Гнилые доски",
     "profitable_lots": [
       {
-        "unit_price": 999,
-        "avg_unit_price": 1689,
-        "total_price": 49999,
-        "quantity": 50,
-        "percent_diff": 40.85
+        "unit_price": 1388,
+        "avg_unit_price": 1745,
+        "total_price": 50000,
+        "quantity": 36,
+        "percent_diff": 20.46
       }
     ]
   },
@@ -171,11 +171,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 1200,
-        "avg_unit_price": 1280,
-        "total_price": 18000,
-        "quantity": 15,
-        "percent_diff": 6.25
+        "unit_price": 1160,
+        "avg_unit_price": 1189,
+        "total_price": 58001,
+        "quantity": 50,
+        "percent_diff": 2.44
       }
     ]
   },
@@ -183,11 +183,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 940,
-        "avg_unit_price": 1380,
-        "total_price": 47000,
+        "unit_price": 900,
+        "avg_unit_price": 1545,
+        "total_price": 45000,
         "quantity": 50,
-        "percent_diff": 31.88
+        "percent_diff": 41.75
       }
     ]
   },
