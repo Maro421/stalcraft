@@ -83,18 +83,6 @@
       }
     ]
   },
-  "prrd": {
-    "item_name": "Янтарная полынь",
-    "profitable_lots": [
-      {
-        "unit_price": 10000,
-        "avg_unit_price": 12923,
-        "total_price": 100000,
-        "quantity": 10,
-        "percent_diff": 22.62
-      }
-    ]
-  },
   "g0vn": {
     "item_name": "Канистра с бензином",
     "profitable_lots": [
