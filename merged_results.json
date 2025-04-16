@@ -688,10 +688,10 @@
     "profitable_lots": [
       {
         "unit_price": 510,
-        "avg_unit_price": 564,
+        "avg_unit_price": 586,
         "total_price": 25500,
         "quantity": 50,
-        "percent_diff": 9.57
+        "percent_diff": 12.97
       }
     ]
   },
@@ -2144,6 +2144,30 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 9490,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 5.17
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 98928,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 29.24
       }
     ]
   },
