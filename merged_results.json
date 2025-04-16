@@ -647,18 +647,6 @@
       }
     ]
   },
-  "6r0j": {
-    "item_name": "Мука",
-    "profitable_lots": [
-      {
-        "unit_price": 62,
-        "avg_unit_price": 126,
-        "total_price": 1999,
-        "quantity": 32,
-        "percent_diff": 50.79
-      }
-    ]
-  },
   "1dk6": {
     "item_name": "Набор специй",
     "profitable_lots": [
@@ -2108,18 +2096,6 @@
         "total_price": 2745555,
         "quantity": 1,
         "percent_diff": 2.23
-      }
-    ]
-  },
-  "rw255": {
-    "item_name": "M249 SAW",
-    "profitable_lots": [
-      {
-        "unit_price": 3889999,
-        "avg_unit_price": 4003201,
-        "total_price": 3889999,
-        "quantity": 1,
-        "percent_diff": 2.83
       }
     ]
   },
