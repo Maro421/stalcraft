@@ -1047,11 +1047,11 @@
     "item_name": "Прочный металл",
     "profitable_lots": [
       {
-        "unit_price": 69999,
+        "unit_price": 69998,
         "avg_unit_price": 71010,
-        "total_price": 699999,
+        "total_price": 699987,
         "quantity": 10,
-        "percent_diff": 1.42
+        "percent_diff": 1.43
       }
     ]
   },
@@ -1592,18 +1592,6 @@
         "total_price": 17000,
         "quantity": 1,
         "percent_diff": 0.86
-      }
-    ]
-  },
-  "m0wdy": {
-    "item_name": "Ящик гранат «Подорожник»",
-    "profitable_lots": [
-      {
-        "unit_price": 38999,
-        "avg_unit_price": 39000,
-        "total_price": 38999,
-        "quantity": 1,
-        "percent_diff": 0.0
       }
     ]
   },
