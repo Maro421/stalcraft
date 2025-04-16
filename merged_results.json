@@ -1967,27 +1967,15 @@
       }
     ]
   },
-  "qjq69": {
-    "item_name": "Сумка СБП 5.56 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 10214,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 51.05
-      }
-    ]
-  },
   "j5qd4": {
     "item_name": "Сумка СБП 7.62 мм",
     "profitable_lots": [
       {
         "unit_price": 15000,
-        "avg_unit_price": 15561,
+        "avg_unit_price": 16384,
         "total_price": 15000,
         "quantity": 1,
-        "percent_diff": 3.61
+        "percent_diff": 8.45
       }
     ]
   },
@@ -2007,11 +1995,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5320,
-        "avg_unit_price": 6561,
-        "total_price": 532000,
-        "quantity": 100,
-        "percent_diff": 18.91
+        "unit_price": 6110,
+        "avg_unit_price": 6452,
+        "total_price": 61100,
+        "quantity": 10,
+        "percent_diff": 5.3
       }
     ]
   },
@@ -2020,10 +2008,10 @@
     "profitable_lots": [
       {
         "unit_price": 200000,
-        "avg_unit_price": 256473,
+        "avg_unit_price": 279722,
         "total_price": 400000,
         "quantity": 2,
-        "percent_diff": 22.02
+        "percent_diff": 28.5
       }
     ]
   },
@@ -2255,39 +2243,15 @@
       }
     ]
   },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 8999,
-        "avg_unit_price": 9490,
-        "total_price": 8999,
-        "quantity": 1,
-        "percent_diff": 5.17
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 70000,
-        "avg_unit_price": 98928,
-        "total_price": 70000,
-        "quantity": 1,
-        "percent_diff": 29.24
-      }
-    ]
-  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 22222,
+        "unit_price": 25000,
         "avg_unit_price": 34205,
-        "total_price": 22222,
+        "total_price": 25000,
         "quantity": 1,
-        "percent_diff": 35.03
+        "percent_diff": 26.91
       }
     ]
   },
@@ -2295,23 +2259,23 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 150000,
+        "unit_price": 170000,
         "avg_unit_price": 194863,
-        "total_price": 150000,
+        "total_price": 170000,
         "quantity": 1,
-        "percent_diff": 23.02
+        "percent_diff": 12.76
       }
     ]
   },
-  "knwdv": {
-    "item_name": "Прицел коллиматорный Barska",
+  "m0vvk": {
+    "item_name": "НР-43",
     "profitable_lots": [
       {
-        "unit_price": 1900000,
-        "avg_unit_price": 1913883,
-        "total_price": 1900000,
+        "unit_price": 5000,
+        "avg_unit_price": 7066,
+        "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 0.73
+        "percent_diff": 29.24
       }
     ]
   },
