@@ -2243,27 +2243,15 @@
       }
     ]
   },
-  "zz939": {
-    "item_name": "ДТК «Вихрь»",
-    "profitable_lots": [
-      {
-        "unit_price": 150000,
-        "avg_unit_price": 167160,
-        "total_price": 150000,
-        "quantity": 1,
-        "percent_diff": 10.27
-      }
-    ]
-  },
   "y3mgw": {
     "item_name": "Глушитель FA556 Mini",
     "profitable_lots": [
       {
-        "unit_price": 1556000,
-        "avg_unit_price": 1571570,
-        "total_price": 1556000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1581970,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 0.99
+        "percent_diff": 5.18
       }
     ]
   },
