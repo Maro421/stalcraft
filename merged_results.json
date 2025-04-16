@@ -2115,11 +2115,11 @@
     "item_name": "НР-43",
     "profitable_lots": [
       {
-        "unit_price": 9999,
-        "avg_unit_price": 10836,
-        "total_price": 9999,
+        "unit_price": 5000,
+        "avg_unit_price": 7066,
+        "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 7.72
+        "percent_diff": 29.24
       }
     ]
   },
