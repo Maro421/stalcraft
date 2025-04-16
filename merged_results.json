@@ -543,11 +543,11 @@
     "item_name": "Электросмесь",
     "profitable_lots": [
       {
-        "unit_price": 500,
+        "unit_price": 180,
         "avg_unit_price": 2856,
-        "total_price": 5000,
-        "quantity": 10,
-        "percent_diff": 82.49
+        "total_price": 9000,
+        "quantity": 50,
+        "percent_diff": 93.7
       }
     ]
   },
@@ -2096,18 +2096,6 @@
         "total_price": 25000,
         "quantity": 1,
         "percent_diff": 26.91
-      }
-    ]
-  },
-  "3g9n1": {
-    "item_name": "Алюминиевая бита",
-    "profitable_lots": [
-      {
-        "unit_price": 99999,
-        "avg_unit_price": 116222,
-        "total_price": 99999,
-        "quantity": 1,
-        "percent_diff": 13.96
       }
     ]
   },
