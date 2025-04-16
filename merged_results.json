@@ -1096,10 +1096,10 @@
     "profitable_lots": [
       {
         "unit_price": 8600,
-        "avg_unit_price": 10249,
+        "avg_unit_price": 10068,
         "total_price": 430000,
         "quantity": 50,
-        "percent_diff": 16.09
+        "percent_diff": 14.58
       }
     ]
   },
@@ -1659,11 +1659,11 @@
     "item_name": "Аномальная пыль",
     "profitable_lots": [
       {
-        "unit_price": 279,
-        "avg_unit_price": 380,
-        "total_price": 12000,
-        "quantity": 43,
-        "percent_diff": 26.58
+        "unit_price": 350,
+        "avg_unit_price": 387,
+        "total_price": 3851,
+        "quantity": 11,
+        "percent_diff": 9.56
       }
     ]
   },
