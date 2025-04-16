@@ -339,23 +339,11 @@
     "item_name": "Банка с макаронами",
     "profitable_lots": [
       {
-        "unit_price": 399,
+        "unit_price": 312,
         "avg_unit_price": 428,
-        "total_price": 19995,
-        "quantity": 50,
-        "percent_diff": 6.78
-      }
-    ]
-  },
-  "40pn": {
-    "item_name": "Аномальные дрожжи",
-    "profitable_lots": [
-      {
-        "unit_price": 3960,
-        "avg_unit_price": 4426,
-        "total_price": 198001,
-        "quantity": 50,
-        "percent_diff": 10.53
+        "total_price": 2500,
+        "quantity": 8,
+        "percent_diff": 27.1
       }
     ]
   },
