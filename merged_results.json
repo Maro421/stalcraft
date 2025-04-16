@@ -2027,6 +2027,18 @@
       }
     ]
   },
+  "4qnwn": {
+    "item_name": "ОЦ-14М «Ураган»",
+    "profitable_lots": [
+      {
+        "unit_price": 430000,
+        "avg_unit_price": 467281,
+        "total_price": 430000,
+        "quantity": 1,
+        "percent_diff": 7.98
+      }
+    ]
+  },
   "okm10": {
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
