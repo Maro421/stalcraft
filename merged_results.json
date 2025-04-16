@@ -496,10 +496,10 @@
     "profitable_lots": [
       {
         "unit_price": 1309,
-        "avg_unit_price": 1963,
+        "avg_unit_price": 1763,
         "total_price": 55000,
         "quantity": 42,
-        "percent_diff": 33.32
+        "percent_diff": 25.75
       }
     ]
   },
@@ -2151,11 +2151,11 @@
     "item_name": "M1014",
     "profitable_lots": [
       {
-        "unit_price": 100000,
+        "unit_price": 85000,
         "avg_unit_price": 148812,
-        "total_price": 100000,
+        "total_price": 85000,
         "quantity": 1,
-        "percent_diff": 32.8
+        "percent_diff": 42.88
       }
     ]
   },
