@@ -47,27 +47,15 @@
       }
     ]
   },
-  "prrd": {
-    "item_name": "Янтарная полынь",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 10847,
-        "total_price": 10000,
-        "quantity": 2,
-        "percent_diff": 53.9
-      }
-    ]
-  },
   "g0vn": {
     "item_name": "Канистра с бензином",
     "profitable_lots": [
       {
-        "unit_price": 4000,
-        "avg_unit_price": 6215,
-        "total_price": 8000,
+        "unit_price": 5000,
+        "avg_unit_price": 5430,
+        "total_price": 10000,
         "quantity": 2,
-        "percent_diff": 35.64
+        "percent_diff": 7.92
       }
     ]
   },
@@ -1107,11 +1095,11 @@
     "item_name": "Антитоксин",
     "profitable_lots": [
       {
-        "unit_price": 2666,
+        "unit_price": 2000,
         "avg_unit_price": 3537,
-        "total_price": 40000,
+        "total_price": 30000,
         "quantity": 15,
-        "percent_diff": 24.63
+        "percent_diff": 43.45
       }
     ]
   },
@@ -2024,18 +2012,6 @@
         "total_price": 209999,
         "quantity": 1,
         "percent_diff": 7.97
-      }
-    ]
-  },
-  "1r7g1": {
-    "item_name": "Steyr AUG A3",
-    "profitable_lots": [
-      {
-        "unit_price": 3300000,
-        "avg_unit_price": 3351382,
-        "total_price": 3300000,
-        "quantity": 1,
-        "percent_diff": 1.53
       }
     ]
   },
