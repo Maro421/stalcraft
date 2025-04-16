@@ -27,11 +27,11 @@
     "item_name": "Кислотная крапива",
     "profitable_lots": [
       {
-        "unit_price": 119,
-        "avg_unit_price": 467,
-        "total_price": 2999,
-        "quantity": 25,
-        "percent_diff": 74.52
+        "unit_price": 599,
+        "avg_unit_price": 685,
+        "total_price": 29999,
+        "quantity": 50,
+        "percent_diff": 12.55
       }
     ]
   },
@@ -39,11 +39,11 @@
     "item_name": "Водонос",
     "profitable_lots": [
       {
-        "unit_price": 399,
-        "avg_unit_price": 503,
-        "total_price": 19999,
+        "unit_price": 500,
+        "avg_unit_price": 523,
+        "total_price": 25000,
         "quantity": 50,
-        "percent_diff": 20.68
+        "percent_diff": 4.4
       }
     ]
   },
@@ -1719,23 +1719,23 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8000,
-        "avg_unit_price": 9685,
-        "total_price": 64000,
-        "quantity": 8,
-        "percent_diff": 17.4
+        "unit_price": 7777,
+        "avg_unit_price": 8572,
+        "total_price": 140000,
+        "quantity": 18,
+        "percent_diff": 9.27
       }
     ]
   },
-  "r22z": {
-    "item_name": "Ноотроп",
+  "022k": {
+    "item_name": "Сверло",
     "profitable_lots": [
       {
-        "unit_price": 11000,
-        "avg_unit_price": 11501,
-        "total_price": 550000,
-        "quantity": 50,
-        "percent_diff": 4.36
+        "unit_price": 31111,
+        "avg_unit_price": 32410,
+        "total_price": 31111,
+        "quantity": 1,
+        "percent_diff": 4.01
       }
     ]
   },
@@ -2240,18 +2240,6 @@
         "total_price": 2700000,
         "quantity": 1,
         "percent_diff": 3.39
-      }
-    ]
-  },
-  "knq0p": {
-    "item_name": "Бронекостюм «Рысь»",
-    "profitable_lots": [
-      {
-        "unit_price": 35000,
-        "avg_unit_price": 41647,
-        "total_price": 35000,
-        "quantity": 1,
-        "percent_diff": 15.96
       }
     ]
   },
