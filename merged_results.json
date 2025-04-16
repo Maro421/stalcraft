@@ -1659,11 +1659,23 @@
     "item_name": "Пыль изменения",
     "profitable_lots": [
       {
-        "unit_price": 2600,
-        "avg_unit_price": 6684,
-        "total_price": 26000,
+        "unit_price": 2700,
+        "avg_unit_price": 3065,
+        "total_price": 27000,
         "quantity": 10,
-        "percent_diff": 61.1
+        "percent_diff": 11.91
+      }
+    ]
+  },
+  "5logg": {
+    "item_name": "Странный артефакт",
+    "profitable_lots": [
+      {
+        "unit_price": 1500,
+        "avg_unit_price": 1856,
+        "total_price": 75000,
+        "quantity": 50,
+        "percent_diff": 19.18
       }
     ]
   },
