@@ -1619,6 +1619,18 @@
       }
     ]
   },
+  "1rl4r": {
+    "item_name": "Хвост сильной шавки",
+    "profitable_lots": [
+      {
+        "unit_price": 4666,
+        "avg_unit_price": 4768,
+        "total_price": 28000,
+        "quantity": 6,
+        "percent_diff": 2.14
+      }
+    ]
+  },
   "5lo3o": {
     "item_name": "Копыто сильного кабана",
     "profitable_lots": [
