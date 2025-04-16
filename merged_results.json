@@ -1947,11 +1947,11 @@
     "item_name": "M1014 Breacher",
     "profitable_lots": [
       {
-        "unit_price": 499999,
-        "avg_unit_price": 564201,
-        "total_price": 499999,
+        "unit_price": 560000,
+        "avg_unit_price": 576333,
+        "total_price": 560000,
         "quantity": 1,
-        "percent_diff": 11.38
+        "percent_diff": 2.83
       }
     ]
   },
