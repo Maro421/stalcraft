@@ -2123,18 +2123,6 @@
       }
     ]
   },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
-    "profitable_lots": [
-      {
-        "unit_price": 290000,
-        "avg_unit_price": 309883,
-        "total_price": 290000,
-        "quantity": 1,
-        "percent_diff": 6.42
-      }
-    ]
-  },
   "g4mdp": {
     "item_name": "АК-12",
     "profitable_lots": [
