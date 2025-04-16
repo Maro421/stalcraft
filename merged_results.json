@@ -827,6 +827,18 @@
       }
     ]
   },
+  "9m7w": {
+    "item_name": "Сгущенка",
+    "profitable_lots": [
+      {
+        "unit_price": 620,
+        "avg_unit_price": 672,
+        "total_price": 31000,
+        "quantity": 50,
+        "percent_diff": 7.74
+      }
+    ]
+  },
   "g07g": {
     "item_name": "Тиражный ликер",
     "profitable_lots": [
