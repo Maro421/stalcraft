@@ -1967,18 +1967,6 @@
       }
     ]
   },
-  "okp74": {
-    "item_name": "Сумка зажигательных 5.56 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 800,
-        "avg_unit_price": 3329,
-        "total_price": 800,
-        "quantity": 1,
-        "percent_diff": 75.97
-      }
-    ]
-  },
   "96z7y": {
     "item_name": "Катализатор",
     "profitable_lots": [
