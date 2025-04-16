@@ -1307,6 +1307,18 @@
       }
     ]
   },
+  "1p2r": {
+    "item_name": "«КЗС-3у»",
+    "profitable_lots": [
+      {
+        "unit_price": 1001,
+        "avg_unit_price": 1594,
+        "total_price": 1001,
+        "quantity": 1,
+        "percent_diff": 37.2
+      }
+    ]
+  },
   "l3n2": {
     "item_name": "Контейнер «Берлога-4у»",
     "profitable_lots": [
