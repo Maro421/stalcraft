@@ -1395,11 +1395,11 @@
     "item_name": "Контейнер «Берлога-6у»",
     "profitable_lots": [
       {
-        "unit_price": 9433333,
-        "avg_unit_price": 10185555,
-        "total_price": 9433333,
+        "unit_price": 10000000,
+        "avg_unit_price": 10067017,
+        "total_price": 10000000,
         "quantity": 1,
-        "percent_diff": 7.39
+        "percent_diff": 0.67
       }
     ]
   },
