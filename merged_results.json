@@ -35,15 +35,27 @@
       }
     ]
   },
+  "lll2": {
+    "item_name": "Золотые минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 3499,
+        "avg_unit_price": 4479,
+        "total_price": 34999,
+        "quantity": 10,
+        "percent_diff": 21.88
+      }
+    ]
+  },
   "rrrz": {
     "item_name": "Бледнолист",
     "profitable_lots": [
       {
-        "unit_price": 208,
-        "avg_unit_price": 300,
-        "total_price": 5000,
-        "quantity": 24,
-        "percent_diff": 30.67
+        "unit_price": 300,
+        "avg_unit_price": 339,
+        "total_price": 15000,
+        "quantity": 50,
+        "percent_diff": 11.5
       }
     ]
   },
