@@ -63,11 +63,11 @@
     "item_name": "Водонос",
     "profitable_lots": [
       {
-        "unit_price": 454,
-        "avg_unit_price": 632,
-        "total_price": 15000,
-        "quantity": 33,
-        "percent_diff": 28.16
+        "unit_price": 428,
+        "avg_unit_price": 518,
+        "total_price": 21001,
+        "quantity": 49,
+        "percent_diff": 17.37
       }
     ]
   },
