@@ -1407,11 +1407,11 @@
     "item_name": "Сумка СЭП 7.62 мм",
     "profitable_lots": [
       {
-        "unit_price": 99998,
+        "unit_price": 95000,
         "avg_unit_price": 101142,
-        "total_price": 99998,
+        "total_price": 95000,
         "quantity": 1,
-        "percent_diff": 1.13
+        "percent_diff": 6.07
       }
     ]
   },
@@ -2115,11 +2115,11 @@
     "item_name": "Барабанный магазин 5.56 NATO, хаки",
     "profitable_lots": [
       {
-        "unit_price": 2400000,
-        "avg_unit_price": 2539087,
-        "total_price": 2400000,
+        "unit_price": 2350001,
+        "avg_unit_price": 2651298,
+        "total_price": 2350001,
         "quantity": 1,
-        "percent_diff": 5.48
+        "percent_diff": 11.36
       }
     ]
   },
