@@ -39,11 +39,11 @@
     "item_name": "Золотые минералы",
     "profitable_lots": [
       {
-        "unit_price": 4300,
+        "unit_price": 4000,
         "avg_unit_price": 4570,
-        "total_price": 17200,
-        "quantity": 4,
-        "percent_diff": 5.91
+        "total_price": 40000,
+        "quantity": 10,
+        "percent_diff": 12.47
       }
     ]
   },
@@ -2091,11 +2091,11 @@
     "item_name": "Барабанный магазин 5.56 NATO, хаки",
     "profitable_lots": [
       {
-        "unit_price": 2400000,
-        "avg_unit_price": 2539087,
-        "total_price": 2400000,
+        "unit_price": 2600000,
+        "avg_unit_price": 2640249,
+        "total_price": 2600000,
         "quantity": 1,
-        "percent_diff": 5.48
+        "percent_diff": 1.52
       }
     ]
   },
