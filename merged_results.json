@@ -419,18 +419,6 @@
       }
     ]
   },
-  "pry2": {
-    "item_name": "Пластиковая бутылка",
-    "profitable_lots": [
-      {
-        "unit_price": 185,
-        "avg_unit_price": 650,
-        "total_price": 1855,
-        "quantity": 10,
-        "percent_diff": 71.54
-      }
-    ]
-  },
   "9mr0": {
     "item_name": "Жгут",
     "profitable_lots": [
