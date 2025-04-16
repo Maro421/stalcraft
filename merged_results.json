@@ -2255,6 +2255,18 @@
       }
     ]
   },
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
+    "profitable_lots": [
+      {
+        "unit_price": 1630000,
+        "avg_unit_price": 1670294,
+        "total_price": 1630000,
+        "quantity": 1,
+        "percent_diff": 2.41
+      }
+    ]
+  },
   "y3mnw": {
     "item_name": "Глушитель АТГ",
     "profitable_lots": [
