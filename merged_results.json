@@ -1883,18 +1883,6 @@
       }
     ]
   },
-  "dmyd9": {
-    "item_name": "Сумка бронебойных 7.62 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 4001,
-        "avg_unit_price": 4437,
-        "total_price": 4001,
-        "quantity": 1,
-        "percent_diff": 9.83
-      }
-    ]
-  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
@@ -2204,6 +2192,30 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 6999,
+        "avg_unit_price": 10864,
+        "total_price": 6999,
+        "quantity": 1,
+        "percent_diff": 35.58
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4999,
+        "avg_unit_price": 6244,
+        "total_price": 4999,
+        "quantity": 1,
+        "percent_diff": 19.94
       }
     ]
   },
