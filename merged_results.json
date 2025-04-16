@@ -1479,11 +1479,11 @@
     "item_name": "Сумка 7.62 мм «Динозавр»",
     "profitable_lots": [
       {
-        "unit_price": 27500,
+        "unit_price": 27490,
         "avg_unit_price": 27705,
-        "total_price": 27500,
+        "total_price": 27490,
         "quantity": 1,
-        "percent_diff": 0.74
+        "percent_diff": 0.78
       }
     ]
   },
