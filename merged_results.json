@@ -376,10 +376,10 @@
     "profitable_lots": [
       {
         "unit_price": 791,
-        "avg_unit_price": 1358,
+        "avg_unit_price": 1190,
         "total_price": 19000,
         "quantity": 24,
-        "percent_diff": 41.75
+        "percent_diff": 33.53
       }
     ]
   },
@@ -388,10 +388,10 @@
     "profitable_lots": [
       {
         "unit_price": 1500,
-        "avg_unit_price": 2093,
+        "avg_unit_price": 1944,
         "total_price": 15000,
         "quantity": 10,
-        "percent_diff": 28.33
+        "percent_diff": 22.84
       }
     ]
   },
@@ -1887,23 +1887,23 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 480000,
-        "avg_unit_price": 503500,
-        "total_price": 480000,
+        "unit_price": 500000,
+        "avg_unit_price": 506833,
+        "total_price": 500000,
         "quantity": 1,
-        "percent_diff": 4.67
+        "percent_diff": 1.35
       }
     ]
   },
-  "dmjwn": {
-    "item_name": "HK416",
+  "n4m93": {
+    "item_name": "МР-412",
     "profitable_lots": [
       {
-        "unit_price": 1100000,
-        "avg_unit_price": 1292691,
-        "total_price": 1100000,
+        "unit_price": 600000,
+        "avg_unit_price": 607036,
+        "total_price": 600000,
         "quantity": 1,
-        "percent_diff": 14.91
+        "percent_diff": 1.16
       }
     ]
   },
@@ -1911,11 +1911,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4850000,
+        "unit_price": 4800000,
         "avg_unit_price": 5560818,
-        "total_price": 4850000,
+        "total_price": 4800000,
         "quantity": 1,
-        "percent_diff": 12.78
+        "percent_diff": 13.68
       }
     ]
   },
