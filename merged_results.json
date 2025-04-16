@@ -1935,11 +1935,11 @@
     "item_name": "HK416",
     "profitable_lots": [
       {
-        "unit_price": 1150000,
-        "avg_unit_price": 1302080,
-        "total_price": 1150000,
+        "unit_price": 1100000,
+        "avg_unit_price": 1292691,
+        "total_price": 1100000,
         "quantity": 1,
-        "percent_diff": 11.68
+        "percent_diff": 14.91
       }
     ]
   },
@@ -1947,11 +1947,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4850000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4850000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 12.78
       }
     ]
   },
