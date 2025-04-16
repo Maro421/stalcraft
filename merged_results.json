@@ -395,18 +395,6 @@
       }
     ]
   },
-  "5dp0": {
-    "item_name": "Банка с пшеном",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 4525,
-        "total_price": 200000,
-        "quantity": 50,
-        "percent_diff": 11.6
-      }
-    ]
-  },
   "y7mo": {
     "item_name": "Банка с макаронами",
     "profitable_lots": [
