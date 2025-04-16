@@ -1,4 +1,16 @@
 {
+  "g00n": {
+    "item_name": "Мякоть сластены",
+    "profitable_lots": [
+      {
+        "unit_price": 3333,
+        "avg_unit_price": 6903,
+        "total_price": 9999,
+        "quantity": 3,
+        "percent_diff": 51.72
+      }
+    ]
+  },
   "kllj": {
     "item_name": "Лазурные минералы",
     "profitable_lots": [
