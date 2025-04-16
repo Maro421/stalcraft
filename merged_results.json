@@ -2135,18 +2135,6 @@
       }
     ]
   },
-  "3g7wg": {
-    "item_name": "Прицел коллиматорный DM",
-    "profitable_lots": [
-      {
-        "unit_price": 455555,
-        "avg_unit_price": 520385,
-        "total_price": 455555,
-        "quantity": 1,
-        "percent_diff": 12.46
-      }
-    ]
-  },
   "5lpo4": {
     "item_name": "ПБС-4",
     "profitable_lots": [
