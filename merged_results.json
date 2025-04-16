@@ -563,15 +563,15 @@
       }
     ]
   },
-  "jl77": {
-    "item_name": "Железо",
+  "qv76": {
+    "item_name": "Нефтяной кокс",
     "profitable_lots": [
       {
-        "unit_price": 1259,
-        "avg_unit_price": 1929,
-        "total_price": 62999,
+        "unit_price": 799,
+        "avg_unit_price": 842,
+        "total_price": 39999,
         "quantity": 50,
-        "percent_diff": 34.73
+        "percent_diff": 5.11
       }
     ]
   },
@@ -1451,18 +1451,6 @@
       }
     ]
   },
-  "29dm": {
-    "item_name": "Ф-1",
-    "profitable_lots": [
-      {
-        "unit_price": 35,
-        "avg_unit_price": 94,
-        "total_price": 70,
-        "quantity": 2,
-        "percent_diff": 62.77
-      }
-    ]
-  },
   "65r6": {
     "item_name": "Выстрел гранатометный ВОГ-25",
     "profitable_lots": [
@@ -1995,11 +1983,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5699,
-        "avg_unit_price": 6193,
-        "total_price": 56999,
-        "quantity": 10,
-        "percent_diff": 7.98
+        "unit_price": 5250,
+        "avg_unit_price": 8092,
+        "total_price": 525000,
+        "quantity": 100,
+        "percent_diff": 35.12
       }
     ]
   },
@@ -2019,23 +2007,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 645000,
-        "avg_unit_price": 793611,
-        "total_price": 645000,
+        "unit_price": 750000,
+        "avg_unit_price": 792444,
+        "total_price": 750000,
         "quantity": 1,
-        "percent_diff": 18.73
-      }
-    ]
-  },
-  "4qnkr": {
-    "item_name": "Steyr Scout",
-    "profitable_lots": [
-      {
-        "unit_price": 164999,
-        "avg_unit_price": 178757,
-        "total_price": 164999,
-        "quantity": 1,
-        "percent_diff": 7.7
+        "percent_diff": 5.36
       }
     ]
   },
@@ -2043,11 +2019,11 @@
     "item_name": "РМО-93",
     "profitable_lots": [
       {
-        "unit_price": 1899999,
-        "avg_unit_price": 1932055,
-        "total_price": 1899999,
+        "unit_price": 2400000,
+        "avg_unit_price": 2723411,
+        "total_price": 2400000,
         "quantity": 1,
-        "percent_diff": 1.66
+        "percent_diff": 11.88
       }
     ]
   },
@@ -2056,22 +2032,10 @@
     "profitable_lots": [
       {
         "unit_price": 650000,
-        "avg_unit_price": 668894,
+        "avg_unit_price": 756315,
         "total_price": 650000,
         "quantity": 1,
-        "percent_diff": 2.82
-      }
-    ]
-  },
-  "g4mmn": {
-    "item_name": "Walther P99",
-    "profitable_lots": [
-      {
-        "unit_price": 111111,
-        "avg_unit_price": 176993,
-        "total_price": 111111,
-        "quantity": 1,
-        "percent_diff": 37.22
+        "percent_diff": 14.06
       }
     ]
   },
