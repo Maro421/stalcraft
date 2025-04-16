@@ -123,11 +123,23 @@
     "item_name": "Янтарная полынь",
     "profitable_lots": [
       {
-        "unit_price": 9545,
-        "avg_unit_price": 14363,
-        "total_price": 105000,
-        "quantity": 11,
-        "percent_diff": 33.54
+        "unit_price": 11500,
+        "avg_unit_price": 12611,
+        "total_price": 11500,
+        "quantity": 1,
+        "percent_diff": 8.81
+      }
+    ]
+  },
+  "g0vn": {
+    "item_name": "Канистра с бензином",
+    "profitable_lots": [
+      {
+        "unit_price": 4999,
+        "avg_unit_price": 6144,
+        "total_price": 4999,
+        "quantity": 1,
+        "percent_diff": 18.64
       }
     ]
   },
@@ -2204,6 +2216,18 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 6999,
+        "avg_unit_price": 9667,
+        "total_price": 6999,
+        "quantity": 1,
+        "percent_diff": 27.6
       }
     ]
   },
