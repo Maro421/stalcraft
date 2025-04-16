@@ -699,11 +699,11 @@
     "item_name": "Доски",
     "profitable_lots": [
       {
-        "unit_price": 200,
-        "avg_unit_price": 2400,
-        "total_price": 10000,
-        "quantity": 50,
-        "percent_diff": 91.67
+        "unit_price": 1666,
+        "avg_unit_price": 2392,
+        "total_price": 3333,
+        "quantity": 2,
+        "percent_diff": 30.35
       }
     ]
   },
@@ -712,10 +712,10 @@
     "profitable_lots": [
       {
         "unit_price": 1299,
-        "avg_unit_price": 3054,
+        "avg_unit_price": 2963,
         "total_price": 64999,
         "quantity": 50,
-        "percent_diff": 57.47
+        "percent_diff": 56.16
       }
     ]
   },
@@ -2204,6 +2204,18 @@
         "total_price": 11500000,
         "quantity": 1,
         "percent_diff": 7.81
+      }
+    ]
+  },
+  "5lr4q": {
+    "item_name": "Защитный бронекостюм «Йорш»",
+    "profitable_lots": [
+      {
+        "unit_price": 2700000,
+        "avg_unit_price": 2794649,
+        "total_price": 2700000,
+        "quantity": 1,
+        "percent_diff": 3.39
       }
     ]
   },
