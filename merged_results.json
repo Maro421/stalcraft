@@ -435,11 +435,11 @@
     "item_name": "Сковорода",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 1921,
-        "total_price": 1000,
-        "quantity": 1,
-        "percent_diff": 47.94
+        "unit_price": 1714,
+        "avg_unit_price": 1731,
+        "total_price": 24000,
+        "quantity": 14,
+        "percent_diff": 0.98
       }
     ]
   },
@@ -447,11 +447,11 @@
     "item_name": "Кастрюля",
     "profitable_lots": [
       {
-        "unit_price": 2200,
+        "unit_price": 1600,
         "avg_unit_price": 5127,
-        "total_price": 110000,
-        "quantity": 50,
-        "percent_diff": 57.09
+        "total_price": 16000,
+        "quantity": 10,
+        "percent_diff": 68.79
       }
     ]
   },
@@ -1304,6 +1304,18 @@
         "total_price": 1000,
         "quantity": 1,
         "percent_diff": 77.96
+      }
+    ]
+  },
+  "l3n2": {
+    "item_name": "Контейнер «Берлога-4у»",
+    "profitable_lots": [
+      {
+        "unit_price": 19000,
+        "avg_unit_price": 37130,
+        "total_price": 19000,
+        "quantity": 1,
+        "percent_diff": 48.83
       }
     ]
   },
