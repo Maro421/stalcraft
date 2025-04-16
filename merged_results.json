@@ -1787,6 +1787,18 @@
       }
     ]
   },
+  "7l1kr": {
+    "item_name": "Подсумок с аптечками проводника",
+    "profitable_lots": [
+      {
+        "unit_price": 7250,
+        "avg_unit_price": 10986,
+        "total_price": 7250,
+        "quantity": 1,
+        "percent_diff": 34.01
+      }
+    ]
+  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
@@ -2027,27 +2039,15 @@
       }
     ]
   },
-  "6w64y": {
-    "item_name": "Grizzly 8.5",
+  "1r7g1": {
+    "item_name": "Steyr AUG A3",
     "profitable_lots": [
       {
-        "unit_price": 440000,
-        "avg_unit_price": 456812,
-        "total_price": 440000,
+        "unit_price": 3300000,
+        "avg_unit_price": 3351382,
+        "total_price": 3300000,
         "quantity": 1,
-        "percent_diff": 3.68
-      }
-    ]
-  },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
-    "profitable_lots": [
-      {
-        "unit_price": 230000,
-        "avg_unit_price": 232672,
-        "total_price": 230000,
-        "quantity": 1,
-        "percent_diff": 1.15
+        "percent_diff": 1.53
       }
     ]
   },
