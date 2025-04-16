@@ -2199,11 +2199,11 @@
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 22222,
         "avg_unit_price": 34205,
-        "total_price": 25000,
+        "total_price": 22222,
         "quantity": 1,
-        "percent_diff": 26.91
+        "percent_diff": 35.03
       }
     ]
   },
