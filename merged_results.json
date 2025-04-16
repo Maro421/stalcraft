@@ -1551,11 +1551,11 @@
     "item_name": "Ящик гранат «Завеса»",
     "profitable_lots": [
       {
-        "unit_price": 28500,
-        "avg_unit_price": 30624,
-        "total_price": 28500,
+        "unit_price": 29000,
+        "avg_unit_price": 30411,
+        "total_price": 29000,
         "quantity": 1,
-        "percent_diff": 6.94
+        "percent_diff": 4.64
       }
     ]
   },
@@ -1563,11 +1563,11 @@
     "item_name": "Ящик гранат «Искра»",
     "profitable_lots": [
       {
-        "unit_price": 23500,
+        "unit_price": 24000,
         "avg_unit_price": 24999,
-        "total_price": 23500,
+        "total_price": 24000,
         "quantity": 1,
-        "percent_diff": 6.0
+        "percent_diff": 4.0
       }
     ]
   },
