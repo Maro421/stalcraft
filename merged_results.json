@@ -1,16 +1,4 @@
 {
-  "wooz": {
-    "item_name": "Тусклые минералы",
-    "profitable_lots": [
-      {
-        "unit_price": 1177,
-        "avg_unit_price": 1200,
-        "total_price": 58888,
-        "quantity": 50,
-        "percent_diff": 1.92
-      }
-    ]
-  },
   "kllj": {
     "item_name": "Лазурные минералы",
     "profitable_lots": [
@@ -1155,11 +1143,11 @@
     "item_name": "Полиэтиленовая основа",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7082,
-        "total_price": 200000,
-        "quantity": 30,
-        "percent_diff": 5.87
+        "unit_price": 6400,
+        "avg_unit_price": 7036,
+        "total_price": 32000,
+        "quantity": 5,
+        "percent_diff": 9.04
       }
     ]
   },
