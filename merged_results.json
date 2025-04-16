@@ -317,8 +317,8 @@
       {
         "unit_price": 2000,
         "avg_unit_price": 2136,
-        "total_price": 2000,
-        "quantity": 1,
+        "total_price": 100000,
+        "quantity": 50,
         "percent_diff": 6.37
       }
     ]
@@ -1292,6 +1292,18 @@
         "total_price": 2,
         "quantity": 1,
         "percent_diff": 99.71
+      }
+    ]
+  },
+  "9yly": {
+    "item_name": "Композитная пластина V",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 3790,
+        "total_price": 2000,
+        "quantity": 1,
+        "percent_diff": 47.23
       }
     ]
   },
