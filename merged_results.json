@@ -639,11 +639,11 @@
     "item_name": "Набор специй",
     "profitable_lots": [
       {
-        "unit_price": 5972,
-        "avg_unit_price": 6253,
-        "total_price": 95555,
-        "quantity": 16,
-        "percent_diff": 4.49
+        "unit_price": 4285,
+        "avg_unit_price": 6400,
+        "total_price": 60000,
+        "quantity": 14,
+        "percent_diff": 33.05
       }
     ]
   },
@@ -2063,27 +2063,15 @@
       }
     ]
   },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
+        "unit_price": 80000,
+        "avg_unit_price": 90465,
+        "total_price": 80000,
         "quantity": 1,
-        "percent_diff": 13.35
+        "percent_diff": 11.57
       }
     ]
   },
