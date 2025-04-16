@@ -95,27 +95,15 @@
       }
     ]
   },
-  "m22k": {
-    "item_name": "Водонос",
-    "profitable_lots": [
-      {
-        "unit_price": 420,
-        "avg_unit_price": 508,
-        "total_price": 21000,
-        "quantity": 50,
-        "percent_diff": 17.32
-      }
-    ]
-  },
   "ovv5": {
     "item_name": "Гнозис",
     "profitable_lots": [
       {
-        "unit_price": 79,
+        "unit_price": 70,
         "avg_unit_price": 116,
-        "total_price": 3999,
+        "total_price": 3500,
         "quantity": 50,
-        "percent_diff": 31.9
+        "percent_diff": 39.66
       }
     ]
   },
