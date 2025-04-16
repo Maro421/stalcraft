@@ -23,6 +23,18 @@
       }
     ]
   },
+  "jlll": {
+    "item_name": "Алые минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 540,
+        "avg_unit_price": 666,
+        "total_price": 27000,
+        "quantity": 50,
+        "percent_diff": 18.92
+      }
+    ]
+  },
   "rrrz": {
     "item_name": "Бледнолист",
     "profitable_lots": [
