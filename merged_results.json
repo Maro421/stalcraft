@@ -2019,11 +2019,11 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 475000,
-        "avg_unit_price": 502111,
-        "total_price": 475000,
+        "unit_price": 480000,
+        "avg_unit_price": 503500,
+        "total_price": 480000,
         "quantity": 1,
-        "percent_diff": 5.4
+        "percent_diff": 4.67
       }
     ]
   },
