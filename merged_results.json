@@ -107,27 +107,15 @@
       }
     ]
   },
-  "y7j0": {
-    "item_name": "Баллон с метаном",
-    "profitable_lots": [
-      {
-        "unit_price": 5333,
-        "avg_unit_price": 5881,
-        "total_price": 16000,
-        "quantity": 3,
-        "percent_diff": 9.32
-      }
-    ]
-  },
   "401j": {
     "item_name": "Батарея холодного синтеза",
     "profitable_lots": [
       {
         "unit_price": 5999,
-        "avg_unit_price": 6369,
+        "avg_unit_price": 6461,
         "total_price": 29999,
         "quantity": 5,
-        "percent_diff": 5.81
+        "percent_diff": 7.15
       }
     ]
   },
@@ -135,11 +123,11 @@
     "item_name": "Гнилые доски",
     "profitable_lots": [
       {
-        "unit_price": 1200,
-        "avg_unit_price": 2751,
-        "total_price": 60000,
+        "unit_price": 1199,
+        "avg_unit_price": 2826,
+        "total_price": 59999,
         "quantity": 50,
-        "percent_diff": 56.38
+        "percent_diff": 57.57
       }
     ]
   },
