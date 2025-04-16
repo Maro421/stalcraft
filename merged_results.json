@@ -779,15 +779,27 @@
       }
     ]
   },
+  "z719": {
+    "item_name": "Сталь",
+    "profitable_lots": [
+      {
+        "unit_price": 4990,
+        "avg_unit_price": 5037,
+        "total_price": 4990,
+        "quantity": 1,
+        "percent_diff": 0.93
+      }
+    ]
+  },
   "y79w": {
     "item_name": "Медная крошка",
     "profitable_lots": [
       {
         "unit_price": 700,
-        "avg_unit_price": 765,
+        "avg_unit_price": 761,
         "total_price": 35000,
         "quantity": 50,
-        "percent_diff": 8.5
+        "percent_diff": 8.02
       }
     ]
   },
