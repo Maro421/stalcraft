@@ -112,10 +112,10 @@
     "profitable_lots": [
       {
         "unit_price": 6666,
-        "avg_unit_price": 7618,
+        "avg_unit_price": 7470,
         "total_price": 20000,
         "quantity": 3,
-        "percent_diff": 12.5
+        "percent_diff": 10.76
       }
     ]
   },
@@ -123,11 +123,11 @@
     "item_name": "Батарея холодного синтеза",
     "profitable_lots": [
       {
-        "unit_price": 6800,
+        "unit_price": 6499,
         "avg_unit_price": 7998,
-        "total_price": 68000,
+        "total_price": 64999,
         "quantity": 10,
-        "percent_diff": 14.98
+        "percent_diff": 18.74
       }
     ]
   },
@@ -1900,10 +1900,10 @@
     "profitable_lots": [
       {
         "unit_price": 5000,
-        "avg_unit_price": 9944,
+        "avg_unit_price": 10214,
         "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 49.72
+        "percent_diff": 51.05
       }
     ]
   },
@@ -1923,11 +1923,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5320,
-        "avg_unit_price": 6389,
-        "total_price": 532000,
-        "quantity": 100,
-        "percent_diff": 16.73
+        "unit_price": 4888,
+        "avg_unit_price": 6077,
+        "total_price": 24444,
+        "quantity": 5,
+        "percent_diff": 19.57
       }
     ]
   },
@@ -1935,11 +1935,11 @@
     "item_name": "Сыворотка изменения",
     "profitable_lots": [
       {
-        "unit_price": 220000,
-        "avg_unit_price": 292705,
-        "total_price": 220000,
-        "quantity": 1,
-        "percent_diff": 24.84
+        "unit_price": 225000,
+        "avg_unit_price": 287874,
+        "total_price": 450000,
+        "quantity": 2,
+        "percent_diff": 21.84
       }
     ]
   },
@@ -2096,18 +2096,6 @@
         "total_price": 529999,
         "quantity": 1,
         "percent_diff": 1.25
-      }
-    ]
-  },
-  "p63d2": {
-    "item_name": "HK417",
-    "profitable_lots": [
-      {
-        "unit_price": 16600000,
-        "avg_unit_price": 17196470,
-        "total_price": 16600000,
-        "quantity": 1,
-        "percent_diff": 3.47
       }
     ]
   },
