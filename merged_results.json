@@ -471,11 +471,11 @@
     "item_name": "Набор для шитья",
     "profitable_lots": [
       {
-        "unit_price": 1280,
+        "unit_price": 929,
         "avg_unit_price": 1512,
-        "total_price": 64000,
+        "total_price": 46498,
         "quantity": 50,
-        "percent_diff": 15.34
+        "percent_diff": 38.56
       }
     ]
   },
@@ -1995,11 +1995,11 @@
     "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 1500000,
-        "avg_unit_price": 1501388,
-        "total_price": 1500000,
+        "unit_price": 1400000,
+        "avg_unit_price": 1507514,
+        "total_price": 1400000,
         "quantity": 1,
-        "percent_diff": 0.09
+        "percent_diff": 7.13
       }
     ]
   },
