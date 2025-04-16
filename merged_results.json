@@ -327,11 +327,11 @@
     "item_name": "Кофе",
     "profitable_lots": [
       {
-        "unit_price": 3214,
-        "avg_unit_price": 4324,
-        "total_price": 45000,
-        "quantity": 14,
-        "percent_diff": 25.67
+        "unit_price": 3666,
+        "avg_unit_price": 5141,
+        "total_price": 21999,
+        "quantity": 6,
+        "percent_diff": 28.69
       }
     ]
   },
@@ -1343,6 +1343,18 @@
       }
     ]
   },
+  "l3n2": {
+    "item_name": "Контейнер «Берлога-4у»",
+    "profitable_lots": [
+      {
+        "unit_price": 30000,
+        "avg_unit_price": 30939,
+        "total_price": 30000,
+        "quantity": 1,
+        "percent_diff": 3.04
+      }
+    ]
+  },
   "rg1z": {
     "item_name": "«КЗС-4у»",
     "profitable_lots": [
@@ -1947,11 +1959,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6111,
-        "avg_unit_price": 6420,
-        "total_price": 61111,
-        "quantity": 10,
-        "percent_diff": 4.81
+        "unit_price": 5799,
+        "avg_unit_price": 6289,
+        "total_price": 289999,
+        "quantity": 50,
+        "percent_diff": 7.79
       }
     ]
   },
