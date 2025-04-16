@@ -999,11 +999,11 @@
     "item_name": "Полипропилен",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 2495,
-        "total_price": 1000,
+        "unit_price": 1499,
+        "avg_unit_price": 2501,
+        "total_price": 1499,
         "quantity": 1,
-        "percent_diff": 59.92
+        "percent_diff": 40.06
       }
     ]
   },
@@ -1011,11 +1011,11 @@
     "item_name": "Психореагент",
     "profitable_lots": [
       {
-        "unit_price": 9900,
-        "avg_unit_price": 12413,
-        "total_price": 99000,
+        "unit_price": 9899,
+        "avg_unit_price": 12452,
+        "total_price": 98999,
         "quantity": 10,
-        "percent_diff": 20.24
+        "percent_diff": 20.5
       }
     ]
   },
@@ -1576,10 +1576,22 @@
     "profitable_lots": [
       {
         "unit_price": 24000,
-        "avg_unit_price": 24999,
+        "avg_unit_price": 24257,
         "total_price": 24000,
         "quantity": 1,
-        "percent_diff": 4.0
+        "percent_diff": 1.06
+      }
+    ]
+  },
+  "j5pd0": {
+    "item_name": "Ящик гранат «Гром»",
+    "profitable_lots": [
+      {
+        "unit_price": 25000,
+        "avg_unit_price": 25842,
+        "total_price": 25000,
+        "quantity": 1,
+        "percent_diff": 3.26
       }
     ]
   },
@@ -2228,6 +2240,18 @@
         "total_price": 350000,
         "quantity": 1,
         "percent_diff": 4.46
+      }
+    ]
+  },
+  "y3mnw": {
+    "item_name": "Глушитель АТГ",
+    "profitable_lots": [
+      {
+        "unit_price": 1301000,
+        "avg_unit_price": 1494830,
+        "total_price": 1301000,
+        "quantity": 1,
+        "percent_diff": 12.97
       }
     ]
   },
