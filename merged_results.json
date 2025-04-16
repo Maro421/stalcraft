@@ -1679,15 +1679,15 @@
       }
     ]
   },
-  "wjlrd": {
-    "item_name": "Дешевые инструменты",
+  "y3nmw": {
+    "item_name": "Продвинутые запчасти",
     "profitable_lots": [
       {
-        "unit_price": 27500,
-        "avg_unit_price": 41107,
-        "total_price": 55000,
-        "quantity": 2,
-        "percent_diff": 33.1
+        "unit_price": 63157,
+        "avg_unit_price": 66015,
+        "total_price": 1200000,
+        "quantity": 19,
+        "percent_diff": 4.33
       }
     ]
   },
@@ -2111,51 +2111,15 @@
       }
     ]
   },
-  "knvmj": {
-    "item_name": "Jagdkommando",
-    "profitable_lots": [
-      {
-        "unit_price": 9500000,
-        "avg_unit_price": 10061551,
-        "total_price": 9500000,
-        "quantity": 1,
-        "percent_diff": 5.58
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7460,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 32.98
-      }
-    ]
-  },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
+        "unit_price": 90000,
+        "avg_unit_price": 90465,
+        "total_price": 90000,
         "quantity": 1,
-        "percent_diff": 13.35
+        "percent_diff": 0.51
       }
     ]
   },
@@ -2163,23 +2127,11 @@
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 30000,
+        "unit_price": 25000,
         "avg_unit_price": 34205,
-        "total_price": 30000,
+        "total_price": 25000,
         "quantity": 1,
-        "percent_diff": 12.29
-      }
-    ]
-  },
-  "3g9n1": {
-    "item_name": "Алюминиевая бита",
-    "profitable_lots": [
-      {
-        "unit_price": 99999,
-        "avg_unit_price": 116222,
-        "total_price": 99999,
-        "quantity": 1,
-        "percent_diff": 13.96
+        "percent_diff": 26.91
       }
     ]
   },
