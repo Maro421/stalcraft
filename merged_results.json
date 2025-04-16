@@ -867,11 +867,11 @@
     "item_name": "Смазочные материалы",
     "profitable_lots": [
       {
-        "unit_price": 1999,
-        "avg_unit_price": 3467,
-        "total_price": 1999,
+        "unit_price": 1998,
+        "avg_unit_price": 3463,
+        "total_price": 1998,
         "quantity": 1,
-        "percent_diff": 42.34
+        "percent_diff": 42.3
       }
     ]
   },
@@ -1556,6 +1556,18 @@
         "total_price": 28700,
         "quantity": 1,
         "percent_diff": 4.33
+      }
+    ]
+  },
+  "g4rq6": {
+    "item_name": "Ящик кустарных ВОГ-25П",
+    "profitable_lots": [
+      {
+        "unit_price": 30000,
+        "avg_unit_price": 34137,
+        "total_price": 30000,
+        "quantity": 1,
+        "percent_diff": 12.12
       }
     ]
   },
