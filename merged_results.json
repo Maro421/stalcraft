@@ -359,18 +359,6 @@
       }
     ]
   },
-  "woro": {
-    "item_name": "Опухоль мертвеца",
-    "profitable_lots": [
-      {
-        "unit_price": 1000,
-        "avg_unit_price": 1516,
-        "total_price": 1000,
-        "quantity": 1,
-        "percent_diff": 34.04
-      }
-    ]
-  },
   "40pn": {
     "item_name": "Аномальные дрожжи",
     "profitable_lots": [
@@ -1372,10 +1360,10 @@
     "profitable_lots": [
       {
         "unit_price": 150,
-        "avg_unit_price": 1500,
+        "avg_unit_price": 1605,
         "total_price": 150,
         "quantity": 1,
-        "percent_diff": 90.0
+        "percent_diff": 90.65
       }
     ]
   },
@@ -1988,6 +1976,18 @@
         "total_price": 13400,
         "quantity": 1,
         "percent_diff": 4.01
+      }
+    ]
+  },
+  "m0q7r": {
+    "item_name": "Сумка зажигательных 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 2678,
+        "total_price": 500,
+        "quantity": 1,
+        "percent_diff": 81.33
       }
     ]
   },
