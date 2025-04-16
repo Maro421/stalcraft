@@ -71,15 +71,15 @@
       }
     ]
   },
-  "prrd": {
-    "item_name": "Янтарная полынь",
+  "npp9": {
+    "item_name": "Чертоцвет",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 11162,
-        "total_price": 20000,
-        "quantity": 2,
-        "percent_diff": 10.41
+        "unit_price": 1700,
+        "avg_unit_price": 1784,
+        "total_price": 17000,
+        "quantity": 10,
+        "percent_diff": 4.71
       }
     ]
   },
