@@ -243,11 +243,11 @@
     "item_name": "Кофе",
     "profitable_lots": [
       {
-        "unit_price": 2780,
-        "avg_unit_price": 3666,
-        "total_price": 139000,
-        "quantity": 50,
-        "percent_diff": 24.17
+        "unit_price": 3076,
+        "avg_unit_price": 3742,
+        "total_price": 120000,
+        "quantity": 39,
+        "percent_diff": 17.8
       }
     ]
   },
@@ -255,11 +255,11 @@
     "item_name": "Мясо шавки",
     "profitable_lots": [
       {
-        "unit_price": 5500,
-        "avg_unit_price": 12559,
-        "total_price": 5500,
+        "unit_price": 11999,
+        "avg_unit_price": 12147,
+        "total_price": 11999,
         "quantity": 1,
-        "percent_diff": 56.21
+        "percent_diff": 1.22
       }
     ]
   },
