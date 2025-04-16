@@ -1047,11 +1047,11 @@
     "item_name": "Прочный металл",
     "profitable_lots": [
       {
-        "unit_price": 68000,
+        "unit_price": 65000,
         "avg_unit_price": 71010,
-        "total_price": 680000,
-        "quantity": 10,
-        "percent_diff": 4.24
+        "total_price": 65000,
+        "quantity": 1,
+        "percent_diff": 8.46
       }
     ]
   },
@@ -1635,11 +1635,11 @@
     "item_name": "Копыто сильного кабана",
     "profitable_lots": [
       {
-        "unit_price": 3174,
-        "avg_unit_price": 3827,
-        "total_price": 22222,
-        "quantity": 7,
-        "percent_diff": 17.06
+        "unit_price": 3400,
+        "avg_unit_price": 4325,
+        "total_price": 17000,
+        "quantity": 5,
+        "percent_diff": 21.39
       }
     ]
   },
