@@ -1059,11 +1059,11 @@
     "item_name": "Защитное покрытие",
     "profitable_lots": [
       {
-        "unit_price": 56000,
-        "avg_unit_price": 57051,
-        "total_price": 56000,
+        "unit_price": 55000,
+        "avg_unit_price": 57054,
+        "total_price": 55000,
         "quantity": 1,
-        "percent_diff": 1.84
+        "percent_diff": 3.6
       }
     ]
   },
@@ -1623,23 +1623,11 @@
     "item_name": "Аномальная пыль",
     "profitable_lots": [
       {
-        "unit_price": 373,
-        "avg_unit_price": 378,
-        "total_price": 345555,
-        "quantity": 924,
-        "percent_diff": 1.32
-      }
-    ]
-  },
-  "96z2z": {
-    "item_name": "Хронопыль",
-    "profitable_lots": [
-      {
-        "unit_price": 74444,
-        "avg_unit_price": 75344,
-        "total_price": 74444,
-        "quantity": 1,
-        "percent_diff": 1.19
+        "unit_price": 333,
+        "avg_unit_price": 384,
+        "total_price": 1000000,
+        "quantity": 3000,
+        "percent_diff": 13.28
       }
     ]
   },
@@ -2072,18 +2060,6 @@
         "total_price": 170000,
         "quantity": 1,
         "percent_diff": 12.76
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 9999,
-        "avg_unit_price": 10836,
-        "total_price": 9999,
-        "quantity": 1,
-        "percent_diff": 7.72
       }
     ]
   },
