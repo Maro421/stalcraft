@@ -159,11 +159,11 @@
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 13399,
-        "total_price": 99999,
+        "unit_price": 7733,
+        "avg_unit_price": 12529,
+        "total_price": 115998,
         "quantity": 15,
-        "percent_diff": 50.25
+        "percent_diff": 38.28
       }
     ]
   },
@@ -183,11 +183,11 @@
     "item_name": "Дрожжи",
     "profitable_lots": [
       {
-        "unit_price": 4444,
-        "avg_unit_price": 4918,
-        "total_price": 8888,
-        "quantity": 2,
-        "percent_diff": 9.64
+        "unit_price": 4200,
+        "avg_unit_price": 4899,
+        "total_price": 4200,
+        "quantity": 1,
+        "percent_diff": 14.27
       }
     ]
   },
@@ -1203,11 +1203,11 @@
     "item_name": "Детектор узкого диапазона «Эльбрус»",
     "profitable_lots": [
       {
-        "unit_price": 55000000,
-        "avg_unit_price": 55920307,
-        "total_price": 55000000,
+        "unit_price": 52000000,
+        "avg_unit_price": 55974442,
+        "total_price": 52000000,
         "quantity": 1,
-        "percent_diff": 1.65
+        "percent_diff": 7.1
       }
     ]
   },
@@ -2211,11 +2211,11 @@
     "item_name": "Алюминиевая бита",
     "profitable_lots": [
       {
-        "unit_price": 120000,
-        "avg_unit_price": 120277,
-        "total_price": 120000,
+        "unit_price": 99999,
+        "avg_unit_price": 116222,
+        "total_price": 99999,
         "quantity": 1,
-        "percent_diff": 0.23
+        "percent_diff": 13.96
       }
     ]
   },
@@ -2223,11 +2223,11 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 180000,
+        "unit_price": 170000,
         "avg_unit_price": 194863,
-        "total_price": 180000,
+        "total_price": 170000,
         "quantity": 1,
-        "percent_diff": 7.63
+        "percent_diff": 12.76
       }
     ]
   },
