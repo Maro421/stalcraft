@@ -1,1 +1,3494 @@
-
+{
+  "1ddr": {
+    "item_name": "Мякоть мятноплода",
+    "profitable_lots": [
+      {
+        "unit_price": 112,
+        "avg_unit_price": 329,
+        "total_price": 1800,
+        "quantity": 16,
+        "percent_diff": 65.96
+      }
+    ]
+  },
+  "g00n": {
+    "item_name": "Мякоть сластены",
+    "profitable_lots": [
+      {
+        "unit_price": 6562,
+        "avg_unit_price": 6938,
+        "total_price": 105000,
+        "quantity": 16,
+        "percent_diff": 5.42
+      }
+    ]
+  },
+  "z77k": {
+    "item_name": "Мякоть спиртня",
+    "profitable_lots": [
+      {
+        "unit_price": 555,
+        "avg_unit_price": 3231,
+        "total_price": 10000,
+        "quantity": 18,
+        "percent_diff": 82.82
+      }
+    ]
+  },
+  "5ddo": {
+    "item_name": "Мякоть куборбуза",
+    "profitable_lots": [
+      {
+        "unit_price": 4499,
+        "avg_unit_price": 7160,
+        "total_price": 179990,
+        "quantity": 40,
+        "percent_diff": 37.16
+      }
+    ]
+  },
+  "wooz": {
+    "item_name": "Тусклые минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 663,
+        "total_price": 8000,
+        "quantity": 16,
+        "percent_diff": 24.59
+      }
+    ]
+  },
+  "400j": {
+    "item_name": "Изумрудные минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 23,
+        "avg_unit_price": 60,
+        "total_price": 1000,
+        "quantity": 42,
+        "percent_diff": 61.67
+      }
+    ]
+  },
+  "kllj": {
+    "item_name": "Лазурные минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 250,
+        "avg_unit_price": 391,
+        "total_price": 4001,
+        "quantity": 16,
+        "percent_diff": 36.06
+      }
+    ]
+  },
+  "qvv4": {
+    "item_name": "Пурпурные минералы",
+    "profitable_lots": [
+      {
+        "unit_price": 100,
+        "avg_unit_price": 224,
+        "total_price": 5000,
+        "quantity": 50,
+        "percent_diff": 55.36
+      }
+    ]
+  },
+  "rrrz": {
+    "item_name": "Бледнолист",
+    "profitable_lots": [
+      {
+        "unit_price": 208,
+        "avg_unit_price": 300,
+        "total_price": 5000,
+        "quantity": 24,
+        "percent_diff": 30.67
+      }
+    ]
+  },
+  "033k": {
+    "item_name": "Кислотная крапива",
+    "profitable_lots": [
+      {
+        "unit_price": 119,
+        "avg_unit_price": 167,
+        "total_price": 2500,
+        "quantity": 21,
+        "percent_diff": 28.74
+      }
+    ]
+  },
+  "m22k": {
+    "item_name": "Водонос",
+    "profitable_lots": [
+      {
+        "unit_price": 454,
+        "avg_unit_price": 632,
+        "total_price": 15000,
+        "quantity": 33,
+        "percent_diff": 28.16
+      }
+    ]
+  },
+  "npp9": {
+    "item_name": "Чертоцвет",
+    "profitable_lots": [
+      {
+        "unit_price": 1500,
+        "avg_unit_price": 1786,
+        "total_price": 1500,
+        "quantity": 1,
+        "percent_diff": 16.01
+      }
+    ]
+  },
+  "prrd": {
+    "item_name": "Янтарная полынь",
+    "profitable_lots": [
+      {
+        "unit_price": 10000,
+        "avg_unit_price": 12923,
+        "total_price": 100000,
+        "quantity": 10,
+        "percent_diff": 22.62
+      }
+    ]
+  },
+  "g0vn": {
+    "item_name": "Канистра с бензином",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5408,
+        "total_price": 10000,
+        "quantity": 2,
+        "percent_diff": 7.54
+      }
+    ]
+  },
+  "z7lk": {
+    "item_name": "Канистра с дизелем",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5615,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 10.95
+      }
+    ]
+  },
+  "5dgo": {
+    "item_name": "Баллон с пропаном",
+    "profitable_lots": [
+      {
+        "unit_price": 5100,
+        "avg_unit_price": 5991,
+        "total_price": 5100,
+        "quantity": 1,
+        "percent_diff": 14.87
+      }
+    ]
+  },
+  "y7j0": {
+    "item_name": "Баллон с метаном",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 6634,
+        "total_price": 15000,
+        "quantity": 3,
+        "percent_diff": 24.63
+      }
+    ]
+  },
+  "g0gp": {
+    "item_name": "Гнилые доски",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1543,
+        "total_price": 5000,
+        "quantity": 5,
+        "percent_diff": 35.19
+      }
+    ]
+  },
+  "z7pn": {
+    "item_name": "Ткань",
+    "profitable_lots": [
+      {
+        "unit_price": 1300,
+        "avg_unit_price": 1357,
+        "total_price": 65000,
+        "quantity": 50,
+        "percent_diff": 4.2
+      }
+    ]
+  },
+  "y7po": {
+    "item_name": "Реагенты",
+    "profitable_lots": [
+      {
+        "unit_price": 1111,
+        "avg_unit_price": 1553,
+        "total_price": 55555,
+        "quantity": 50,
+        "percent_diff": 28.46
+      }
+    ]
+  },
+  "wopo": {
+    "item_name": "Перчатки",
+    "profitable_lots": [
+      {
+        "unit_price": 444,
+        "avg_unit_price": 1019,
+        "total_price": 1334,
+        "quantity": 3,
+        "percent_diff": 56.43
+      }
+    ]
+  },
+  "40vn": {
+    "item_name": "Аммиак",
+    "profitable_lots": [
+      {
+        "unit_price": 8500,
+        "avg_unit_price": 9790,
+        "total_price": 8500,
+        "quantity": 1,
+        "percent_diff": 13.18
+      }
+    ]
+  },
+  "klwv": {
+    "item_name": "Нефть",
+    "profitable_lots": [
+      {
+        "unit_price": 1820,
+        "avg_unit_price": 1892,
+        "total_price": 91000,
+        "quantity": 50,
+        "percent_diff": 3.81
+      }
+    ]
+  },
+  "qvrk": {
+    "item_name": "Борная кислота",
+    "profitable_lots": [
+      {
+        "unit_price": 270,
+        "avg_unit_price": 1957,
+        "total_price": 270,
+        "quantity": 1,
+        "percent_diff": 86.2
+      }
+    ]
+  },
+  "jl66": {
+    "item_name": "Защитное снаряжение",
+    "profitable_lots": [
+      {
+        "unit_price": 7333,
+        "avg_unit_price": 9105,
+        "total_price": 110000,
+        "quantity": 15,
+        "percent_diff": 19.46
+      }
+    ]
+  },
+  "ll41": {
+    "item_name": "Изолента",
+    "profitable_lots": [
+      {
+        "unit_price": 79,
+        "avg_unit_price": 143,
+        "total_price": 79,
+        "quantity": 1,
+        "percent_diff": 44.76
+      }
+    ]
+  },
+  "rr05": {
+    "item_name": "Дрожжи",
+    "profitable_lots": [
+      {
+        "unit_price": 4990,
+        "avg_unit_price": 5066,
+        "total_price": 49900,
+        "quantity": 10,
+        "percent_diff": 1.5
+      }
+    ]
+  },
+  "m2k7": {
+    "item_name": "Глаз зомби",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 3069,
+        "total_price": 1000,
+        "quantity": 2,
+        "percent_diff": 83.71
+      }
+    ]
+  },
+  "ovj0": {
+    "item_name": "Гипофиз мертвеца",
+    "profitable_lots": [
+      {
+        "unit_price": 5500,
+        "avg_unit_price": 7722,
+        "total_price": 5500,
+        "quantity": 1,
+        "percent_diff": 28.77
+      }
+    ]
+  },
+  "prl2": {
+    "item_name": "Кофе",
+    "profitable_lots": [
+      {
+        "unit_price": 3900,
+        "avg_unit_price": 5075,
+        "total_price": 3900,
+        "quantity": 1,
+        "percent_diff": 23.15
+      }
+    ]
+  },
+  "2d76": {
+    "item_name": "Мясо кабана",
+    "profitable_lots": [
+      {
+        "unit_price": 3999,
+        "avg_unit_price": 4329,
+        "total_price": 3999,
+        "quantity": 1,
+        "percent_diff": 7.62
+      }
+    ]
+  },
+  "3rpg": {
+    "item_name": "Полутухлая рыба",
+    "profitable_lots": [
+      {
+        "unit_price": 4400,
+        "avg_unit_price": 6080,
+        "total_price": 220000,
+        "quantity": 50,
+        "percent_diff": 27.63
+      }
+    ]
+  },
+  "7rp7": {
+    "item_name": "Чеснок",
+    "profitable_lots": [
+      {
+        "unit_price": 1779,
+        "avg_unit_price": 2239,
+        "total_price": 88999,
+        "quantity": 50,
+        "percent_diff": 20.54
+      }
+    ]
+  },
+  "6rpy": {
+    "item_name": "Помидор",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 4073,
+        "total_price": 80000,
+        "quantity": 20,
+        "percent_diff": 1.79
+      }
+    ]
+  },
+  "g02p": {
+    "item_name": "Банка с горохом",
+    "profitable_lots": [
+      {
+        "unit_price": 800,
+        "avg_unit_price": 1002,
+        "total_price": 40000,
+        "quantity": 50,
+        "percent_diff": 20.16
+      }
+    ]
+  },
+  "5dp0": {
+    "item_name": "Банка с пшеном",
+    "profitable_lots": [
+      {
+        "unit_price": 3500,
+        "avg_unit_price": 4080,
+        "total_price": 14000,
+        "quantity": 4,
+        "percent_diff": 14.22
+      }
+    ]
+  },
+  "woro": {
+    "item_name": "Опухоль мертвеца",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1516,
+        "total_price": 1000,
+        "quantity": 1,
+        "percent_diff": 34.04
+      }
+    ]
+  },
+  "40pn": {
+    "item_name": "Аномальные дрожжи",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 4416,
+        "total_price": 200000,
+        "quantity": 50,
+        "percent_diff": 9.42
+      }
+    ]
+  },
+  "kl9v": {
+    "item_name": "Молоко",
+    "profitable_lots": [
+      {
+        "unit_price": 300,
+        "avg_unit_price": 592,
+        "total_price": 15000,
+        "quantity": 50,
+        "percent_diff": 49.32
+      }
+    ]
+  },
+  "qvwk": {
+    "item_name": "Клей",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1053,
+        "total_price": 4000,
+        "quantity": 4,
+        "percent_diff": 5.03
+      }
+    ]
+  },
+  "jl26": {
+    "item_name": "Полимеры",
+    "profitable_lots": [
+      {
+        "unit_price": 1295,
+        "avg_unit_price": 1525,
+        "total_price": 64750,
+        "quantity": 50,
+        "percent_diff": 15.08
+      }
+    ]
+  },
+  "ll11": {
+    "item_name": "Сломанный прибор",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1229,
+        "total_price": 1000,
+        "quantity": 1,
+        "percent_diff": 18.63
+      }
+    ]
+  },
+  "rr45": {
+    "item_name": "Асбест",
+    "profitable_lots": [
+      {
+        "unit_price": 227,
+        "avg_unit_price": 399,
+        "total_price": 10000,
+        "quantity": 44,
+        "percent_diff": 43.11
+      }
+    ]
+  },
+  "03p1": {
+    "item_name": "Газовый баллон",
+    "profitable_lots": [
+      {
+        "unit_price": 5777,
+        "avg_unit_price": 6570,
+        "total_price": 288888,
+        "quantity": 50,
+        "percent_diff": 12.07
+      }
+    ]
+  },
+  "m2g7": {
+    "item_name": "Текстолит",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1171,
+        "total_price": 1000,
+        "quantity": 1,
+        "percent_diff": 14.6
+      }
+    ]
+  },
+  "ov50": {
+    "item_name": "Сковорода",
+    "profitable_lots": [
+      {
+        "unit_price": 1900,
+        "avg_unit_price": 2396,
+        "total_price": 1900,
+        "quantity": 1,
+        "percent_diff": 20.7
+      }
+    ]
+  },
+  "npz3": {
+    "item_name": "Кастрюля",
+    "profitable_lots": [
+      {
+        "unit_price": 655,
+        "avg_unit_price": 3395,
+        "total_price": 655,
+        "quantity": 1,
+        "percent_diff": 80.71
+      }
+    ]
+  },
+  "vrld": {
+    "item_name": "Консервная банка",
+    "profitable_lots": [
+      {
+        "unit_price": 377,
+        "avg_unit_price": 379,
+        "total_price": 3777,
+        "quantity": 10,
+        "percent_diff": 0.53
+      }
+    ]
+  },
+  "dq2n": {
+    "item_name": "Мультитул",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 3921,
+        "total_price": 3000,
+        "quantity": 1,
+        "percent_diff": 23.49
+      }
+    ]
+  },
+  "1d56": {
+    "item_name": "Щепки",
+    "profitable_lots": [
+      {
+        "unit_price": 20,
+        "avg_unit_price": 94,
+        "total_price": 60,
+        "quantity": 3,
+        "percent_diff": 78.72
+      }
+    ]
+  },
+  "g060": {
+    "item_name": "Набор для шитья",
+    "profitable_lots": [
+      {
+        "unit_price": 600,
+        "avg_unit_price": 777,
+        "total_price": 18000,
+        "quantity": 30,
+        "percent_diff": 22.78
+      }
+    ]
+  },
+  "z7d2": {
+    "item_name": "Кислота",
+    "profitable_lots": [
+      {
+        "unit_price": 130,
+        "avg_unit_price": 437,
+        "total_price": 6500,
+        "quantity": 50,
+        "percent_diff": 70.25
+      }
+    ]
+  },
+  "5dkg": {
+    "item_name": "Раствор йода",
+    "profitable_lots": [
+      {
+        "unit_price": 373,
+        "avg_unit_price": 489,
+        "total_price": 4111,
+        "quantity": 11,
+        "percent_diff": 23.72
+      }
+    ]
+  },
+  "y7dz": {
+    "item_name": "Морозная смесь",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 749,
+        "total_price": 25000,
+        "quantity": 50,
+        "percent_diff": 33.24
+      }
+    ]
+  },
+  "wodp": {
+    "item_name": "Электросмесь",
+    "profitable_lots": [
+      {
+        "unit_price": 160,
+        "avg_unit_price": 3000,
+        "total_price": 8000,
+        "quantity": 50,
+        "percent_diff": 94.67
+      }
+    ]
+  },
+  "404p": {
+    "item_name": "Термическая смесь",
+    "profitable_lots": [
+      {
+        "unit_price": 230,
+        "avg_unit_price": 529,
+        "total_price": 6000,
+        "quantity": 26,
+        "percent_diff": 56.52
+      }
+    ]
+  },
+  "kl70": {
+    "item_name": "Гипс",
+    "profitable_lots": [
+      {
+        "unit_price": 240,
+        "avg_unit_price": 278,
+        "total_price": 12000,
+        "quantity": 50,
+        "percent_diff": 13.67
+      }
+    ]
+  },
+  "jl77": {
+    "item_name": "Железо",
+    "profitable_lots": [
+      {
+        "unit_price": 1259,
+        "avg_unit_price": 1929,
+        "total_price": 62999,
+        "quantity": 50,
+        "percent_diff": 34.73
+      }
+    ]
+  },
+  "rr7g": {
+    "item_name": "Медь",
+    "profitable_lots": [
+      {
+        "unit_price": 918,
+        "avg_unit_price": 3068,
+        "total_price": 45900,
+        "quantity": 50,
+        "percent_diff": 70.08
+      }
+    ]
+  },
+  "m27j": {
+    "item_name": "Аминокислота",
+    "profitable_lots": [
+      {
+        "unit_price": 7999,
+        "avg_unit_price": 9296,
+        "total_price": 23999,
+        "quantity": 3,
+        "percent_diff": 13.95
+      }
+    ]
+  },
+  "ov7o": {
+    "item_name": "Альфа биоматериал",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 5873,
+        "total_price": 6000,
+        "quantity": 2,
+        "percent_diff": 48.92
+      }
+    ]
+  },
+  "npr6": {
+    "item_name": "Цинк",
+    "profitable_lots": [
+      {
+        "unit_price": 999,
+        "avg_unit_price": 1315,
+        "total_price": 49999,
+        "quantity": 50,
+        "percent_diff": 24.03
+      }
+    ]
+  },
+  "dqg5": {
+    "item_name": "Животный жир",
+    "profitable_lots": [
+      {
+        "unit_price": 1308,
+        "avg_unit_price": 1509,
+        "total_price": 65400,
+        "quantity": 50,
+        "percent_diff": 13.32
+      }
+    ]
+  },
+  "3r6z": {
+    "item_name": "Жареное мясо хрюши",
+    "profitable_lots": [
+      {
+        "unit_price": 200,
+        "avg_unit_price": 472,
+        "total_price": 10000,
+        "quantity": 50,
+        "percent_diff": 57.63
+      }
+    ]
+  },
+  "6r0j": {
+    "item_name": "Мука",
+    "profitable_lots": [
+      {
+        "unit_price": 62,
+        "avg_unit_price": 126,
+        "total_price": 1999,
+        "quantity": 32,
+        "percent_diff": 50.79
+      }
+    ]
+  },
+  "1dk6": {
+    "item_name": "Набор специй",
+    "profitable_lots": [
+      {
+        "unit_price": 5400,
+        "avg_unit_price": 6446,
+        "total_price": 54000,
+        "quantity": 10,
+        "percent_diff": 16.23
+      }
+    ]
+  },
+  "z7y2": {
+    "item_name": "Протертые овощи",
+    "profitable_lots": [
+      {
+        "unit_price": 4263,
+        "avg_unit_price": 9356,
+        "total_price": 81000,
+        "quantity": 19,
+        "percent_diff": 54.44
+      }
+    ]
+  },
+  "5drg": {
+    "item_name": "Брага",
+    "profitable_lots": [
+      {
+        "unit_price": 3059,
+        "avg_unit_price": 3299,
+        "total_price": 152999,
+        "quantity": 50,
+        "percent_diff": 7.27
+      }
+    ]
+  },
+  "y75z": {
+    "item_name": "Сок",
+    "profitable_lots": [
+      {
+        "unit_price": 4800,
+        "avg_unit_price": 5896,
+        "total_price": 240000,
+        "quantity": 50,
+        "percent_diff": 18.59
+      }
+    ]
+  },
+  "wogp": {
+    "item_name": "Доски",
+    "profitable_lots": [
+      {
+        "unit_price": 259,
+        "avg_unit_price": 305,
+        "total_price": 7777,
+        "quantity": 30,
+        "percent_diff": 15.08
+      }
+    ]
+  },
+  "40lp": {
+    "item_name": "Микроэлектроника",
+    "profitable_lots": [
+      {
+        "unit_price": 1142,
+        "avg_unit_price": 2012,
+        "total_price": 32000,
+        "quantity": 28,
+        "percent_diff": 43.24
+      }
+    ]
+  },
+  "klq0": {
+    "item_name": "Биогаз",
+    "profitable_lots": [
+      {
+        "unit_price": 20000,
+        "avg_unit_price": 20124,
+        "total_price": 200000,
+        "quantity": 10,
+        "percent_diff": 0.62
+      }
+    ]
+  },
+  "9mgw": {
+    "item_name": "Древесный уголь",
+    "profitable_lots": [
+      {
+        "unit_price": 300,
+        "avg_unit_price": 450,
+        "total_price": 15000,
+        "quantity": 50,
+        "percent_diff": 33.33
+      }
+    ]
+  },
+  "1dnq": {
+    "item_name": "Тканевая сумка",
+    "profitable_lots": [
+      {
+        "unit_price": 210,
+        "avg_unit_price": 268,
+        "total_price": 10500,
+        "quantity": 50,
+        "percent_diff": 21.64
+      }
+    ]
+  },
+  "z719": {
+    "item_name": "Сталь",
+    "profitable_lots": [
+      {
+        "unit_price": 799,
+        "avg_unit_price": 831,
+        "total_price": 39990,
+        "quantity": 50,
+        "percent_diff": 3.85
+      }
+    ]
+  },
+  "wo2d": {
+    "item_name": "Хлор",
+    "profitable_lots": [
+      {
+        "unit_price": 6000,
+        "avg_unit_price": 6116,
+        "total_price": 300000,
+        "quantity": 50,
+        "percent_diff": 1.9
+      }
+    ]
+  },
+  "40dl": {
+    "item_name": "Водород",
+    "profitable_lots": [
+      {
+        "unit_price": 27300,
+        "avg_unit_price": 27702,
+        "total_price": 27300,
+        "quantity": 1,
+        "percent_diff": 1.45
+      }
+    ]
+  },
+  "klk3": {
+    "item_name": "Этилен",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1366,
+        "total_price": 42000,
+        "quantity": 42,
+        "percent_diff": 26.79
+      }
+    ]
+  },
+  "qvm9": {
+    "item_name": "Азотная кислота",
+    "profitable_lots": [
+      {
+        "unit_price": 10000,
+        "avg_unit_price": 10805,
+        "total_price": 500000,
+        "quantity": 50,
+        "percent_diff": 7.45
+      }
+    ]
+  },
+  "jl44": {
+    "item_name": "Серная кислота",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 616,
+        "total_price": 25000,
+        "quantity": 50,
+        "percent_diff": 18.83
+      }
+    ]
+  },
+  "m2lr": {
+    "item_name": "Карбоноволокно",
+    "profitable_lots": [
+      {
+        "unit_price": 2790,
+        "avg_unit_price": 5971,
+        "total_price": 120000,
+        "quantity": 43,
+        "percent_diff": 53.27
+      }
+    ]
+  },
+  "np0w": {
+    "item_name": "Поташ",
+    "profitable_lots": [
+      {
+        "unit_price": 400,
+        "avg_unit_price": 534,
+        "total_price": 12000,
+        "quantity": 30,
+        "percent_diff": 25.09
+      }
+    ]
+  },
+  "g07g": {
+    "item_name": "Тиражный ликер",
+    "profitable_lots": [
+      {
+        "unit_price": 1320,
+        "avg_unit_price": 3965,
+        "total_price": 66000,
+        "quantity": 50,
+        "percent_diff": 66.71
+      }
+    ]
+  },
+  "z7m9": {
+    "item_name": "Мультимер",
+    "profitable_lots": [
+      {
+        "unit_price": 1666,
+        "avg_unit_price": 1909,
+        "total_price": 25000,
+        "quantity": 15,
+        "percent_diff": 12.73
+      }
+    ]
+  },
+  "5dm4": {
+    "item_name": "Контрольная плата",
+    "profitable_lots": [
+      {
+        "unit_price": 7999,
+        "avg_unit_price": 8381,
+        "total_price": 39999,
+        "quantity": 5,
+        "percent_diff": 4.56
+      }
+    ]
+  },
+  "y7rw": {
+    "item_name": "Детали электромотора",
+    "profitable_lots": [
+      {
+        "unit_price": 750,
+        "avg_unit_price": 822,
+        "total_price": 750,
+        "quantity": 1,
+        "percent_diff": 8.76
+      }
+    ]
+  },
+  "wokd": {
+    "item_name": "Смазочные материалы",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 3064,
+        "total_price": 8000,
+        "quantity": 4,
+        "percent_diff": 34.73
+      }
+    ]
+  },
+  "40rl": {
+    "item_name": "Разделочная доска",
+    "profitable_lots": [
+      {
+        "unit_price": 160,
+        "avg_unit_price": 1963,
+        "total_price": 8000,
+        "quantity": 50,
+        "percent_diff": 91.85
+      }
+    ]
+  },
+  "gmn6": {
+    "item_name": "Пулевой сплав",
+    "profitable_lots": [
+      {
+        "unit_price": 12,
+        "avg_unit_price": 15,
+        "total_price": 600,
+        "quantity": 50,
+        "percent_diff": 20.0
+      }
+    ]
+  },
+  "q2yj": {
+    "item_name": "Крепкая сталь",
+    "profitable_lots": [
+      {
+        "unit_price": 259,
+        "avg_unit_price": 270,
+        "total_price": 7000,
+        "quantity": 27,
+        "percent_diff": 4.07
+      }
+    ]
+  },
+  "jon0": {
+    "item_name": "Нашатырь",
+    "profitable_lots": [
+      {
+        "unit_price": 2833,
+        "avg_unit_price": 4649,
+        "total_price": 17000,
+        "quantity": 6,
+        "percent_diff": 39.06
+      }
+    ]
+  },
+  "mm4y": {
+    "item_name": "Продвинутый электрод",
+    "profitable_lots": [
+      {
+        "unit_price": 8000,
+        "avg_unit_price": 14054,
+        "total_price": 8000,
+        "quantity": 1,
+        "percent_diff": 43.08
+      }
+    ]
+  },
+  "om46": {
+    "item_name": "Набор тонких сверл и бит",
+    "profitable_lots": [
+      {
+        "unit_price": 47,
+        "avg_unit_price": 116,
+        "total_price": 190,
+        "quantity": 4,
+        "percent_diff": 59.48
+      }
+    ]
+  },
+  "p3vw": {
+    "item_name": "Электродвигатель",
+    "profitable_lots": [
+      {
+        "unit_price": 999,
+        "avg_unit_price": 1865,
+        "total_price": 22999,
+        "quantity": 23,
+        "percent_diff": 46.43
+      }
+    ]
+  },
+  "5njq": {
+    "item_name": "Алюминий",
+    "profitable_lots": [
+      {
+        "unit_price": 933,
+        "avg_unit_price": 1540,
+        "total_price": 14000,
+        "quantity": 15,
+        "percent_diff": 39.42
+      }
+    ]
+  },
+  "y263": {
+    "item_name": "Метан",
+    "profitable_lots": [
+      {
+        "unit_price": 18000,
+        "avg_unit_price": 24296,
+        "total_price": 90000,
+        "quantity": 5,
+        "percent_diff": 25.91
+      }
+    ]
+  },
+  "km2p": {
+    "item_name": "Ацетилхлорид",
+    "profitable_lots": [
+      {
+        "unit_price": 750,
+        "avg_unit_price": 1574,
+        "total_price": 6000,
+        "quantity": 8,
+        "percent_diff": 52.35
+      }
+    ]
+  },
+  "q2p3": {
+    "item_name": "Полипропилен",
+    "profitable_lots": [
+      {
+        "unit_price": 1998,
+        "avg_unit_price": 2031,
+        "total_price": 1998,
+        "quantity": 1,
+        "percent_diff": 1.62
+      }
+    ]
+  },
+  "jowg": {
+    "item_name": "Психореагент",
+    "profitable_lots": [
+      {
+        "unit_price": 11999,
+        "avg_unit_price": 13141,
+        "total_price": 119998,
+        "quantity": 10,
+        "percent_diff": 8.69
+      }
+    ]
+  },
+  "l2oo": {
+    "item_name": "Зажигательное покрытие",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1922,
+        "total_price": 15000,
+        "quantity": 15,
+        "percent_diff": 47.97
+      }
+    ]
+  },
+  "mmn2": {
+    "item_name": "Кровяная сыворотка",
+    "profitable_lots": [
+      {
+        "unit_price": 2750,
+        "avg_unit_price": 2950,
+        "total_price": 55000,
+        "quantity": 20,
+        "percent_diff": 6.78
+      }
+    ]
+  },
+  "om6m": {
+    "item_name": "Измерительное оборудование",
+    "profitable_lots": [
+      {
+        "unit_price": 16448,
+        "avg_unit_price": 39051,
+        "total_price": 49344,
+        "quantity": 3,
+        "percent_diff": 57.88
+      }
+    ]
+  },
+  "p3o4": {
+    "item_name": "Роторная система",
+    "profitable_lots": [
+      {
+        "unit_price": 49990,
+        "avg_unit_price": 52992,
+        "total_price": 49990,
+        "quantity": 1,
+        "percent_diff": 5.67
+      }
+    ]
+  },
+  "v25p": {
+    "item_name": "Операционный усилитель",
+    "profitable_lots": [
+      {
+        "unit_price": 26000,
+        "avg_unit_price": 36412,
+        "total_price": 26000,
+        "quantity": 1,
+        "percent_diff": 28.59
+      }
+    ]
+  },
+  "dj92": {
+    "item_name": "Набор кухонных ножей",
+    "profitable_lots": [
+      {
+        "unit_price": 7000,
+        "avg_unit_price": 7768,
+        "total_price": 91000,
+        "quantity": 13,
+        "percent_diff": 9.89
+      }
+    ]
+  },
+  "2nw5": {
+    "item_name": "Защитное покрытие",
+    "profitable_lots": [
+      {
+        "unit_price": 49999,
+        "avg_unit_price": 57145,
+        "total_price": 249999,
+        "quantity": 5,
+        "percent_diff": 12.51
+      }
+    ]
+  },
+  "y220": {
+    "item_name": "Адреналин",
+    "profitable_lots": [
+      {
+        "unit_price": 666,
+        "avg_unit_price": 949,
+        "total_price": 10000,
+        "quantity": 15,
+        "percent_diff": 29.82
+      }
+    ]
+  },
+  "w77z": {
+    "item_name": "Этилалюмин",
+    "profitable_lots": [
+      {
+        "unit_price": 999,
+        "avg_unit_price": 1580,
+        "total_price": 49999,
+        "quantity": 50,
+        "percent_diff": 36.77
+      }
+    ]
+  },
+  "4nnj": {
+    "item_name": "Гремучая ртуть",
+    "profitable_lots": [
+      {
+        "unit_price": 9333,
+        "avg_unit_price": 10937,
+        "total_price": 140000,
+        "quantity": 15,
+        "percent_diff": 14.67
+      }
+    ]
+  },
+  "kmmj": {
+    "item_name": "Промышленный растворитель",
+    "profitable_lots": [
+      {
+        "unit_price": 28599,
+        "avg_unit_price": 30352,
+        "total_price": 285999,
+        "quantity": 10,
+        "percent_diff": 5.78
+      }
+    ]
+  },
+  "jool": {
+    "item_name": "Анилин",
+    "profitable_lots": [
+      {
+        "unit_price": 2666,
+        "avg_unit_price": 7597,
+        "total_price": 40000,
+        "quantity": 15,
+        "percent_diff": 64.91
+      }
+    ]
+  },
+  "l222": {
+    "item_name": "Антитоксин",
+    "profitable_lots": [
+      {
+        "unit_price": 1666,
+        "avg_unit_price": 3525,
+        "total_price": 24999,
+        "quantity": 15,
+        "percent_diff": 52.74
+      }
+    ]
+  },
+  "99pz": {
+    "item_name": "Полиэтиленовая основа",
+    "profitable_lots": [
+      {
+        "unit_price": 6666,
+        "avg_unit_price": 6722,
+        "total_price": 200000,
+        "quantity": 30,
+        "percent_diff": 0.83
+      }
+    ]
+  },
+  "1731": {
+    "item_name": "Кевлар",
+    "profitable_lots": [
+      {
+        "unit_price": 37528,
+        "avg_unit_price": 40773,
+        "total_price": 187641,
+        "quantity": 5,
+        "percent_diff": 7.96
+      }
+    ]
+  },
+  "gm2p": {
+    "item_name": "Нитрожелатин",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 4774,
+        "total_price": 50000,
+        "quantity": 25,
+        "percent_diff": 58.11
+      }
+    ]
+  },
+  "5np0": {
+    "item_name": "Мутировавшие ферменты",
+    "profitable_lots": [
+      {
+        "unit_price": 4666,
+        "avg_unit_price": 5022,
+        "total_price": 140000,
+        "quantity": 30,
+        "percent_diff": 7.09
+      }
+    ]
+  },
+  "4npn": {
+    "item_name": "Теломераза",
+    "profitable_lots": [
+      {
+        "unit_price": 100000,
+        "avg_unit_price": 106935,
+        "total_price": 1000000,
+        "quantity": 10,
+        "percent_diff": 6.49
+      }
+    ]
+  },
+  "q2wk": {
+    "item_name": "Воздуховод",
+    "profitable_lots": [
+      {
+        "unit_price": 599999,
+        "avg_unit_price": 616420,
+        "total_price": 599999,
+        "quantity": 1,
+        "percent_diff": 2.66
+      }
+    ]
+  },
+  "99n0": {
+    "item_name": "Полиуретан",
+    "profitable_lots": [
+      {
+        "unit_price": 1500,
+        "avg_unit_price": 36447,
+        "total_price": 30000,
+        "quantity": 20,
+        "percent_diff": 95.88
+      }
+    ]
+  },
+  "z2y2": {
+    "item_name": "Аномальные гены",
+    "profitable_lots": [
+      {
+        "unit_price": 80000,
+        "avg_unit_price": 109075,
+        "total_price": 80000,
+        "quantity": 1,
+        "percent_diff": 26.66
+      }
+    ]
+  },
+  "gdj6": {
+    "item_name": "Детектор узкого диапазона «Эльбрус»",
+    "profitable_lots": [
+      {
+        "unit_price": 54100000,
+        "avg_unit_price": 56602884,
+        "total_price": 54100000,
+        "quantity": 1,
+        "percent_diff": 4.42
+      }
+    ]
+  },
+  "9ypy": {
+    "item_name": "Стальная пластина I",
+    "profitable_lots": [
+      {
+        "unit_price": 45,
+        "avg_unit_price": 50,
+        "total_price": 45,
+        "quantity": 1,
+        "percent_diff": 10.0
+      }
+    ]
+  },
+  "g325": {
+    "item_name": "Стальная пластина III",
+    "profitable_lots": [
+      {
+        "unit_price": 15,
+        "avg_unit_price": 16,
+        "total_price": 15,
+        "quantity": 1,
+        "percent_diff": 6.25
+      }
+    ]
+  },
+  "zj9m": {
+    "item_name": "Стальная пластина IV",
+    "profitable_lots": [
+      {
+        "unit_price": 15,
+        "avg_unit_price": 254,
+        "total_price": 15,
+        "quantity": 1,
+        "percent_diff": 94.09
+      }
+    ]
+  },
+  "514q": {
+    "item_name": "Стальная пластина V",
+    "profitable_lots": [
+      {
+        "unit_price": 999,
+        "avg_unit_price": 1218,
+        "total_price": 999,
+        "quantity": 1,
+        "percent_diff": 17.98
+      }
+    ]
+  },
+  "m3o2": {
+    "item_name": "Керамическая пластина V",
+    "profitable_lots": [
+      {
+        "unit_price": 150,
+        "avg_unit_price": 1500,
+        "total_price": 150,
+        "quantity": 1,
+        "percent_diff": 90.0
+      }
+    ]
+  },
+  "3dy5": {
+    "item_name": "Композитная пластина II",
+    "profitable_lots": [
+      {
+        "unit_price": 50,
+        "avg_unit_price": 127,
+        "total_price": 50,
+        "quantity": 1,
+        "percent_diff": 60.63
+      }
+    ]
+  },
+  "7zqj": {
+    "item_name": "Композитная пластина III",
+    "profitable_lots": [
+      {
+        "unit_price": 50,
+        "avg_unit_price": 77,
+        "total_price": 50,
+        "quantity": 1,
+        "percent_diff": 35.06
+      }
+    ]
+  },
+  "6gk0": {
+    "item_name": "Композитная пластина IV",
+    "profitable_lots": [
+      {
+        "unit_price": 150,
+        "avg_unit_price": 360,
+        "total_price": 150,
+        "quantity": 1,
+        "percent_diff": 58.33
+      }
+    ]
+  },
+  "o37m": {
+    "item_name": "Экспериментальная термопластина IV",
+    "profitable_lots": [
+      {
+        "unit_price": 3400,
+        "avg_unit_price": 5583,
+        "total_price": 3400,
+        "quantity": 1,
+        "percent_diff": 39.1
+      }
+    ]
+  },
+  "1p2r": {
+    "item_name": "«КЗС-3у»",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 9340,
+        "total_price": 3000,
+        "quantity": 1,
+        "percent_diff": 67.88
+      }
+    ]
+  },
+  "l3n2": {
+    "item_name": "Контейнер «Берлога-4у»",
+    "profitable_lots": [
+      {
+        "unit_price": 39000,
+        "avg_unit_price": 63911,
+        "total_price": 39000,
+        "quantity": 1,
+        "percent_diff": 38.98
+      }
+    ]
+  },
+  "nv43": {
+    "item_name": "Рюкзак NPA",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 91312,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 23.34
+      }
+    ]
+  },
+  "29dm": {
+    "item_name": "Ф-1",
+    "profitable_lots": [
+      {
+        "unit_price": 35,
+        "avg_unit_price": 94,
+        "total_price": 70,
+        "quantity": 2,
+        "percent_diff": 62.77
+      }
+    ]
+  },
+  "65r6": {
+    "item_name": "Выстрел гранатометный ВОГ-25",
+    "profitable_lots": [
+      {
+        "unit_price": 50,
+        "avg_unit_price": 59,
+        "total_price": 250,
+        "quantity": 5,
+        "percent_diff": 15.25
+      }
+    ]
+  },
+  "94mw": {
+    "item_name": "Выстрел гранатометный ВОГ-25П «Подкидыш»",
+    "profitable_lots": [
+      {
+        "unit_price": 100,
+        "avg_unit_price": 118,
+        "total_price": 500,
+        "quantity": 5,
+        "percent_diff": 15.25
+      }
+    ]
+  },
+  "g54p": {
+    "item_name": "Патрон 9 мм экспансивный",
+    "profitable_lots": [
+      {
+        "unit_price": 1,
+        "avg_unit_price": 2,
+        "total_price": 500,
+        "quantity": 300,
+        "percent_diff": 50.0
+      }
+    ]
+  },
+  "52l0": {
+    "item_name": "Патрон 9 мм СБП",
+    "profitable_lots": [
+      {
+        "unit_price": 8,
+        "avg_unit_price": 11,
+        "total_price": 50,
+        "quantity": 6,
+        "percent_diff": 27.27
+      }
+    ]
+  },
+  "7977": {
+    "item_name": "Патрон 5.56 мм зажигательный",
+    "profitable_lots": [
+      {
+        "unit_price": 5,
+        "avg_unit_price": 7,
+        "total_price": 850,
+        "quantity": 150,
+        "percent_diff": 28.57
+      }
+    ]
+  },
+  "w23o": {
+    "item_name": "Патрон 9x39 мм СП-5",
+    "profitable_lots": [
+      {
+        "unit_price": 1,
+        "avg_unit_price": 2,
+        "total_price": 150,
+        "quantity": 120,
+        "percent_diff": 50.0
+      }
+    ]
+  },
+  "kkrv": {
+    "item_name": "Патрон 9x39 мм СБП",
+    "profitable_lots": [
+      {
+        "unit_price": 16,
+        "avg_unit_price": 25,
+        "total_price": 1999,
+        "quantity": 120,
+        "percent_diff": 36.0
+      }
+    ]
+  },
+  "roj5": {
+    "item_name": "Улучшенный аккумулятор для винтовки Гаусса",
+    "profitable_lots": [
+      {
+        "unit_price": 68000,
+        "avg_unit_price": 72142,
+        "total_price": 680000,
+        "quantity": 10,
+        "percent_diff": 5.74
+      }
+    ]
+  },
+  "vdnd": {
+    "item_name": "Баллон с горючей смесью",
+    "profitable_lots": [
+      {
+        "unit_price": 200,
+        "avg_unit_price": 333,
+        "total_price": 200,
+        "quantity": 1,
+        "percent_diff": 39.94
+      }
+    ]
+  },
+  "y90z": {
+    "item_name": "Патрон 9x39 мм жгучий",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 14464,
+        "total_price": 60000,
+        "quantity": 30,
+        "percent_diff": 86.17
+      }
+    ]
+  },
+  "5lqp1": {
+    "item_name": "Сумка зажигательных 9x39 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 34000,
+        "avg_unit_price": 34969,
+        "total_price": 34000,
+        "quantity": 1,
+        "percent_diff": 2.77
+      }
+    ]
+  },
+  "qjlzj": {
+    "item_name": "Сумка СЭП 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 99700,
+        "avg_unit_price": 102687,
+        "total_price": 99700,
+        "quantity": 1,
+        "percent_diff": 2.91
+      }
+    ]
+  },
+  "j5pr0": {
+    "item_name": "Сумка СЭП 9x39 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 100000,
+        "avg_unit_price": 117790,
+        "total_price": 100000,
+        "quantity": 1,
+        "percent_diff": 15.1
+      }
+    ]
+  },
+  "0rwg9": {
+    "item_name": "Сумка взрывных 10 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 120000,
+        "avg_unit_price": 167333,
+        "total_price": 120000,
+        "quantity": 1,
+        "percent_diff": 28.29
+      }
+    ]
+  },
+  "n4691": {
+    "item_name": "Сумка 9x39 мм «Электросвинг»",
+    "profitable_lots": [
+      {
+        "unit_price": 14999,
+        "avg_unit_price": 17102,
+        "total_price": 14999,
+        "quantity": 1,
+        "percent_diff": 12.3
+      }
+    ]
+  },
+  "p6kgw": {
+    "item_name": "Сумка 12.7 мм Easy mode",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5049,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 0.97
+      }
+    ]
+  },
+  "dmlwj": {
+    "item_name": "Сумка дальнобойных 9x39 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 33333,
+        "avg_unit_price": 38048,
+        "total_price": 33333,
+        "quantity": 1,
+        "percent_diff": 12.39
+      }
+    ]
+  },
+  "6wmkp": {
+    "item_name": "Ящик гранат «Кустарник-1»",
+    "profitable_lots": [
+      {
+        "unit_price": 3300,
+        "avg_unit_price": 5941,
+        "total_price": 3300,
+        "quantity": 1,
+        "percent_diff": 44.45
+      }
+    ]
+  },
+  "g4rq6": {
+    "item_name": "Ящик кустарных ВОГ-25П",
+    "profitable_lots": [
+      {
+        "unit_price": 30000,
+        "avg_unit_price": 34137,
+        "total_price": 30000,
+        "quantity": 1,
+        "percent_diff": 12.12
+      }
+    ]
+  },
+  "rwldv": {
+    "item_name": "Ящик гранат «Вьюга»",
+    "profitable_lots": [
+      {
+        "unit_price": 33000,
+        "avg_unit_price": 33712,
+        "total_price": 33000,
+        "quantity": 1,
+        "percent_diff": 2.11
+      }
+    ]
+  },
+  "m0wdy": {
+    "item_name": "Ящик гранат «Подорожник»",
+    "profitable_lots": [
+      {
+        "unit_price": 20000,
+        "avg_unit_price": 28235,
+        "total_price": 20000,
+        "quantity": 1,
+        "percent_diff": 29.17
+      }
+    ]
+  },
+  "n46d1": {
+    "item_name": "Ящик гранат «Вонючка»",
+    "profitable_lots": [
+      {
+        "unit_price": 35000,
+        "avg_unit_price": 41333,
+        "total_price": 35000,
+        "quantity": 1,
+        "percent_diff": 15.32
+      }
+    ]
+  },
+  "2o6zl": {
+    "item_name": "Сумка стальных пластин IV",
+    "profitable_lots": [
+      {
+        "unit_price": 1999,
+        "avg_unit_price": 2000,
+        "total_price": 1999,
+        "quantity": 1,
+        "percent_diff": 0.05
+      }
+    ]
+  },
+  "96qjl": {
+    "item_name": "Сумка керамических пластин III",
+    "profitable_lots": [
+      {
+        "unit_price": 2800,
+        "avg_unit_price": 3962,
+        "total_price": 2800,
+        "quantity": 1,
+        "percent_diff": 29.33
+      }
+    ]
+  },
+  "1r0gg": {
+    "item_name": "Сумка керамических пластин IV",
+    "profitable_lots": [
+      {
+        "unit_price": 7000,
+        "avg_unit_price": 7136,
+        "total_price": 7000,
+        "quantity": 1,
+        "percent_diff": 1.91
+      }
+    ]
+  },
+  "wjn52": {
+    "item_name": "Сумка композитных пластин IV",
+    "profitable_lots": [
+      {
+        "unit_price": 24500,
+        "avg_unit_price": 25093,
+        "total_price": 24500,
+        "quantity": 1,
+        "percent_diff": 2.36
+      }
+    ]
+  },
+  "0rl9k": {
+    "item_name": "Голова крысы",
+    "profitable_lots": [
+      {
+        "unit_price": 2500,
+        "avg_unit_price": 6113,
+        "total_price": 5000,
+        "quantity": 2,
+        "percent_diff": 59.1
+      }
+    ]
+  },
+  "5lo3o": {
+    "item_name": "Копыто сильного кабана",
+    "profitable_lots": [
+      {
+        "unit_price": 3174,
+        "avg_unit_price": 4263,
+        "total_price": 22222,
+        "quantity": 7,
+        "percent_diff": 25.55
+      }
+    ]
+  },
+  "3gqkg": {
+    "item_name": "Нестабильная аномальная батарея",
+    "profitable_lots": [
+      {
+        "unit_price": 35000,
+        "avg_unit_price": 37827,
+        "total_price": 70000,
+        "quantity": 2,
+        "percent_diff": 7.47
+      }
+    ]
+  },
+  "7l127": {
+    "item_name": "Аномальная пыль",
+    "profitable_lots": [
+      {
+        "unit_price": 331,
+        "avg_unit_price": 354,
+        "total_price": 50000,
+        "quantity": 151,
+        "percent_diff": 6.5
+      }
+    ]
+  },
+  "1rl61": {
+    "item_name": "Хроносфера",
+    "profitable_lots": [
+      {
+        "unit_price": 325000,
+        "avg_unit_price": 376721,
+        "total_price": 325000,
+        "quantity": 1,
+        "percent_diff": 13.73
+      }
+    ]
+  },
+  "1rl71": {
+    "item_name": "Пыль изменения",
+    "profitable_lots": [
+      {
+        "unit_price": 3800,
+        "avg_unit_price": 6478,
+        "total_price": 38000,
+        "quantity": 10,
+        "percent_diff": 41.34
+      }
+    ]
+  },
+  "5logg": {
+    "item_name": "Странный артефакт",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1570,
+        "total_price": 2000,
+        "quantity": 2,
+        "percent_diff": 36.31
+      }
+    ]
+  },
+  "y3nmw": {
+    "item_name": "Продвинутые запчасти",
+    "profitable_lots": [
+      {
+        "unit_price": 75000,
+        "avg_unit_price": 77365,
+        "total_price": 75000,
+        "quantity": 1,
+        "percent_diff": 3.06
+      }
+    ]
+  },
+  "wjlrd": {
+    "item_name": "Дешевые инструменты",
+    "profitable_lots": [
+      {
+        "unit_price": 19999,
+        "avg_unit_price": 51055,
+        "total_price": 19999,
+        "quantity": 1,
+        "percent_diff": 60.83
+      }
+    ]
+  },
+  "4q7pl": {
+    "item_name": "Продвинутые инструменты",
+    "profitable_lots": [
+      {
+        "unit_price": 8000,
+        "avg_unit_price": 8944,
+        "total_price": 16000,
+        "quantity": 2,
+        "percent_diff": 10.55
+      }
+    ]
+  },
+  "r22z": {
+    "item_name": "Ноотроп",
+    "profitable_lots": [
+      {
+        "unit_price": 10000,
+        "avg_unit_price": 14285,
+        "total_price": 200000,
+        "quantity": 20,
+        "percent_diff": 30.0
+      }
+    ]
+  },
+  "mmmk": {
+    "item_name": "Сосуд реактора",
+    "profitable_lots": [
+      {
+        "unit_price": 243799,
+        "avg_unit_price": 245575,
+        "total_price": 243799,
+        "quantity": 1,
+        "percent_diff": 0.72
+      }
+    ]
+  },
+  "vj3zg": {
+    "item_name": "Сумка бронебойных 5.56 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 2157,
+        "total_price": 1000,
+        "quantity": 1,
+        "percent_diff": 53.64
+      }
+    ]
+  },
+  "7l1kr": {
+    "item_name": "Подсумок с аптечками проводника",
+    "profitable_lots": [
+      {
+        "unit_price": 6333,
+        "avg_unit_price": 6703,
+        "total_price": 6333,
+        "quantity": 1,
+        "percent_diff": 5.52
+      }
+    ]
+  },
+  "96zjw": {
+    "item_name": "Подсумок с аптечками ученых",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 4999,
+        "total_price": 2000,
+        "quantity": 1,
+        "percent_diff": 59.99
+      }
+    ]
+  },
+  "lyrdq": {
+    "item_name": "Сумка СБП 9x39 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 11527,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 21.93
+      }
+    ]
+  },
+  "96z7y": {
+    "item_name": "Катализатор",
+    "profitable_lots": [
+      {
+        "unit_price": 5599,
+        "avg_unit_price": 6666,
+        "total_price": 55995,
+        "quantity": 10,
+        "percent_diff": 16.01
+      }
+    ]
+  },
+  "lyljj": {
+    "item_name": "M4 LB",
+    "profitable_lots": [
+      {
+        "unit_price": 750000,
+        "avg_unit_price": 792444,
+        "total_price": 750000,
+        "quantity": 1,
+        "percent_diff": 5.36
+      }
+    ]
+  },
+  "wj7v3": {
+    "item_name": "РМО-93",
+    "profitable_lots": [
+      {
+        "unit_price": 2400000,
+        "avg_unit_price": 2723411,
+        "total_price": 2400000,
+        "quantity": 1,
+        "percent_diff": 11.88
+      }
+    ]
+  },
+  "m0mz2": {
+    "item_name": "M1014 Breacher",
+    "profitable_lots": [
+      {
+        "unit_price": 650000,
+        "avg_unit_price": 756315,
+        "total_price": 650000,
+        "quantity": 1,
+        "percent_diff": 14.06
+      }
+    ]
+  },
+  "5lnv0": {
+    "item_name": "HK MP5K",
+    "profitable_lots": [
+      {
+        "unit_price": 96000,
+        "avg_unit_price": 97294,
+        "total_price": 96000,
+        "quantity": 1,
+        "percent_diff": 1.33
+      }
+    ]
+  },
+  "wj7qo": {
+    "item_name": "РПК",
+    "profitable_lots": [
+      {
+        "unit_price": 2750000,
+        "avg_unit_price": 2819999,
+        "total_price": 2750000,
+        "quantity": 1,
+        "percent_diff": 2.48
+      }
+    ]
+  },
+  "4qnwn": {
+    "item_name": "ОЦ-14М «Ураган»",
+    "profitable_lots": [
+      {
+        "unit_price": 599999,
+        "avg_unit_price": 691268,
+        "total_price": 599999,
+        "quantity": 1,
+        "percent_diff": 13.2
+      }
+    ]
+  },
+  "ly2m1": {
+    "item_name": "M1014",
+    "profitable_lots": [
+      {
+        "unit_price": 101001,
+        "avg_unit_price": 109578,
+        "total_price": 101001,
+        "quantity": 1,
+        "percent_diff": 7.83
+      }
+    ]
+  },
+  "rw255": {
+    "item_name": "M249 SAW",
+    "profitable_lots": [
+      {
+        "unit_price": 3889999,
+        "avg_unit_price": 4003201,
+        "total_price": 3889999,
+        "quantity": 1,
+        "percent_diff": 2.83
+      }
+    ]
+  },
+  "dmjwn": {
+    "item_name": "HK416",
+    "profitable_lots": [
+      {
+        "unit_price": 2200000,
+        "avg_unit_price": 2297499,
+        "total_price": 2200000,
+        "quantity": 1,
+        "percent_diff": 4.24
+      }
+    ]
+  },
+  "6w64y": {
+    "item_name": "Grizzly 8.5",
+    "profitable_lots": [
+      {
+        "unit_price": 390000,
+        "avg_unit_price": 408157,
+        "total_price": 390000,
+        "quantity": 1,
+        "percent_diff": 4.45
+      }
+    ]
+  },
+  "969jz": {
+    "item_name": "Steyr AUG A2",
+    "profitable_lots": [
+      {
+        "unit_price": 290000,
+        "avg_unit_price": 309883,
+        "total_price": 290000,
+        "quantity": 1,
+        "percent_diff": 6.42
+      }
+    ]
+  },
+  "g4mdp": {
+    "item_name": "АК-12",
+    "profitable_lots": [
+      {
+        "unit_price": 2300000,
+        "avg_unit_price": 2424385,
+        "total_price": 2300000,
+        "quantity": 1,
+        "percent_diff": 5.13
+      }
+    ]
+  },
+  "zz24n": {
+    "item_name": "SIG SG 550 Sniper",
+    "profitable_lots": [
+      {
+        "unit_price": 290000,
+        "avg_unit_price": 324168,
+        "total_price": 290000,
+        "quantity": 1,
+        "percent_diff": 10.54
+      }
+    ]
+  },
+  "rw23l": {
+    "item_name": "«Волна»",
+    "profitable_lots": [
+      {
+        "unit_price": 3899999,
+        "avg_unit_price": 4516666,
+        "total_price": 3899999,
+        "quantity": 1,
+        "percent_diff": 13.65
+      }
+    ]
+  },
+  "rwzmv": {
+    "item_name": "«Пчела»",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 258506,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 22.63
+      }
+    ]
+  },
+  "y3j20": {
+    "item_name": "Gerber Downrange Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 5700000,
+        "avg_unit_price": 6280078,
+        "total_price": 5700000,
+        "quantity": 1,
+        "percent_diff": 9.24
+      }
+    ]
+  },
+  "knvmj": {
+    "item_name": "Jagdkommando",
+    "profitable_lots": [
+      {
+        "unit_price": 9500000,
+        "avg_unit_price": 10140498,
+        "total_price": 9500000,
+        "quantity": 1,
+        "percent_diff": 6.32
+      }
+    ]
+  },
+  "3g9n1": {
+    "item_name": "Алюминиевая бита",
+    "profitable_lots": [
+      {
+        "unit_price": 101000,
+        "avg_unit_price": 121055,
+        "total_price": 101000,
+        "quantity": 1,
+        "percent_diff": 16.57
+      }
+    ]
+  },
+  "m0vvk": {
+    "item_name": "НР-43",
+    "profitable_lots": [
+      {
+        "unit_price": 12000,
+        "avg_unit_price": 15279,
+        "total_price": 12000,
+        "quantity": 1,
+        "percent_diff": 21.46
+      }
+    ]
+  },
+  "5lv9o": {
+    "item_name": "Прицел оптический Sig Sauer",
+    "profitable_lots": [
+      {
+        "unit_price": 380000,
+        "avg_unit_price": 390562,
+        "total_price": 380000,
+        "quantity": 1,
+        "percent_diff": 2.7
+      }
+    ]
+  },
+  "knwdv": {
+    "item_name": "Прицел коллиматорный Barska",
+    "profitable_lots": [
+      {
+        "unit_price": 2100000,
+        "avg_unit_price": 2290894,
+        "total_price": 2100000,
+        "quantity": 1,
+        "percent_diff": 8.33
+      }
+    ]
+  },
+  "dm0dn": {
+    "item_name": "Прицел коллиматорный ПК-01(Т/З)",
+    "profitable_lots": [
+      {
+        "unit_price": 800000,
+        "avg_unit_price": 849062,
+        "total_price": 800000,
+        "quantity": 1,
+        "percent_diff": 5.78
+      }
+    ]
+  },
+  "zz939": {
+    "item_name": "ДТК «Вихрь»",
+    "profitable_lots": [
+      {
+        "unit_price": 175000,
+        "avg_unit_price": 182589,
+        "total_price": 175000,
+        "quantity": 1,
+        "percent_diff": 4.16
+      }
+    ]
+  },
+  "y3mgw": {
+    "item_name": "Глушитель FA556 Mini",
+    "profitable_lots": [
+      {
+        "unit_price": 1400000,
+        "avg_unit_price": 1689673,
+        "total_price": 1400000,
+        "quantity": 1,
+        "percent_diff": 17.14
+      }
+    ]
+  },
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
+    "profitable_lots": [
+      {
+        "unit_price": 2200000,
+        "avg_unit_price": 2382895,
+        "total_price": 2200000,
+        "quantity": 1,
+        "percent_diff": 7.68
+      }
+    ]
+  },
+  "ly1lo": {
+    "item_name": "Магазин 7.62 NATO PMAG, черный",
+    "profitable_lots": [
+      {
+        "unit_price": 11000000,
+        "avg_unit_price": 11616327,
+        "total_price": 11000000,
+        "quantity": 1,
+        "percent_diff": 5.31
+      }
+    ]
+  },
+  "96pwy": {
+    "item_name": "Увеличенный магазин АК-308",
+    "profitable_lots": [
+      {
+        "unit_price": 3400000,
+        "avg_unit_price": 3466959,
+        "total_price": 3400000,
+        "quantity": 1,
+        "percent_diff": 1.93
+      }
+    ]
+  },
+  "1rz9q": {
+    "item_name": "Рукоять Fab defence AG-47, черный",
+    "profitable_lots": [
+      {
+        "unit_price": 12000000,
+        "avg_unit_price": 12473684,
+        "total_price": 12000000,
+        "quantity": 1,
+        "percent_diff": 3.8
+      }
+    ]
+  },
+  "ok0m6": {
+    "item_name": "Бандитский костюм с баллонами",
+    "profitable_lots": [
+      {
+        "unit_price": 220000,
+        "avg_unit_price": 306593,
+        "total_price": 220000,
+        "quantity": 1,
+        "percent_diff": 28.24
+      }
+    ]
+  },
+  "knq0p": {
+    "item_name": "Бронекостюм «Рысь»",
+    "profitable_lots": [
+      {
+        "unit_price": 35000,
+        "avg_unit_price": 41647,
+        "total_price": 35000,
+        "quantity": 1,
+        "percent_diff": 15.96
+      }
+    ]
+  },
+  "5lr20": {
+    "item_name": "Бронекостюм «КЗ-3б»",
+    "profitable_lots": [
+      {
+        "unit_price": 240000,
+        "avg_unit_price": 270499,
+        "total_price": 240000,
+        "quantity": 1,
+        "percent_diff": 11.28
+      }
+    ]
+  },
+  "y359o": {
+    "item_name": "Тяжелый бронекостюм «Туманный охотник»",
+    "profitable_lots": [
+      {
+        "unit_price": 271000,
+        "avg_unit_price": 312879,
+        "total_price": 271000,
+        "quantity": 1,
+        "percent_diff": 13.39
+      }
+    ]
+  },
+  "knqkv": {
+    "item_name": "Бронескелет «Альбатрос-Разведчик»",
+    "profitable_lots": [
+      {
+        "unit_price": 11000000,
+        "avg_unit_price": 11249799,
+        "total_price": 11000000,
+        "quantity": 1,
+        "percent_diff": 2.22
+      }
+    ]
+  },
+  "rwgl5": {
+    "item_name": "КИМ-100 «Гранат»",
+    "profitable_lots": [
+      {
+        "unit_price": 30000,
+        "avg_unit_price": 40419,
+        "total_price": 30000,
+        "quantity": 1,
+        "percent_diff": 25.78
+      }
+    ]
+  },
+  "g4lk0": {
+    "item_name": "Военная аптечка",
+    "profitable_lots": [
+      {
+        "unit_price": 50,
+        "avg_unit_price": 55,
+        "total_price": 250,
+        "quantity": 5,
+        "percent_diff": 9.09
+      }
+    ]
+  },
+  "zzqk2": {
+    "item_name": "Бинт",
+    "profitable_lots": [
+      {
+        "unit_price": 5,
+        "avg_unit_price": 100,
+        "total_price": 50,
+        "quantity": 10,
+        "percent_diff": 95.0
+      }
+    ]
+  },
+  "y3kgz": {
+    "item_name": "Антирад Б-191",
+    "profitable_lots": [
+      {
+        "unit_price": 3,
+        "avg_unit_price": 14,
+        "total_price": 10,
+        "quantity": 3,
+        "percent_diff": 78.57
+      }
+    ]
+  },
+  "wjw9p": {
+    "item_name": "Антирад Б-292",
+    "profitable_lots": [
+      {
+        "unit_price": 20,
+        "avg_unit_price": 25,
+        "total_price": 60,
+        "quantity": 3,
+        "percent_diff": 20.0
+      }
+    ]
+  },
+  "4qgop": {
+    "item_name": "Антирад Б-393",
+    "profitable_lots": [
+      {
+        "unit_price": 18,
+        "avg_unit_price": 59,
+        "total_price": 55,
+        "quantity": 3,
+        "percent_diff": 69.49
+      }
+    ]
+  },
+  "kno60": {
+    "item_name": "Пси-блок «Нейрон-22»",
+    "profitable_lots": [
+      {
+        "unit_price": 296,
+        "avg_unit_price": 375,
+        "total_price": 890,
+        "quantity": 3,
+        "percent_diff": 21.07
+      }
+    ]
+  },
+  "j5mn7": {
+    "item_name": "«Термобарьер» второго класса",
+    "profitable_lots": [
+      {
+        "unit_price": 96,
+        "avg_unit_price": 131,
+        "total_price": 290,
+        "quantity": 3,
+        "percent_diff": 26.72
+      }
+    ]
+  },
+  "n4vw6": {
+    "item_name": "Мазь от ожогов",
+    "profitable_lots": [
+      {
+        "unit_price": 4687,
+        "avg_unit_price": 12779,
+        "total_price": 300000,
+        "quantity": 64,
+        "percent_diff": 63.32
+      }
+    ]
+  },
+  "vjy3n": {
+    "item_name": "Эпинефрин",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 3011,
+        "total_price": 15000,
+        "quantity": 5,
+        "percent_diff": 0.37
+      }
+    ]
+  },
+  "3g1qz": {
+    "item_name": "Водка",
+    "profitable_lots": [
+      {
+        "unit_price": 60,
+        "avg_unit_price": 507,
+        "total_price": 600,
+        "quantity": 10,
+        "percent_diff": 88.17
+      }
+    ]
+  },
+  "6w59j": {
+    "item_name": "«УДАР»",
+    "profitable_lots": [
+      {
+        "unit_price": 666,
+        "avg_unit_price": 749,
+        "total_price": 2000,
+        "quantity": 3,
+        "percent_diff": 11.08
+      }
+    ]
+  },
+  "964z0": {
+    "item_name": "Водка «Кривой Коготь»",
+    "profitable_lots": [
+      {
+        "unit_price": 10800,
+        "avg_unit_price": 10831,
+        "total_price": 54000,
+        "quantity": 5,
+        "percent_diff": 0.29
+      }
+    ]
+  },
+  "y3knz": {
+    "item_name": "«Убийца Боли»",
+    "profitable_lots": [
+      {
+        "unit_price": 15988,
+        "avg_unit_price": 16909,
+        "total_price": 159888,
+        "quantity": 10,
+        "percent_diff": 5.45
+      }
+    ]
+  },
+  "qj9q6": {
+    "item_name": "Пси-блок «Нейрон-33»",
+    "profitable_lots": [
+      {
+        "unit_price": 400,
+        "avg_unit_price": 1387,
+        "total_price": 1200,
+        "quantity": 3,
+        "percent_diff": 71.16
+      }
+    ]
+  },
+  "j5mq7": {
+    "item_name": "Антидот первого класса",
+    "profitable_lots": [
+      {
+        "unit_price": 7,
+        "avg_unit_price": 35,
+        "total_price": 22,
+        "quantity": 3,
+        "percent_diff": 80.0
+      }
+    ]
+  },
+  "rw1vg": {
+    "item_name": "«Термобарьер» первого класса",
+    "profitable_lots": [
+      {
+        "unit_price": 11,
+        "avg_unit_price": 19,
+        "total_price": 33,
+        "quantity": 3,
+        "percent_diff": 42.11
+      }
+    ]
+  },
+  "okdpo": {
+    "item_name": "«Веселый лимонад»",
+    "profitable_lots": [
+      {
+        "unit_price": 13999,
+        "avg_unit_price": 14281,
+        "total_price": 139999,
+        "quantity": 10,
+        "percent_diff": 1.97
+      }
+    ]
+  },
+  "n4vg6": {
+    "item_name": "«Рассол»",
+    "profitable_lots": [
+      {
+        "unit_price": 5599,
+        "avg_unit_price": 8655,
+        "total_price": 279999,
+        "quantity": 50,
+        "percent_diff": 35.31
+      }
+    ]
+  },
+  "p6256": {
+    "item_name": "«Панацея»",
+    "profitable_lots": [
+      {
+        "unit_price": 13985,
+        "avg_unit_price": 15961,
+        "total_price": 139850,
+        "quantity": 10,
+        "percent_diff": 12.38
+      }
+    ]
+  },
+  "vjy0n": {
+    "item_name": "«Шапочка из фольги»",
+    "profitable_lots": [
+      {
+        "unit_price": 13499,
+        "avg_unit_price": 14804,
+        "total_price": 134990,
+        "quantity": 10,
+        "percent_diff": 8.82
+      }
+    ]
+  },
+  "6w5lj": {
+    "item_name": "«ШизоЁрш»",
+    "profitable_lots": [
+      {
+        "unit_price": 17333,
+        "avg_unit_price": 20235,
+        "total_price": 173333,
+        "quantity": 10,
+        "percent_diff": 14.34
+      }
+    ]
+  },
+  "964k0": {
+    "item_name": "Сильная мазь от ожогов",
+    "profitable_lots": [
+      {
+        "unit_price": 8222,
+        "avg_unit_price": 13120,
+        "total_price": 41111,
+        "quantity": 5,
+        "percent_diff": 37.33
+      }
+    ]
+  },
+  "1r216": {
+    "item_name": "«ТОПОТ»",
+    "profitable_lots": [
+      {
+        "unit_price": 11250,
+        "avg_unit_price": 12622,
+        "total_price": 45000,
+        "quantity": 4,
+        "percent_diff": 10.87
+      }
+    ]
+  },
+  "1r246": {
+    "item_name": "Хорог",
+    "profitable_lots": [
+      {
+        "unit_price": 6640,
+        "avg_unit_price": 6991,
+        "total_price": 425000,
+        "quantity": 64,
+        "percent_diff": 5.02
+      }
+    ]
+  },
+  "wjwzp": {
+    "item_name": "Детское шампанское",
+    "profitable_lots": [
+      {
+        "unit_price": 3999,
+        "avg_unit_price": 4468,
+        "total_price": 39999,
+        "quantity": 10,
+        "percent_diff": 10.5
+      }
+    ]
+  },
+  "m0pyj": {
+    "item_name": "Аномальное шампанское",
+    "profitable_lots": [
+      {
+        "unit_price": 22000,
+        "avg_unit_price": 23900,
+        "total_price": 220000,
+        "quantity": 10,
+        "percent_diff": 7.95
+      }
+    ]
+  },
+  "g4lz0": {
+    "item_name": "«Биозаплатка»",
+    "profitable_lots": [
+      {
+        "unit_price": 6000,
+        "avg_unit_price": 7260,
+        "total_price": 12000,
+        "quantity": 2,
+        "percent_diff": 17.36
+      }
+    ]
+  },
+  "964ow": {
+    "item_name": "Энергетик «Батарейка»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 4833,
+        "total_price": 12000,
+        "quantity": 3,
+        "percent_diff": 17.24
+      }
+    ]
+  },
+  "1rn01": {
+    "item_name": "Кусок черного хлеба",
+    "profitable_lots": [
+      {
+        "unit_price": 117,
+        "avg_unit_price": 123,
+        "total_price": 7500,
+        "quantity": 64,
+        "percent_diff": 4.88
+      }
+    ]
+  },
+  "y391o": {
+    "item_name": "Колбасная нарезка",
+    "profitable_lots": [
+      {
+        "unit_price": 2100,
+        "avg_unit_price": 2166,
+        "total_price": 2100,
+        "quantity": 1,
+        "percent_diff": 3.05
+      }
+    ]
+  },
+  "wj2no": {
+    "item_name": "Армейские галеты",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5875,
+        "total_price": 90000,
+        "quantity": 18,
+        "percent_diff": 14.89
+      }
+    ]
+  },
+  "ly6w1": {
+    "item_name": "Бутерброд с колбасой",
+    "profitable_lots": [
+      {
+        "unit_price": 39,
+        "avg_unit_price": 132,
+        "total_price": 2500,
+        "quantity": 64,
+        "percent_diff": 70.45
+      }
+    ]
+  },
+  "rwol5": {
+    "item_name": "Консервированная фасоль",
+    "profitable_lots": [
+      {
+        "unit_price": 156,
+        "avg_unit_price": 159,
+        "total_price": 10000,
+        "quantity": 64,
+        "percent_diff": 1.89
+      }
+    ]
+  },
+  "0row1": {
+    "item_name": "Рыбные консервы",
+    "profitable_lots": [
+      {
+        "unit_price": 359,
+        "avg_unit_price": 369,
+        "total_price": 23000,
+        "quantity": 64,
+        "percent_diff": 2.71
+      }
+    ]
+  },
+  "m0jw7": {
+    "item_name": "Шпроты",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 5020,
+        "total_price": 60000,
+        "quantity": 15,
+        "percent_diff": 20.32
+      }
+    ]
+  },
+  "dm1ln": {
+    "item_name": "Красная икра",
+    "profitable_lots": [
+      {
+        "unit_price": 3500,
+        "avg_unit_price": 4070,
+        "total_price": 35000,
+        "quantity": 10,
+        "percent_diff": 14.0
+      }
+    ]
+  },
+  "3gvgg": {
+    "item_name": "Паштет «Собачья радость»",
+    "profitable_lots": [
+      {
+        "unit_price": 360,
+        "avg_unit_price": 454,
+        "total_price": 3600,
+        "quantity": 10,
+        "percent_diff": 20.7
+      }
+    ]
+  },
+  "7l9l7": {
+    "item_name": "Холодец «Копытом по лицу»",
+    "profitable_lots": [
+      {
+        "unit_price": 650,
+        "avg_unit_price": 1577,
+        "total_price": 6500,
+        "quantity": 10,
+        "percent_diff": 58.78
+      }
+    ]
+  },
+  "qjmjk": {
+    "item_name": "Боевой горох",
+    "profitable_lots": [
+      {
+        "unit_price": 2500,
+        "avg_unit_price": 3092,
+        "total_price": 2500,
+        "quantity": 1,
+        "percent_diff": 19.15
+      }
+    ]
+  },
+  "n4lg6": {
+    "item_name": "Пшенка с мясом",
+    "profitable_lots": [
+      {
+        "unit_price": 3125,
+        "avg_unit_price": 4762,
+        "total_price": 200000,
+        "quantity": 64,
+        "percent_diff": 34.38
+      }
+    ]
+  },
+  "dm165": {
+    "item_name": "Макароны по-флотски",
+    "profitable_lots": [
+      {
+        "unit_price": 1718,
+        "avg_unit_price": 2000,
+        "total_price": 110000,
+        "quantity": 64,
+        "percent_diff": 14.1
+      }
+    ]
+  },
+  "2opg0": {
+    "item_name": "Заливное",
+    "profitable_lots": [
+      {
+        "unit_price": 8046,
+        "avg_unit_price": 11202,
+        "total_price": 515000,
+        "quantity": 64,
+        "percent_diff": 28.17
+      }
+    ]
+  },
+  "zz1o2": {
+    "item_name": "Фасолевый суп",
+    "profitable_lots": [
+      {
+        "unit_price": 3125,
+        "avg_unit_price": 4697,
+        "total_price": 200000,
+        "quantity": 64,
+        "percent_diff": 33.47
+      }
+    ]
+  },
+  "5l23g": {
+    "item_name": "Солянка",
+    "profitable_lots": [
+      {
+        "unit_price": 10900,
+        "avg_unit_price": 13578,
+        "total_price": 109000,
+        "quantity": 10,
+        "percent_diff": 19.72
+      }
+    ]
+  },
+  "y39yz": {
+    "item_name": "Гороховый суп",
+    "profitable_lots": [
+      {
+        "unit_price": 12600,
+        "avg_unit_price": 14385,
+        "total_price": 63000,
+        "quantity": 5,
+        "percent_diff": 12.41
+      }
+    ]
+  },
+  "wj2zp": {
+    "item_name": "Чесночный суп",
+    "profitable_lots": [
+      {
+        "unit_price": 7937,
+        "avg_unit_price": 11427,
+        "total_price": 508000,
+        "quantity": 64,
+        "percent_diff": 30.54
+      }
+    ]
+  },
+  "4qd3p": {
+    "item_name": "Уха из сома «Дворянская»",
+    "profitable_lots": [
+      {
+        "unit_price": 7499,
+        "avg_unit_price": 11592,
+        "total_price": 479999,
+        "quantity": 64,
+        "percent_diff": 35.31
+      }
+    ]
+  },
+  "drmwj": {
+    "item_name": "Технический спирт",
+    "profitable_lots": [
+      {
+        "unit_price": 1999,
+        "avg_unit_price": 2023,
+        "total_price": 1999,
+        "quantity": 1,
+        "percent_diff": 1.19
+      }
+    ]
+  },
+  "w3923": {
+    "item_name": "Сменный аккумулятор",
+    "profitable_lots": [
+      {
+        "unit_price": 1800,
+        "avg_unit_price": 2030,
+        "total_price": 1800,
+        "quantity": 1,
+        "percent_diff": 11.33
+      }
+    ]
+  },
+  "9d3gy": {
+    "item_name": "Медная катушка",
+    "profitable_lots": [
+      {
+        "unit_price": 1714,
+        "avg_unit_price": 1722,
+        "total_price": 12000,
+        "quantity": 7,
+        "percent_diff": 0.46
+      }
+    ]
+  },
+  "z3k1m": {
+    "item_name": "Малый артефактный фрагмент",
+    "profitable_lots": [
+      {
+        "unit_price": 833,
+        "avg_unit_price": 907,
+        "total_price": 9999,
+        "quantity": 12,
+        "percent_diff": 8.16
+      }
+    ]
+  },
+  "w39k3": {
+    "item_name": "Огромный артефактный фрагмент",
+    "profitable_lots": [
+      {
+        "unit_price": 1566,
+        "avg_unit_price": 2076,
+        "total_price": 4700,
+        "quantity": 3,
+        "percent_diff": 24.57
+      }
+    ]
+  },
+  "dryl2": {
+    "item_name": "Селезенка мутанта из Любеча",
+    "profitable_lots": [
+      {
+        "unit_price": 10500,
+        "avg_unit_price": 27993,
+        "total_price": 21000,
+        "quantity": 2,
+        "percent_diff": 62.49
+      }
+    ]
+  },
+  "21065": {
+    "item_name": "Сердце мутанта из Любеча",
+    "profitable_lots": [
+      {
+        "unit_price": 37777,
+        "avg_unit_price": 48760,
+        "total_price": 37777,
+        "quantity": 1,
+        "percent_diff": 22.52
+      }
+    ]
+  },
+  "l0ryo": {
+    "item_name": "Черная селезенка",
+    "profitable_lots": [
+      {
+        "unit_price": 50000,
+        "avg_unit_price": 63804,
+        "total_price": 100000,
+        "quantity": 2,
+        "percent_diff": 21.64
+      }
+    ]
+  },
+  "kr53y": {
+    "item_name": "Корень-липучка",
+    "profitable_lots": [
+      {
+        "unit_price": 2500,
+        "avg_unit_price": 3421,
+        "total_price": 2500,
+        "quantity": 1,
+        "percent_diff": 26.92
+      }
+    ]
+  },
+  "009n9": {
+    "item_name": "Полыхающий срачник",
+    "profitable_lots": [
+      {
+        "unit_price": 18750,
+        "avg_unit_price": 22947,
+        "total_price": 75000,
+        "quantity": 4,
+        "percent_diff": 18.29
+      }
+    ]
+  },
+  "olz36": {
+    "item_name": "Моток медной проволоки",
+    "profitable_lots": [
+      {
+        "unit_price": 46000,
+        "avg_unit_price": 47089,
+        "total_price": 46000,
+        "quantity": 1,
+        "percent_diff": 2.31
+      }
+    ]
+  },
+  "34z1l": {
+    "item_name": "Чернобыльская ромашка",
+    "profitable_lots": [
+      {
+        "unit_price": 18000,
+        "avg_unit_price": 22546,
+        "total_price": 36000,
+        "quantity": 2,
+        "percent_diff": 20.16
+      }
+    ]
+  },
+  "y40kk": {
+    "item_name": "Крупный рассольник",
+    "profitable_lots": [
+      {
+        "unit_price": 32000,
+        "avg_unit_price": 33628,
+        "total_price": 32000,
+        "quantity": 1,
+        "percent_diff": 4.84
+      }
+    ]
+  },
+  "4k5gr": {
+    "item_name": "Блок данных «Альфа»",
+    "profitable_lots": [
+      {
+        "unit_price": 120000,
+        "avg_unit_price": 124806,
+        "total_price": 120000,
+        "quantity": 1,
+        "percent_diff": 3.85
+      }
+    ]
+  },
+  "dr61j": {
+    "item_name": "Блок данных «Бета»",
+    "profitable_lots": [
+      {
+        "unit_price": 92000,
+        "avg_unit_price": 98249,
+        "total_price": 92000,
+        "quantity": 1,
+        "percent_diff": 6.36
+      }
+    ]
+  },
+  "gn956": {
+    "item_name": "Камень Жмых-Вжух-Плюх",
+    "profitable_lots": [
+      {
+        "unit_price": 50000,
+        "avg_unit_price": 52993,
+        "total_price": 150000,
+        "quantity": 3,
+        "percent_diff": 5.65
+      }
+    ]
+  },
+  "z301y": {
+    "item_name": "Цветущий северный мох",
+    "profitable_lots": [
+      {
+        "unit_price": 25000,
+        "avg_unit_price": 28954,
+        "total_price": 25000,
+        "quantity": 1,
+        "percent_diff": 13.66
+      }
+    ]
+  },
+  "y409k": {
+    "item_name": "Блок данных «Гамма»",
+    "profitable_lots": [
+      {
+        "unit_price": 92499,
+        "avg_unit_price": 96116,
+        "total_price": 184999,
+        "quantity": 2,
+        "percent_diff": 3.76
+      }
+    ]
+  },
+  "gn976": {
+    "item_name": "Очищенное вещество 07270",
+    "profitable_lots": [
+      {
+        "unit_price": 11999,
+        "avg_unit_price": 13435,
+        "total_price": 11999,
+        "quantity": 1,
+        "percent_diff": 10.69
+      }
+    ]
+  },
+  "z30my": {
+    "item_name": "Цветущий рыжий папоротник",
+    "profitable_lots": [
+      {
+        "unit_price": 6999,
+        "avg_unit_price": 8599,
+        "total_price": 6999,
+        "quantity": 1,
+        "percent_diff": 18.61
+      }
+    ]
+  },
+  "9dk7y": {
+    "item_name": "Пси-маячок",
+    "profitable_lots": [
+      {
+        "unit_price": 9000,
+        "avg_unit_price": 11500,
+        "total_price": 27000,
+        "quantity": 3,
+        "percent_diff": 21.74
+      }
+    ]
+  },
+  "gn975": {
+    "item_name": "Портативный квантовый генератор",
+    "profitable_lots": [
+      {
+        "unit_price": 47500,
+        "avg_unit_price": 49809,
+        "total_price": 47500,
+        "quantity": 1,
+        "percent_diff": 4.64
+      }
+    ]
+  },
+  "z3ogm": {
+    "item_name": "Расцветший Горьколистник",
+    "profitable_lots": [
+      {
+        "unit_price": 80000,
+        "avg_unit_price": 103999,
+        "total_price": 160000,
+        "quantity": 2,
+        "percent_diff": 23.08
+      }
+    ]
+  },
+  "y4y33": {
+    "item_name": "Блок данных «Лямбда»",
+    "profitable_lots": [
+      {
+        "unit_price": 320000,
+        "avg_unit_price": 328914,
+        "total_price": 320000,
+        "quantity": 1,
+        "percent_diff": 2.71
+      }
+    ]
+  },
+  "z3ozm": {
+    "item_name": "«Светящийся сахар»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 4152,
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 3.66
+      }
+    ]
+  },
+  "l0oyo": {
+    "item_name": "Часть АМ-17 #4",
+    "profitable_lots": [
+      {
+        "unit_price": 1600000,
+        "avg_unit_price": 1800790,
+        "total_price": 1600000,
+        "quantity": 1,
+        "percent_diff": 11.15
+      }
+    ]
+  },
+  "ol6km": {
+    "item_name": "Часть Scorpion EVO III #4",
+    "profitable_lots": [
+      {
+        "unit_price": 1222222,
+        "avg_unit_price": 2042483,
+        "total_price": 1222222,
+        "quantity": 1,
+        "percent_diff": 40.16
+      }
+    ]
+  },
+  "pjo64": {
+    "item_name": "Часть SIG Sauer P320 #2",
+    "profitable_lots": [
+      {
+        "unit_price": 19000000,
+        "avg_unit_price": 24854901,
+        "total_price": 19000000,
+        "quantity": 1,
+        "percent_diff": 23.56
+      }
+    ]
+  },
+  "vn5jp": {
+    "item_name": "Часть SIG Sauer P320 #3",
+    "profitable_lots": [
+      {
+        "unit_price": 1999999,
+        "avg_unit_price": 4648168,
+        "total_price": 1999999,
+        "quantity": 1,
+        "percent_diff": 56.97
+      }
+    ]
+  },
+  "dr9m2": {
+    "item_name": "Часть SIG Sauer P320 #4",
+    "profitable_lots": [
+      {
+        "unit_price": 1600000,
+        "avg_unit_price": 1658856,
+        "total_price": 1600000,
+        "quantity": 1,
+        "percent_diff": 3.55
+      }
+    ]
+  },
+  "21wo5": {
+    "item_name": "Часть VIKING Tactics #1",
+    "profitable_lots": [
+      {
+        "unit_price": 65000000,
+        "avg_unit_price": 68411764,
+        "total_price": 65000000,
+        "quantity": 1,
+        "percent_diff": 4.99
+      }
+    ]
+  },
+  "y4643": {
+    "item_name": "Часть магазина P320 #1",
+    "profitable_lots": [
+      {
+        "unit_price": 8888888,
+        "avg_unit_price": 9938561,
+        "total_price": 8888888,
+        "quantity": 1,
+        "percent_diff": 10.56
+      }
+    ]
+  },
+  "j0w96": {
+    "item_name": "Дешевые запчасти",
+    "profitable_lots": [
+      {
+        "unit_price": 8500,
+        "avg_unit_price": 13894,
+        "total_price": 34000,
+        "quantity": 4,
+        "percent_diff": 38.82
+      }
+    ]
+  }
+}
