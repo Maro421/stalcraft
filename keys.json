@@ -17,6 +17,21 @@
   "vv9": {
     "user": "VIP клиент",
     "valid_until": "2026-01-01",
+    "hwid": "2078af5c2167c7e2d169485d81dc02c3"
+  },
+  "OkayMan": {
+    "user": "Gei",
+    "valid_until": "2025-05-16",
+    "hwid": null
+  },
+  "Real": {
+    "user": "Ral",
+    "valid_until": "2025.05.16",
+    "hwid": null
+  },
+  "ee": {
+    "user": "re",
+    "valid_until": "2025-05-14",
     "hwid": null
   }
 }
