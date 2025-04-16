@@ -2331,11 +2331,11 @@
     "item_name": "Барабанный магазин 5.56 NATO, хаки",
     "profitable_lots": [
       {
-        "unit_price": 2333333,
-        "avg_unit_price": 2561571,
-        "total_price": 2333333,
+        "unit_price": 2450000,
+        "avg_unit_price": 2462780,
+        "total_price": 2450000,
         "quantity": 1,
-        "percent_diff": 8.91
+        "percent_diff": 0.52
       }
     ]
   },
