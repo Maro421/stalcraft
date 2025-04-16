@@ -287,27 +287,15 @@
       }
     ]
   },
-  "vrpd": {
-    "item_name": "Мясо шавки",
-    "profitable_lots": [
-      {
-        "unit_price": 9499,
-        "avg_unit_price": 10764,
-        "total_price": 9499,
-        "quantity": 1,
-        "percent_diff": 11.75
-      }
-    ]
-  },
   "2d76": {
     "item_name": "Мясо кабана",
     "profitable_lots": [
       {
-        "unit_price": 3777,
-        "avg_unit_price": 3849,
-        "total_price": 188888,
-        "quantity": 50,
-        "percent_diff": 1.87
+        "unit_price": 2800,
+        "avg_unit_price": 3856,
+        "total_price": 2800,
+        "quantity": 1,
+        "percent_diff": 27.39
       }
     ]
   },
@@ -1888,10 +1876,10 @@
     "profitable_lots": [
       {
         "unit_price": 5000,
-        "avg_unit_price": 9944,
+        "avg_unit_price": 10214,
         "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 49.72
+        "percent_diff": 51.05
       }
     ]
   },
@@ -1911,11 +1899,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5320,
-        "avg_unit_price": 6389,
-        "total_price": 532000,
-        "quantity": 100,
-        "percent_diff": 16.73
+        "unit_price": 4888,
+        "avg_unit_price": 6077,
+        "total_price": 24444,
+        "quantity": 5,
+        "percent_diff": 19.57
       }
     ]
   },
@@ -1923,11 +1911,11 @@
     "item_name": "Сыворотка изменения",
     "profitable_lots": [
       {
-        "unit_price": 220000,
-        "avg_unit_price": 292705,
-        "total_price": 220000,
-        "quantity": 1,
-        "percent_diff": 24.84
+        "unit_price": 225000,
+        "avg_unit_price": 287874,
+        "total_price": 450000,
+        "quantity": 2,
+        "percent_diff": 21.84
       }
     ]
   },
@@ -2087,18 +2075,6 @@
       }
     ]
   },
-  "p63d2": {
-    "item_name": "HK417",
-    "profitable_lots": [
-      {
-        "unit_price": 16600000,
-        "avg_unit_price": 17196470,
-        "total_price": 16600000,
-        "quantity": 1,
-        "percent_diff": 3.47
-      }
-    ]
-  },
   "2ony6": {
     "item_name": "IWI Tavor X95",
     "profitable_lots": [
@@ -2123,54 +2099,6 @@
       }
     ]
   },
-  "y3j20": {
-    "item_name": "Gerber Downrange Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 5000000,
-        "avg_unit_price": 5006579,
-        "total_price": 5000000,
-        "quantity": 1,
-        "percent_diff": 0.13
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 10864,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 53.98
-      }
-    ]
-  },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7080,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.38
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 74000,
-        "avg_unit_price": 98823,
-        "total_price": 74000,
-        "quantity": 1,
-        "percent_diff": 25.12
-      }
-    ]
-  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2187,11 +2115,23 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 150000,
+        "unit_price": 170000,
         "avg_unit_price": 194863,
-        "total_price": 150000,
+        "total_price": 170000,
         "quantity": 1,
-        "percent_diff": 23.02
+        "percent_diff": 12.76
+      }
+    ]
+  },
+  "m0vvk": {
+    "item_name": "НР-43",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 7066,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 29.24
       }
     ]
   },
