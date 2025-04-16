@@ -1,16 +1,4 @@
 {
-  "1ddr": {
-    "item_name": "Мякоть мятноплода",
-    "profitable_lots": [
-      {
-        "unit_price": 112,
-        "avg_unit_price": 329,
-        "total_price": 1800,
-        "quantity": 16,
-        "percent_diff": 65.96
-      }
-    ]
-  },
   "kllj": {
     "item_name": "Лазурные минералы",
     "profitable_lots": [
@@ -1719,11 +1707,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 35000,
-        "avg_unit_price": 37827,
-        "total_price": 70000,
-        "quantity": 2,
-        "percent_diff": 7.47
+        "unit_price": 25000,
+        "avg_unit_price": 31946,
+        "total_price": 350000,
+        "quantity": 14,
+        "percent_diff": 21.74
       }
     ]
   },
