@@ -423,11 +423,11 @@
     "item_name": "Асбест",
     "profitable_lots": [
       {
-        "unit_price": 227,
-        "avg_unit_price": 399,
-        "total_price": 10000,
-        "quantity": 44,
-        "percent_diff": 43.11
+        "unit_price": 199,
+        "avg_unit_price": 305,
+        "total_price": 9999,
+        "quantity": 50,
+        "percent_diff": 34.75
       }
     ]
   },
@@ -1412,6 +1412,18 @@
         "total_price": 55555,
         "quantity": 1,
         "percent_diff": 59.71
+      }
+    ]
+  },
+  "m372": {
+    "item_name": "Экспериментальная термопластина III",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 5292,
+        "total_price": 3000,
+        "quantity": 1,
+        "percent_diff": 43.31
       }
     ]
   },
