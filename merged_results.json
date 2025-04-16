@@ -635,6 +635,18 @@
       }
     ]
   },
+  "5drg": {
+    "item_name": "Брага",
+    "profitable_lots": [
+      {
+        "unit_price": 3200,
+        "avg_unit_price": 3268,
+        "total_price": 160000,
+        "quantity": 50,
+        "percent_diff": 2.08
+      }
+    ]
+  },
   "y75z": {
     "item_name": "Сок",
     "profitable_lots": [
