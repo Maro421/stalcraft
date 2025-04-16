@@ -1024,10 +1024,10 @@
     "profitable_lots": [
       {
         "unit_price": 65000,
-        "avg_unit_price": 70315,
+        "avg_unit_price": 70131,
         "total_price": 65000,
         "quantity": 1,
-        "percent_diff": 7.56
+        "percent_diff": 7.32
       }
     ]
   },
@@ -1739,27 +1739,15 @@
       }
     ]
   },
-  "1rl71": {
-    "item_name": "Пыль изменения",
-    "profitable_lots": [
-      {
-        "unit_price": 1499,
-        "avg_unit_price": 4805,
-        "total_price": 29999,
-        "quantity": 20,
-        "percent_diff": 68.8
-      }
-    ]
-  },
   "5logg": {
     "item_name": "Странный артефакт",
     "profitable_lots": [
       {
-        "unit_price": 1000,
+        "unit_price": 916,
         "avg_unit_price": 1309,
-        "total_price": 5000,
-        "quantity": 5,
-        "percent_diff": 23.61
+        "total_price": 5500,
+        "quantity": 6,
+        "percent_diff": 30.02
       }
     ]
   },
@@ -2247,11 +2235,11 @@
     "item_name": "Увеличенный магазин АК-308",
     "profitable_lots": [
       {
-        "unit_price": 2499999,
+        "unit_price": 2489999,
         "avg_unit_price": 2523535,
-        "total_price": 2499999,
+        "total_price": 2489999,
         "quantity": 1,
-        "percent_diff": 0.93
+        "percent_diff": 1.33
       }
     ]
   },
