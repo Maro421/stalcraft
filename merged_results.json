@@ -844,10 +844,10 @@
     "profitable_lots": [
       {
         "unit_price": 2790,
-        "avg_unit_price": 8684,
+        "avg_unit_price": 8676,
         "total_price": 120000,
         "quantity": 43,
-        "percent_diff": 67.87
+        "percent_diff": 67.84
       }
     ]
   },
@@ -1900,10 +1900,10 @@
     "profitable_lots": [
       {
         "unit_price": 780,
-        "avg_unit_price": 799,
+        "avg_unit_price": 800,
         "total_price": 780,
         "quantity": 1,
-        "percent_diff": 2.38
+        "percent_diff": 2.5
       }
     ]
   },
@@ -1947,11 +1947,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 4888,
-        "avg_unit_price": 6077,
-        "total_price": 24444,
-        "quantity": 5,
-        "percent_diff": 19.57
+        "unit_price": 5950,
+        "avg_unit_price": 6062,
+        "total_price": 119000,
+        "quantity": 20,
+        "percent_diff": 1.85
       }
     ]
   },
@@ -2159,42 +2159,6 @@
       }
     ]
   },
-  "y3j20": {
-    "item_name": "Gerber Downrange Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 5000000,
-        "avg_unit_price": 5006579,
-        "total_price": 5000000,
-        "quantity": 1,
-        "percent_diff": 0.13
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 10511,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 52.43
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 73000,
-        "avg_unit_price": 98823,
-        "total_price": 73000,
-        "quantity": 1,
-        "percent_diff": 26.13
-      }
-    ]
-  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2211,23 +2175,23 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 150000,
+        "unit_price": 170000,
         "avg_unit_price": 194863,
-        "total_price": 150000,
+        "total_price": 170000,
         "quantity": 1,
-        "percent_diff": 23.02
+        "percent_diff": 12.76
       }
     ]
   },
-  "5lv9o": {
-    "item_name": "Прицел оптический Sig Sauer",
+  "m0vvk": {
+    "item_name": "НР-43",
     "profitable_lots": [
       {
-        "unit_price": 300000,
-        "avg_unit_price": 305045,
-        "total_price": 300000,
+        "unit_price": 5000,
+        "avg_unit_price": 7066,
+        "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 1.65
+        "percent_diff": 29.24
       }
     ]
   },
