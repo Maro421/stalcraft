@@ -784,10 +784,10 @@
     "profitable_lots": [
       {
         "unit_price": 400,
-        "avg_unit_price": 1736,
+        "avg_unit_price": 1792,
         "total_price": 20000,
         "quantity": 50,
-        "percent_diff": 76.96
+        "percent_diff": 77.68
       }
     ]
   },
@@ -2295,11 +2295,11 @@
     "item_name": "Магазин 7.62 NATO PMAG, черный",
     "profitable_lots": [
       {
-        "unit_price": 10350000,
+        "unit_price": 8200000,
         "avg_unit_price": 11616327,
-        "total_price": 10350000,
+        "total_price": 8200000,
         "quantity": 1,
-        "percent_diff": 10.9
+        "percent_diff": 29.41
       }
     ]
   },
