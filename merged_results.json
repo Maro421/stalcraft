@@ -363,11 +363,11 @@
     "item_name": "Клей",
     "profitable_lots": [
       {
-        "unit_price": 150,
-        "avg_unit_price": 1177,
-        "total_price": 150,
-        "quantity": 1,
-        "percent_diff": 87.26
+        "unit_price": 800,
+        "avg_unit_price": 1190,
+        "total_price": 40000,
+        "quantity": 50,
+        "percent_diff": 32.77
       }
     ]
   },
@@ -376,10 +376,10 @@
     "profitable_lots": [
       {
         "unit_price": 1997,
-        "avg_unit_price": 2059,
+        "avg_unit_price": 2067,
         "total_price": 99899,
         "quantity": 50,
-        "percent_diff": 3.01
+        "percent_diff": 3.39
       }
     ]
   },
@@ -2300,6 +2300,18 @@
         "total_price": 1301000,
         "quantity": 1,
         "percent_diff": 12.97
+      }
+    ]
+  },
+  "wjro3": {
+    "item_name": "Барабанный магазин 5.56 NATO, хаки",
+    "profitable_lots": [
+      {
+        "unit_price": 2400000,
+        "avg_unit_price": 2539087,
+        "total_price": 2400000,
+        "quantity": 1,
+        "percent_diff": 5.48
       }
     ]
   },
