@@ -1659,11 +1659,11 @@
     "item_name": "Ящик гранат «Гудрон»",
     "profitable_lots": [
       {
-        "unit_price": 17000,
+        "unit_price": 14999,
         "avg_unit_price": 17147,
-        "total_price": 17000,
+        "total_price": 14999,
         "quantity": 1,
-        "percent_diff": 0.86
+        "percent_diff": 12.53
       }
     ]
   },
@@ -2048,18 +2048,6 @@
         "total_price": 60000,
         "quantity": 1,
         "percent_diff": 32.13
-      }
-    ]
-  },
-  "zz2rn": {
-    "item_name": "АК-105",
-    "profitable_lots": [
-      {
-        "unit_price": 350000,
-        "avg_unit_price": 519340,
-        "total_price": 350000,
-        "quantity": 1,
-        "percent_diff": 32.61
       }
     ]
   },
