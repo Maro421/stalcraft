@@ -63,11 +63,23 @@
     "item_name": "Водонос",
     "profitable_lots": [
       {
-        "unit_price": 222,
-        "avg_unit_price": 523,
-        "total_price": 10000,
-        "quantity": 45,
-        "percent_diff": 57.55
+        "unit_price": 360,
+        "avg_unit_price": 506,
+        "total_price": 18000,
+        "quantity": 50,
+        "percent_diff": 28.85
+      }
+    ]
+  },
+  "ovv5": {
+    "item_name": "Гнозис",
+    "profitable_lots": [
+      {
+        "unit_price": 80,
+        "avg_unit_price": 100,
+        "total_price": 4000,
+        "quantity": 50,
+        "percent_diff": 20.0
       }
     ]
   },
@@ -1803,11 +1815,11 @@
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 6500,
-        "avg_unit_price": 14532,
-        "total_price": 6500,
+        "unit_price": 7000,
+        "avg_unit_price": 13313,
+        "total_price": 7000,
         "quantity": 1,
-        "percent_diff": 55.27
+        "percent_diff": 47.42
       }
     ]
   },
