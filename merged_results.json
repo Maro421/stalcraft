@@ -1695,11 +1695,11 @@
     "item_name": "Хроносфера",
     "profitable_lots": [
       {
-        "unit_price": 329999,
+        "unit_price": 315000,
         "avg_unit_price": 388450,
-        "total_price": 329999,
+        "total_price": 315000,
         "quantity": 1,
-        "percent_diff": 15.05
+        "percent_diff": 18.91
       }
     ]
   },
@@ -1707,11 +1707,11 @@
     "item_name": "Пыль изменения",
     "profitable_lots": [
       {
-        "unit_price": 2999,
-        "avg_unit_price": 3039,
-        "total_price": 299999,
-        "quantity": 100,
-        "percent_diff": 1.32
+        "unit_price": 1499,
+        "avg_unit_price": 4805,
+        "total_price": 29999,
+        "quantity": 20,
+        "percent_diff": 68.8
       }
     ]
   },
@@ -2200,10 +2200,10 @@
     "profitable_lots": [
       {
         "unit_price": 1301000,
-        "avg_unit_price": 1494830,
+        "avg_unit_price": 1335194,
         "total_price": 1301000,
         "quantity": 1,
-        "percent_diff": 12.97
+        "percent_diff": 2.56
       }
     ]
   },
