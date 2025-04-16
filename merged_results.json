@@ -911,6 +911,18 @@
       }
     ]
   },
+  "q2yj": {
+    "item_name": "Крепкая сталь",
+    "profitable_lots": [
+      {
+        "unit_price": 269,
+        "avg_unit_price": 504,
+        "total_price": 13477,
+        "quantity": 50,
+        "percent_diff": 46.63
+      }
+    ]
+  },
   "mm4y": {
     "item_name": "Продвинутый электрод",
     "profitable_lots": [
@@ -2084,30 +2096,6 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 3.52
-      }
-    ]
-  },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
-        "quantity": 1,
-        "percent_diff": 13.35
       }
     ]
   },
