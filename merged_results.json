@@ -147,11 +147,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 1099,
-        "avg_unit_price": 1779,
-        "total_price": 54999,
+        "unit_price": 999,
+        "avg_unit_price": 1487,
+        "total_price": 49999,
         "quantity": 50,
-        "percent_diff": 38.22
+        "percent_diff": 32.82
       }
     ]
   },
@@ -1936,22 +1936,10 @@
     "profitable_lots": [
       {
         "unit_price": 25000,
-        "avg_unit_price": 37166,
+        "avg_unit_price": 30076,
         "total_price": 25000,
         "quantity": 1,
-        "percent_diff": 32.73
-      }
-    ]
-  },
-  "1r7v1": {
-    "item_name": "IMI Mini Uzi",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 5016,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 0.32
+        "percent_diff": 16.88
       }
     ]
   },
