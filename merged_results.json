@@ -795,11 +795,11 @@
     "item_name": "Этилен",
     "profitable_lots": [
       {
-        "unit_price": 1000,
+        "unit_price": 999,
         "avg_unit_price": 1366,
-        "total_price": 50000,
+        "total_price": 49999,
         "quantity": 50,
-        "percent_diff": 26.79
+        "percent_diff": 26.87
       }
     ]
   },
