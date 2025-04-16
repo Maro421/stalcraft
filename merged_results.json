@@ -555,11 +555,11 @@
     "item_name": "Электросмесь",
     "profitable_lots": [
       {
-        "unit_price": 160,
+        "unit_price": 500,
         "avg_unit_price": 2999,
-        "total_price": 8000,
-        "quantity": 50,
-        "percent_diff": 94.66
+        "total_price": 5000,
+        "quantity": 10,
+        "percent_diff": 83.33
       }
     ]
   },
