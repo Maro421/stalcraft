@@ -2183,18 +2183,6 @@
       }
     ]
   },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5500,
-        "avg_unit_price": 5584,
-        "total_price": 5500,
-        "quantity": 1,
-        "percent_diff": 1.5
-      }
-    ]
-  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
