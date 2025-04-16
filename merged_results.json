@@ -1923,11 +1923,11 @@
     "item_name": "РМО-93",
     "profitable_lots": [
       {
-        "unit_price": 1900000,
-        "avg_unit_price": 2095965,
-        "total_price": 1900000,
+        "unit_price": 2000000,
+        "avg_unit_price": 2057543,
+        "total_price": 2000000,
         "quantity": 1,
-        "percent_diff": 9.35
+        "percent_diff": 2.8
       }
     ]
   },
