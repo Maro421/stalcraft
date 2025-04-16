@@ -1655,30 +1655,6 @@
       }
     ]
   },
-  "5logg": {
-    "item_name": "Странный артефакт",
-    "profitable_lots": [
-      {
-        "unit_price": 1500,
-        "avg_unit_price": 1856,
-        "total_price": 75000,
-        "quantity": 50,
-        "percent_diff": 19.18
-      }
-    ]
-  },
-  "y3nmw": {
-    "item_name": "Продвинутые запчасти",
-    "profitable_lots": [
-      {
-        "unit_price": 63157,
-        "avg_unit_price": 66015,
-        "total_price": 1200000,
-        "quantity": 19,
-        "percent_diff": 4.33
-      }
-    ]
-  },
   "4q7pl": {
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
@@ -1779,11 +1755,11 @@
     "item_name": "Сумка СБП 5.56 мм",
     "profitable_lots": [
       {
-        "unit_price": 9000,
+        "unit_price": 5999,
         "avg_unit_price": 9944,
-        "total_price": 9000,
+        "total_price": 5999,
         "quantity": 1,
-        "percent_diff": 9.49
+        "percent_diff": 39.67
       }
     ]
   },
@@ -2027,15 +2003,51 @@
       }
     ]
   },
+  "knvmj": {
+    "item_name": "Jagdkommando",
+    "profitable_lots": [
+      {
+        "unit_price": 9500000,
+        "avg_unit_price": 10061551,
+        "total_price": 9500000,
+        "quantity": 1,
+        "percent_diff": 5.58
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 7460,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 32.98
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 5544,
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 27.85
+      }
+    ]
+  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 75500,
-        "avg_unit_price": 90465,
-        "total_price": 75500,
+        "unit_price": 85000,
+        "avg_unit_price": 98092,
+        "total_price": 85000,
         "quantity": 1,
-        "percent_diff": 16.54
+        "percent_diff": 13.35
       }
     ]
   },
@@ -2043,11 +2055,23 @@
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 30000,
         "avg_unit_price": 34205,
-        "total_price": 25000,
+        "total_price": 30000,
         "quantity": 1,
-        "percent_diff": 26.91
+        "percent_diff": 12.29
+      }
+    ]
+  },
+  "3g9n1": {
+    "item_name": "Алюминиевая бита",
+    "profitable_lots": [
+      {
+        "unit_price": 99999,
+        "avg_unit_price": 116222,
+        "total_price": 99999,
+        "quantity": 1,
+        "percent_diff": 13.96
       }
     ]
   },
@@ -2063,15 +2087,27 @@
       }
     ]
   },
+  "m0vvk": {
+    "item_name": "НР-43",
+    "profitable_lots": [
+      {
+        "unit_price": 9999,
+        "avg_unit_price": 10836,
+        "total_price": 9999,
+        "quantity": 1,
+        "percent_diff": 7.72
+      }
+    ]
+  },
   "5lv9o": {
     "item_name": "Прицел оптический Sig Sauer",
     "profitable_lots": [
       {
-        "unit_price": 210000,
-        "avg_unit_price": 262487,
-        "total_price": 210000,
+        "unit_price": 245000,
+        "avg_unit_price": 262788,
+        "total_price": 245000,
         "quantity": 1,
-        "percent_diff": 20.0
+        "percent_diff": 6.77
       }
     ]
   },
