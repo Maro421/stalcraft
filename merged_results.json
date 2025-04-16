@@ -1943,27 +1943,15 @@
       }
     ]
   },
-  "dmjwn": {
-    "item_name": "HK416",
-    "profitable_lots": [
-      {
-        "unit_price": 1150000,
-        "avg_unit_price": 1302080,
-        "total_price": 1150000,
-        "quantity": 1,
-        "percent_diff": 11.68
-      }
-    ]
-  },
   "2onz6": {
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4800000,
+        "unit_price": 4900000,
         "avg_unit_price": 5560818,
-        "total_price": 4800000,
+        "total_price": 4900000,
         "quantity": 1,
-        "percent_diff": 13.68
+        "percent_diff": 11.88
       }
     ]
   },
@@ -1971,11 +1959,11 @@
     "item_name": "ТКБ-0146М",
     "profitable_lots": [
       {
-        "unit_price": 450000,
+        "unit_price": 430000,
         "avg_unit_price": 458719,
-        "total_price": 450000,
+        "total_price": 430000,
         "quantity": 1,
-        "percent_diff": 1.9
+        "percent_diff": 6.26
       }
     ]
   },
@@ -1984,10 +1972,22 @@
     "profitable_lots": [
       {
         "unit_price": 499999,
-        "avg_unit_price": 534578,
+        "avg_unit_price": 533000,
         "total_price": 499999,
         "quantity": 1,
-        "percent_diff": 6.47
+        "percent_diff": 6.19
+      }
+    ]
+  },
+  "969jz": {
+    "item_name": "Steyr AUG A2",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 211836,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 5.59
       }
     ]
   },
