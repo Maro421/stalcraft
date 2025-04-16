@@ -387,11 +387,11 @@
     "item_name": "Асбест",
     "profitable_lots": [
       {
-        "unit_price": 200,
+        "unit_price": 160,
         "avg_unit_price": 272,
-        "total_price": 10000,
+        "total_price": 8000,
         "quantity": 50,
-        "percent_diff": 26.47
+        "percent_diff": 41.18
       }
     ]
   },
