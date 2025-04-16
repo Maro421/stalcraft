@@ -615,11 +615,11 @@
     "item_name": "Набор специй",
     "profitable_lots": [
       {
-        "unit_price": 5950,
-        "avg_unit_price": 6335,
-        "total_price": 11900,
-        "quantity": 2,
-        "percent_diff": 6.08
+        "unit_price": 5400,
+        "avg_unit_price": 6288,
+        "total_price": 5400,
+        "quantity": 1,
+        "percent_diff": 14.12
       }
     ]
   },
@@ -1947,11 +1947,11 @@
     "item_name": "FN SCAR-L",
     "profitable_lots": [
       {
-        "unit_price": 86000,
-        "avg_unit_price": 89384,
-        "total_price": 86000,
+        "unit_price": 68000,
+        "avg_unit_price": 89100,
+        "total_price": 68000,
         "quantity": 1,
-        "percent_diff": 3.79
+        "percent_diff": 23.68
       }
     ]
   },
