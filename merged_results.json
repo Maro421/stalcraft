@@ -695,6 +695,18 @@
       }
     ]
   },
+  "1dnq": {
+    "item_name": "Тканевая сумка",
+    "profitable_lots": [
+      {
+        "unit_price": 449,
+        "avg_unit_price": 894,
+        "total_price": 22498,
+        "quantity": 50,
+        "percent_diff": 49.78
+      }
+    ]
+  },
   "g05g": {
     "item_name": "Латунь",
     "profitable_lots": [
