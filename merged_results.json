@@ -663,11 +663,11 @@
     "item_name": "Протертые овощи",
     "profitable_lots": [
       {
-        "unit_price": 4263,
+        "unit_price": 6000,
         "avg_unit_price": 9356,
-        "total_price": 81000,
-        "quantity": 19,
-        "percent_diff": 54.44
+        "total_price": 300000,
+        "quantity": 50,
+        "percent_diff": 35.87
       }
     ]
   },
@@ -1947,11 +1947,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5699,
-        "avg_unit_price": 6193,
-        "total_price": 56999,
-        "quantity": 10,
-        "percent_diff": 7.98
+        "unit_price": 5250,
+        "avg_unit_price": 8092,
+        "total_price": 525000,
+        "quantity": 100,
+        "percent_diff": 35.12
       }
     ]
   },
@@ -1995,11 +1995,11 @@
     "item_name": "РМО-93",
     "profitable_lots": [
       {
-        "unit_price": 1899999,
+        "unit_price": 1888888,
         "avg_unit_price": 1932055,
-        "total_price": 1899999,
+        "total_price": 1888888,
         "quantity": 1,
-        "percent_diff": 1.66
+        "percent_diff": 2.23
       }
     ]
   },
@@ -2007,47 +2007,11 @@
     "item_name": "M1014 Breacher",
     "profitable_lots": [
       {
-        "unit_price": 650000,
-        "avg_unit_price": 668894,
-        "total_price": 650000,
+        "unit_price": 540000,
+        "avg_unit_price": 671672,
+        "total_price": 540000,
         "quantity": 1,
-        "percent_diff": 2.82
-      }
-    ]
-  },
-  "g4mmn": {
-    "item_name": "Walther P99",
-    "profitable_lots": [
-      {
-        "unit_price": 111111,
-        "avg_unit_price": 176993,
-        "total_price": 111111,
-        "quantity": 1,
-        "percent_diff": 37.22
-      }
-    ]
-  },
-  "969vz": {
-    "item_name": "HK UMP9",
-    "profitable_lots": [
-      {
-        "unit_price": 25000,
-        "avg_unit_price": 37721,
-        "total_price": 25000,
-        "quantity": 1,
-        "percent_diff": 33.72
-      }
-    ]
-  },
-  "g4mgp": {
-    "item_name": "IMI Micro Uzi",
-    "profitable_lots": [
-      {
-        "unit_price": 7001,
-        "avg_unit_price": 10113,
-        "total_price": 7001,
-        "quantity": 1,
-        "percent_diff": 30.77
+        "percent_diff": 19.6
       }
     ]
   },
@@ -2055,35 +2019,11 @@
     "item_name": "HK MP5K",
     "profitable_lots": [
       {
-        "unit_price": 60000,
-        "avg_unit_price": 88399,
-        "total_price": 60000,
+        "unit_price": 96000,
+        "avg_unit_price": 97294,
+        "total_price": 96000,
         "quantity": 1,
-        "percent_diff": 32.13
-      }
-    ]
-  },
-  "y32po": {
-    "item_name": "Ingram MAC-10",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 4316,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 7.32
-      }
-    ]
-  },
-  "zz2rn": {
-    "item_name": "АК-105",
-    "profitable_lots": [
-      {
-        "unit_price": 400000,
-        "avg_unit_price": 519340,
-        "total_price": 400000,
-        "quantity": 1,
-        "percent_diff": 22.98
+        "percent_diff": 1.33
       }
     ]
   },
@@ -2091,23 +2031,47 @@
     "item_name": "РПК",
     "profitable_lots": [
       {
-        "unit_price": 2745555,
-        "avg_unit_price": 2808235,
-        "total_price": 2745555,
+        "unit_price": 2750000,
+        "avg_unit_price": 2819999,
+        "total_price": 2750000,
         "quantity": 1,
-        "percent_diff": 2.23
+        "percent_diff": 2.48
       }
     ]
   },
-  "okm10": {
-    "item_name": "Steyr AUG 9mm",
+  "4qnwn": {
+    "item_name": "ОЦ-14М «Ураган»",
     "profitable_lots": [
       {
-        "unit_price": 380000,
-        "avg_unit_price": 509333,
-        "total_price": 380000,
+        "unit_price": 599999,
+        "avg_unit_price": 691268,
+        "total_price": 599999,
         "quantity": 1,
-        "percent_diff": 25.39
+        "percent_diff": 13.2
+      }
+    ]
+  },
+  "ly2m1": {
+    "item_name": "M1014",
+    "profitable_lots": [
+      {
+        "unit_price": 101001,
+        "avg_unit_price": 109578,
+        "total_price": 101001,
+        "quantity": 1,
+        "percent_diff": 7.83
+      }
+    ]
+  },
+  "rw255": {
+    "item_name": "M249 SAW",
+    "profitable_lots": [
+      {
+        "unit_price": 3889999,
+        "avg_unit_price": 4003201,
+        "total_price": 3889999,
+        "quantity": 1,
+        "percent_diff": 2.83
       }
     ]
   },
@@ -2120,18 +2084,6 @@
         "total_price": 2200000,
         "quantity": 1,
         "percent_diff": 4.24
-      }
-    ]
-  },
-  "2onz6": {
-    "item_name": "РПК-16",
-    "profitable_lots": [
-      {
-        "unit_price": 5000000,
-        "avg_unit_price": 5560818,
-        "total_price": 5000000,
-        "quantity": 1,
-        "percent_diff": 10.09
       }
     ]
   },
