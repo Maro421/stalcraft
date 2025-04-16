@@ -2379,23 +2379,11 @@
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
       {
-        "unit_price": 22500000,
-        "avg_unit_price": 22574748,
-        "total_price": 22500000,
+        "unit_price": 22222222,
+        "avg_unit_price": 22578901,
+        "total_price": 22222222,
         "quantity": 1,
-        "percent_diff": 0.33
-      }
-    ]
-  },
-  "rwgl5": {
-    "item_name": "КИМ-100 «Гранат»",
-    "profitable_lots": [
-      {
-        "unit_price": 30000,
-        "avg_unit_price": 32088,
-        "total_price": 30000,
-        "quantity": 1,
-        "percent_diff": 6.51
+        "percent_diff": 1.58
       }
     ]
   },
