@@ -2267,18 +2267,6 @@
       }
     ]
   },
-  "dm0dn": {
-    "item_name": "Прицел коллиматорный ПК-01(Т/З)",
-    "profitable_lots": [
-      {
-        "unit_price": 800000,
-        "avg_unit_price": 849062,
-        "total_price": 800000,
-        "quantity": 1,
-        "percent_diff": 5.78
-      }
-    ]
-  },
   "zz939": {
     "item_name": "ДТК «Вихрь»",
     "profitable_lots": [
