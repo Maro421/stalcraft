@@ -339,11 +339,11 @@
     "item_name": "Банка с горохом",
     "profitable_lots": [
       {
-        "unit_price": 1780,
-        "avg_unit_price": 1931,
-        "total_price": 89000,
-        "quantity": 50,
-        "percent_diff": 7.82
+        "unit_price": 2000,
+        "avg_unit_price": 2202,
+        "total_price": 2000,
+        "quantity": 1,
+        "percent_diff": 9.17
       }
     ]
   },
@@ -1832,6 +1832,18 @@
         "total_price": 1000,
         "quantity": 1,
         "percent_diff": 29.68
+      }
+    ]
+  },
+  "1rlgq": {
+    "item_name": "Подсумок с военными аптечками",
+    "profitable_lots": [
+      {
+        "unit_price": 800,
+        "avg_unit_price": 816,
+        "total_price": 800,
+        "quantity": 1,
+        "percent_diff": 1.96
       }
     ]
   },
