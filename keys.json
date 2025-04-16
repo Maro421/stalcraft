@@ -33,5 +33,10 @@
     "user": "re",
     "valid_until": "2025-05-14",
     "hwid": null
+  },
+  "Realme": {
+    "user": "Real",
+    "valid_until": "2025-05-16",
+    "hwid": null
   }
 }
