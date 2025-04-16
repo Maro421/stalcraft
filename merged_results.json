@@ -219,11 +219,11 @@
     "item_name": "Дрожжи",
     "profitable_lots": [
       {
-        "unit_price": 3800,
-        "avg_unit_price": 4304,
-        "total_price": 38000,
-        "quantity": 10,
-        "percent_diff": 11.71
+        "unit_price": 4090,
+        "avg_unit_price": 4789,
+        "total_price": 45000,
+        "quantity": 11,
+        "percent_diff": 14.6
       }
     ]
   },
@@ -231,11 +231,11 @@
     "item_name": "Колба с раствором",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 1224,
-        "total_price": 12000,
-        "quantity": 12,
-        "percent_diff": 18.3
+        "unit_price": 714,
+        "avg_unit_price": 1231,
+        "total_price": 20000,
+        "quantity": 28,
+        "percent_diff": 42.0
       }
     ]
   },
