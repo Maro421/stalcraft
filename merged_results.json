@@ -507,11 +507,11 @@
     "item_name": "Кислота",
     "profitable_lots": [
       {
-        "unit_price": 130,
-        "avg_unit_price": 437,
-        "total_price": 6500,
+        "unit_price": 124,
+        "avg_unit_price": 397,
+        "total_price": 6200,
         "quantity": 50,
-        "percent_diff": 70.25
+        "percent_diff": 68.77
       }
     ]
   },
@@ -519,11 +519,11 @@
     "item_name": "Раствор йода",
     "profitable_lots": [
       {
-        "unit_price": 373,
-        "avg_unit_price": 489,
-        "total_price": 4111,
-        "quantity": 11,
-        "percent_diff": 23.72
+        "unit_price": 312,
+        "avg_unit_price": 515,
+        "total_price": 5000,
+        "quantity": 16,
+        "percent_diff": 39.42
       }
     ]
   },
@@ -2007,11 +2007,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5250,
-        "avg_unit_price": 8092,
-        "total_price": 525000,
-        "quantity": 100,
-        "percent_diff": 35.12
+        "unit_price": 5699,
+        "avg_unit_price": 6193,
+        "total_price": 56999,
+        "quantity": 10,
+        "percent_diff": 7.98
       }
     ]
   },
@@ -2031,11 +2031,23 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 750000,
-        "avg_unit_price": 792444,
-        "total_price": 750000,
+        "unit_price": 645000,
+        "avg_unit_price": 793611,
+        "total_price": 645000,
         "quantity": 1,
-        "percent_diff": 5.36
+        "percent_diff": 18.73
+      }
+    ]
+  },
+  "4qnkr": {
+    "item_name": "Steyr Scout",
+    "profitable_lots": [
+      {
+        "unit_price": 164999,
+        "avg_unit_price": 178757,
+        "total_price": 164999,
+        "quantity": 1,
+        "percent_diff": 7.7
       }
     ]
   },
@@ -2043,11 +2055,11 @@
     "item_name": "РМО-93",
     "profitable_lots": [
       {
-        "unit_price": 2400000,
-        "avg_unit_price": 2723411,
-        "total_price": 2400000,
+        "unit_price": 1899999,
+        "avg_unit_price": 1932055,
+        "total_price": 1899999,
         "quantity": 1,
-        "percent_diff": 11.88
+        "percent_diff": 1.66
       }
     ]
   },
