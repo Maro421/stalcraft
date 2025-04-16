@@ -2171,6 +2171,18 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 9490,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 5.17
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
