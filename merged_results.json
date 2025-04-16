@@ -255,11 +255,11 @@
     "item_name": "Аномальная плазма",
     "profitable_lots": [
       {
-        "unit_price": 2142,
-        "avg_unit_price": 2359,
-        "total_price": 15000,
-        "quantity": 7,
-        "percent_diff": 9.2
+        "unit_price": 1900,
+        "avg_unit_price": 2390,
+        "total_price": 1900,
+        "quantity": 1,
+        "percent_diff": 20.5
       }
     ]
   },
