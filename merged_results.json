@@ -1851,11 +1851,11 @@
     "item_name": "Сумка бронебойных 7.62 мм",
     "profitable_lots": [
       {
-        "unit_price": 1900,
+        "unit_price": 4001,
         "avg_unit_price": 4437,
-        "total_price": 1900,
+        "total_price": 4001,
         "quantity": 1,
-        "percent_diff": 57.18
+        "percent_diff": 9.83
       }
     ]
   },
@@ -2123,6 +2123,42 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 10864,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 53.98
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4999,
+        "avg_unit_price": 7110,
+        "total_price": 4999,
+        "quantity": 1,
+        "percent_diff": 29.69
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 74000,
+        "avg_unit_price": 99374,
+        "total_price": 74000,
+        "quantity": 1,
+        "percent_diff": 25.53
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2139,11 +2175,11 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 170000,
+        "unit_price": 150000,
         "avg_unit_price": 194863,
-        "total_price": 170000,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 12.76
+        "percent_diff": 23.02
       }
     ]
   },
