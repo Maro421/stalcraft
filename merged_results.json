@@ -63,11 +63,11 @@
     "item_name": "Водонос",
     "profitable_lots": [
       {
-        "unit_price": 539,
-        "avg_unit_price": 548,
-        "total_price": 26995,
+        "unit_price": 490,
+        "avg_unit_price": 535,
+        "total_price": 24500,
         "quantity": 50,
-        "percent_diff": 1.64
+        "percent_diff": 8.41
       }
     ]
   },
@@ -1199,18 +1199,6 @@
       }
     ]
   },
-  "gdj6": {
-    "item_name": "Детектор узкого диапазона «Эльбрус»",
-    "profitable_lots": [
-      {
-        "unit_price": 54900000,
-        "avg_unit_price": 54922980,
-        "total_price": 54900000,
-        "quantity": 1,
-        "percent_diff": 0.04
-      }
-    ]
-  },
   "l3mo": {
     "item_name": "Керамическая пластина II",
     "profitable_lots": [
@@ -2007,11 +1995,11 @@
     "item_name": "FN SCAR-L",
     "profitable_lots": [
       {
-        "unit_price": 68000,
-        "avg_unit_price": 89100,
-        "total_price": 68000,
+        "unit_price": 50000,
+        "avg_unit_price": 86822,
+        "total_price": 50000,
         "quantity": 1,
-        "percent_diff": 23.68
+        "percent_diff": 42.41
       }
     ]
   },
