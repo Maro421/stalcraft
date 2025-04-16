@@ -803,6 +803,18 @@
       }
     ]
   },
+  "qvm9": {
+    "item_name": "Азотная кислота",
+    "profitable_lots": [
+      {
+        "unit_price": 9500,
+        "avg_unit_price": 9594,
+        "total_price": 380000,
+        "quantity": 40,
+        "percent_diff": 0.98
+      }
+    ]
+  },
   "jl44": {
     "item_name": "Серная кислота",
     "profitable_lots": [
