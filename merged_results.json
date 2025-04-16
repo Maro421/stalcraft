@@ -2199,11 +2199,11 @@
     "item_name": "Рукоять Fab defence AG-47, черный",
     "profitable_lots": [
       {
-        "unit_price": 12000000,
+        "unit_price": 11500000,
         "avg_unit_price": 12473684,
-        "total_price": 12000000,
+        "total_price": 11500000,
         "quantity": 1,
-        "percent_diff": 3.8
+        "percent_diff": 7.81
       }
     ]
   },
