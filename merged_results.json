@@ -1607,18 +1607,6 @@
       }
     ]
   },
-  "wjnq2": {
-    "item_name": "Ящик кустарных осколочных гранат",
-    "profitable_lots": [
-      {
-        "unit_price": 2500,
-        "avg_unit_price": 4811,
-        "total_price": 2500,
-        "quantity": 1,
-        "percent_diff": 48.04
-      }
-    ]
-  },
   "knydy": {
     "item_name": "Ящик гранат «Завеса»",
     "profitable_lots": [
