@@ -352,10 +352,10 @@
     "profitable_lots": [
       {
         "unit_price": 280,
-        "avg_unit_price": 351,
+        "avg_unit_price": 366,
         "total_price": 14000,
         "quantity": 50,
-        "percent_diff": 20.23
+        "percent_diff": 23.5
       }
     ]
   },
@@ -1823,15 +1823,15 @@
       }
     ]
   },
-  "1rlgq": {
-    "item_name": "Подсумок с военными аптечками",
+  "96zjw": {
+    "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
       {
-        "unit_price": 800,
-        "avg_unit_price": 816,
-        "total_price": 800,
+        "unit_price": 1199,
+        "avg_unit_price": 4500,
+        "total_price": 1199,
         "quantity": 1,
-        "percent_diff": 1.96
+        "percent_diff": 73.36
       }
     ]
   },
@@ -1839,11 +1839,11 @@
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
       {
-        "unit_price": 4500,
+        "unit_price": 4000,
         "avg_unit_price": 6057,
-        "total_price": 4500,
+        "total_price": 4000,
         "quantity": 1,
-        "percent_diff": 25.71
+        "percent_diff": 33.96
       }
     ]
   },
@@ -2031,11 +2031,11 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 380000,
-        "avg_unit_price": 509333,
-        "total_price": 380000,
+        "unit_price": 475000,
+        "avg_unit_price": 502111,
+        "total_price": 475000,
         "quantity": 1,
-        "percent_diff": 25.39
+        "percent_diff": 5.4
       }
     ]
   },
@@ -2051,51 +2051,15 @@
       }
     ]
   },
-  "1r7g1": {
-    "item_name": "Steyr AUG A3",
-    "profitable_lots": [
-      {
-        "unit_price": 3300000,
-        "avg_unit_price": 3351382,
-        "total_price": 3300000,
-        "quantity": 1,
-        "percent_diff": 1.53
-      }
-    ]
-  },
-  "zz24n": {
-    "item_name": "SIG SG 550 Sniper",
-    "profitable_lots": [
-      {
-        "unit_price": 330000,
-        "avg_unit_price": 340679,
-        "total_price": 330000,
-        "quantity": 1,
-        "percent_diff": 3.13
-      }
-    ]
-  },
   "okm20": {
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 189000,
-        "avg_unit_price": 204212,
-        "total_price": 189000,
+        "unit_price": 190000,
+        "avg_unit_price": 190321,
+        "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 7.45
-      }
-    ]
-  },
-  "p63d2": {
-    "item_name": "HK417",
-    "profitable_lots": [
-      {
-        "unit_price": 17000000,
-        "avg_unit_price": 18394110,
-        "total_price": 17000000,
-        "quantity": 1,
-        "percent_diff": 7.58
+        "percent_diff": 0.17
       }
     ]
   },
