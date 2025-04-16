@@ -1071,11 +1071,11 @@
     "item_name": "Защитное покрытие",
     "profitable_lots": [
       {
-        "unit_price": 53999,
-        "avg_unit_price": 57054,
-        "total_price": 53999,
+        "unit_price": 54000,
+        "avg_unit_price": 56606,
+        "total_price": 54000,
         "quantity": 1,
-        "percent_diff": 5.35
+        "percent_diff": 4.6
       }
     ]
   },
@@ -1779,11 +1779,11 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8500,
-        "avg_unit_price": 9457,
-        "total_price": 17000,
-        "quantity": 2,
-        "percent_diff": 10.12
+        "unit_price": 8249,
+        "avg_unit_price": 9977,
+        "total_price": 98999,
+        "quantity": 12,
+        "percent_diff": 17.32
       }
     ]
   },
@@ -1948,10 +1948,10 @@
     "profitable_lots": [
       {
         "unit_price": 2000000,
-        "avg_unit_price": 2057543,
+        "avg_unit_price": 2047017,
         "total_price": 2000000,
         "quantity": 1,
-        "percent_diff": 2.8
+        "percent_diff": 2.3
       }
     ]
   },
