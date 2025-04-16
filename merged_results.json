@@ -15,11 +15,11 @@
     "item_name": "Алые минералы",
     "profitable_lots": [
       {
-        "unit_price": 539,
-        "avg_unit_price": 745,
-        "total_price": 26999,
+        "unit_price": 560,
+        "avg_unit_price": 625,
+        "total_price": 28000,
         "quantity": 50,
-        "percent_diff": 27.65
+        "percent_diff": 10.4
       }
     ]
   },
@@ -28,10 +28,10 @@
     "profitable_lots": [
       {
         "unit_price": 4300,
-        "avg_unit_price": 4944,
+        "avg_unit_price": 4895,
         "total_price": 17200,
         "quantity": 4,
-        "percent_diff": 13.03
+        "percent_diff": 12.16
       }
     ]
   },
@@ -1107,11 +1107,11 @@
     "item_name": "Анилин",
     "profitable_lots": [
       {
-        "unit_price": 2533,
+        "unit_price": 2333,
         "avg_unit_price": 7597,
-        "total_price": 38000,
+        "total_price": 35000,
         "quantity": 15,
-        "percent_diff": 66.66
+        "percent_diff": 69.29
       }
     ]
   },
@@ -2152,10 +2152,10 @@
     "profitable_lots": [
       {
         "unit_price": 99999,
-        "avg_unit_price": 116222,
+        "avg_unit_price": 118473,
         "total_price": 99999,
         "quantity": 1,
-        "percent_diff": 13.96
+        "percent_diff": 15.59
       }
     ]
   },
