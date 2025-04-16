@@ -159,11 +159,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 1111,
-        "avg_unit_price": 1553,
-        "total_price": 55555,
+        "unit_price": 1099,
+        "avg_unit_price": 1779,
+        "total_price": 54999,
         "quantity": 50,
-        "percent_diff": 28.46
+        "percent_diff": 38.22
       }
     ]
   },
@@ -1275,11 +1275,11 @@
     "item_name": "Полиэтиленовая основа",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 6722,
-        "total_price": 200000,
+        "unit_price": 6000,
+        "avg_unit_price": 7249,
+        "total_price": 180000,
         "quantity": 30,
-        "percent_diff": 0.83
+        "percent_diff": 17.23
       }
     ]
   },
@@ -1287,11 +1287,11 @@
     "item_name": "Кевлар",
     "profitable_lots": [
       {
-        "unit_price": 37528,
-        "avg_unit_price": 40773,
-        "total_price": 187641,
-        "quantity": 5,
-        "percent_diff": 7.96
+        "unit_price": 38000,
+        "avg_unit_price": 40451,
+        "total_price": 950000,
+        "quantity": 25,
+        "percent_diff": 6.06
       }
     ]
   },
