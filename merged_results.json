@@ -423,11 +423,23 @@
     "item_name": "Газовый баллон",
     "profitable_lots": [
       {
-        "unit_price": 7800,
-        "avg_unit_price": 7874,
-        "total_price": 7800,
-        "quantity": 1,
-        "percent_diff": 0.94
+        "unit_price": 5100,
+        "avg_unit_price": 7780,
+        "total_price": 255000,
+        "quantity": 50,
+        "percent_diff": 34.45
+      }
+    ]
+  },
+  "m2g7": {
+    "item_name": "Текстолит",
+    "profitable_lots": [
+      {
+        "unit_price": 1100,
+        "avg_unit_price": 1311,
+        "total_price": 22000,
+        "quantity": 20,
+        "percent_diff": 16.09
       }
     ]
   },
@@ -1724,6 +1736,18 @@
         "total_price": 4000,
         "quantity": 1,
         "percent_diff": 21.31
+      }
+    ]
+  },
+  "1rlgq": {
+    "item_name": "Подсумок с военными аптечками",
+    "profitable_lots": [
+      {
+        "unit_price": 780,
+        "avg_unit_price": 799,
+        "total_price": 780,
+        "quantity": 1,
+        "percent_diff": 2.38
       }
     ]
   },
