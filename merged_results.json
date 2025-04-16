@@ -1083,11 +1083,11 @@
     "item_name": "Полипропилен",
     "profitable_lots": [
       {
-        "unit_price": 2000,
+        "unit_price": 1999,
         "avg_unit_price": 2436,
-        "total_price": 100000,
+        "total_price": 99999,
         "quantity": 50,
-        "percent_diff": 17.9
+        "percent_diff": 17.94
       }
     ]
   },
@@ -1820,6 +1820,18 @@
         "total_price": 267900,
         "quantity": 100,
         "percent_diff": 61.72
+      }
+    ]
+  },
+  "y3nmw": {
+    "item_name": "Продвинутые запчасти",
+    "profitable_lots": [
+      {
+        "unit_price": 63999,
+        "avg_unit_price": 70000,
+        "total_price": 319999,
+        "quantity": 5,
+        "percent_diff": 8.57
       }
     ]
   },
