@@ -59,18 +59,6 @@
       }
     ]
   },
-  "033k": {
-    "item_name": "Кислотная крапива",
-    "profitable_lots": [
-      {
-        "unit_price": 119,
-        "avg_unit_price": 167,
-        "total_price": 2500,
-        "quantity": 21,
-        "percent_diff": 28.74
-      }
-    ]
-  },
   "m22k": {
     "item_name": "Водонос",
     "profitable_lots": [
