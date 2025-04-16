@@ -1635,11 +1635,11 @@
     "item_name": "Хроносфера",
     "profitable_lots": [
       {
-        "unit_price": 349999,
+        "unit_price": 329999,
         "avg_unit_price": 388450,
-        "total_price": 349999,
+        "total_price": 329999,
         "quantity": 1,
-        "percent_diff": 9.9
+        "percent_diff": 15.05
       }
     ]
   },
@@ -1647,11 +1647,11 @@
     "item_name": "Пыль изменения",
     "profitable_lots": [
       {
-        "unit_price": 2700,
-        "avg_unit_price": 3065,
-        "total_price": 27000,
-        "quantity": 10,
-        "percent_diff": 11.91
+        "unit_price": 2999,
+        "avg_unit_price": 3039,
+        "total_price": 299999,
+        "quantity": 100,
+        "percent_diff": 1.32
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "Прицел оптический Sig Sauer",
     "profitable_lots": [
       {
-        "unit_price": 245000,
-        "avg_unit_price": 262788,
-        "total_price": 245000,
+        "unit_price": 210000,
+        "avg_unit_price": 262487,
+        "total_price": 210000,
         "quantity": 1,
-        "percent_diff": 6.77
+        "percent_diff": 20.0
       }
     ]
   },
