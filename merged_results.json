@@ -27,11 +27,11 @@
     "item_name": "Алые минералы",
     "profitable_lots": [
       {
-        "unit_price": 560,
+        "unit_price": 465,
         "avg_unit_price": 796,
-        "total_price": 28000,
-        "quantity": 50,
-        "percent_diff": 29.65
+        "total_price": 19999,
+        "quantity": 43,
+        "percent_diff": 41.58
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "M1014",
     "profitable_lots": [
       {
-        "unit_price": 140000,
-        "avg_unit_price": 165833,
-        "total_price": 140000,
+        "unit_price": 120000,
+        "avg_unit_price": 152562,
+        "total_price": 120000,
         "quantity": 1,
-        "percent_diff": 15.58
+        "percent_diff": 21.34
       }
     ]
   },
