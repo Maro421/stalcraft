@@ -1595,6 +1595,18 @@
       }
     ]
   },
+  "5lo3o": {
+    "item_name": "Копыто сильного кабана",
+    "profitable_lots": [
+      {
+        "unit_price": 3174,
+        "avg_unit_price": 3827,
+        "total_price": 22222,
+        "quantity": 7,
+        "percent_diff": 17.06
+      }
+    ]
+  },
   "3gqkg": {
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
@@ -2027,27 +2039,15 @@
       }
     ]
   },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
+        "unit_price": 75500,
+        "avg_unit_price": 90465,
+        "total_price": 75500,
         "quantity": 1,
-        "percent_diff": 13.35
+        "percent_diff": 16.54
       }
     ]
   },
