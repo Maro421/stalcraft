@@ -627,11 +627,11 @@
     "item_name": "Свинец",
     "profitable_lots": [
       {
-        "unit_price": 499,
-        "avg_unit_price": 584,
-        "total_price": 24999,
+        "unit_price": 510,
+        "avg_unit_price": 577,
+        "total_price": 25500,
         "quantity": 50,
-        "percent_diff": 14.55
+        "percent_diff": 11.61
       }
     ]
   },
@@ -640,10 +640,10 @@
     "profitable_lots": [
       {
         "unit_price": 1360,
-        "avg_unit_price": 1542,
+        "avg_unit_price": 1531,
         "total_price": 68000,
         "quantity": 50,
-        "percent_diff": 11.8
+        "percent_diff": 11.17
       }
     ]
   },
@@ -1964,6 +1964,18 @@
         "total_price": 111111,
         "quantity": 1,
         "percent_diff": 37.22
+      }
+    ]
+  },
+  "g4mgp": {
+    "item_name": "IMI Micro Uzi",
+    "profitable_lots": [
+      {
+        "unit_price": 7000,
+        "avg_unit_price": 10935,
+        "total_price": 7000,
+        "quantity": 1,
+        "percent_diff": 35.99
       }
     ]
   },
