@@ -675,11 +675,11 @@
     "item_name": "Брага",
     "profitable_lots": [
       {
-        "unit_price": 3000,
+        "unit_price": 2999,
         "avg_unit_price": 3268,
-        "total_price": 150000,
+        "total_price": 149999,
         "quantity": 50,
-        "percent_diff": 8.2
+        "percent_diff": 8.23
       }
     ]
   },
@@ -2336,6 +2336,18 @@
         "total_price": 230000,
         "quantity": 1,
         "percent_diff": 0.96
+      }
+    ]
+  },
+  "wjg2o": {
+    "item_name": "Тяжелый комплект «Алтын-Т»",
+    "profitable_lots": [
+      {
+        "unit_price": 90000,
+        "avg_unit_price": 94681,
+        "total_price": 90000,
+        "quantity": 1,
+        "percent_diff": 4.94
       }
     ]
   },
