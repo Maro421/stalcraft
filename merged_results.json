@@ -1883,18 +1883,6 @@
       }
     ]
   },
-  "dmyd9": {
-    "item_name": "Сумка бронебойных 7.62 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 4001,
-        "avg_unit_price": 4437,
-        "total_price": 4001,
-        "quantity": 1,
-        "percent_diff": 9.83
-      }
-    ]
-  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
@@ -1911,11 +1899,11 @@
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
       {
-        "unit_price": 4300,
-        "avg_unit_price": 5020,
-        "total_price": 4300,
+        "unit_price": 4499,
+        "avg_unit_price": 5099,
+        "total_price": 4499,
         "quantity": 1,
-        "percent_diff": 14.34
+        "percent_diff": 11.77
       }
     ]
   },
@@ -1952,6 +1940,18 @@
         "total_price": 12999,
         "quantity": 1,
         "percent_diff": 1.46
+      }
+    ]
+  },
+  "m0q7r": {
+    "item_name": "Сумка зажигательных 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 800,
+        "avg_unit_price": 2604,
+        "total_price": 800,
+        "quantity": 1,
+        "percent_diff": 69.28
       }
     ]
   },
@@ -2195,6 +2195,30 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 6999,
+        "avg_unit_price": 10864,
+        "total_price": 6999,
+        "quantity": 1,
+        "percent_diff": 35.58
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4999,
+        "avg_unit_price": 6244,
+        "total_price": 4999,
+        "quantity": 1,
+        "percent_diff": 19.94
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
@@ -2219,15 +2243,15 @@
       }
     ]
   },
-  "m0vvk": {
-    "item_name": "НР-43",
+  "knwdv": {
+    "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
+        "unit_price": 1890000,
+        "avg_unit_price": 1897077,
+        "total_price": 1890000,
         "quantity": 1,
-        "percent_diff": 29.24
+        "percent_diff": 0.37
       }
     ]
   },
