@@ -699,11 +699,11 @@
     "item_name": "Брага",
     "profitable_lots": [
       {
-        "unit_price": 3200,
+        "unit_price": 3000,
         "avg_unit_price": 3268,
-        "total_price": 160000,
+        "total_price": 150000,
         "quantity": 50,
-        "percent_diff": 2.08
+        "percent_diff": 8.2
       }
     ]
   },
@@ -2144,18 +2144,6 @@
         "total_price": 4790000,
         "quantity": 1,
         "percent_diff": 13.86
-      }
-    ]
-  },
-  "3gn5g": {
-    "item_name": "ТКБ-0146М",
-    "profitable_lots": [
-      {
-        "unit_price": 450000,
-        "avg_unit_price": 462403,
-        "total_price": 450000,
-        "quantity": 1,
-        "percent_diff": 2.68
       }
     ]
   },
