@@ -1780,10 +1780,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 1316,
+        "avg_unit_price": 1422,
         "total_price": 1000,
         "quantity": 1,
-        "percent_diff": 24.01
+        "percent_diff": 29.68
       }
     ]
   },
@@ -1792,10 +1792,10 @@
     "profitable_lots": [
       {
         "unit_price": 7250,
-        "avg_unit_price": 12357,
+        "avg_unit_price": 10986,
         "total_price": 7250,
         "quantity": 1,
-        "percent_diff": 41.33
+        "percent_diff": 34.01
       }
     ]
   },
@@ -1804,10 +1804,10 @@
     "profitable_lots": [
       {
         "unit_price": 1050,
-        "avg_unit_price": 1092,
+        "avg_unit_price": 1199,
         "total_price": 1050,
         "quantity": 1,
-        "percent_diff": 3.85
+        "percent_diff": 12.43
       }
     ]
   },
@@ -1815,11 +1815,11 @@
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
       {
-        "unit_price": 4444,
+        "unit_price": 4500,
         "avg_unit_price": 6028,
-        "total_price": 4444,
+        "total_price": 4500,
         "quantity": 1,
-        "percent_diff": 26.28
+        "percent_diff": 25.35
       }
     ]
   },
@@ -1828,10 +1828,10 @@
     "profitable_lots": [
       {
         "unit_price": 8000,
-        "avg_unit_price": 8327,
+        "avg_unit_price": 8243,
         "total_price": 8000,
         "quantity": 1,
-        "percent_diff": 3.93
+        "percent_diff": 2.95
       }
     ]
   },
@@ -1851,11 +1851,11 @@
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 8999,
+        "unit_price": 10000,
         "avg_unit_price": 14160,
-        "total_price": 8999,
+        "total_price": 10000,
         "quantity": 1,
-        "percent_diff": 36.45
+        "percent_diff": 29.38
       }
     ]
   },
@@ -1864,10 +1864,10 @@
     "profitable_lots": [
       {
         "unit_price": 800,
-        "avg_unit_price": 2604,
+        "avg_unit_price": 2678,
         "total_price": 800,
         "quantity": 1,
-        "percent_diff": 69.28
+        "percent_diff": 70.13
       }
     ]
   },
@@ -2027,18 +2027,6 @@
       }
     ]
   },
-  "dmjwn": {
-    "item_name": "HK416",
-    "profitable_lots": [
-      {
-        "unit_price": 1200000,
-        "avg_unit_price": 1213580,
-        "total_price": 1200000,
-        "quantity": 1,
-        "percent_diff": 1.12
-      }
-    ]
-  },
   "2onz6": {
     "item_name": "РПК-16",
     "profitable_lots": [
@@ -2055,47 +2043,35 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 209999,
-        "avg_unit_price": 228189,
-        "total_price": 209999,
+        "unit_price": 200000,
+        "avg_unit_price": 213111,
+        "total_price": 200000,
         "quantity": 1,
-        "percent_diff": 7.97
+        "percent_diff": 6.15
       }
     ]
   },
-  "zz24n": {
-    "item_name": "SIG SG 550 Sniper",
+  "g4mdp": {
+    "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 270000,
-        "avg_unit_price": 308437,
-        "total_price": 270000,
+        "unit_price": 1450000,
+        "avg_unit_price": 1474705,
+        "total_price": 1450000,
         "quantity": 1,
-        "percent_diff": 12.46
+        "percent_diff": 1.68
       }
     ]
   },
-  "okm20": {
-    "item_name": "HK PSG1",
+  "p63d2": {
+    "item_name": "HK417",
     "profitable_lots": [
       {
-        "unit_price": 185000,
-        "avg_unit_price": 199937,
-        "total_price": 185000,
+        "unit_price": 17000000,
+        "avg_unit_price": 17819438,
+        "total_price": 17000000,
         "quantity": 1,
-        "percent_diff": 7.47
-      }
-    ]
-  },
-  "2ony6": {
-    "item_name": "IWI Tavor X95",
-    "profitable_lots": [
-      {
-        "unit_price": 14200000,
-        "avg_unit_price": 14999999,
-        "total_price": 14200000,
-        "quantity": 1,
-        "percent_diff": 5.33
+        "percent_diff": 4.6
       }
     ]
   },
@@ -2111,15 +2087,15 @@
       }
     ]
   },
-  "rw23l": {
-    "item_name": "«Волна»",
+  "rw27g": {
+    "item_name": "«Рапира»",
     "profitable_lots": [
       {
-        "unit_price": 3800000,
-        "avg_unit_price": 3969444,
-        "total_price": 3800000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1532393,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 4.27
+        "percent_diff": 2.11
       }
     ]
   },
