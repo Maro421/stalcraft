@@ -959,18 +959,6 @@
       }
     ]
   },
-  "4nkr": {
-    "item_name": "Алюминиевый порошок",
-    "profitable_lots": [
-      {
-        "unit_price": 500,
-        "avg_unit_price": 1195,
-        "total_price": 500,
-        "quantity": 1,
-        "percent_diff": 58.16
-      }
-    ]
-  },
   "km6y": {
     "item_name": "Серная соль",
     "profitable_lots": [
