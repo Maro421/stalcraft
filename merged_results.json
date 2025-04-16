@@ -2164,22 +2164,10 @@
     "profitable_lots": [
       {
         "unit_price": 1301000,
-        "avg_unit_price": 1494830,
+        "avg_unit_price": 1335194,
         "total_price": 1301000,
         "quantity": 1,
-        "percent_diff": 12.97
-      }
-    ]
-  },
-  "wjro3": {
-    "item_name": "Барабанный магазин 5.56 NATO, хаки",
-    "profitable_lots": [
-      {
-        "unit_price": 2400000,
-        "avg_unit_price": 2539087,
-        "total_price": 2400000,
-        "quantity": 1,
-        "percent_diff": 5.48
+        "percent_diff": 2.56
       }
     ]
   },
