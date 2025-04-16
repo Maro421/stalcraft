@@ -959,6 +959,18 @@
       }
     ]
   },
+  "om46": {
+    "item_name": "Набор тонких сверл и бит",
+    "profitable_lots": [
+      {
+        "unit_price": 90,
+        "avg_unit_price": 126,
+        "total_price": 2000,
+        "quantity": 22,
+        "percent_diff": 28.57
+      }
+    ]
+  },
   "nmj1": {
     "item_name": "Листы сваренного металла",
     "profitable_lots": [
@@ -1563,11 +1575,11 @@
     "item_name": "Ящик гранат «Подорожник»",
     "profitable_lots": [
       {
-        "unit_price": 27777,
-        "avg_unit_price": 38127,
-        "total_price": 27777,
+        "unit_price": 24000,
+        "avg_unit_price": 27266,
+        "total_price": 24000,
         "quantity": 1,
-        "percent_diff": 27.15
+        "percent_diff": 11.98
       }
     ]
   },
