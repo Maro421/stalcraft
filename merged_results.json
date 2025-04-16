@@ -1,13 +1,13 @@
 {
-  "kllj": {
-    "item_name": "Лазурные минералы",
+  "qvv4": {
+    "item_name": "Пурпурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 200,
-        "avg_unit_price": 389,
-        "total_price": 1000,
-        "quantity": 5,
-        "percent_diff": 48.59
+        "unit_price": 295,
+        "avg_unit_price": 300,
+        "total_price": 14776,
+        "quantity": 50,
+        "percent_diff": 1.67
       }
     ]
   },
@@ -2123,51 +2123,15 @@
       }
     ]
   },
-  "knvmj": {
-    "item_name": "Jagdkommando",
-    "profitable_lots": [
-      {
-        "unit_price": 9500000,
-        "avg_unit_price": 10061551,
-        "total_price": 9500000,
-        "quantity": 1,
-        "percent_diff": 5.58
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7460,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 32.98
-      }
-    ]
-  },
-  "n42m9": {
-    "item_name": "Мачете «ЭМЧес»",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5544,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 27.85
-      }
-    ]
-  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 85000,
-        "avg_unit_price": 98092,
-        "total_price": 85000,
+        "unit_price": 90000,
+        "avg_unit_price": 92336,
+        "total_price": 90000,
         "quantity": 1,
-        "percent_diff": 13.35
+        "percent_diff": 2.53
       }
     ]
   },
