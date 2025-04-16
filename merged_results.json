@@ -1755,11 +1755,11 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8888,
-        "avg_unit_price": 10015,
-        "total_price": 160000,
-        "quantity": 18,
-        "percent_diff": 11.25
+        "unit_price": 8500,
+        "avg_unit_price": 9457,
+        "total_price": 17000,
+        "quantity": 2,
+        "percent_diff": 10.12
       }
     ]
   },
