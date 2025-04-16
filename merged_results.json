@@ -411,11 +411,11 @@
     "item_name": "Сломанный прибор",
     "profitable_lots": [
       {
-        "unit_price": 640,
-        "avg_unit_price": 1788,
-        "total_price": 32000,
+        "unit_price": 399,
+        "avg_unit_price": 2318,
+        "total_price": 19998,
         "quantity": 50,
-        "percent_diff": 64.21
+        "percent_diff": 82.79
       }
     ]
   },
@@ -2091,11 +2091,11 @@
     "item_name": "«Волна»",
     "profitable_lots": [
       {
-        "unit_price": 3800000,
+        "unit_price": 3777777,
         "avg_unit_price": 3969444,
-        "total_price": 3800000,
+        "total_price": 3777777,
         "quantity": 1,
-        "percent_diff": 4.27
+        "percent_diff": 4.83
       }
     ]
   },
