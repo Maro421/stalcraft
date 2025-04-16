@@ -551,6 +551,18 @@
       }
     ]
   },
+  "jl77": {
+    "item_name": "Железо",
+    "profitable_lots": [
+      {
+        "unit_price": 1300,
+        "avg_unit_price": 1624,
+        "total_price": 65001,
+        "quantity": 50,
+        "percent_diff": 19.95
+      }
+    ]
+  },
   "rr7g": {
     "item_name": "Медь",
     "profitable_lots": [
