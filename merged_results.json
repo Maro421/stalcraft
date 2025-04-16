@@ -1803,11 +1803,11 @@
     "item_name": "Странный артефакт",
     "profitable_lots": [
       {
-        "unit_price": 714,
-        "avg_unit_price": 1420,
-        "total_price": 10000,
-        "quantity": 14,
-        "percent_diff": 49.72
+        "unit_price": 999,
+        "avg_unit_price": 1357,
+        "total_price": 999,
+        "quantity": 1,
+        "percent_diff": 26.38
       }
     ]
   },
@@ -1815,11 +1815,11 @@
     "item_name": "Продвинутые запчасти",
     "profitable_lots": [
       {
-        "unit_price": 59000,
-        "avg_unit_price": 63777,
-        "total_price": 59000,
-        "quantity": 1,
-        "percent_diff": 7.49
+        "unit_price": 62500,
+        "avg_unit_price": 65222,
+        "total_price": 250000,
+        "quantity": 4,
+        "percent_diff": 4.17
       }
     ]
   },
@@ -2391,11 +2391,11 @@
     "item_name": "Бронескелет «Альбатрос-Разведчик»",
     "profitable_lots": [
       {
-        "unit_price": 11000000,
-        "avg_unit_price": 11249799,
-        "total_price": 11000000,
+        "unit_price": 8500000,
+        "avg_unit_price": 8690999,
+        "total_price": 8500000,
         "quantity": 1,
-        "percent_diff": 2.22
+        "percent_diff": 2.2
       }
     ]
   },
