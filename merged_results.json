@@ -843,11 +843,11 @@
     "item_name": "Контрольная плата",
     "profitable_lots": [
       {
-        "unit_price": 5000,
+        "unit_price": 3846,
         "avg_unit_price": 8200,
         "total_price": 50000,
-        "quantity": 10,
-        "percent_diff": 39.02
+        "quantity": 13,
+        "percent_diff": 53.1
       }
     ]
   },
@@ -855,11 +855,11 @@
     "item_name": "Детали электромотора",
     "profitable_lots": [
       {
-        "unit_price": 333,
+        "unit_price": 150,
         "avg_unit_price": 461,
-        "total_price": 1000,
-        "quantity": 3,
-        "percent_diff": 27.77
+        "total_price": 150,
+        "quantity": 1,
+        "percent_diff": 67.46
       }
     ]
   },
@@ -1496,18 +1496,6 @@
         "total_price": 15000,
         "quantity": 1,
         "percent_diff": 13.0
-      }
-    ]
-  },
-  "p6kgw": {
-    "item_name": "Сумка 12.7 мм Easy mode",
-    "profitable_lots": [
-      {
-        "unit_price": 5555,
-        "avg_unit_price": 5995,
-        "total_price": 5555,
-        "quantity": 1,
-        "percent_diff": 7.34
       }
     ]
   },
