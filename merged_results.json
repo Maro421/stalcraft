@@ -467,18 +467,6 @@
       }
     ]
   },
-  "vrld": {
-    "item_name": "Консервная банка",
-    "profitable_lots": [
-      {
-        "unit_price": 377,
-        "avg_unit_price": 379,
-        "total_price": 3777,
-        "quantity": 10,
-        "percent_diff": 0.53
-      }
-    ]
-  },
   "dq2n": {
     "item_name": "Мультитул",
     "profitable_lots": [
@@ -1419,11 +1407,11 @@
     "item_name": "«КЗС-3у»",
     "profitable_lots": [
       {
-        "unit_price": 3000,
-        "avg_unit_price": 9340,
-        "total_price": 3000,
+        "unit_price": 2000,
+        "avg_unit_price": 2483,
+        "total_price": 2000,
         "quantity": 1,
-        "percent_diff": 67.88
+        "percent_diff": 19.45
       }
     ]
   },
