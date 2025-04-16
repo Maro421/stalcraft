@@ -544,22 +544,10 @@
     "profitable_lots": [
       {
         "unit_price": 160,
-        "avg_unit_price": 3000,
+        "avg_unit_price": 2999,
         "total_price": 8000,
         "quantity": 50,
-        "percent_diff": 94.67
-      }
-    ]
-  },
-  "404p": {
-    "item_name": "Термическая смесь",
-    "profitable_lots": [
-      {
-        "unit_price": 230,
-        "avg_unit_price": 529,
-        "total_price": 6000,
-        "quantity": 26,
-        "percent_diff": 56.52
+        "percent_diff": 94.66
       }
     ]
   },
