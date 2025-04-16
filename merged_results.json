@@ -911,6 +911,18 @@
       }
     ]
   },
+  "km6y": {
+    "item_name": "Серная соль",
+    "profitable_lots": [
+      {
+        "unit_price": 179,
+        "avg_unit_price": 199,
+        "total_price": 8999,
+        "quantity": 50,
+        "percent_diff": 10.05
+      }
+    ]
+  },
   "q2yj": {
     "item_name": "Крепкая сталь",
     "profitable_lots": [
@@ -1496,6 +1508,18 @@
         "total_price": 32999,
         "quantity": 1,
         "percent_diff": 12.84
+      }
+    ]
+  },
+  "3g0yl": {
+    "item_name": "Сумка патронов 12 калибра «Кислотный дракон»",
+    "profitable_lots": [
+      {
+        "unit_price": 28700,
+        "avg_unit_price": 29999,
+        "total_price": 28700,
+        "quantity": 1,
+        "percent_diff": 4.33
       }
     ]
   },
