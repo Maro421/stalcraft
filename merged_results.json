@@ -35,15 +35,27 @@
       }
     ]
   },
+  "rrrz": {
+    "item_name": "Бледнолист",
+    "profitable_lots": [
+      {
+        "unit_price": 259,
+        "avg_unit_price": 274,
+        "total_price": 12999,
+        "quantity": 50,
+        "percent_diff": 5.47
+      }
+    ]
+  },
   "033k": {
     "item_name": "Кислотная крапива",
     "profitable_lots": [
       {
-        "unit_price": 200,
+        "unit_price": 199,
         "avg_unit_price": 301,
-        "total_price": 10000,
+        "total_price": 9998,
         "quantity": 50,
-        "percent_diff": 33.55
+        "percent_diff": 33.89
       }
     ]
   },
@@ -1899,11 +1911,11 @@
     "item_name": "РМО-93",
     "profitable_lots": [
       {
-        "unit_price": 2050000,
-        "avg_unit_price": 2098596,
-        "total_price": 2050000,
+        "unit_price": 2000000,
+        "avg_unit_price": 2095965,
+        "total_price": 2000000,
         "quantity": 1,
-        "percent_diff": 2.32
+        "percent_diff": 4.58
       }
     ]
   },
