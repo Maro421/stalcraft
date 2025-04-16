@@ -135,11 +135,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 799,
-        "avg_unit_price": 1010,
-        "total_price": 39999,
+        "unit_price": 996,
+        "avg_unit_price": 1043,
+        "total_price": 49800,
         "quantity": 50,
-        "percent_diff": 20.89
+        "percent_diff": 4.51
       }
     ]
   },
@@ -147,11 +147,11 @@
     "item_name": "Реагенты",
     "profitable_lots": [
       {
-        "unit_price": 999,
-        "avg_unit_price": 1578,
-        "total_price": 49999,
+        "unit_price": 980,
+        "avg_unit_price": 1905,
+        "total_price": 49000,
         "quantity": 50,
-        "percent_diff": 36.69
+        "percent_diff": 48.56
       }
     ]
   },
