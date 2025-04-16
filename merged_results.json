@@ -243,11 +243,11 @@
     "item_name": "Глаз зомби",
     "profitable_lots": [
       {
-        "unit_price": 499,
+        "unit_price": 900,
         "avg_unit_price": 3063,
-        "total_price": 999,
-        "quantity": 2,
-        "percent_diff": 83.71
+        "total_price": 900,
+        "quantity": 1,
+        "percent_diff": 70.62
       }
     ]
   },
@@ -2007,11 +2007,11 @@
     "item_name": "FN SCAR-L",
     "profitable_lots": [
       {
-        "unit_price": 75000,
-        "avg_unit_price": 92425,
-        "total_price": 75000,
+        "unit_price": 80000,
+        "avg_unit_price": 91777,
+        "total_price": 80000,
         "quantity": 1,
-        "percent_diff": 18.85
+        "percent_diff": 12.83
       }
     ]
   },
