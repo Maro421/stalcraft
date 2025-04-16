@@ -719,6 +719,18 @@
       }
     ]
   },
+  "g05g": {
+    "item_name": "Латунь",
+    "profitable_lots": [
+      {
+        "unit_price": 370,
+        "avg_unit_price": 376,
+        "total_price": 18500,
+        "quantity": 50,
+        "percent_diff": 1.6
+      }
+    ]
+  },
   "y79w": {
     "item_name": "Медная крошка",
     "profitable_lots": [
@@ -2192,6 +2204,18 @@
         "total_price": 5000000,
         "quantity": 1,
         "percent_diff": 2.84
+      }
+    ]
+  },
+  "96pwy": {
+    "item_name": "Увеличенный магазин АК-308",
+    "profitable_lots": [
+      {
+        "unit_price": 2499999,
+        "avg_unit_price": 2523535,
+        "total_price": 2499999,
+        "quantity": 1,
+        "percent_diff": 0.93
       }
     ]
   },
