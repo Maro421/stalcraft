@@ -243,11 +243,11 @@
     "item_name": "Дрожжи",
     "profitable_lots": [
       {
-        "unit_price": 4090,
-        "avg_unit_price": 4789,
-        "total_price": 45000,
-        "quantity": 11,
-        "percent_diff": 14.6
+        "unit_price": 4799,
+        "avg_unit_price": 4999,
+        "total_price": 239999,
+        "quantity": 50,
+        "percent_diff": 4.0
       }
     ]
   },
@@ -255,11 +255,11 @@
     "item_name": "Колба с раствором",
     "profitable_lots": [
       {
-        "unit_price": 714,
+        "unit_price": 600,
         "avg_unit_price": 1231,
-        "total_price": 20000,
-        "quantity": 28,
-        "percent_diff": 42.0
+        "total_price": 15000,
+        "quantity": 25,
+        "percent_diff": 51.26
       }
     ]
   },
@@ -1988,6 +1988,18 @@
         "total_price": 444444,
         "quantity": 1,
         "percent_diff": 11.47
+      }
+    ]
+  },
+  "y32lo": {
+    "item_name": "FN SCAR-L",
+    "profitable_lots": [
+      {
+        "unit_price": 86000,
+        "avg_unit_price": 89939,
+        "total_price": 86000,
+        "quantity": 1,
+        "percent_diff": 4.38
       }
     ]
   },
