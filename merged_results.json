@@ -207,11 +207,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 1100,
-        "avg_unit_price": 1479,
-        "total_price": 55000,
-        "quantity": 50,
-        "percent_diff": 25.63
+        "unit_price": 1096,
+        "avg_unit_price": 1592,
+        "total_price": 34000,
+        "quantity": 31,
+        "percent_diff": 31.16
       }
     ]
   },
@@ -1371,11 +1371,11 @@
     "item_name": "Ониксовая пластина V",
     "profitable_lots": [
       {
-        "unit_price": 50000,
-        "avg_unit_price": 172307,
-        "total_price": 50000,
+        "unit_price": 55555,
+        "avg_unit_price": 170000,
+        "total_price": 55555,
         "quantity": 1,
-        "percent_diff": 70.98
+        "percent_diff": 67.32
       }
     ]
   },
@@ -2271,23 +2271,11 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 170000,
+        "unit_price": 150000,
         "avg_unit_price": 194863,
-        "total_price": 170000,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 12.76
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.24
+        "percent_diff": 23.02
       }
     ]
   },
