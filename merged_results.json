@@ -359,18 +359,6 @@
       }
     ]
   },
-  "5dp0": {
-    "item_name": "Банка с пшеном",
-    "profitable_lots": [
-      {
-        "unit_price": 4099,
-        "avg_unit_price": 4136,
-        "total_price": 204998,
-        "quantity": 50,
-        "percent_diff": 0.89
-      }
-    ]
-  },
   "qvwk": {
     "item_name": "Клей",
     "profitable_lots": [
@@ -1947,11 +1935,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 645000,
+        "unit_price": 644000,
         "avg_unit_price": 792117,
-        "total_price": 645000,
+        "total_price": 644000,
         "quantity": 1,
-        "percent_diff": 18.57
+        "percent_diff": 18.7
       }
     ]
   },
