@@ -219,11 +219,11 @@
     "item_name": "Аномальная плазма",
     "profitable_lots": [
       {
-        "unit_price": 1900,
-        "avg_unit_price": 2390,
-        "total_price": 1900,
-        "quantity": 1,
-        "percent_diff": 20.5
+        "unit_price": 1866,
+        "avg_unit_price": 2224,
+        "total_price": 28000,
+        "quantity": 15,
+        "percent_diff": 16.1
       }
     ]
   },
@@ -1755,11 +1755,11 @@
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
       {
-        "unit_price": 1111,
+        "unit_price": 1050,
         "avg_unit_price": 1199,
-        "total_price": 1111,
+        "total_price": 1050,
         "quantity": 1,
-        "percent_diff": 7.34
+        "percent_diff": 12.43
       }
     ]
   },
@@ -2060,6 +2060,18 @@
         "total_price": 2200000,
         "quantity": 1,
         "percent_diff": 1.61
+      }
+    ]
+  },
+  "rw23l": {
+    "item_name": "«Волна»",
+    "profitable_lots": [
+      {
+        "unit_price": 3800000,
+        "avg_unit_price": 3969444,
+        "total_price": 3800000,
+        "quantity": 1,
+        "percent_diff": 4.27
       }
     ]
   },
