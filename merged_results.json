@@ -1067,27 +1067,15 @@
       }
     ]
   },
-  "w77z": {
-    "item_name": "Этилалюмин",
-    "profitable_lots": [
-      {
-        "unit_price": 999,
-        "avg_unit_price": 1580,
-        "total_price": 49999,
-        "quantity": 50,
-        "percent_diff": 36.77
-      }
-    ]
-  },
   "4nnj": {
     "item_name": "Гремучая ртуть",
     "profitable_lots": [
       {
-        "unit_price": 9333,
-        "avg_unit_price": 10937,
-        "total_price": 140000,
-        "quantity": 15,
-        "percent_diff": 14.67
+        "unit_price": 9100,
+        "avg_unit_price": 10249,
+        "total_price": 455000,
+        "quantity": 50,
+        "percent_diff": 11.21
       }
     ]
   },
@@ -1703,6 +1691,18 @@
       }
     ]
   },
+  "1rl4r": {
+    "item_name": "Хвост сильной шавки",
+    "profitable_lots": [
+      {
+        "unit_price": 4166,
+        "avg_unit_price": 4944,
+        "total_price": 24999,
+        "quantity": 6,
+        "percent_diff": 15.74
+      }
+    ]
+  },
   "5lo3o": {
     "item_name": "Копыто сильного кабана",
     "profitable_lots": [
@@ -1851,11 +1851,11 @@
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
       {
-        "unit_price": 1199,
+        "unit_price": 3999,
         "avg_unit_price": 4500,
-        "total_price": 1199,
+        "total_price": 3999,
         "quantity": 1,
-        "percent_diff": 73.36
+        "percent_diff": 11.13
       }
     ]
   },
@@ -1888,10 +1888,22 @@
     "profitable_lots": [
       {
         "unit_price": 13400,
-        "avg_unit_price": 14138,
+        "avg_unit_price": 13960,
         "total_price": 13400,
         "quantity": 1,
-        "percent_diff": 5.22
+        "percent_diff": 4.01
+      }
+    ]
+  },
+  "m0q7r": {
+    "item_name": "Сумка зажигательных 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 500,
+        "avg_unit_price": 2678,
+        "total_price": 500,
+        "quantity": 1,
+        "percent_diff": 81.33
       }
     ]
   },
@@ -2267,51 +2279,39 @@
       }
     ]
   },
-  "dm0dn": {
-    "item_name": "Прицел коллиматорный ПК-01(Т/З)",
-    "profitable_lots": [
-      {
-        "unit_price": 800000,
-        "avg_unit_price": 849062,
-        "total_price": 800000,
-        "quantity": 1,
-        "percent_diff": 5.78
-      }
-    ]
-  },
-  "zz939": {
-    "item_name": "ДТК «Вихрь»",
-    "profitable_lots": [
-      {
-        "unit_price": 175000,
-        "avg_unit_price": 182589,
-        "total_price": 175000,
-        "quantity": 1,
-        "percent_diff": 4.16
-      }
-    ]
-  },
-  "y3mgw": {
-    "item_name": "Глушитель FA556 Mini",
-    "profitable_lots": [
-      {
-        "unit_price": 1400000,
-        "avg_unit_price": 1689673,
-        "total_price": 1400000,
-        "quantity": 1,
-        "percent_diff": 17.14
-      }
-    ]
-  },
   "wjr9d": {
     "item_name": "Глушитель Salvo 12",
     "profitable_lots": [
       {
-        "unit_price": 2200000,
-        "avg_unit_price": 2382895,
-        "total_price": 2200000,
+        "unit_price": 1700000,
+        "avg_unit_price": 1794937,
+        "total_price": 1700000,
         "quantity": 1,
-        "percent_diff": 7.68
+        "percent_diff": 5.29
+      }
+    ]
+  },
+  "5lpo4": {
+    "item_name": "ПБС-4",
+    "profitable_lots": [
+      {
+        "unit_price": 350000,
+        "avg_unit_price": 366353,
+        "total_price": 350000,
+        "quantity": 1,
+        "percent_diff": 4.46
+      }
+    ]
+  },
+  "y3mnw": {
+    "item_name": "Глушитель АТГ",
+    "profitable_lots": [
+      {
+        "unit_price": 1200000,
+        "avg_unit_price": 1541888,
+        "total_price": 1200000,
+        "quantity": 1,
+        "percent_diff": 22.17
       }
     ]
   },
