@@ -1631,15 +1631,27 @@
       }
     ]
   },
+  "96z2z": {
+    "item_name": "Хронопыль",
+    "profitable_lots": [
+      {
+        "unit_price": 74444,
+        "avg_unit_price": 75344,
+        "total_price": 74444,
+        "quantity": 1,
+        "percent_diff": 1.19
+      }
+    ]
+  },
   "1rl61": {
     "item_name": "Хроносфера",
     "profitable_lots": [
       {
-        "unit_price": 369000,
+        "unit_price": 349999,
         "avg_unit_price": 388450,
-        "total_price": 369000,
+        "total_price": 349999,
         "quantity": 1,
-        "percent_diff": 5.01
+        "percent_diff": 9.9
       }
     ]
   },
@@ -2084,6 +2096,18 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 2.11
+      }
+    ]
+  },
+  "knvmj": {
+    "item_name": "Jagdkommando",
+    "profitable_lots": [
+      {
+        "unit_price": 9500000,
+        "avg_unit_price": 10061551,
+        "total_price": 9500000,
+        "quantity": 1,
+        "percent_diff": 5.58
       }
     ]
   },
