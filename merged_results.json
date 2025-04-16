@@ -779,18 +779,6 @@
       }
     ]
   },
-  "qvm9": {
-    "item_name": "Азотная кислота",
-    "profitable_lots": [
-      {
-        "unit_price": 9600,
-        "avg_unit_price": 9622,
-        "total_price": 480000,
-        "quantity": 50,
-        "percent_diff": 0.23
-      }
-    ]
-  },
   "m2lr": {
     "item_name": "Карбоноволокно",
     "profitable_lots": [
