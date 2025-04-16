@@ -11,66 +11,6 @@
       }
     ]
   },
-  "g00n": {
-    "item_name": "Мякоть сластены",
-    "profitable_lots": [
-      {
-        "unit_price": 6562,
-        "avg_unit_price": 6938,
-        "total_price": 105000,
-        "quantity": 16,
-        "percent_diff": 5.42
-      }
-    ]
-  },
-  "z77k": {
-    "item_name": "Мякоть спиртня",
-    "profitable_lots": [
-      {
-        "unit_price": 555,
-        "avg_unit_price": 3231,
-        "total_price": 10000,
-        "quantity": 18,
-        "percent_diff": 82.82
-      }
-    ]
-  },
-  "5ddo": {
-    "item_name": "Мякоть куборбуза",
-    "profitable_lots": [
-      {
-        "unit_price": 4499,
-        "avg_unit_price": 7160,
-        "total_price": 179990,
-        "quantity": 40,
-        "percent_diff": 37.16
-      }
-    ]
-  },
-  "wooz": {
-    "item_name": "Тусклые минералы",
-    "profitable_lots": [
-      {
-        "unit_price": 500,
-        "avg_unit_price": 663,
-        "total_price": 8000,
-        "quantity": 16,
-        "percent_diff": 24.59
-      }
-    ]
-  },
-  "400j": {
-    "item_name": "Изумрудные минералы",
-    "profitable_lots": [
-      {
-        "unit_price": 23,
-        "avg_unit_price": 60,
-        "total_price": 1000,
-        "quantity": 42,
-        "percent_diff": 61.67
-      }
-    ]
-  },
   "kllj": {
     "item_name": "Лазурные минералы",
     "profitable_lots": [
