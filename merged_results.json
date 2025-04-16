@@ -124,10 +124,10 @@
     "profitable_lots": [
       {
         "unit_price": 5000,
-        "avg_unit_price": 5030,
+        "avg_unit_price": 5924,
         "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 0.6
+        "percent_diff": 15.6
       }
     ]
   },
@@ -135,11 +135,11 @@
     "item_name": "Баллон с метаном",
     "profitable_lots": [
       {
-        "unit_price": 6999,
-        "avg_unit_price": 7437,
-        "total_price": 13999,
-        "quantity": 2,
-        "percent_diff": 5.89
+        "unit_price": 6666,
+        "avg_unit_price": 7618,
+        "total_price": 20000,
+        "quantity": 3,
+        "percent_diff": 12.5
       }
     ]
   },
@@ -1259,18 +1259,6 @@
       }
     ]
   },
-  "m3o2": {
-    "item_name": "Керамическая пластина V",
-    "profitable_lots": [
-      {
-        "unit_price": 150,
-        "avg_unit_price": 1710,
-        "total_price": 150,
-        "quantity": 1,
-        "percent_diff": 91.23
-      }
-    ]
-  },
   "3dy5": {
     "item_name": "Композитная пластина II",
     "profitable_lots": [
@@ -2075,6 +2063,18 @@
       }
     ]
   },
+  "okm10": {
+    "item_name": "Steyr AUG 9mm",
+    "profitable_lots": [
+      {
+        "unit_price": 500000,
+        "avg_unit_price": 506833,
+        "total_price": 500000,
+        "quantity": 1,
+        "percent_diff": 1.35
+      }
+    ]
+  },
   "n4m93": {
     "item_name": "МР-412",
     "profitable_lots": [
@@ -2091,23 +2091,23 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4444444,
+        "unit_price": 4790000,
         "avg_unit_price": 5560818,
-        "total_price": 4444444,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 20.08
+        "percent_diff": 13.86
       }
     ]
   },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
+  "6w64y": {
+    "item_name": "Grizzly 8.5",
     "profitable_lots": [
       {
-        "unit_price": 215000,
-        "avg_unit_price": 226080,
-        "total_price": 215000,
+        "unit_price": 500000,
+        "avg_unit_price": 538263,
+        "total_price": 500000,
         "quantity": 1,
-        "percent_diff": 4.9
+        "percent_diff": 7.11
       }
     ]
   },
