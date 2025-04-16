@@ -167,18 +167,6 @@
       }
     ]
   },
-  "wopo": {
-    "item_name": "Перчатки",
-    "profitable_lots": [
-      {
-        "unit_price": 444,
-        "avg_unit_price": 1019,
-        "total_price": 1334,
-        "quantity": 3,
-        "percent_diff": 56.43
-      }
-    ]
-  },
   "40vn": {
     "item_name": "Аммиак",
     "profitable_lots": [
@@ -1300,10 +1288,10 @@
     "profitable_lots": [
       {
         "unit_price": 2000,
-        "avg_unit_price": 4774,
+        "avg_unit_price": 4494,
         "total_price": 50000,
         "quantity": 25,
-        "percent_diff": 58.11
+        "percent_diff": 55.5
       }
     ]
   },
