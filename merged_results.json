@@ -1827,11 +1827,11 @@
     "item_name": "Дешевые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 45000,
-        "avg_unit_price": 48461,
-        "total_price": 45000,
+        "unit_price": 39000,
+        "avg_unit_price": 45282,
+        "total_price": 39000,
         "quantity": 1,
-        "percent_diff": 7.14
+        "percent_diff": 13.87
       }
     ]
   },
@@ -1839,11 +1839,11 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 7800,
-        "avg_unit_price": 9658,
-        "total_price": 15600,
-        "quantity": 2,
-        "percent_diff": 19.24
+        "unit_price": 8950,
+        "avg_unit_price": 9682,
+        "total_price": 8950,
+        "quantity": 1,
+        "percent_diff": 7.56
       }
     ]
   },
