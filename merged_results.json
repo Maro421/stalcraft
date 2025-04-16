@@ -555,11 +555,11 @@
     "item_name": "Гипс",
     "profitable_lots": [
       {
-        "unit_price": 240,
-        "avg_unit_price": 278,
-        "total_price": 12000,
+        "unit_price": 300,
+        "avg_unit_price": 342,
+        "total_price": 15000,
         "quantity": 50,
-        "percent_diff": 13.67
+        "percent_diff": 12.28
       }
     ]
   },
@@ -2060,6 +2060,18 @@
         "total_price": 650000,
         "quantity": 1,
         "percent_diff": 2.82
+      }
+    ]
+  },
+  "g4mmn": {
+    "item_name": "Walther P99",
+    "profitable_lots": [
+      {
+        "unit_price": 111111,
+        "avg_unit_price": 176993,
+        "total_price": 111111,
+        "quantity": 1,
+        "percent_diff": 37.22
       }
     ]
   },
