@@ -1155,11 +1155,11 @@
     "item_name": "Антитоксин",
     "profitable_lots": [
       {
-        "unit_price": 1666,
-        "avg_unit_price": 3296,
-        "total_price": 25000,
+        "unit_price": 2000,
+        "avg_unit_price": 3054,
+        "total_price": 30000,
         "quantity": 15,
-        "percent_diff": 49.45
+        "percent_diff": 34.51
       }
     ]
   },
@@ -1179,11 +1179,11 @@
     "item_name": "Кевлар",
     "profitable_lots": [
       {
-        "unit_price": 30000,
+        "unit_price": 24444,
         "avg_unit_price": 40451,
-        "total_price": 30000,
-        "quantity": 1,
-        "percent_diff": 25.84
+        "total_price": 244444,
+        "quantity": 10,
+        "percent_diff": 39.57
       }
     ]
   },
