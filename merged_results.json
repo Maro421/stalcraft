@@ -976,10 +976,10 @@
     "profitable_lots": [
       {
         "unit_price": 1428,
-        "avg_unit_price": 1765,
+        "avg_unit_price": 1767,
         "total_price": 70000,
         "quantity": 49,
-        "percent_diff": 19.09
+        "percent_diff": 19.19
       }
     ]
   },
@@ -988,10 +988,10 @@
     "profitable_lots": [
       {
         "unit_price": 3846,
-        "avg_unit_price": 7390,
+        "avg_unit_price": 6379,
         "total_price": 50000,
         "quantity": 13,
-        "percent_diff": 47.96
+        "percent_diff": 39.71
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "РМО-93",
     "profitable_lots": [
       {
-        "unit_price": 1800000,
+        "unit_price": 1650000,
         "avg_unit_price": 1996750,
-        "total_price": 1800000,
+        "total_price": 1650000,
         "quantity": 1,
-        "percent_diff": 9.85
+        "percent_diff": 17.37
       }
     ]
   },
