@@ -2235,11 +2235,11 @@
     "item_name": "Пламегаситель AKademia Тьма",
     "profitable_lots": [
       {
-        "unit_price": 120000,
+        "unit_price": 105000,
         "avg_unit_price": 124058,
-        "total_price": 120000,
+        "total_price": 105000,
         "quantity": 1,
-        "percent_diff": 3.27
+        "percent_diff": 15.36
       }
     ]
   },
