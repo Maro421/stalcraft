@@ -2379,11 +2379,11 @@
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
       {
-        "unit_price": 22500000,
+        "unit_price": 22222222,
         "avg_unit_price": 22574748,
-        "total_price": 22500000,
+        "total_price": 22222222,
         "quantity": 1,
-        "percent_diff": 0.33
+        "percent_diff": 1.56
       }
     ]
   },
