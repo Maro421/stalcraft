@@ -184,10 +184,10 @@
     "profitable_lots": [
       {
         "unit_price": 4444,
-        "avg_unit_price": 4787,
+        "avg_unit_price": 4918,
         "total_price": 8888,
         "quantity": 2,
-        "percent_diff": 7.17
+        "percent_diff": 9.64
       }
     ]
   },
@@ -195,11 +195,11 @@
     "item_name": "Колба с раствором",
     "profitable_lots": [
       {
-        "unit_price": 1000,
-        "avg_unit_price": 1209,
-        "total_price": 12000,
-        "quantity": 12,
-        "percent_diff": 17.29
+        "unit_price": 850,
+        "avg_unit_price": 1198,
+        "total_price": 850,
+        "quantity": 1,
+        "percent_diff": 29.05
       }
     ]
   },
@@ -1167,11 +1167,11 @@
     "item_name": "Детектор узкого диапазона «Эльбрус»",
     "profitable_lots": [
       {
-        "unit_price": 55400000,
+        "unit_price": 55000000,
         "avg_unit_price": 55920307,
-        "total_price": 55400000,
+        "total_price": 55000000,
         "quantity": 1,
-        "percent_diff": 0.93
+        "percent_diff": 1.65
       }
     ]
   },
