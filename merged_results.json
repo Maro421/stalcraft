@@ -923,18 +923,6 @@
       }
     ]
   },
-  "q2yj": {
-    "item_name": "Крепкая сталь",
-    "profitable_lots": [
-      {
-        "unit_price": 350,
-        "avg_unit_price": 493,
-        "total_price": 17500,
-        "quantity": 50,
-        "percent_diff": 29.01
-      }
-    ]
-  },
   "l2kk": {
     "item_name": "Глицерин",
     "profitable_lots": [
@@ -1983,11 +1971,11 @@
     "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 1500000,
-        "avg_unit_price": 1501388,
-        "total_price": 1500000,
+        "unit_price": 1400000,
+        "avg_unit_price": 1491725,
+        "total_price": 1400000,
         "quantity": 1,
-        "percent_diff": 0.09
+        "percent_diff": 6.15
       }
     ]
   },
