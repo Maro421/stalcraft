@@ -99,11 +99,11 @@
     "item_name": "Баллон с пропаном",
     "profitable_lots": [
       {
-        "unit_price": 4000,
-        "avg_unit_price": 4705,
-        "total_price": 12000,
+        "unit_price": 3666,
+        "avg_unit_price": 4936,
+        "total_price": 11000,
         "quantity": 3,
-        "percent_diff": 14.98
+        "percent_diff": 25.73
       }
     ]
   },
