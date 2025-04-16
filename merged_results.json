@@ -916,10 +916,10 @@
     "profitable_lots": [
       {
         "unit_price": 500,
-        "avg_unit_price": 1189,
+        "avg_unit_price": 1195,
         "total_price": 500,
         "quantity": 1,
-        "percent_diff": 57.95
+        "percent_diff": 58.16
       }
     ]
   },
@@ -2072,18 +2072,6 @@
         "total_price": 60000,
         "quantity": 1,
         "percent_diff": 32.13
-      }
-    ]
-  },
-  "y32po": {
-    "item_name": "Ingram MAC-10",
-    "profitable_lots": [
-      {
-        "unit_price": 7000,
-        "avg_unit_price": 8379,
-        "total_price": 7000,
-        "quantity": 1,
-        "percent_diff": 16.46
       }
     ]
   },
