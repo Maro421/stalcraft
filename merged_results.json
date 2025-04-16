@@ -1036,10 +1036,10 @@
     "profitable_lots": [
       {
         "unit_price": 10000,
-        "avg_unit_price": 31647,
+        "avg_unit_price": 23412,
         "total_price": 30000,
         "quantity": 3,
-        "percent_diff": 68.4
+        "percent_diff": 57.29
       }
     ]
   },
@@ -1959,11 +1959,11 @@
     "item_name": "M1014 Breacher",
     "profitable_lots": [
       {
-        "unit_price": 500000,
-        "avg_unit_price": 631178,
-        "total_price": 500000,
+        "unit_price": 499999,
+        "avg_unit_price": 564201,
+        "total_price": 499999,
         "quantity": 1,
-        "percent_diff": 20.78
+        "percent_diff": 11.38
       }
     ]
   },
