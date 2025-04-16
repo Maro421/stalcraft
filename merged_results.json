@@ -275,18 +275,6 @@
       }
     ]
   },
-  "npq3": {
-    "item_name": "Аномальная плазма",
-    "profitable_lots": [
-      {
-        "unit_price": 1764,
-        "avg_unit_price": 2326,
-        "total_price": 30000,
-        "quantity": 17,
-        "percent_diff": 24.16
-      }
-    ]
-  },
   "prl2": {
     "item_name": "Кофе",
     "profitable_lots": [
@@ -2012,30 +2000,6 @@
         "total_price": 439999,
         "quantity": 1,
         "percent_diff": 4.41
-      }
-    ]
-  },
-  "6w64y": {
-    "item_name": "Grizzly 8.5",
-    "profitable_lots": [
-      {
-        "unit_price": 520000,
-        "avg_unit_price": 538526,
-        "total_price": 520000,
-        "quantity": 1,
-        "percent_diff": 3.44
-      }
-    ]
-  },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
-    "profitable_lots": [
-      {
-        "unit_price": 199000,
-        "avg_unit_price": 208066,
-        "total_price": 199000,
-        "quantity": 1,
-        "percent_diff": 4.36
       }
     ]
   },
