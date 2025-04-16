@@ -15,11 +15,11 @@
     "item_name": "Пурпурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 295,
+        "unit_price": 240,
         "avg_unit_price": 300,
-        "total_price": 14776,
+        "total_price": 12000,
         "quantity": 50,
-        "percent_diff": 1.67
+        "percent_diff": 20.0
       }
     ]
   },
@@ -28,10 +28,10 @@
     "profitable_lots": [
       {
         "unit_price": 560,
-        "avg_unit_price": 625,
+        "avg_unit_price": 727,
         "total_price": 28000,
         "quantity": 50,
-        "percent_diff": 10.4
+        "percent_diff": 22.97
       }
     ]
   },
@@ -1144,10 +1144,10 @@
     "profitable_lots": [
       {
         "unit_price": 6666,
-        "avg_unit_price": 7113,
+        "avg_unit_price": 7082,
         "total_price": 200000,
         "quantity": 30,
-        "percent_diff": 6.28
+        "percent_diff": 5.87
       }
     ]
   },
