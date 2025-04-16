@@ -119,6 +119,18 @@
       }
     ]
   },
+  "401j": {
+    "item_name": "Батарея холодного синтеза",
+    "profitable_lots": [
+      {
+        "unit_price": 6000,
+        "avg_unit_price": 6701,
+        "total_price": 60000,
+        "quantity": 10,
+        "percent_diff": 10.46
+      }
+    ]
+  },
   "g0gp": {
     "item_name": "Гнилые доски",
     "profitable_lots": [
