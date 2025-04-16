@@ -867,11 +867,11 @@
     "item_name": "Детали электромотора",
     "profitable_lots": [
       {
-        "unit_price": 311,
-        "avg_unit_price": 511,
-        "total_price": 311,
-        "quantity": 1,
-        "percent_diff": 39.14
+        "unit_price": 300,
+        "avg_unit_price": 470,
+        "total_price": 4500,
+        "quantity": 15,
+        "percent_diff": 36.17
       }
     ]
   },
@@ -879,11 +879,11 @@
     "item_name": "Смазочные материалы",
     "profitable_lots": [
       {
-        "unit_price": 3076,
+        "unit_price": 2900,
         "avg_unit_price": 3634,
-        "total_price": 39999,
-        "quantity": 13,
-        "percent_diff": 15.35
+        "total_price": 2900,
+        "quantity": 1,
+        "percent_diff": 20.2
       }
     ]
   },
