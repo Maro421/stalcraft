@@ -316,10 +316,22 @@
     "profitable_lots": [
       {
         "unit_price": 999,
-        "avg_unit_price": 1926,
-        "total_price": 2999,
-        "quantity": 3,
-        "percent_diff": 48.13
+        "avg_unit_price": 2006,
+        "total_price": 9999,
+        "quantity": 10,
+        "percent_diff": 50.2
+      }
+    ]
+  },
+  "5dp0": {
+    "item_name": "Банка с пшеном",
+    "profitable_lots": [
+      {
+        "unit_price": 4099,
+        "avg_unit_price": 4136,
+        "total_price": 204998,
+        "quantity": 50,
+        "percent_diff": 0.89
       }
     ]
   },
@@ -1311,23 +1323,23 @@
     "item_name": "«КЗС-4у»",
     "profitable_lots": [
       {
-        "unit_price": 6000,
+        "unit_price": 4999,
         "avg_unit_price": 6480,
-        "total_price": 6000,
+        "total_price": 4999,
         "quantity": 1,
-        "percent_diff": 7.41
+        "percent_diff": 22.85
       }
     ]
   },
-  "49dj": {
-    "item_name": "Контейнер «Берлога-6у»",
+  "3d11": {
+    "item_name": "«КЗС-5у»",
     "profitable_lots": [
       {
-        "unit_price": 10000000,
-        "avg_unit_price": 10343529,
-        "total_price": 10000000,
+        "unit_price": 150000,
+        "avg_unit_price": 207187,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 3.32
+        "percent_diff": 27.6
       }
     ]
   },
@@ -2019,11 +2031,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 199999,
-        "avg_unit_price": 210578,
-        "total_price": 199999,
+        "unit_price": 189999,
+        "avg_unit_price": 208944,
+        "total_price": 189999,
         "quantity": 1,
-        "percent_diff": 5.02
+        "percent_diff": 9.07
       }
     ]
   },
