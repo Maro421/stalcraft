@@ -539,27 +539,15 @@
       }
     ]
   },
-  "qv76": {
-    "item_name": "Нефтяной кокс",
-    "profitable_lots": [
-      {
-        "unit_price": 799,
-        "avg_unit_price": 847,
-        "total_price": 39999,
-        "quantity": 50,
-        "percent_diff": 5.67
-      }
-    ]
-  },
   "rr7g": {
     "item_name": "Медь",
     "profitable_lots": [
       {
         "unit_price": 599,
-        "avg_unit_price": 1256,
+        "avg_unit_price": 1411,
         "total_price": 29999,
         "quantity": 50,
-        "percent_diff": 52.31
+        "percent_diff": 57.55
       }
     ]
   },
@@ -2120,6 +2108,18 @@
         "total_price": 450000,
         "quantity": 1,
         "percent_diff": 3.04
+      }
+    ]
+  },
+  "1r39q": {
+    "item_name": "Пламегаситель AKademia Тьма",
+    "profitable_lots": [
+      {
+        "unit_price": 120000,
+        "avg_unit_price": 124058,
+        "total_price": 120000,
+        "quantity": 1,
+        "percent_diff": 3.27
       }
     ]
   },
