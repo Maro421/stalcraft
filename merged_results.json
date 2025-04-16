@@ -2027,18 +2027,6 @@
       }
     ]
   },
-  "dmjwn": {
-    "item_name": "HK416",
-    "profitable_lots": [
-      {
-        "unit_price": 1200000,
-        "avg_unit_price": 1213580,
-        "total_price": 1200000,
-        "quantity": 1,
-        "percent_diff": 1.12
-      }
-    ]
-  },
   "2onz6": {
     "item_name": "РПК-16",
     "profitable_lots": [
