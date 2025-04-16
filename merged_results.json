@@ -1299,11 +1299,11 @@
     "item_name": "«КЗС-3у»",
     "profitable_lots": [
       {
-        "unit_price": 3000,
-        "avg_unit_price": 4640,
-        "total_price": 3000,
+        "unit_price": 2000,
+        "avg_unit_price": 3110,
+        "total_price": 2000,
         "quantity": 1,
-        "percent_diff": 35.34
+        "percent_diff": 35.69
       }
     ]
   },
@@ -2283,11 +2283,11 @@
     "item_name": "Защитный бронекостюм «Йорш»",
     "profitable_lots": [
       {
-        "unit_price": 2700000,
-        "avg_unit_price": 2784122,
-        "total_price": 2700000,
+        "unit_price": 2800000,
+        "avg_unit_price": 2803420,
+        "total_price": 2800000,
         "quantity": 1,
-        "percent_diff": 3.02
+        "percent_diff": 0.12
       }
     ]
   },
