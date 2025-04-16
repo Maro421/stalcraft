@@ -844,10 +844,10 @@
     "profitable_lots": [
       {
         "unit_price": 1666,
-        "avg_unit_price": 1909,
+        "avg_unit_price": 1813,
         "total_price": 25000,
         "quantity": 15,
-        "percent_diff": 12.73
+        "percent_diff": 8.11
       }
     ]
   },
@@ -855,11 +855,11 @@
     "item_name": "Контрольная плата",
     "profitable_lots": [
       {
-        "unit_price": 7999,
-        "avg_unit_price": 8381,
-        "total_price": 39999,
-        "quantity": 5,
-        "percent_diff": 4.56
+        "unit_price": 5666,
+        "avg_unit_price": 8235,
+        "total_price": 85000,
+        "quantity": 15,
+        "percent_diff": 31.2
       }
     ]
   },
@@ -2123,15 +2123,15 @@
       }
     ]
   },
-  "g4mdp": {
-    "item_name": "АК-12",
+  "1r7g1": {
+    "item_name": "Steyr AUG A3",
     "profitable_lots": [
       {
-        "unit_price": 2300000,
-        "avg_unit_price": 2424385,
-        "total_price": 2300000,
+        "unit_price": 3300000,
+        "avg_unit_price": 3351382,
+        "total_price": 3300000,
         "quantity": 1,
-        "percent_diff": 5.13
+        "percent_diff": 1.53
       }
     ]
   },
