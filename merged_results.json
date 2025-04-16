@@ -2055,11 +2055,11 @@
     "item_name": "M1014",
     "profitable_lots": [
       {
-        "unit_price": 120000,
+        "unit_price": 110000,
         "avg_unit_price": 152562,
-        "total_price": 120000,
+        "total_price": 110000,
         "quantity": 1,
-        "percent_diff": 21.34
+        "percent_diff": 27.9
       }
     ]
   },
