@@ -135,23 +135,11 @@
     "item_name": "Перчатки",
     "profitable_lots": [
       {
-        "unit_price": 911,
-        "avg_unit_price": 1057,
-        "total_price": 45555,
-        "quantity": 50,
-        "percent_diff": 13.81
-      }
-    ]
-  },
-  "40vn": {
-    "item_name": "Аммиак",
-    "profitable_lots": [
-      {
-        "unit_price": 7500,
-        "avg_unit_price": 8470,
-        "total_price": 75000,
-        "quantity": 10,
-        "percent_diff": 11.45
+        "unit_price": 300,
+        "avg_unit_price": 991,
+        "total_price": 300,
+        "quantity": 1,
+        "percent_diff": 69.73
       }
     ]
   },
@@ -2279,15 +2267,15 @@
       }
     ]
   },
-  "rwgl5": {
-    "item_name": "КИМ-100 «Гранат»",
+  "qj1lk": {
+    "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
       {
-        "unit_price": 30000,
-        "avg_unit_price": 40419,
-        "total_price": 30000,
+        "unit_price": 21000001,
+        "avg_unit_price": 22684397,
+        "total_price": 21000001,
         "quantity": 1,
-        "percent_diff": 25.78
+        "percent_diff": 7.43
       }
     ]
   },
