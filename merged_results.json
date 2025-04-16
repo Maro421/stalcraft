@@ -867,11 +867,11 @@
     "item_name": "Детали электромотора",
     "profitable_lots": [
       {
-        "unit_price": 334,
+        "unit_price": 311,
         "avg_unit_price": 511,
-        "total_price": 334,
+        "total_price": 311,
         "quantity": 1,
-        "percent_diff": 34.64
+        "percent_diff": 39.14
       }
     ]
   },
@@ -2115,11 +2115,11 @@
     "item_name": "Саперная лопата",
     "profitable_lots": [
       {
-        "unit_price": 5500,
-        "avg_unit_price": 5584,
-        "total_price": 5500,
+        "unit_price": 5000,
+        "avg_unit_price": 7460,
+        "total_price": 5000,
         "quantity": 1,
-        "percent_diff": 1.5
+        "percent_diff": 32.98
       }
     ]
   },
