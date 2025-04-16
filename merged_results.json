@@ -736,10 +736,10 @@
     "profitable_lots": [
       {
         "unit_price": 19999,
-        "avg_unit_price": 20187,
+        "avg_unit_price": 23142,
         "total_price": 999999,
         "quantity": 50,
-        "percent_diff": 0.93
+        "percent_diff": 13.58
       }
     ]
   },
@@ -747,11 +747,11 @@
     "item_name": "Древесный уголь",
     "profitable_lots": [
       {
-        "unit_price": 200,
+        "unit_price": 177,
         "avg_unit_price": 224,
-        "total_price": 10000,
+        "total_price": 8888,
         "quantity": 50,
-        "percent_diff": 10.71
+        "percent_diff": 20.98
       }
     ]
   },
