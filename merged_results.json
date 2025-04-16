@@ -1659,11 +1659,11 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8333,
-        "avg_unit_price": 10830,
-        "total_price": 100001,
-        "quantity": 12,
-        "percent_diff": 23.06
+        "unit_price": 9000,
+        "avg_unit_price": 9697,
+        "total_price": 9000,
+        "quantity": 1,
+        "percent_diff": 7.19
       }
     ]
   },
@@ -1779,11 +1779,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5050,
-        "avg_unit_price": 6396,
-        "total_price": 505000,
+        "unit_price": 5200,
+        "avg_unit_price": 7000,
+        "total_price": 520000,
         "quantity": 100,
-        "percent_diff": 21.04
+        "percent_diff": 25.71
       }
     ]
   },
