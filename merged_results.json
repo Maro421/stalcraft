@@ -455,15 +455,27 @@
       }
     ]
   },
+  "pry2": {
+    "item_name": "Пластиковая бутылка",
+    "profitable_lots": [
+      {
+        "unit_price": 577,
+        "avg_unit_price": 582,
+        "total_price": 5775,
+        "quantity": 10,
+        "percent_diff": 0.86
+      }
+    ]
+  },
   "dq2n": {
     "item_name": "Мультитул",
     "profitable_lots": [
       {
-        "unit_price": 2100,
-        "avg_unit_price": 4515,
-        "total_price": 2100,
-        "quantity": 1,
-        "percent_diff": 53.49
+        "unit_price": 1000,
+        "avg_unit_price": 4088,
+        "total_price": 2000,
+        "quantity": 2,
+        "percent_diff": 75.54
       }
     ]
   },
@@ -1319,15 +1331,15 @@
       }
     ]
   },
-  "49dj": {
-    "item_name": "Контейнер «Берлога-6у»",
+  "3d11": {
+    "item_name": "«КЗС-5у»",
     "profitable_lots": [
       {
-        "unit_price": 10290000,
-        "avg_unit_price": 10583333,
-        "total_price": 10290000,
+        "unit_price": 200000,
+        "avg_unit_price": 211783,
+        "total_price": 200000,
         "quantity": 1,
-        "percent_diff": 2.77
+        "percent_diff": 5.56
       }
     ]
   },
