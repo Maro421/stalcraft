@@ -1499,6 +1499,18 @@
       }
     ]
   },
+  "0o01": {
+    "item_name": "Аккумулятор для винтовки Гаусса",
+    "profitable_lots": [
+      {
+        "unit_price": 111,
+        "avg_unit_price": 120,
+        "total_price": 111,
+        "quantity": 1,
+        "percent_diff": 7.5
+      }
+    ]
+  },
   "vdnd": {
     "item_name": "Баллон с горючей смесью",
     "profitable_lots": [
@@ -2219,15 +2231,27 @@
       }
     ]
   },
+  "dmvjg": {
+    "item_name": "Телескопическая дубинка",
+    "profitable_lots": [
+      {
+        "unit_price": 30000,
+        "avg_unit_price": 34205,
+        "total_price": 30000,
+        "quantity": 1,
+        "percent_diff": 12.29
+      }
+    ]
+  },
   "3g9n1": {
     "item_name": "Алюминиевая бита",
     "profitable_lots": [
       {
-        "unit_price": 101000,
-        "avg_unit_price": 121055,
-        "total_price": 101000,
+        "unit_price": 120000,
+        "avg_unit_price": 120277,
+        "total_price": 120000,
         "quantity": 1,
-        "percent_diff": 16.57
+        "percent_diff": 0.23
       }
     ]
   },
