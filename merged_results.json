@@ -447,11 +447,11 @@
     "item_name": "Сковорода",
     "profitable_lots": [
       {
-        "unit_price": 1900,
-        "avg_unit_price": 2396,
-        "total_price": 1900,
-        "quantity": 1,
-        "percent_diff": 20.7
+        "unit_price": 1714,
+        "avg_unit_price": 1897,
+        "total_price": 24000,
+        "quantity": 14,
+        "percent_diff": 9.65
       }
     ]
   },
