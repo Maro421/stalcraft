@@ -1419,11 +1419,11 @@
     "item_name": "Патрон 5.45 мм СБП",
     "profitable_lots": [
       {
-        "unit_price": 6,
+        "unit_price": 3,
         "avg_unit_price": 16,
-        "total_price": 900,
+        "total_price": 500,
         "quantity": 150,
-        "percent_diff": 62.5
+        "percent_diff": 81.25
       }
     ]
   },
@@ -1883,18 +1883,6 @@
       }
     ]
   },
-  "7l1kr": {
-    "item_name": "Подсумок с аптечками проводника",
-    "profitable_lots": [
-      {
-        "unit_price": 7250,
-        "avg_unit_price": 8836,
-        "total_price": 7250,
-        "quantity": 1,
-        "percent_diff": 17.95
-      }
-    ]
-  },
   "96zjw": {
     "item_name": "Подсумок с аптечками ученых",
     "profitable_lots": [
@@ -2104,10 +2092,10 @@
     "profitable_lots": [
       {
         "unit_price": 395000,
-        "avg_unit_price": 452929,
+        "avg_unit_price": 445824,
         "total_price": 395000,
         "quantity": 1,
-        "percent_diff": 12.79
+        "percent_diff": 11.4
       }
     ]
   },
