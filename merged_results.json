@@ -1655,18 +1655,6 @@
       }
     ]
   },
-  "m0wdy": {
-    "item_name": "Ящик гранат «Подорожник»",
-    "profitable_lots": [
-      {
-        "unit_price": 21000,
-        "avg_unit_price": 24062,
-        "total_price": 21000,
-        "quantity": 1,
-        "percent_diff": 12.73
-      }
-    ]
-  },
   "n46d1": {
     "item_name": "Ящик гранат «Вонючка»",
     "profitable_lots": [
