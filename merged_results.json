@@ -59,27 +59,15 @@
       }
     ]
   },
-  "z7lk": {
-    "item_name": "Канистра с дизелем",
-    "profitable_lots": [
-      {
-        "unit_price": 4900,
-        "avg_unit_price": 5858,
-        "total_price": 4900,
-        "quantity": 1,
-        "percent_diff": 16.35
-      }
-    ]
-  },
   "5dgo": {
     "item_name": "Баллон с пропаном",
     "profitable_lots": [
       {
-        "unit_price": 1400,
-        "avg_unit_price": 4992,
-        "total_price": 1400,
+        "unit_price": 4000,
+        "avg_unit_price": 4856,
+        "total_price": 4000,
         "quantity": 1,
-        "percent_diff": 71.96
+        "percent_diff": 17.63
       }
     ]
   },
@@ -87,11 +75,11 @@
     "item_name": "Баллон с метаном",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 6845,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 26.95
+        "unit_price": 5333,
+        "avg_unit_price": 5881,
+        "total_price": 16000,
+        "quantity": 3,
+        "percent_diff": 9.32
       }
     ]
   },
@@ -1108,10 +1096,10 @@
     "profitable_lots": [
       {
         "unit_price": 6666,
-        "avg_unit_price": 7159,
-        "total_price": 199990,
+        "avg_unit_price": 7144,
+        "total_price": 200000,
         "quantity": 30,
-        "percent_diff": 6.89
+        "percent_diff": 6.69
       }
     ]
   },
@@ -2019,11 +2007,11 @@
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
       {
-        "unit_price": 330000,
-        "avg_unit_price": 340679,
-        "total_price": 330000,
+        "unit_price": 270000,
+        "avg_unit_price": 308437,
+        "total_price": 270000,
         "quantity": 1,
-        "percent_diff": 3.13
+        "percent_diff": 12.46
       }
     ]
   },
