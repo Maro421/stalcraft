@@ -400,10 +400,10 @@
     "profitable_lots": [
       {
         "unit_price": 1997,
-        "avg_unit_price": 2067,
+        "avg_unit_price": 2104,
         "total_price": 99899,
         "quantity": 50,
-        "percent_diff": 3.39
+        "percent_diff": 5.09
       }
     ]
   },
@@ -1359,11 +1359,11 @@
     "item_name": "«КЗС-3у»",
     "profitable_lots": [
       {
-        "unit_price": 3500,
-        "avg_unit_price": 4388,
-        "total_price": 3500,
+        "unit_price": 3000,
+        "avg_unit_price": 4640,
+        "total_price": 3000,
         "quantity": 1,
-        "percent_diff": 20.24
+        "percent_diff": 35.34
       }
     ]
   },
