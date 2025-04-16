@@ -483,11 +483,11 @@
     "item_name": "Щепки",
     "profitable_lots": [
       {
-        "unit_price": 20,
-        "avg_unit_price": 94,
-        "total_price": 60,
-        "quantity": 3,
-        "percent_diff": 78.72
+        "unit_price": 33,
+        "avg_unit_price": 72,
+        "total_price": 1000,
+        "quantity": 30,
+        "percent_diff": 54.17
       }
     ]
   },
@@ -2024,6 +2024,18 @@
         "total_price": 645000,
         "quantity": 1,
         "percent_diff": 18.73
+      }
+    ]
+  },
+  "4qnkr": {
+    "item_name": "Steyr Scout",
+    "profitable_lots": [
+      {
+        "unit_price": 164999,
+        "avg_unit_price": 178757,
+        "total_price": 164999,
+        "quantity": 1,
+        "percent_diff": 7.7
       }
     ]
   },
