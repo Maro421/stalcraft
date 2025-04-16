@@ -1707,11 +1707,23 @@
     "item_name": "Продвинутые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 8950,
-        "avg_unit_price": 9682,
-        "total_price": 8950,
-        "quantity": 1,
-        "percent_diff": 7.56
+        "unit_price": 8000,
+        "avg_unit_price": 9912,
+        "total_price": 80000,
+        "quantity": 10,
+        "percent_diff": 19.29
+      }
+    ]
+  },
+  "r22z": {
+    "item_name": "Ноотроп",
+    "profitable_lots": [
+      {
+        "unit_price": 11580,
+        "avg_unit_price": 12123,
+        "total_price": 579000,
+        "quantity": 50,
+        "percent_diff": 4.48
       }
     ]
   },
