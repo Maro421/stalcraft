@@ -424,10 +424,10 @@
     "profitable_lots": [
       {
         "unit_price": 1000,
-        "avg_unit_price": 1020,
+        "avg_unit_price": 1298,
         "total_price": 20000,
         "quantity": 20,
-        "percent_diff": 1.96
+        "percent_diff": 22.96
       }
     ]
   },
@@ -1335,11 +1335,11 @@
     "item_name": "Контейнер «Берлога-4у»",
     "profitable_lots": [
       {
-        "unit_price": 19000,
-        "avg_unit_price": 37130,
-        "total_price": 19000,
+        "unit_price": 21000,
+        "avg_unit_price": 31000,
+        "total_price": 21000,
         "quantity": 1,
-        "percent_diff": 48.83
+        "percent_diff": 32.26
       }
     ]
   },
@@ -2336,6 +2336,18 @@
         "total_price": 10350000,
         "quantity": 1,
         "percent_diff": 10.9
+      }
+    ]
+  },
+  "rw4ry": {
+    "item_name": "Барабанный магазин 5.56 NATO EMAG",
+    "profitable_lots": [
+      {
+        "unit_price": 4800000,
+        "avg_unit_price": 5194175,
+        "total_price": 4800000,
+        "quantity": 1,
+        "percent_diff": 7.59
       }
     ]
   },
