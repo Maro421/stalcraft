@@ -1643,6 +1643,18 @@
       }
     ]
   },
+  "p6kgw": {
+    "item_name": "Сумка 12.7 мм Easy mode",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5032,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 0.64
+      }
+    ]
+  },
   "dmlwj": {
     "item_name": "Сумка дальнобойных 9x39 мм",
     "profitable_lots": [
