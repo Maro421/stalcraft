@@ -1835,6 +1835,18 @@
       }
     ]
   },
+  "knpd3": {
+    "item_name": "Сумка СБП 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 8000,
+        "avg_unit_price": 8243,
+        "total_price": 8000,
+        "quantity": 1,
+        "percent_diff": 2.95
+      }
+    ]
+  },
   "lyrdq": {
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
