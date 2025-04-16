@@ -467,6 +467,18 @@
       }
     ]
   },
+  "dq2n": {
+    "item_name": "Мультитул",
+    "profitable_lots": [
+      {
+        "unit_price": 2100,
+        "avg_unit_price": 4515,
+        "total_price": 2100,
+        "quantity": 1,
+        "percent_diff": 53.49
+      }
+    ]
+  },
   "9mr0": {
     "item_name": "Жгут",
     "profitable_lots": [
@@ -1275,11 +1287,11 @@
     "item_name": "Контейнер «Берлога-6у»",
     "profitable_lots": [
       {
-        "unit_price": 10199999,
-        "avg_unit_price": 11349414,
-        "total_price": 10199999,
+        "unit_price": 10290000,
+        "avg_unit_price": 10583333,
+        "total_price": 10290000,
         "quantity": 1,
-        "percent_diff": 10.13
+        "percent_diff": 2.77
       }
     ]
   },
@@ -1287,11 +1299,11 @@
     "item_name": "Рюкзак NPA",
     "profitable_lots": [
       {
-        "unit_price": 44000,
-        "avg_unit_price": 44499,
-        "total_price": 44000,
+        "unit_price": 40000,
+        "avg_unit_price": 44166,
+        "total_price": 40000,
         "quantity": 1,
-        "percent_diff": 1.12
+        "percent_diff": 9.43
       }
     ]
   },
