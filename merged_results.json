@@ -831,11 +831,11 @@
     "item_name": "Сгущенка",
     "profitable_lots": [
       {
-        "unit_price": 560,
+        "unit_price": 559,
         "avg_unit_price": 672,
-        "total_price": 28000,
+        "total_price": 27999,
         "quantity": 50,
-        "percent_diff": 16.67
+        "percent_diff": 16.82
       }
     ]
   },
@@ -2144,18 +2144,6 @@
         "total_price": 11500000,
         "quantity": 1,
         "percent_diff": 7.81
-      }
-    ]
-  },
-  "5lr4q": {
-    "item_name": "Защитный бронекостюм «Йорш»",
-    "profitable_lots": [
-      {
-        "unit_price": 2700000,
-        "avg_unit_price": 2784122,
-        "total_price": 2700000,
-        "quantity": 1,
-        "percent_diff": 3.02
       }
     ]
   },
