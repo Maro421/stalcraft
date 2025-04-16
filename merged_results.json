@@ -579,11 +579,11 @@
     "item_name": "Железо",
     "profitable_lots": [
       {
-        "unit_price": 1333,
-        "avg_unit_price": 1747,
-        "total_price": 13333,
-        "quantity": 10,
-        "percent_diff": 23.7
+        "unit_price": 400,
+        "avg_unit_price": 1835,
+        "total_price": 1600,
+        "quantity": 4,
+        "percent_diff": 78.2
       }
     ]
   },
@@ -591,11 +591,11 @@
     "item_name": "Медь",
     "profitable_lots": [
       {
-        "unit_price": 888,
+        "unit_price": 599,
         "avg_unit_price": 2432,
-        "total_price": 44444,
+        "total_price": 29999,
         "quantity": 50,
-        "percent_diff": 63.49
+        "percent_diff": 75.37
       }
     ]
   },
