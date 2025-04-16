@@ -1827,11 +1827,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5150,
-        "avg_unit_price": 6103,
-        "total_price": 515000,
-        "quantity": 100,
-        "percent_diff": 15.62
+        "unit_price": 6500,
+        "avg_unit_price": 6666,
+        "total_price": 65000,
+        "quantity": 10,
+        "percent_diff": 2.49
       }
     ]
   },
@@ -1983,11 +1983,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4790000,
+        "unit_price": 4800000,
         "avg_unit_price": 5560818,
-        "total_price": 4790000,
+        "total_price": 4800000,
         "quantity": 1,
-        "percent_diff": 13.86
+        "percent_diff": 13.68
       }
     ]
   },
@@ -2019,11 +2019,11 @@
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 189999,
-        "avg_unit_price": 208944,
-        "total_price": 189999,
+        "unit_price": 199999,
+        "avg_unit_price": 210578,
+        "total_price": 199999,
         "quantity": 1,
-        "percent_diff": 9.07
+        "percent_diff": 5.02
       }
     ]
   },
@@ -2043,11 +2043,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 149999,
-        "avg_unit_price": 167516,
-        "total_price": 149999,
+        "unit_price": 160001,
+        "avg_unit_price": 168926,
+        "total_price": 160001,
         "quantity": 1,
-        "percent_diff": 10.46
+        "percent_diff": 5.28
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "«Рапира»",
     "profitable_lots": [
       {
-        "unit_price": 1500000,
-        "avg_unit_price": 1554772,
-        "total_price": 1500000,
+        "unit_price": 1400000,
+        "avg_unit_price": 1532393,
+        "total_price": 1400000,
         "quantity": 1,
-        "percent_diff": 3.52
+        "percent_diff": 8.64
       }
     ]
   },
