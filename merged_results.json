@@ -112,10 +112,10 @@
     "profitable_lots": [
       {
         "unit_price": 5999,
-        "avg_unit_price": 6461,
+        "avg_unit_price": 6459,
         "total_price": 29999,
         "quantity": 5,
-        "percent_diff": 7.15
+        "percent_diff": 7.12
       }
     ]
   },
@@ -136,10 +136,10 @@
     "profitable_lots": [
       {
         "unit_price": 996,
-        "avg_unit_price": 1043,
+        "avg_unit_price": 1254,
         "total_price": 49800,
         "quantity": 50,
-        "percent_diff": 4.51
+        "percent_diff": 20.57
       }
     ]
   },
@@ -1887,11 +1887,11 @@
     "item_name": "Подсумок с аптечками проводника",
     "profitable_lots": [
       {
-        "unit_price": 4444,
+        "unit_price": 7250,
         "avg_unit_price": 8836,
-        "total_price": 4444,
+        "total_price": 7250,
         "quantity": 1,
-        "percent_diff": 49.71
+        "percent_diff": 17.95
       }
     ]
   },
@@ -1911,11 +1911,11 @@
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
       {
-        "unit_price": 4444,
-        "avg_unit_price": 6028,
-        "total_price": 4444,
+        "unit_price": 4499,
+        "avg_unit_price": 5481,
+        "total_price": 4499,
         "quantity": 1,
-        "percent_diff": 26.28
+        "percent_diff": 17.92
       }
     ]
   },
@@ -1935,9 +1935,9 @@
     "item_name": "Сумка СБП 7.62 мм",
     "profitable_lots": [
       {
-        "unit_price": 9000,
+        "unit_price": 8999,
         "avg_unit_price": 18333,
-        "total_price": 9000,
+        "total_price": 8999,
         "quantity": 1,
         "percent_diff": 50.91
       }
@@ -2156,6 +2156,54 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 2.11
+      }
+    ]
+  },
+  "knvmj": {
+    "item_name": "Jagdkommando",
+    "profitable_lots": [
+      {
+        "unit_price": 9500000,
+        "avg_unit_price": 10061551,
+        "total_price": 9500000,
+        "quantity": 1,
+        "percent_diff": 5.58
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 7460,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 32.98
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 5544,
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 27.85
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 85000,
+        "avg_unit_price": 98092,
+        "total_price": 85000,
+        "quantity": 1,
+        "percent_diff": 13.35
       }
     ]
   },
