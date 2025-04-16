@@ -2255,6 +2255,18 @@
       }
     ]
   },
+  "5lr20": {
+    "item_name": "Бронекостюм «КЗ-3б»",
+    "profitable_lots": [
+      {
+        "unit_price": 155556,
+        "avg_unit_price": 177058,
+        "total_price": 155556,
+        "quantity": 1,
+        "percent_diff": 12.14
+      }
+    ]
+  },
   "qj1lk": {
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
