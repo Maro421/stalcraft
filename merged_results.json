@@ -1811,18 +1811,6 @@
       }
     ]
   },
-  "y3nmw": {
-    "item_name": "Продвинутые запчасти",
-    "profitable_lots": [
-      {
-        "unit_price": 63999,
-        "avg_unit_price": 70000,
-        "total_price": 319999,
-        "quantity": 5,
-        "percent_diff": 8.57
-      }
-    ]
-  },
   "wjlrd": {
     "item_name": "Дешевые инструменты",
     "profitable_lots": [
@@ -2168,18 +2156,6 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 8999,
-        "avg_unit_price": 9490,
-        "total_price": 8999,
-        "quantity": 1,
-        "percent_diff": 5.17
       }
     ]
   },
