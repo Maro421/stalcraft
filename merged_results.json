@@ -987,11 +987,11 @@
     "item_name": "Электродвигатель",
     "profitable_lots": [
       {
-        "unit_price": 999,
-        "avg_unit_price": 2516,
-        "total_price": 22999,
-        "quantity": 23,
-        "percent_diff": 60.29
+        "unit_price": 900,
+        "avg_unit_price": 2485,
+        "total_price": 45000,
+        "quantity": 50,
+        "percent_diff": 63.78
       }
     ]
   },
@@ -1587,11 +1587,11 @@
     "item_name": "Ящик гранат «Вонючка»",
     "profitable_lots": [
       {
-        "unit_price": 34499,
+        "unit_price": 23000,
         "avg_unit_price": 41750,
-        "total_price": 34499,
+        "total_price": 23000,
         "quantity": 1,
-        "percent_diff": 17.37
+        "percent_diff": 44.91
       }
     ]
   },
