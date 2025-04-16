@@ -267,11 +267,11 @@
     "item_name": "Дрожжи",
     "profitable_lots": [
       {
-        "unit_price": 3999,
-        "avg_unit_price": 5089,
-        "total_price": 39999,
+        "unit_price": 3898,
+        "avg_unit_price": 5065,
+        "total_price": 38989,
         "quantity": 10,
-        "percent_diff": 21.42
+        "percent_diff": 23.04
       }
     ]
   },
@@ -1304,6 +1304,18 @@
         "total_price": 3000,
         "quantity": 1,
         "percent_diff": 25.78
+      }
+    ]
+  },
+  "o335": {
+    "item_name": "«КЗС-2у»",
+    "profitable_lots": [
+      {
+        "unit_price": 8000,
+        "avg_unit_price": 9000,
+        "total_price": 8000,
+        "quantity": 1,
+        "percent_diff": 11.11
       }
     ]
   },
