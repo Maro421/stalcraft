@@ -299,42 +299,6 @@
       }
     ]
   },
-  "vrpd": {
-    "item_name": "Мясо шавки",
-    "profitable_lots": [
-      {
-        "unit_price": 7142,
-        "avg_unit_price": 11407,
-        "total_price": 50000,
-        "quantity": 7,
-        "percent_diff": 37.39
-      }
-    ]
-  },
-  "dq0n": {
-    "item_name": "Мясо хрюши",
-    "profitable_lots": [
-      {
-        "unit_price": 2428,
-        "avg_unit_price": 3834,
-        "total_price": 17000,
-        "quantity": 7,
-        "percent_diff": 36.67
-      }
-    ]
-  },
-  "2d76": {
-    "item_name": "Мясо кабана",
-    "profitable_lots": [
-      {
-        "unit_price": 1428,
-        "avg_unit_price": 3244,
-        "total_price": 9999,
-        "quantity": 7,
-        "percent_diff": 55.98
-      }
-    ]
-  },
   "3rpg": {
     "item_name": "Полутухлая рыба",
     "profitable_lots": [
