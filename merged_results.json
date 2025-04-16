@@ -2283,11 +2283,11 @@
     "item_name": "Увеличенный магазин АК-308",
     "profitable_lots": [
       {
-        "unit_price": 2499999,
+        "unit_price": 2489001,
         "avg_unit_price": 2523535,
-        "total_price": 2499999,
+        "total_price": 2489001,
         "quantity": 1,
-        "percent_diff": 0.93
+        "percent_diff": 1.37
       }
     ]
   },
