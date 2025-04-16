@@ -339,11 +339,23 @@
     "item_name": "Банка с пшеном",
     "profitable_lots": [
       {
-        "unit_price": 3500,
-        "avg_unit_price": 4080,
+        "unit_price": 2900,
+        "avg_unit_price": 3182,
+        "total_price": 145000,
+        "quantity": 50,
+        "percent_diff": 8.86
+      }
+    ]
+  },
+  "y7mo": {
+    "item_name": "Банка с макаронами",
+    "profitable_lots": [
+      {
+        "unit_price": 280,
+        "avg_unit_price": 351,
         "total_price": 14000,
-        "quantity": 4,
-        "percent_diff": 14.22
+        "quantity": 50,
+        "percent_diff": 20.23
       }
     ]
   },
@@ -1343,6 +1355,18 @@
       }
     ]
   },
+  "0ngy": {
+    "item_name": "Керамическая пластина IV",
+    "profitable_lots": [
+      {
+        "unit_price": 99,
+        "avg_unit_price": 500,
+        "total_price": 99,
+        "quantity": 1,
+        "percent_diff": 80.2
+      }
+    ]
+  },
   "m3o2": {
     "item_name": "Керамическая пластина V",
     "profitable_lots": [
@@ -1943,15 +1967,27 @@
       }
     ]
   },
+  "j5qd4": {
+    "item_name": "Сумка СБП 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 18000,
+        "avg_unit_price": 19000,
+        "total_price": 18000,
+        "quantity": 1,
+        "percent_diff": 5.26
+      }
+    ]
+  },
   "lyrdq": {
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
       {
-        "unit_price": 8999,
-        "avg_unit_price": 11527,
-        "total_price": 8999,
+        "unit_price": 13400,
+        "avg_unit_price": 13960,
+        "total_price": 13400,
         "quantity": 1,
-        "percent_diff": 21.93
+        "percent_diff": 4.01
       }
     ]
   },
