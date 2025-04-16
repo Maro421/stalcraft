@@ -15,23 +15,11 @@
     "item_name": "Лазурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 250,
-        "avg_unit_price": 391,
-        "total_price": 4001,
-        "quantity": 16,
-        "percent_diff": 36.06
-      }
-    ]
-  },
-  "qvv4": {
-    "item_name": "Пурпурные минералы",
-    "profitable_lots": [
-      {
-        "unit_price": 100,
-        "avg_unit_price": 224,
-        "total_price": 5000,
+        "unit_price": 300,
+        "avg_unit_price": 379,
+        "total_price": 15000,
         "quantity": 50,
-        "percent_diff": 55.36
+        "percent_diff": 20.84
       }
     ]
   },
