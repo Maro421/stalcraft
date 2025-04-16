@@ -2027,18 +2027,6 @@
       }
     ]
   },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7460,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 32.98
-      }
-    ]
-  },
   "n42m9": {
     "item_name": "Мачете «ЭМЧес»",
     "profitable_lots": [
