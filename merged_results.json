@@ -567,11 +567,11 @@
     "item_name": "Железо",
     "profitable_lots": [
       {
-        "unit_price": 400,
-        "avg_unit_price": 1835,
-        "total_price": 1600,
-        "quantity": 4,
-        "percent_diff": 78.2
+        "unit_price": 909,
+        "avg_unit_price": 1853,
+        "total_price": 10000,
+        "quantity": 11,
+        "percent_diff": 50.94
       }
     ]
   },
@@ -580,10 +580,10 @@
     "profitable_lots": [
       {
         "unit_price": 599,
-        "avg_unit_price": 2432,
+        "avg_unit_price": 2814,
         "total_price": 29999,
         "quantity": 50,
-        "percent_diff": 75.37
+        "percent_diff": 78.71
       }
     ]
   },
@@ -1360,10 +1360,10 @@
     "profitable_lots": [
       {
         "unit_price": 18500,
-        "avg_unit_price": 21623,
+        "avg_unit_price": 23507,
         "total_price": 37000,
         "quantity": 2,
-        "percent_diff": 14.44
+        "percent_diff": 21.3
       }
     ]
   },
@@ -2372,6 +2372,30 @@
         "total_price": 2700000,
         "quantity": 1,
         "percent_diff": 3.02
+      }
+    ]
+  },
+  "96ngz": {
+    "item_name": "Продвинутый ОЗК",
+    "profitable_lots": [
+      {
+        "unit_price": 20000,
+        "avg_unit_price": 24210,
+        "total_price": 20000,
+        "quantity": 1,
+        "percent_diff": 17.39
+      }
+    ]
+  },
+  "1rkn1": {
+    "item_name": "Комбинезон «Магнит»",
+    "profitable_lots": [
+      {
+        "unit_price": 160000,
+        "avg_unit_price": 167511,
+        "total_price": 160000,
+        "quantity": 1,
+        "percent_diff": 4.48
       }
     ]
   },
