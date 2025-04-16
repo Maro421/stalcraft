@@ -891,11 +891,11 @@
     "item_name": "Разделочная доска",
     "profitable_lots": [
       {
-        "unit_price": 177,
+        "unit_price": 1499,
         "avg_unit_price": 1975,
-        "total_price": 8888,
-        "quantity": 50,
-        "percent_diff": 91.04
+        "total_price": 1499,
+        "quantity": 1,
+        "percent_diff": 24.1
       }
     ]
   },
@@ -1899,11 +1899,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5200,
-        "avg_unit_price": 6509,
-        "total_price": 520000,
+        "unit_price": 5440,
+        "avg_unit_price": 6056,
+        "total_price": 544000,
         "quantity": 100,
-        "percent_diff": 20.11
+        "percent_diff": 10.17
       }
     ]
   },
