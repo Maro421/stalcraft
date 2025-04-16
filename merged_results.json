@@ -851,6 +851,18 @@
       }
     ]
   },
+  "prp5": {
+    "item_name": "Очищенный жир",
+    "profitable_lots": [
+      {
+        "unit_price": 200,
+        "avg_unit_price": 353,
+        "total_price": 10000,
+        "quantity": 50,
+        "percent_diff": 43.34
+      }
+    ]
+  },
   "9m7w": {
     "item_name": "Сгущенка",
     "profitable_lots": [
