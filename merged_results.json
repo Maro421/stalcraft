@@ -1983,11 +1983,11 @@
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
       {
-        "unit_price": 270000,
-        "avg_unit_price": 303142,
-        "total_price": 270000,
+        "unit_price": 297000,
+        "avg_unit_price": 298876,
+        "total_price": 297000,
         "quantity": 1,
-        "percent_diff": 10.93
+        "percent_diff": 0.63
       }
     ]
   },
