@@ -88,10 +88,22 @@
     "profitable_lots": [
       {
         "unit_price": 5999,
-        "avg_unit_price": 6324,
+        "avg_unit_price": 6369,
         "total_price": 29999,
         "quantity": 5,
-        "percent_diff": 5.14
+        "percent_diff": 5.81
+      }
+    ]
+  },
+  "g0gp": {
+    "item_name": "Гнилые доски",
+    "profitable_lots": [
+      {
+        "unit_price": 1200,
+        "avg_unit_price": 2751,
+        "total_price": 60000,
+        "quantity": 50,
+        "percent_diff": 56.38
       }
     ]
   },
@@ -2019,23 +2031,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 189000,
-        "avg_unit_price": 204212,
-        "total_price": 189000,
+        "unit_price": 185000,
+        "avg_unit_price": 199937,
+        "total_price": 185000,
         "quantity": 1,
-        "percent_diff": 7.45
-      }
-    ]
-  },
-  "p63d2": {
-    "item_name": "HK417",
-    "profitable_lots": [
-      {
-        "unit_price": 17000000,
-        "avg_unit_price": 18394110,
-        "total_price": 17000000,
-        "quantity": 1,
-        "percent_diff": 7.58
+        "percent_diff": 7.47
       }
     ]
   },
