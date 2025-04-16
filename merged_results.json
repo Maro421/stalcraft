@@ -335,6 +335,18 @@
       }
     ]
   },
+  "2d76": {
+    "item_name": "Мясо кабана",
+    "profitable_lots": [
+      {
+        "unit_price": 3800,
+        "avg_unit_price": 3849,
+        "total_price": 190000,
+        "quantity": 50,
+        "percent_diff": 1.27
+      }
+    ]
+  },
   "3rpg": {
     "item_name": "Полутухлая рыба",
     "profitable_lots": [
@@ -1360,10 +1372,10 @@
     "profitable_lots": [
       {
         "unit_price": 4999,
-        "avg_unit_price": 6480,
+        "avg_unit_price": 6479,
         "total_price": 4999,
         "quantity": 1,
-        "percent_diff": 22.85
+        "percent_diff": 22.84
       }
     ]
   },
@@ -1371,11 +1383,11 @@
     "item_name": "«КЗС-5у»",
     "profitable_lots": [
       {
-        "unit_price": 200000,
-        "avg_unit_price": 209624,
-        "total_price": 200000,
+        "unit_price": 180000,
+        "avg_unit_price": 204666,
+        "total_price": 180000,
         "quantity": 1,
-        "percent_diff": 4.59
+        "percent_diff": 12.05
       }
     ]
   },
@@ -1931,18 +1943,6 @@
       }
     ]
   },
-  "lyrdq": {
-    "item_name": "Сумка СБП 9x39 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 12999,
-        "avg_unit_price": 13191,
-        "total_price": 12999,
-        "quantity": 1,
-        "percent_diff": 1.46
-      }
-    ]
-  },
   "m0q7r": {
     "item_name": "Сумка зажигательных 5.45 мм",
     "profitable_lots": [
@@ -1959,11 +1959,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5799,
-        "avg_unit_price": 6289,
-        "total_price": 289999,
-        "quantity": 50,
-        "percent_diff": 7.79
+        "unit_price": 6111,
+        "avg_unit_price": 6420,
+        "total_price": 61111,
+        "quantity": 10,
+        "percent_diff": 4.81
       }
     ]
   },
@@ -2147,15 +2147,15 @@
       }
     ]
   },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
+  "g4mdp": {
+    "item_name": "АК-12",
     "profitable_lots": [
       {
-        "unit_price": 210000,
-        "avg_unit_price": 217310,
-        "total_price": 210000,
+        "unit_price": 1350000,
+        "avg_unit_price": 1419210,
+        "total_price": 1350000,
         "quantity": 1,
-        "percent_diff": 3.36
+        "percent_diff": 4.88
       }
     ]
   },
@@ -2163,11 +2163,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 120000,
-        "avg_unit_price": 163259,
-        "total_price": 120000,
+        "unit_price": 139001,
+        "avg_unit_price": 155481,
+        "total_price": 139001,
         "quantity": 1,
-        "percent_diff": 26.5
+        "percent_diff": 10.6
       }
     ]
   },
