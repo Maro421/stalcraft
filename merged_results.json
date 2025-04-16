@@ -887,18 +887,6 @@
       }
     ]
   },
-  "5n51": {
-    "item_name": "Порох",
-    "profitable_lots": [
-      {
-        "unit_price": 6000,
-        "avg_unit_price": 6200,
-        "total_price": 60000,
-        "quantity": 10,
-        "percent_diff": 3.23
-      }
-    ]
-  },
   "4nkr": {
     "item_name": "Алюминиевый порошок",
     "profitable_lots": [
