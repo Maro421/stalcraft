@@ -1755,11 +1755,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 29666,
-        "avg_unit_price": 29999,
-        "total_price": 89000,
-        "quantity": 3,
-        "percent_diff": 1.11
+        "unit_price": 25000,
+        "avg_unit_price": 30000,
+        "total_price": 100000,
+        "quantity": 4,
+        "percent_diff": 16.67
       }
     ]
   },
