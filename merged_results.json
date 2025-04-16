@@ -615,11 +615,11 @@
     "item_name": "Животный жир",
     "profitable_lots": [
       {
-        "unit_price": 1249,
-        "avg_unit_price": 1367,
-        "total_price": 59999,
-        "quantity": 48,
-        "percent_diff": 8.63
+        "unit_price": 900,
+        "avg_unit_price": 1374,
+        "total_price": 18000,
+        "quantity": 20,
+        "percent_diff": 34.5
       }
     ]
   },
