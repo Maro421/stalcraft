@@ -75,11 +75,11 @@
     "item_name": "Канистра с бензином",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 5430,
-        "total_price": 10000,
-        "quantity": 2,
-        "percent_diff": 7.92
+        "unit_price": 3300,
+        "avg_unit_price": 5402,
+        "total_price": 3300,
+        "quantity": 1,
+        "percent_diff": 38.91
       }
     ]
   },
@@ -1156,10 +1156,10 @@
     "profitable_lots": [
       {
         "unit_price": 6666,
-        "avg_unit_price": 7144,
+        "avg_unit_price": 7113,
         "total_price": 200000,
         "quantity": 30,
-        "percent_diff": 6.69
+        "percent_diff": 6.28
       }
     ]
   },
@@ -2156,6 +2156,18 @@
         "total_price": 2200000,
         "quantity": 1,
         "percent_diff": 1.61
+      }
+    ]
+  },
+  "rw27g": {
+    "item_name": "«Рапира»",
+    "profitable_lots": [
+      {
+        "unit_price": 1500000,
+        "avg_unit_price": 1532393,
+        "total_price": 1500000,
+        "quantity": 1,
+        "percent_diff": 2.11
       }
     ]
   },
