@@ -527,6 +527,18 @@
       }
     ]
   },
+  "404p": {
+    "item_name": "Термическая смесь",
+    "profitable_lots": [
+      {
+        "unit_price": 300,
+        "avg_unit_price": 336,
+        "total_price": 15000,
+        "quantity": 50,
+        "percent_diff": 10.71
+      }
+    ]
+  },
   "qv76": {
     "item_name": "Нефтяной кокс",
     "profitable_lots": [
@@ -2103,11 +2115,11 @@
     "item_name": "Прицел коллиматорный DM",
     "profitable_lots": [
       {
-        "unit_price": 455555,
-        "avg_unit_price": 520385,
-        "total_price": 455555,
+        "unit_price": 450000,
+        "avg_unit_price": 464088,
+        "total_price": 450000,
         "quantity": 1,
-        "percent_diff": 12.46
+        "percent_diff": 3.04
       }
     ]
   },
