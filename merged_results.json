@@ -1095,11 +1095,11 @@
     "item_name": "Гремучая ртуть",
     "profitable_lots": [
       {
-        "unit_price": 9100,
+        "unit_price": 8600,
         "avg_unit_price": 10249,
-        "total_price": 455000,
+        "total_price": 430000,
         "quantity": 50,
-        "percent_diff": 11.21
+        "percent_diff": 16.09
       }
     ]
   },
@@ -1624,10 +1624,10 @@
     "profitable_lots": [
       {
         "unit_price": 22000,
-        "avg_unit_price": 25000,
+        "avg_unit_price": 24763,
         "total_price": 22000,
         "quantity": 1,
-        "percent_diff": 12.0
+        "percent_diff": 11.16
       }
     ]
   },
@@ -2228,6 +2228,18 @@
         "total_price": 10350000,
         "quantity": 1,
         "percent_diff": 10.9
+      }
+    ]
+  },
+  "rw4ry": {
+    "item_name": "Барабанный магазин 5.56 NATO EMAG",
+    "profitable_lots": [
+      {
+        "unit_price": 4800000,
+        "avg_unit_price": 5194175,
+        "total_price": 4800000,
+        "quantity": 1,
+        "percent_diff": 7.59
       }
     ]
   },
