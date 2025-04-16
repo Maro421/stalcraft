@@ -988,10 +988,10 @@
     "profitable_lots": [
       {
         "unit_price": 1499,
-        "avg_unit_price": 2501,
+        "avg_unit_price": 2448,
         "total_price": 1499,
         "quantity": 1,
-        "percent_diff": 40.06
+        "percent_diff": 38.77
       }
     ]
   },
@@ -1671,11 +1671,11 @@
     "item_name": "Копыто сильного кабана",
     "profitable_lots": [
       {
-        "unit_price": 4278,
-        "avg_unit_price": 4279,
-        "total_price": 29950,
-        "quantity": 7,
-        "percent_diff": 0.02
+        "unit_price": 3247,
+        "avg_unit_price": 4148,
+        "total_price": 12990,
+        "quantity": 4,
+        "percent_diff": 21.72
       }
     ]
   },
