@@ -411,11 +411,23 @@
     "item_name": "Газовый баллон",
     "profitable_lots": [
       {
-        "unit_price": 5200,
-        "avg_unit_price": 8849,
-        "total_price": 260000,
+        "unit_price": 5560,
+        "avg_unit_price": 8240,
+        "total_price": 278000,
         "quantity": 50,
-        "percent_diff": 41.24
+        "percent_diff": 32.52
+      }
+    ]
+  },
+  "m2g7": {
+    "item_name": "Текстолит",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 1020,
+        "total_price": 20000,
+        "quantity": 20,
+        "percent_diff": 1.96
       }
     ]
   },
@@ -1280,6 +1292,18 @@
         "total_price": 3000,
         "quantity": 1,
         "percent_diff": 43.31
+      }
+    ]
+  },
+  "1p2r": {
+    "item_name": "«КЗС-3у»",
+    "profitable_lots": [
+      {
+        "unit_price": 1000,
+        "avg_unit_price": 4537,
+        "total_price": 1000,
+        "quantity": 1,
+        "percent_diff": 77.96
       }
     ]
   },
