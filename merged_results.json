@@ -2195,18 +2195,6 @@
       }
     ]
   },
-  "96pwy": {
-    "item_name": "Увеличенный магазин АК-308",
-    "profitable_lots": [
-      {
-        "unit_price": 3400000,
-        "avg_unit_price": 3466959,
-        "total_price": 3400000,
-        "quantity": 1,
-        "percent_diff": 1.93
-      }
-    ]
-  },
   "1rz9q": {
     "item_name": "Рукоять Fab defence AG-47, черный",
     "profitable_lots": [
