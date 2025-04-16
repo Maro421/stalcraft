@@ -347,18 +347,6 @@
       }
     ]
   },
-  "5dp0": {
-    "item_name": "Банка с пшеном",
-    "profitable_lots": [
-      {
-        "unit_price": 2900,
-        "avg_unit_price": 3182,
-        "total_price": 145000,
-        "quantity": 50,
-        "percent_diff": 8.86
-      }
-    ]
-  },
   "y7mo": {
     "item_name": "Банка с макаронами",
     "profitable_lots": [
@@ -1252,10 +1240,10 @@
     "profitable_lots": [
       {
         "unit_price": 2,
-        "avg_unit_price": 496,
+        "avg_unit_price": 555,
         "total_price": 2,
         "quantity": 1,
-        "percent_diff": 99.6
+        "percent_diff": 99.64
       }
     ]
   },
@@ -1851,11 +1839,11 @@
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
       {
-        "unit_price": 4000,
+        "unit_price": 4500,
         "avg_unit_price": 6057,
-        "total_price": 4000,
+        "total_price": 4500,
         "quantity": 1,
-        "percent_diff": 33.96
+        "percent_diff": 25.71
       }
     ]
   },
