@@ -676,10 +676,10 @@
     "profitable_lots": [
       {
         "unit_price": 4285,
-        "avg_unit_price": 6400,
+        "avg_unit_price": 6344,
         "total_price": 60000,
         "quantity": 14,
-        "percent_diff": 33.05
+        "percent_diff": 32.46
       }
     ]
   },
@@ -1415,6 +1415,18 @@
       }
     ]
   },
+  "4dkn": {
+    "item_name": "Патрон 9x39 мм СП-6",
+    "profitable_lots": [
+      {
+        "unit_price": 2,
+        "avg_unit_price": 3,
+        "total_price": 250,
+        "quantity": 120,
+        "percent_diff": 33.33
+      }
+    ]
+  },
   "roj5": {
     "item_name": "Улучшенный аккумулятор для винтовки Гаусса",
     "profitable_lots": [
@@ -1888,10 +1900,10 @@
     "profitable_lots": [
       {
         "unit_price": 2050000,
-        "avg_unit_price": 2096490,
+        "avg_unit_price": 2098596,
         "total_price": 2050000,
         "quantity": 1,
-        "percent_diff": 2.22
+        "percent_diff": 2.32
       }
     ]
   },
