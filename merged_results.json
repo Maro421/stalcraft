@@ -467,15 +467,27 @@
       }
     ]
   },
+  "vrld": {
+    "item_name": "Консервная банка",
+    "profitable_lots": [
+      {
+        "unit_price": 260,
+        "avg_unit_price": 281,
+        "total_price": 2600,
+        "quantity": 10,
+        "percent_diff": 7.47
+      }
+    ]
+  },
   "dq2n": {
     "item_name": "Мультитул",
     "profitable_lots": [
       {
-        "unit_price": 5500,
-        "avg_unit_price": 8333,
-        "total_price": 5500,
-        "quantity": 1,
-        "percent_diff": 34.0
+        "unit_price": 3500,
+        "avg_unit_price": 7861,
+        "total_price": 7000,
+        "quantity": 2,
+        "percent_diff": 55.48
       }
     ]
   },
@@ -1979,15 +1991,15 @@
       }
     ]
   },
-  "p63d2": {
-    "item_name": "HK417",
+  "okm20": {
+    "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 16990000,
-        "avg_unit_price": 17547215,
-        "total_price": 16990000,
+        "unit_price": 160000,
+        "avg_unit_price": 168370,
+        "total_price": 160000,
         "quantity": 1,
-        "percent_diff": 3.18
+        "percent_diff": 4.97
       }
     ]
   },
