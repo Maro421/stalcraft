@@ -531,11 +531,11 @@
     "item_name": "Морозная смесь",
     "profitable_lots": [
       {
-        "unit_price": 500,
-        "avg_unit_price": 749,
-        "total_price": 25000,
+        "unit_price": 400,
+        "avg_unit_price": 699,
+        "total_price": 20000,
         "quantity": 50,
-        "percent_diff": 33.24
+        "percent_diff": 42.78
       }
     ]
   },
@@ -2068,10 +2068,10 @@
     "profitable_lots": [
       {
         "unit_price": 650000,
-        "avg_unit_price": 756315,
+        "avg_unit_price": 668894,
         "total_price": 650000,
         "quantity": 1,
-        "percent_diff": 14.06
+        "percent_diff": 2.82
       }
     ]
   },
