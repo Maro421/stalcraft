@@ -328,10 +328,10 @@
     "profitable_lots": [
       {
         "unit_price": 2900,
-        "avg_unit_price": 3808,
+        "avg_unit_price": 3521,
         "total_price": 2900,
         "quantity": 1,
-        "percent_diff": 23.84
+        "percent_diff": 17.64
       }
     ]
   },
@@ -1835,18 +1835,6 @@
       }
     ]
   },
-  "96zjw": {
-    "item_name": "Подсумок с аптечками ученых",
-    "profitable_lots": [
-      {
-        "unit_price": 1199,
-        "avg_unit_price": 4500,
-        "total_price": 1199,
-        "quantity": 1,
-        "percent_diff": 73.36
-      }
-    ]
-  },
   "4q7yl": {
     "item_name": "Сумка СБП 9 мм",
     "profitable_lots": [
@@ -2043,11 +2031,11 @@
     "item_name": "Steyr AUG 9mm",
     "profitable_lots": [
       {
-        "unit_price": 475000,
-        "avg_unit_price": 502111,
-        "total_price": 475000,
+        "unit_price": 380000,
+        "avg_unit_price": 509333,
+        "total_price": 380000,
         "quantity": 1,
-        "percent_diff": 5.4
+        "percent_diff": 25.39
       }
     ]
   },
