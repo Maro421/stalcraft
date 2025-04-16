@@ -987,11 +987,11 @@
     "item_name": "Продвинутый электрод",
     "profitable_lots": [
       {
-        "unit_price": 9090,
-        "avg_unit_price": 12805,
-        "total_price": 100000,
-        "quantity": 11,
-        "percent_diff": 29.01
+        "unit_price": 9000,
+        "avg_unit_price": 12727,
+        "total_price": 180000,
+        "quantity": 20,
+        "percent_diff": 29.28
       }
     ]
   },
