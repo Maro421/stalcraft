@@ -2327,18 +2327,6 @@
       }
     ]
   },
-  "1rkn1": {
-    "item_name": "Комбинезон «Магнит»",
-    "profitable_lots": [
-      {
-        "unit_price": 145000,
-        "avg_unit_price": 147915,
-        "total_price": 145000,
-        "quantity": 1,
-        "percent_diff": 1.97
-      }
-    ]
-  },
   "g4y5p": {
     "item_name": "Бронекостюм «КЗ-3а»",
     "profitable_lots": [
