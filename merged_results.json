@@ -215,15 +215,27 @@
       }
     ]
   },
+  "ovj0": {
+    "item_name": "Гипофиз мертвеца",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5664,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 11.72
+      }
+    ]
+  },
   "npq3": {
     "item_name": "Аномальная плазма",
     "profitable_lots": [
       {
-        "unit_price": 1866,
-        "avg_unit_price": 2224,
-        "total_price": 28000,
-        "quantity": 15,
-        "percent_diff": 16.1
+        "unit_price": 1500,
+        "avg_unit_price": 1932,
+        "total_price": 7500,
+        "quantity": 5,
+        "percent_diff": 22.36
       }
     ]
   },
@@ -2240,6 +2252,18 @@
         "total_price": 9999,
         "quantity": 1,
         "percent_diff": 7.72
+      }
+    ]
+  },
+  "5lv9o": {
+    "item_name": "Прицел оптический Sig Sauer",
+    "profitable_lots": [
+      {
+        "unit_price": 245000,
+        "avg_unit_price": 262788,
+        "total_price": 245000,
+        "quantity": 1,
+        "percent_diff": 6.77
       }
     ]
   },
