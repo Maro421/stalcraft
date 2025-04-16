@@ -1827,9 +1827,9 @@
     "item_name": "Сосуд реактора",
     "profitable_lots": [
       {
-        "unit_price": 229999,
+        "unit_price": 230000,
         "avg_unit_price": 232242,
-        "total_price": 229999,
+        "total_price": 230000,
         "quantity": 1,
         "percent_diff": 0.97
       }
