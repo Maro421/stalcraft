@@ -987,23 +987,11 @@
     "item_name": "Продвинутый электрод",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 12288,
-        "total_price": 100000,
-        "quantity": 20,
-        "percent_diff": 59.31
-      }
-    ]
-  },
-  "om46": {
-    "item_name": "Набор тонких сверл и бит",
-    "profitable_lots": [
-      {
-        "unit_price": 166,
-        "avg_unit_price": 246,
-        "total_price": 500,
-        "quantity": 3,
-        "percent_diff": 32.52
+        "unit_price": 7812,
+        "avg_unit_price": 11778,
+        "total_price": 250000,
+        "quantity": 32,
+        "percent_diff": 33.67
       }
     ]
   },
@@ -1719,11 +1707,11 @@
     "item_name": "Голова крысы",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 6838,
-        "total_price": 6666,
+        "unit_price": 3000,
+        "avg_unit_price": 6875,
+        "total_price": 3000,
         "quantity": 1,
-        "percent_diff": 2.52
+        "percent_diff": 56.36
       }
     ]
   },
