@@ -939,11 +939,11 @@
     "item_name": "Смазочные материалы",
     "profitable_lots": [
       {
-        "unit_price": 1998,
-        "avg_unit_price": 3463,
-        "total_price": 1998,
-        "quantity": 1,
-        "percent_diff": 42.3
+        "unit_price": 2000,
+        "avg_unit_price": 2857,
+        "total_price": 20000,
+        "quantity": 10,
+        "percent_diff": 30.0
       }
     ]
   },
@@ -1952,18 +1952,6 @@
         "total_price": 12999,
         "quantity": 1,
         "percent_diff": 1.46
-      }
-    ]
-  },
-  "m0q7r": {
-    "item_name": "Сумка зажигательных 5.45 мм",
-    "profitable_lots": [
-      {
-        "unit_price": 800,
-        "avg_unit_price": 2604,
-        "total_price": 800,
-        "quantity": 1,
-        "percent_diff": 69.28
       }
     ]
   },
