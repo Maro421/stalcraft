@@ -1415,18 +1415,6 @@
       }
     ]
   },
-  "wwod": {
-    "item_name": "M18 Claymore",
-    "profitable_lots": [
-      {
-        "unit_price": 18500,
-        "avg_unit_price": 23507,
-        "total_price": 37000,
-        "quantity": 2,
-        "percent_diff": 21.3
-      }
-    ]
-  },
   "p062": {
     "item_name": "Патрон 5.45 мм зажигательный",
     "profitable_lots": [
