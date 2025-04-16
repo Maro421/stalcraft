@@ -867,11 +867,23 @@
     "item_name": "Детали электромотора",
     "profitable_lots": [
       {
-        "unit_price": 400,
+        "unit_price": 334,
         "avg_unit_price": 511,
-        "total_price": 400,
+        "total_price": 334,
         "quantity": 1,
-        "percent_diff": 21.72
+        "percent_diff": 34.64
+      }
+    ]
+  },
+  "wokd": {
+    "item_name": "Смазочные материалы",
+    "profitable_lots": [
+      {
+        "unit_price": 3076,
+        "avg_unit_price": 3429,
+        "total_price": 39999,
+        "quantity": 13,
+        "percent_diff": 10.29
       }
     ]
   },
@@ -1856,6 +1868,30 @@
         "total_price": 13500,
         "quantity": 1,
         "percent_diff": 4.66
+      }
+    ]
+  },
+  "m0q7r": {
+    "item_name": "Сумка зажигательных 5.45 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 800,
+        "avg_unit_price": 2678,
+        "total_price": 800,
+        "quantity": 1,
+        "percent_diff": 70.13
+      }
+    ]
+  },
+  "okp74": {
+    "item_name": "Сумка зажигательных 5.56 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 800,
+        "avg_unit_price": 3329,
+        "total_price": 800,
+        "quantity": 1,
+        "percent_diff": 75.97
       }
     ]
   },
