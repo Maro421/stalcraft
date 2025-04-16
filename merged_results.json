@@ -904,10 +904,10 @@
     "profitable_lots": [
       {
         "unit_price": 1666,
-        "avg_unit_price": 1808,
+        "avg_unit_price": 1813,
         "total_price": 25000,
         "quantity": 15,
-        "percent_diff": 7.85
+        "percent_diff": 8.11
       }
     ]
   },
@@ -2240,18 +2240,6 @@
         "total_price": 170000,
         "quantity": 1,
         "percent_diff": 12.76
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.24
       }
     ]
   },
