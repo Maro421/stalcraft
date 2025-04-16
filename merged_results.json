@@ -1060,10 +1060,10 @@
     "profitable_lots": [
       {
         "unit_price": 52500,
-        "avg_unit_price": 55549,
+        "avg_unit_price": 55902,
         "total_price": 210000,
         "quantity": 4,
-        "percent_diff": 5.49
+        "percent_diff": 6.09
       }
     ]
   },
@@ -1076,6 +1076,18 @@
         "total_price": 55000,
         "quantity": 2,
         "percent_diff": 9.82
+      }
+    ]
+  },
+  "dj92": {
+    "item_name": "Набор кухонных ножей",
+    "profitable_lots": [
+      {
+        "unit_price": 8000,
+        "avg_unit_price": 8501,
+        "total_price": 8000,
+        "quantity": 1,
+        "percent_diff": 5.89
       }
     ]
   },
@@ -1647,11 +1659,11 @@
     "item_name": "Нестабильная аномальная батарея",
     "profitable_lots": [
       {
-        "unit_price": 29166,
-        "avg_unit_price": 32677,
-        "total_price": 350000,
-        "quantity": 12,
-        "percent_diff": 10.74
+        "unit_price": 25000,
+        "avg_unit_price": 35371,
+        "total_price": 100000,
+        "quantity": 4,
+        "percent_diff": 29.32
       }
     ]
   },
@@ -1659,11 +1671,11 @@
     "item_name": "Аномальная пыль",
     "profitable_lots": [
       {
-        "unit_price": 333,
-        "avg_unit_price": 384,
-        "total_price": 1000000,
+        "unit_price": 383,
+        "avg_unit_price": 388,
+        "total_price": 1150000,
         "quantity": 3000,
-        "percent_diff": 13.28
+        "percent_diff": 1.29
       }
     ]
   },
@@ -1803,11 +1815,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5290,
-        "avg_unit_price": 6848,
-        "total_price": 529000,
+        "unit_price": 5150,
+        "avg_unit_price": 6103,
+        "total_price": 515000,
         "quantity": 100,
-        "percent_diff": 22.75
+        "percent_diff": 15.62
       }
     ]
   },
