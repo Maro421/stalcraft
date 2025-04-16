@@ -599,18 +599,6 @@
       }
     ]
   },
-  "jl77": {
-    "item_name": "Железо",
-    "profitable_lots": [
-      {
-        "unit_price": 909,
-        "avg_unit_price": 1853,
-        "total_price": 10000,
-        "quantity": 11,
-        "percent_diff": 50.94
-      }
-    ]
-  },
   "rr7g": {
     "item_name": "Медь",
     "profitable_lots": [
@@ -2367,11 +2355,11 @@
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
       {
-        "unit_price": 22500000,
+        "unit_price": 22000000,
         "avg_unit_price": 22605450,
-        "total_price": 22500000,
+        "total_price": 22000000,
         "quantity": 1,
-        "percent_diff": 0.47
+        "percent_diff": 2.68
       }
     ]
   },
