@@ -76,10 +76,22 @@
     "profitable_lots": [
       {
         "unit_price": 1700,
-        "avg_unit_price": 1784,
-        "total_price": 17000,
-        "quantity": 10,
-        "percent_diff": 4.71
+        "avg_unit_price": 1771,
+        "total_price": 1700,
+        "quantity": 1,
+        "percent_diff": 4.01
+      }
+    ]
+  },
+  "prrd": {
+    "item_name": "Янтарная полынь",
+    "profitable_lots": [
+      {
+        "unit_price": 12666,
+        "avg_unit_price": 13377,
+        "total_price": 38000,
+        "quantity": 3,
+        "percent_diff": 5.32
       }
     ]
   },
@@ -87,11 +99,11 @@
     "item_name": "Канистра с бензином",
     "profitable_lots": [
       {
-        "unit_price": 6500,
-        "avg_unit_price": 7058,
-        "total_price": 13000,
+        "unit_price": 3500,
+        "avg_unit_price": 4921,
+        "total_price": 7000,
         "quantity": 2,
-        "percent_diff": 7.91
+        "percent_diff": 28.88
       }
     ]
   },
@@ -2132,6 +2144,18 @@
         "total_price": 5099999,
         "quantity": 1,
         "percent_diff": 2.32
+      }
+    ]
+  },
+  "96pwy": {
+    "item_name": "Увеличенный магазин АК-308",
+    "profitable_lots": [
+      {
+        "unit_price": 2500000,
+        "avg_unit_price": 2523535,
+        "total_price": 2500000,
+        "quantity": 1,
+        "percent_diff": 0.93
       }
     ]
   },
