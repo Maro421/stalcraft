@@ -603,11 +603,11 @@
     "item_name": "Свинец",
     "profitable_lots": [
       {
-        "unit_price": 510,
-        "avg_unit_price": 577,
-        "total_price": 25500,
+        "unit_price": 500,
+        "avg_unit_price": 568,
+        "total_price": 25000,
         "quantity": 50,
-        "percent_diff": 11.61
+        "percent_diff": 11.97
       }
     ]
   },
@@ -1364,6 +1364,18 @@
         "total_price": 250,
         "quantity": 150,
         "percent_diff": 50.0
+      }
+    ]
+  },
+  "63oy": {
+    "item_name": "Патрон 5.56 мм СБП",
+    "profitable_lots": [
+      {
+        "unit_price": 13,
+        "avg_unit_price": 21,
+        "total_price": 1999,
+        "quantity": 150,
+        "percent_diff": 38.1
       }
     ]
   },
