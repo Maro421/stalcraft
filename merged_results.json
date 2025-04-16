@@ -263,6 +263,18 @@
       }
     ]
   },
+  "dq0n": {
+    "item_name": "Мясо хрюши",
+    "profitable_lots": [
+      {
+        "unit_price": 4400,
+        "avg_unit_price": 4704,
+        "total_price": 4400,
+        "quantity": 1,
+        "percent_diff": 6.46
+      }
+    ]
+  },
   "2d76": {
     "item_name": "Мясо кабана",
     "profitable_lots": [
@@ -1311,11 +1323,11 @@
     "item_name": "Детектор узкого диапазона «Эльбрус»",
     "profitable_lots": [
       {
-        "unit_price": 54100000,
-        "avg_unit_price": 56602884,
-        "total_price": 54100000,
+        "unit_price": 55555555,
+        "avg_unit_price": 55920307,
+        "total_price": 55555555,
         "quantity": 1,
-        "percent_diff": 4.42
+        "percent_diff": 0.65
       }
     ]
   },
