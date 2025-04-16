@@ -119,18 +119,6 @@
       }
     ]
   },
-  "y7j0": {
-    "item_name": "Баллон с метаном",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 6634,
-        "total_price": 15000,
-        "quantity": 3,
-        "percent_diff": 24.63
-      }
-    ]
-  },
   "g0gp": {
     "item_name": "Гнилые доски",
     "profitable_lots": [
