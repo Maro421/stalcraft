@@ -771,11 +771,11 @@
     "item_name": "Хлор",
     "profitable_lots": [
       {
-        "unit_price": 5800,
+        "unit_price": 6000,
         "avg_unit_price": 6221,
-        "total_price": 290000,
-        "quantity": 50,
-        "percent_diff": 6.77
+        "total_price": 30000,
+        "quantity": 5,
+        "percent_diff": 3.55
       }
     ]
   },
