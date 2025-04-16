@@ -1576,10 +1576,10 @@
     "profitable_lots": [
       {
         "unit_price": 24000,
-        "avg_unit_price": 27266,
+        "avg_unit_price": 26882,
         "total_price": 24000,
         "quantity": 1,
-        "percent_diff": 11.98
+        "percent_diff": 10.72
       }
     ]
   },
@@ -2103,23 +2103,11 @@
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 30000,
+        "unit_price": 25000,
         "avg_unit_price": 34205,
-        "total_price": 30000,
+        "total_price": 25000,
         "quantity": 1,
-        "percent_diff": 12.29
-      }
-    ]
-  },
-  "3g9n1": {
-    "item_name": "Алюминиевая бита",
-    "profitable_lots": [
-      {
-        "unit_price": 99999,
-        "avg_unit_price": 116222,
-        "total_price": 99999,
-        "quantity": 1,
-        "percent_diff": 13.96
+        "percent_diff": 26.91
       }
     ]
   },
