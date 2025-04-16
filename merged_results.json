@@ -195,11 +195,11 @@
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
       {
-        "unit_price": 7733,
-        "avg_unit_price": 10020,
-        "total_price": 115998,
+        "unit_price": 6666,
+        "avg_unit_price": 13248,
+        "total_price": 99999,
         "quantity": 15,
-        "percent_diff": 22.82
+        "percent_diff": 49.68
       }
     ]
   },
@@ -208,10 +208,10 @@
     "profitable_lots": [
       {
         "unit_price": 99,
-        "avg_unit_price": 183,
+        "avg_unit_price": 212,
         "total_price": 99,
         "quantity": 1,
-        "percent_diff": 45.9
+        "percent_diff": 53.3
       }
     ]
   },
@@ -1976,6 +1976,18 @@
         "total_price": 60000,
         "quantity": 1,
         "percent_diff": 32.13
+      }
+    ]
+  },
+  "5lnp0": {
+    "item_name": "СОК-94",
+    "profitable_lots": [
+      {
+        "unit_price": 19999,
+        "avg_unit_price": 22431,
+        "total_price": 19999,
+        "quantity": 1,
+        "percent_diff": 10.84
       }
     ]
   },
