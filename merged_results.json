@@ -52,10 +52,10 @@
     "profitable_lots": [
       {
         "unit_price": 357,
-        "avg_unit_price": 410,
+        "avg_unit_price": 394,
         "total_price": 9999,
         "quantity": 28,
-        "percent_diff": 12.93
+        "percent_diff": 9.39
       }
     ]
   },
@@ -63,11 +63,11 @@
     "item_name": "Пурпурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 360,
+        "unit_price": 359,
         "avg_unit_price": 400,
-        "total_price": 18000,
+        "total_price": 17990,
         "quantity": 50,
-        "percent_diff": 10.0
+        "percent_diff": 10.25
       }
     ]
   },
@@ -1967,6 +1967,18 @@
       }
     ]
   },
+  "j5qd4": {
+    "item_name": "Сумка СБП 7.62 мм",
+    "profitable_lots": [
+      {
+        "unit_price": 15000,
+        "avg_unit_price": 15561,
+        "total_price": 15000,
+        "quantity": 1,
+        "percent_diff": 3.61
+      }
+    ]
+  },
   "lyrdq": {
     "item_name": "Сумка СБП 9x39 мм",
     "profitable_lots": [
@@ -2139,11 +2151,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4790000,
-        "avg_unit_price": 5484210,
-        "total_price": 4790000,
+        "unit_price": 4444444,
+        "avg_unit_price": 5560818,
+        "total_price": 4444444,
         "quantity": 1,
-        "percent_diff": 12.66
+        "percent_diff": 20.08
       }
     ]
   },
@@ -2159,27 +2171,27 @@
       }
     ]
   },
+  "6w64y": {
+    "item_name": "Grizzly 8.5",
+    "profitable_lots": [
+      {
+        "unit_price": 529999,
+        "avg_unit_price": 537736,
+        "total_price": 529999,
+        "quantity": 1,
+        "percent_diff": 1.44
+      }
+    ]
+  },
   "969jz": {
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
         "unit_price": 190000,
-        "avg_unit_price": 226607,
+        "avg_unit_price": 227659,
         "total_price": 190000,
         "quantity": 1,
-        "percent_diff": 16.15
-      }
-    ]
-  },
-  "zz24n": {
-    "item_name": "SIG SG 550 Sniper",
-    "profitable_lots": [
-      {
-        "unit_price": 310000,
-        "avg_unit_price": 311022,
-        "total_price": 310000,
-        "quantity": 1,
-        "percent_diff": 0.33
+        "percent_diff": 16.54
       }
     ]
   },
