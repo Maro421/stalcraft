@@ -2363,6 +2363,18 @@
       }
     ]
   },
+  "5lr4q": {
+    "item_name": "Защитный бронекостюм «Йорш»",
+    "profitable_lots": [
+      {
+        "unit_price": 2700000,
+        "avg_unit_price": 2784122,
+        "total_price": 2700000,
+        "quantity": 1,
+        "percent_diff": 3.02
+      }
+    ]
+  },
   "knq0p": {
     "item_name": "Бронекостюм «Рысь»",
     "profitable_lots": [
