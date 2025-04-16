@@ -659,27 +659,15 @@
       }
     ]
   },
-  "wogp": {
-    "item_name": "Доски",
-    "profitable_lots": [
-      {
-        "unit_price": 199,
-        "avg_unit_price": 690,
-        "total_price": 9999,
-        "quantity": 50,
-        "percent_diff": 71.16
-      }
-    ]
-  },
   "40lp": {
     "item_name": "Микроэлектроника",
     "profitable_lots": [
       {
-        "unit_price": 933,
-        "avg_unit_price": 2596,
-        "total_price": 14000,
-        "quantity": 15,
-        "percent_diff": 64.06
+        "unit_price": 1299,
+        "avg_unit_price": 2558,
+        "total_price": 64998,
+        "quantity": 50,
+        "percent_diff": 49.22
       }
     ]
   },
@@ -1964,18 +1952,6 @@
         "total_price": 68000,
         "quantity": 1,
         "percent_diff": 23.68
-      }
-    ]
-  },
-  "ly2m1": {
-    "item_name": "M1014",
-    "profitable_lots": [
-      {
-        "unit_price": 170000,
-        "avg_unit_price": 173823,
-        "total_price": 170000,
-        "quantity": 1,
-        "percent_diff": 2.2
       }
     ]
   },
