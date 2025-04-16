@@ -2375,18 +2375,6 @@
       }
     ]
   },
-  "knq0p": {
-    "item_name": "Бронекостюм «Рысь»",
-    "profitable_lots": [
-      {
-        "unit_price": 35000,
-        "avg_unit_price": 41647,
-        "total_price": 35000,
-        "quantity": 1,
-        "percent_diff": 15.96
-      }
-    ]
-  },
   "5lr20": {
     "item_name": "Бронекостюм «КЗ-3б»",
     "profitable_lots": [
