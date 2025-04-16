@@ -2247,11 +2247,23 @@
     "item_name": "Глушитель FA556 Mini",
     "profitable_lots": [
       {
-        "unit_price": 1556000,
-        "avg_unit_price": 1571570,
-        "total_price": 1556000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1581970,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 0.99
+        "percent_diff": 5.18
+      }
+    ]
+  },
+  "wjr9d": {
+    "item_name": "Глушитель Salvo 12",
+    "profitable_lots": [
+      {
+        "unit_price": 1435000,
+        "avg_unit_price": 1663947,
+        "total_price": 1435000,
+        "quantity": 1,
+        "percent_diff": 13.76
       }
     ]
   },
