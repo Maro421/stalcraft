@@ -1011,11 +1011,11 @@
     "item_name": "Измерительное оборудование",
     "profitable_lots": [
       {
-        "unit_price": 16448,
-        "avg_unit_price": 39051,
-        "total_price": 49344,
+        "unit_price": 10000,
+        "avg_unit_price": 31647,
+        "total_price": 30000,
         "quantity": 3,
-        "percent_diff": 57.88
+        "percent_diff": 68.4
       }
     ]
   },
