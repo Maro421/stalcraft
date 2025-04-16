@@ -1727,18 +1727,6 @@
       }
     ]
   },
-  "7l1kr": {
-    "item_name": "Подсумок с аптечками проводника",
-    "profitable_lots": [
-      {
-        "unit_price": 4000,
-        "avg_unit_price": 5083,
-        "total_price": 4000,
-        "quantity": 1,
-        "percent_diff": 21.31
-      }
-    ]
-  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
@@ -2051,15 +2039,51 @@
       }
     ]
   },
+  "knvmj": {
+    "item_name": "Jagdkommando",
+    "profitable_lots": [
+      {
+        "unit_price": 9500000,
+        "avg_unit_price": 10061551,
+        "total_price": 9500000,
+        "quantity": 1,
+        "percent_diff": 5.58
+      }
+    ]
+  },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 7460,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 32.98
+      }
+    ]
+  },
+  "n42m9": {
+    "item_name": "Мачете «ЭМЧес»",
+    "profitable_lots": [
+      {
+        "unit_price": 4000,
+        "avg_unit_price": 5544,
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 27.85
+      }
+    ]
+  },
   "vj427": {
     "item_name": "M48 Tomahawk",
     "profitable_lots": [
       {
-        "unit_price": 84000,
-        "avg_unit_price": 88132,
-        "total_price": 84000,
+        "unit_price": 85000,
+        "avg_unit_price": 98092,
+        "total_price": 85000,
         "quantity": 1,
-        "percent_diff": 4.69
+        "percent_diff": 13.35
       }
     ]
   },
