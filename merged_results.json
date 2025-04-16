@@ -71,15 +71,15 @@
       }
     ]
   },
-  "npp9": {
-    "item_name": "Чертоцвет",
+  "prrd": {
+    "item_name": "Янтарная полынь",
     "profitable_lots": [
       {
-        "unit_price": 1166,
-        "avg_unit_price": 1277,
-        "total_price": 3500,
-        "quantity": 3,
-        "percent_diff": 8.69
+        "unit_price": 9999,
+        "avg_unit_price": 11980,
+        "total_price": 99999,
+        "quantity": 10,
+        "percent_diff": 16.54
       }
     ]
   },
@@ -2168,30 +2168,6 @@
         "total_price": 1500000,
         "quantity": 1,
         "percent_diff": 2.11
-      }
-    ]
-  },
-  "knvmj": {
-    "item_name": "Jagdkommando",
-    "profitable_lots": [
-      {
-        "unit_price": 9500000,
-        "avg_unit_price": 10061551,
-        "total_price": 9500000,
-        "quantity": 1,
-        "percent_diff": 5.58
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7460,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 32.98
       }
     ]
   },
