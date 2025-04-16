@@ -1060,22 +1060,10 @@
     "profitable_lots": [
       {
         "unit_price": 27500,
-        "avg_unit_price": 29707,
+        "avg_unit_price": 30496,
         "total_price": 55000,
         "quantity": 2,
-        "percent_diff": 7.43
-      }
-    ]
-  },
-  "dj92": {
-    "item_name": "Набор кухонных ножей",
-    "profitable_lots": [
-      {
-        "unit_price": 7333,
-        "avg_unit_price": 7749,
-        "total_price": 110000,
-        "quantity": 15,
-        "percent_diff": 5.37
+        "percent_diff": 9.82
       }
     ]
   },
@@ -1631,18 +1619,6 @@
       }
     ]
   },
-  "wjn52": {
-    "item_name": "Сумка композитных пластин IV",
-    "profitable_lots": [
-      {
-        "unit_price": 22000,
-        "avg_unit_price": 24605,
-        "total_price": 22000,
-        "quantity": 1,
-        "percent_diff": 10.59
-      }
-    ]
-  },
   "0rl9k": {
     "item_name": "Голова крысы",
     "profitable_lots": [
@@ -2127,11 +2103,11 @@
     "item_name": "HK PSG1",
     "profitable_lots": [
       {
-        "unit_price": 178999,
-        "avg_unit_price": 201333,
-        "total_price": 178999,
+        "unit_price": 170000,
+        "avg_unit_price": 194210,
+        "total_price": 170000,
         "quantity": 1,
-        "percent_diff": 11.09
+        "percent_diff": 12.47
       }
     ]
   },
