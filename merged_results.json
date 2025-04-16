@@ -2159,15 +2159,39 @@
       }
     ]
   },
+  "qjg24": {
+    "item_name": "Саперная лопата",
+    "profitable_lots": [
+      {
+        "unit_price": 8999,
+        "avg_unit_price": 9490,
+        "total_price": 8999,
+        "quantity": 1,
+        "percent_diff": 5.17
+      }
+    ]
+  },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 98928,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 29.24
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 22222,
         "avg_unit_price": 34205,
-        "total_price": 25000,
+        "total_price": 22222,
         "quantity": 1,
-        "percent_diff": 26.91
+        "percent_diff": 35.03
       }
     ]
   },
@@ -2175,23 +2199,11 @@
     "item_name": "УВСР",
     "profitable_lots": [
       {
-        "unit_price": 170000,
+        "unit_price": 150000,
         "avg_unit_price": 194863,
-        "total_price": 170000,
+        "total_price": 150000,
         "quantity": 1,
-        "percent_diff": 12.76
-      }
-    ]
-  },
-  "m0vvk": {
-    "item_name": "НР-43",
-    "profitable_lots": [
-      {
-        "unit_price": 5000,
-        "avg_unit_price": 7066,
-        "total_price": 5000,
-        "quantity": 1,
-        "percent_diff": 29.24
+        "percent_diff": 23.02
       }
     ]
   },
