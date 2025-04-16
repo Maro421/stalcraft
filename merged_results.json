@@ -743,15 +743,27 @@
       }
     ]
   },
+  "1dk6": {
+    "item_name": "Набор специй",
+    "profitable_lots": [
+      {
+        "unit_price": 6041,
+        "avg_unit_price": 6094,
+        "total_price": 290000,
+        "quantity": 48,
+        "percent_diff": 0.87
+      }
+    ]
+  },
   "z7y2": {
     "item_name": "Протертые овощи",
     "profitable_lots": [
       {
         "unit_price": 8444,
-        "avg_unit_price": 8903,
+        "avg_unit_price": 8742,
         "total_price": 422222,
         "quantity": 50,
-        "percent_diff": 5.16
+        "percent_diff": 3.41
       }
     ]
   },
@@ -2264,18 +2276,6 @@
         "total_price": 2000000,
         "quantity": 1,
         "percent_diff": 10.56
-      }
-    ]
-  },
-  "qjg24": {
-    "item_name": "Саперная лопата",
-    "profitable_lots": [
-      {
-        "unit_price": 8999,
-        "avg_unit_price": 9490,
-        "total_price": 8999,
-        "quantity": 1,
-        "percent_diff": 5.17
       }
     ]
   },
