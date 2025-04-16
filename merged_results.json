@@ -1083,11 +1083,11 @@
     "item_name": "Роторная система",
     "profitable_lots": [
       {
-        "unit_price": 52500,
-        "avg_unit_price": 55902,
-        "total_price": 210000,
-        "quantity": 4,
-        "percent_diff": 6.09
+        "unit_price": 54999,
+        "avg_unit_price": 55755,
+        "total_price": 54999,
+        "quantity": 1,
+        "percent_diff": 1.36
       }
     ]
   },
@@ -1096,10 +1096,10 @@
     "profitable_lots": [
       {
         "unit_price": 27500,
-        "avg_unit_price": 30496,
+        "avg_unit_price": 31180,
         "total_price": 55000,
         "quantity": 2,
-        "percent_diff": 9.82
+        "percent_diff": 11.8
       }
     ]
   },
@@ -1787,27 +1787,15 @@
       }
     ]
   },
-  "y3nmw": {
-    "item_name": "Продвинутые запчасти",
-    "profitable_lots": [
-      {
-        "unit_price": 64001,
-        "avg_unit_price": 64977,
-        "total_price": 64001,
-        "quantity": 1,
-        "percent_diff": 1.5
-      }
-    ]
-  },
   "wjlrd": {
     "item_name": "Дешевые инструменты",
     "profitable_lots": [
       {
-        "unit_price": 20000,
-        "avg_unit_price": 45532,
-        "total_price": 20000,
+        "unit_price": 45000,
+        "avg_unit_price": 47825,
+        "total_price": 45000,
         "quantity": 1,
-        "percent_diff": 56.07
+        "percent_diff": 5.91
       }
     ]
   },
