@@ -579,11 +579,11 @@
     "item_name": "Железо",
     "profitable_lots": [
       {
-        "unit_price": 1400,
-        "avg_unit_price": 1445,
-        "total_price": 70000,
-        "quantity": 50,
-        "percent_diff": 3.11
+        "unit_price": 1000,
+        "avg_unit_price": 1437,
+        "total_price": 1000,
+        "quantity": 1,
+        "percent_diff": 30.41
       }
     ]
   },
@@ -2075,15 +2075,27 @@
       }
     ]
   },
+  "3gn5g": {
+    "item_name": "ТКБ-0146М",
+    "profitable_lots": [
+      {
+        "unit_price": 450000,
+        "avg_unit_price": 466613,
+        "total_price": 450000,
+        "quantity": 1,
+        "percent_diff": 3.56
+      }
+    ]
+  },
   "6w64y": {
     "item_name": "Grizzly 8.5",
     "profitable_lots": [
       {
         "unit_price": 529999,
-        "avg_unit_price": 536684,
+        "avg_unit_price": 537736,
         "total_price": 529999,
         "quantity": 1,
-        "percent_diff": 1.25
+        "percent_diff": 1.44
       }
     ]
   },
