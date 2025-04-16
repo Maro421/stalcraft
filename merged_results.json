@@ -399,11 +399,11 @@
     "item_name": "Текстолит",
     "profitable_lots": [
       {
-        "unit_price": 1100,
-        "avg_unit_price": 1311,
-        "total_price": 22000,
-        "quantity": 20,
-        "percent_diff": 16.09
+        "unit_price": 1300,
+        "avg_unit_price": 1323,
+        "total_price": 1300,
+        "quantity": 1,
+        "percent_diff": 1.74
       }
     ]
   },
@@ -411,11 +411,11 @@
     "item_name": "Сковорода",
     "profitable_lots": [
       {
-        "unit_price": 1900,
-        "avg_unit_price": 1931,
-        "total_price": 1900,
-        "quantity": 1,
-        "percent_diff": 1.61
+        "unit_price": 1999,
+        "avg_unit_price": 2054,
+        "total_price": 3998,
+        "quantity": 2,
+        "percent_diff": 2.68
       }
     ]
   },
@@ -2067,11 +2067,11 @@
     "item_name": "«Рапира»",
     "profitable_lots": [
       {
-        "unit_price": 1400000,
-        "avg_unit_price": 1532393,
-        "total_price": 1400000,
+        "unit_price": 1500000,
+        "avg_unit_price": 1554772,
+        "total_price": 1500000,
         "quantity": 1,
-        "percent_diff": 8.64
+        "percent_diff": 3.52
       }
     ]
   },
