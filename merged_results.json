@@ -675,11 +675,11 @@
     "item_name": "Доски",
     "profitable_lots": [
       {
-        "unit_price": 200,
-        "avg_unit_price": 910,
-        "total_price": 10000,
+        "unit_price": 199,
+        "avg_unit_price": 676,
+        "total_price": 9999,
         "quantity": 50,
-        "percent_diff": 78.02
+        "percent_diff": 70.56
       }
     ]
   },
@@ -687,11 +687,11 @@
     "item_name": "Микроэлектроника",
     "profitable_lots": [
       {
-        "unit_price": 1300,
+        "unit_price": 1266,
         "avg_unit_price": 2693,
-        "total_price": 65000,
-        "quantity": 50,
-        "percent_diff": 51.73
+        "total_price": 19000,
+        "quantity": 15,
+        "percent_diff": 52.99
       }
     ]
   },
@@ -1384,10 +1384,10 @@
     "profitable_lots": [
       {
         "unit_price": 68000,
-        "avg_unit_price": 72142,
+        "avg_unit_price": 72666,
         "total_price": 680000,
         "quantity": 10,
-        "percent_diff": 5.74
+        "percent_diff": 6.42
       }
     ]
   },
@@ -2091,11 +2091,11 @@
     "item_name": "Прицел оптический Sig Sauer",
     "profitable_lots": [
       {
-        "unit_price": 245000,
-        "avg_unit_price": 262788,
-        "total_price": 245000,
+        "unit_price": 234444,
+        "avg_unit_price": 262487,
+        "total_price": 234444,
         "quantity": 1,
-        "percent_diff": 6.77
+        "percent_diff": 10.68
       }
     ]
   },
