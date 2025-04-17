@@ -543,11 +543,11 @@
     "item_name": "Набор для шитья",
     "profitable_lots": [
       {
-        "unit_price": 900,
-        "avg_unit_price": 1387,
-        "total_price": 45000,
+        "unit_price": 800,
+        "avg_unit_price": 1526,
+        "total_price": 40000,
         "quantity": 50,
-        "percent_diff": 35.11
+        "percent_diff": 47.58
       }
     ]
   },
@@ -1384,10 +1384,10 @@
     "profitable_lots": [
       {
         "unit_price": 24,
-        "avg_unit_price": 49,
+        "avg_unit_price": 46,
         "total_price": 49,
         "quantity": 2,
-        "percent_diff": 51.02
+        "percent_diff": 47.83
       }
     ]
   },
@@ -1911,23 +1911,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7280,
-        "total_price": 6666,
-        "quantity": 1,
-        "percent_diff": 8.43
-      }
-    ]
-  },
-  "1rlw2": {
-    "item_name": "Эссенция сброса",
-    "profitable_lots": [
-      {
-        "unit_price": 3100001,
-        "avg_unit_price": 3176922,
-        "total_price": 3100001,
-        "quantity": 1,
-        "percent_diff": 2.42
+        "unit_price": 5000,
+        "avg_unit_price": 6624,
+        "total_price": 20001,
+        "quantity": 4,
+        "percent_diff": 24.52
       }
     ]
   },
