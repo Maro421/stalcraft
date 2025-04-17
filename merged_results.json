@@ -1859,6 +1859,18 @@
       }
     ]
   },
+  "rw2ky": {
+    "item_name": "МЦ-255",
+    "profitable_lots": [
+      {
+        "unit_price": 800000,
+        "avg_unit_price": 890555,
+        "total_price": 800000,
+        "quantity": 1,
+        "percent_diff": 10.17
+      }
+    ]
+  },
   "969vz": {
     "item_name": "HK UMP9",
     "profitable_lots": [
