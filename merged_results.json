@@ -243,11 +243,11 @@
     "item_name": "Борная кислота",
     "profitable_lots": [
       {
-        "unit_price": 1900,
+        "unit_price": 1826,
         "avg_unit_price": 1985,
-        "total_price": 95000,
+        "total_price": 91334,
         "quantity": 50,
-        "percent_diff": 4.28
+        "percent_diff": 8.01
       }
     ]
   },
@@ -256,10 +256,10 @@
     "profitable_lots": [
       {
         "unit_price": 6666,
-        "avg_unit_price": 10838,
+        "avg_unit_price": 10707,
         "total_price": 100000,
         "quantity": 15,
-        "percent_diff": 38.49
+        "percent_diff": 37.74
       }
     ]
   },
