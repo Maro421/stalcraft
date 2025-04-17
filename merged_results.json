@@ -279,11 +279,11 @@
     "item_name": "Защитное снаряжение",
     "profitable_lots": [
       {
-        "unit_price": 6333,
-        "avg_unit_price": 11372,
-        "total_price": 95000,
+        "unit_price": 6666,
+        "avg_unit_price": 10838,
+        "total_price": 100000,
         "quantity": 15,
-        "percent_diff": 44.31
+        "percent_diff": 38.49
       }
     ]
   },
