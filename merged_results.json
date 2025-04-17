@@ -123,11 +123,11 @@
     "item_name": "Чертоцвет",
     "profitable_lots": [
       {
-        "unit_price": 1777,
+        "unit_price": 1333,
         "avg_unit_price": 1939,
-        "total_price": 88889,
-        "quantity": 50,
-        "percent_diff": 8.35
+        "total_price": 4000,
+        "quantity": 3,
+        "percent_diff": 31.25
       }
     ]
   },
