@@ -975,11 +975,11 @@
     "item_name": "Разделочная доска",
     "profitable_lots": [
       {
-        "unit_price": 999,
+        "unit_price": 1000,
         "avg_unit_price": 1732,
-        "total_price": 2999,
-        "quantity": 3,
-        "percent_diff": 42.32
+        "total_price": 11000,
+        "quantity": 11,
+        "percent_diff": 42.26
       }
     ]
   },
