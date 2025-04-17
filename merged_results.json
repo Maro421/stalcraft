@@ -1751,6 +1751,18 @@
       }
     ]
   },
+  "5logg": {
+    "item_name": "Странный артефакт",
+    "profitable_lots": [
+      {
+        "unit_price": 1023,
+        "avg_unit_price": 1151,
+        "total_price": 13300,
+        "quantity": 13,
+        "percent_diff": 11.12
+      }
+    ]
+  },
   "y3nmw": {
     "item_name": "Продвинутые запчасти",
     "profitable_lots": [
