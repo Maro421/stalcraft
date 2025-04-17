@@ -1883,6 +1883,18 @@
       }
     ]
   },
+  "96zjw": {
+    "item_name": "Подсумок с аптечками ученых",
+    "profitable_lots": [
+      {
+        "unit_price": 1050,
+        "avg_unit_price": 1072,
+        "total_price": 1050,
+        "quantity": 1,
+        "percent_diff": 2.05
+      }
+    ]
+  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
