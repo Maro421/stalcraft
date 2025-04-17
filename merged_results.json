@@ -555,11 +555,11 @@
     "item_name": "Кислота",
     "profitable_lots": [
       {
-        "unit_price": 122,
-        "avg_unit_price": 232,
-        "total_price": 6111,
+        "unit_price": 99,
+        "avg_unit_price": 186,
+        "total_price": 4999,
         "quantity": 50,
-        "percent_diff": 47.41
+        "percent_diff": 46.77
       }
     ]
   },
@@ -2392,10 +2392,10 @@
     "profitable_lots": [
       {
         "unit_price": 25000,
-        "avg_unit_price": 25083,
+        "avg_unit_price": 25868,
         "total_price": 25000,
         "quantity": 1,
-        "percent_diff": 0.33
+        "percent_diff": 3.36
       }
     ]
   },
