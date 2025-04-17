@@ -2367,11 +2367,11 @@
     "item_name": "Продвинутый ОЗК",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 20000,
         "avg_unit_price": 25868,
-        "total_price": 25000,
+        "total_price": 20000,
         "quantity": 1,
-        "percent_diff": 3.36
+        "percent_diff": 22.68
       }
     ]
   },
