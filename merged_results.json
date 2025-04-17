@@ -311,18 +311,6 @@
       }
     ]
   },
-  "03v1": {
-    "item_name": "Колба с раствором",
-    "profitable_lots": [
-      {
-        "unit_price": 600,
-        "avg_unit_price": 921,
-        "total_price": 15000,
-        "quantity": 25,
-        "percent_diff": 34.85
-      }
-    ]
-  },
   "m2k7": {
     "item_name": "Глаз зомби",
     "profitable_lots": [
