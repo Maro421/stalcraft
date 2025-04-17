@@ -1875,23 +1875,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7280,
-        "total_price": 6666,
-        "quantity": 1,
-        "percent_diff": 8.43
-      }
-    ]
-  },
-  "1rlw2": {
-    "item_name": "Эссенция сброса",
-    "profitable_lots": [
-      {
-        "unit_price": 3100001,
-        "avg_unit_price": 3176922,
-        "total_price": 3100001,
-        "quantity": 1,
-        "percent_diff": 2.42
+        "unit_price": 5000,
+        "avg_unit_price": 6624,
+        "total_price": 20001,
+        "quantity": 4,
+        "percent_diff": 24.52
       }
     ]
   },
@@ -1912,10 +1900,10 @@
     "profitable_lots": [
       {
         "unit_price": 644000,
-        "avg_unit_price": 768055,
+        "avg_unit_price": 792249,
         "total_price": 644000,
         "quantity": 1,
-        "percent_diff": 16.15
+        "percent_diff": 18.71
       }
     ]
   },
@@ -1935,11 +1923,11 @@
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 11043,
-        "total_price": 10000,
+        "unit_price": 9000,
+        "avg_unit_price": 11143,
+        "total_price": 9000,
         "quantity": 1,
-        "percent_diff": 9.44
+        "percent_diff": 19.23
       }
     ]
   },
@@ -1959,11 +1947,11 @@
     "item_name": "Ingram MAC-10",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 9686,
-        "total_price": 5000,
+        "unit_price": 4500,
+        "avg_unit_price": 9638,
+        "total_price": 4500,
         "quantity": 1,
-        "percent_diff": 48.38
+        "percent_diff": 53.31
       }
     ]
   },
@@ -1995,11 +1983,11 @@
     "item_name": "FN SCAR-L",
     "profitable_lots": [
       {
-        "unit_price": 100000,
-        "avg_unit_price": 102864,
-        "total_price": 100000,
+        "unit_price": 80000,
+        "avg_unit_price": 102252,
+        "total_price": 80000,
         "quantity": 1,
-        "percent_diff": 2.78
+        "percent_diff": 21.76
       }
     ]
   },
@@ -2007,9 +1995,9 @@
     "item_name": "СВ-98",
     "profitable_lots": [
       {
-        "unit_price": 1000000,
+        "unit_price": 999999,
         "avg_unit_price": 1195281,
-        "total_price": 1000000,
+        "total_price": 999999,
         "quantity": 1,
         "percent_diff": 16.34
       }
@@ -2019,11 +2007,11 @@
     "item_name": "M1014",
     "profitable_lots": [
       {
-        "unit_price": 70000,
-        "avg_unit_price": 130277,
-        "total_price": 70000,
+        "unit_price": 80000,
+        "avg_unit_price": 135277,
+        "total_price": 80000,
         "quantity": 1,
-        "percent_diff": 46.27
+        "percent_diff": 40.86
       }
     ]
   },
@@ -2043,11 +2031,11 @@
     "item_name": "HK416",
     "profitable_lots": [
       {
-        "unit_price": 1150000,
+        "unit_price": 1149000,
         "avg_unit_price": 1212135,
-        "total_price": 1150000,
+        "total_price": 1149000,
         "quantity": 1,
-        "percent_diff": 5.13
+        "percent_diff": 5.21
       }
     ]
   },
@@ -2087,6 +2075,18 @@
       }
     ]
   },
+  "969jz": {
+    "item_name": "Steyr AUG A2",
+    "profitable_lots": [
+      {
+        "unit_price": 200000,
+        "avg_unit_price": 221228,
+        "total_price": 200000,
+        "quantity": 1,
+        "percent_diff": 9.6
+      }
+    ]
+  },
   "zz24n": {
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
@@ -2096,18 +2096,6 @@
         "total_price": 260000,
         "quantity": 1,
         "percent_diff": 14.17
-      }
-    ]
-  },
-  "p63d2": {
-    "item_name": "HK417",
-    "profitable_lots": [
-      {
-        "unit_price": 16600000,
-        "avg_unit_price": 17127222,
-        "total_price": 16600000,
-        "quantity": 1,
-        "percent_diff": 3.08
       }
     ]
   },
@@ -2156,18 +2144,6 @@
         "total_price": 10000,
         "quantity": 1,
         "percent_diff": 1.4
-      }
-    ]
-  },
-  "vj427": {
-    "item_name": "M48 Tomahawk",
-    "profitable_lots": [
-      {
-        "unit_price": 75000,
-        "avg_unit_price": 87144,
-        "total_price": 75000,
-        "quantity": 1,
-        "percent_diff": 13.94
       }
     ]
   },
