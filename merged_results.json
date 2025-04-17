@@ -1012,10 +1012,10 @@
     "profitable_lots": [
       {
         "unit_price": 900,
-        "avg_unit_price": 2665,
+        "avg_unit_price": 2540,
         "total_price": 45000,
         "quantity": 50,
-        "percent_diff": 66.23
+        "percent_diff": 64.57
       }
     ]
   },
@@ -2055,11 +2055,11 @@
     "item_name": "HK416",
     "profitable_lots": [
       {
-        "unit_price": 1050000,
-        "avg_unit_price": 1243122,
-        "total_price": 1050000,
+        "unit_price": 1150000,
+        "avg_unit_price": 1212135,
+        "total_price": 1150000,
         "quantity": 1,
-        "percent_diff": 15.54
+        "percent_diff": 5.13
       }
     ]
   },
