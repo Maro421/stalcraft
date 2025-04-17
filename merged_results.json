@@ -2327,6 +2327,18 @@
       }
     ]
   },
+  "j52lg": {
+    "item_name": "Магазин 7.62 NATO PMAG, хаки",
+    "profitable_lots": [
+      {
+        "unit_price": 7510000,
+        "avg_unit_price": 8110819,
+        "total_price": 7510000,
+        "quantity": 1,
+        "percent_diff": 7.41
+      }
+    ]
+  },
   "ly1lo": {
     "item_name": "Магазин 7.62 NATO PMAG, черный",
     "profitable_lots": [
