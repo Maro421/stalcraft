@@ -1551,11 +1551,11 @@
     "item_name": "Сумка 12.7 мм Easy mode",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 5032,
-        "total_price": 5000,
+        "unit_price": 4888,
+        "avg_unit_price": 5020,
+        "total_price": 4888,
         "quantity": 1,
-        "percent_diff": 0.64
+        "percent_diff": 2.63
       }
     ]
   },
