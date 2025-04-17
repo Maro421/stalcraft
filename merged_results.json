@@ -567,11 +567,11 @@
     "item_name": "Набор для шитья",
     "profitable_lots": [
       {
-        "unit_price": 800,
+        "unit_price": 666,
         "avg_unit_price": 1537,
-        "total_price": 40000,
+        "total_price": 33333,
         "quantity": 50,
-        "percent_diff": 47.95
+        "percent_diff": 56.67
       }
     ]
   },
