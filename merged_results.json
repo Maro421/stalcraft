@@ -2031,11 +2031,11 @@
     "item_name": "IWI Tavor X95",
     "profitable_lots": [
       {
-        "unit_price": 14400000,
-        "avg_unit_price": 14960416,
-        "total_price": 14400000,
+        "unit_price": 14399999,
+        "avg_unit_price": 14915685,
+        "total_price": 14399999,
         "quantity": 1,
-        "percent_diff": 3.75
+        "percent_diff": 3.46
       }
     ]
   },
