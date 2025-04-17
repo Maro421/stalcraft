@@ -1251,11 +1251,11 @@
     "item_name": "Детектор узкого диапазона «Эльбрус»",
     "profitable_lots": [
       {
-        "unit_price": 52000000,
+        "unit_price": 51000000,
         "avg_unit_price": 54817717,
-        "total_price": 52000000,
+        "total_price": 51000000,
         "quantity": 1,
-        "percent_diff": 5.14
+        "percent_diff": 6.96
       }
     ]
   },
