@@ -923,6 +923,18 @@
       }
     ]
   },
+  "y7rw": {
+    "item_name": "Детали электромотора",
+    "profitable_lots": [
+      {
+        "unit_price": 102,
+        "avg_unit_price": 305,
+        "total_price": 4500,
+        "quantity": 44,
+        "percent_diff": 66.56
+      }
+    ]
+  },
   "40rl": {
     "item_name": "Разделочная доска",
     "profitable_lots": [
