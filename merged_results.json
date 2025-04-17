@@ -447,11 +447,11 @@
     "item_name": "Газовый баллон",
     "profitable_lots": [
       {
-        "unit_price": 5560,
+        "unit_price": 5555,
         "avg_unit_price": 8030,
-        "total_price": 278000,
+        "total_price": 277777,
         "quantity": 50,
-        "percent_diff": 30.76
+        "percent_diff": 30.82
       }
     ]
   },
