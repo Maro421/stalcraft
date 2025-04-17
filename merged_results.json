@@ -603,11 +603,11 @@
     "item_name": "Железо",
     "profitable_lots": [
       {
-        "unit_price": 999,
-        "avg_unit_price": 1938,
-        "total_price": 38999,
-        "quantity": 39,
-        "percent_diff": 48.45
+        "unit_price": 1320,
+        "avg_unit_price": 1950,
+        "total_price": 66000,
+        "quantity": 50,
+        "percent_diff": 32.31
       }
     ]
   },
