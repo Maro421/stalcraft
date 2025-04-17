@@ -1007,18 +1007,6 @@
       }
     ]
   },
-  "y263": {
-    "item_name": "Метан",
-    "profitable_lots": [
-      {
-        "unit_price": 22000,
-        "avg_unit_price": 23285,
-        "total_price": 110000,
-        "quantity": 5,
-        "percent_diff": 5.52
-      }
-    ]
-  },
   "q2p3": {
     "item_name": "Полипропилен",
     "profitable_lots": [
@@ -1515,11 +1503,11 @@
     "item_name": "Ящик гранат «Гром»",
     "profitable_lots": [
       {
-        "unit_price": 25000,
+        "unit_price": 23200,
         "avg_unit_price": 25916,
-        "total_price": 25000,
+        "total_price": 23200,
         "quantity": 1,
-        "percent_diff": 3.53
+        "percent_diff": 10.48
       }
     ]
   },
