@@ -436,10 +436,10 @@
     "profitable_lots": [
       {
         "unit_price": 1309,
-        "avg_unit_price": 1763,
+        "avg_unit_price": 1925,
         "total_price": 55000,
         "quantity": 42,
-        "percent_diff": 25.75
+        "percent_diff": 32.0
       }
     ]
   },
@@ -1851,11 +1851,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3100001,
+        "unit_price": 2999999,
         "avg_unit_price": 3176922,
-        "total_price": 3100001,
+        "total_price": 2999999,
         "quantity": 1,
-        "percent_diff": 2.42
+        "percent_diff": 5.57
       }
     ]
   },
