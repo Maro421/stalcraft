@@ -1108,10 +1108,10 @@
     "profitable_lots": [
       {
         "unit_price": 27500,
-        "avg_unit_price": 32968,
+        "avg_unit_price": 34624,
         "total_price": 55000,
         "quantity": 2,
-        "percent_diff": 16.59
+        "percent_diff": 20.58
       }
     ]
   },
@@ -2099,15 +2099,27 @@
       }
     ]
   },
+  "6w64y": {
+    "item_name": "Grizzly 8.5",
+    "profitable_lots": [
+      {
+        "unit_price": 500000,
+        "avg_unit_price": 503891,
+        "total_price": 500000,
+        "quantity": 1,
+        "percent_diff": 0.77
+      }
+    ]
+  },
   "969jz": {
     "item_name": "Steyr AUG A2",
     "profitable_lots": [
       {
-        "unit_price": 190000,
-        "avg_unit_price": 226296,
-        "total_price": 190000,
+        "unit_price": 200000,
+        "avg_unit_price": 221228,
+        "total_price": 200000,
         "quantity": 1,
-        "percent_diff": 16.04
+        "percent_diff": 9.6
       }
     ]
   },
