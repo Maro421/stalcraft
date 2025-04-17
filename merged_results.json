@@ -1935,11 +1935,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6110,
-        "avg_unit_price": 6425,
-        "total_price": 61100,
-        "quantity": 10,
-        "percent_diff": 4.9
+        "unit_price": 5320,
+        "avg_unit_price": 6666,
+        "total_price": 532002,
+        "quantity": 100,
+        "percent_diff": 20.19
       }
     ]
   },
