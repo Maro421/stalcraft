@@ -675,11 +675,11 @@
     "item_name": "Свинец",
     "profitable_lots": [
       {
-        "unit_price": 510,
-        "avg_unit_price": 586,
-        "total_price": 25500,
+        "unit_price": 480,
+        "avg_unit_price": 588,
+        "total_price": 24000,
         "quantity": 50,
-        "percent_diff": 12.97
+        "percent_diff": 18.37
       }
     ]
   },
@@ -1936,10 +1936,10 @@
     "profitable_lots": [
       {
         "unit_price": 644000,
-        "avg_unit_price": 792249,
+        "avg_unit_price": 768055,
         "total_price": 644000,
         "quantity": 1,
-        "percent_diff": 18.71
+        "percent_diff": 16.15
       }
     ]
   },
