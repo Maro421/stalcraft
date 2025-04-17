@@ -3,11 +3,23 @@
     "item_name": "Мякоть сластены",
     "profitable_lots": [
       {
-        "unit_price": 7070,
-        "avg_unit_price": 7489,
-        "total_price": 155555,
-        "quantity": 22,
-        "percent_diff": 5.59
+        "unit_price": 6562,
+        "avg_unit_price": 7690,
+        "total_price": 105000,
+        "quantity": 16,
+        "percent_diff": 14.67
+      }
+    ]
+  },
+  "z77k": {
+    "item_name": "Мякоть спиртня",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 2428,
+        "total_price": 100000,
+        "quantity": 50,
+        "percent_diff": 17.63
       }
     ]
   },
