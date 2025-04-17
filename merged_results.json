@@ -1259,18 +1259,6 @@
       }
     ]
   },
-  "3dy5": {
-    "item_name": "Композитная пластина II",
-    "profitable_lots": [
-      {
-        "unit_price": 25,
-        "avg_unit_price": 60,
-        "total_price": 25,
-        "quantity": 1,
-        "percent_diff": 58.33
-      }
-    ]
-  },
   "7zqj": {
     "item_name": "Композитная пластина III",
     "profitable_lots": [
@@ -1828,10 +1816,10 @@
     "profitable_lots": [
       {
         "unit_price": 770,
-        "avg_unit_price": 800,
+        "avg_unit_price": 798,
         "total_price": 770,
         "quantity": 1,
-        "percent_diff": 3.75
+        "percent_diff": 3.51
       }
     ]
   },
