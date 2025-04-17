@@ -1719,11 +1719,11 @@
     "item_name": "Аномальная пыль",
     "profitable_lots": [
       {
-        "unit_price": 331,
-        "avg_unit_price": 377,
-        "total_price": 60000,
-        "quantity": 181,
-        "percent_diff": 12.2
+        "unit_price": 314,
+        "avg_unit_price": 362,
+        "total_price": 40000,
+        "quantity": 127,
+        "percent_diff": 13.26
       }
     ]
   },
