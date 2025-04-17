@@ -467,6 +467,18 @@
       }
     ]
   },
+  "npz3": {
+    "item_name": "Кастрюля",
+    "profitable_lots": [
+      {
+        "unit_price": 2000,
+        "avg_unit_price": 2041,
+        "total_price": 60000,
+        "quantity": 30,
+        "percent_diff": 2.01
+      }
+    ]
+  },
   "vrld": {
     "item_name": "Консервная банка",
     "profitable_lots": [
@@ -1899,11 +1911,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7280,
-        "total_price": 6666,
-        "quantity": 1,
-        "percent_diff": 8.43
+        "unit_price": 5000,
+        "avg_unit_price": 6624,
+        "total_price": 20001,
+        "quantity": 4,
+        "percent_diff": 24.52
       }
     ]
   },
