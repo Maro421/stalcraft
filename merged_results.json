@@ -215,6 +215,18 @@
       }
     ]
   },
+  "y7po": {
+    "item_name": "Реагенты",
+    "profitable_lots": [
+      {
+        "unit_price": 1020,
+        "avg_unit_price": 1053,
+        "total_price": 51000,
+        "quantity": 50,
+        "percent_diff": 3.13
+      }
+    ]
+  },
   "wopo": {
     "item_name": "Перчатки",
     "profitable_lots": [
