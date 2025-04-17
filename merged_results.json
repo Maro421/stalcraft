@@ -2159,6 +2159,18 @@
       }
     ]
   },
+  "vj427": {
+    "item_name": "M48 Tomahawk",
+    "profitable_lots": [
+      {
+        "unit_price": 70000,
+        "avg_unit_price": 96213,
+        "total_price": 70000,
+        "quantity": 1,
+        "percent_diff": 27.24
+      }
+    ]
+  },
   "dmvjg": {
     "item_name": "Телескопическая дубинка",
     "profitable_lots": [
