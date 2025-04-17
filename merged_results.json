@@ -687,11 +687,11 @@
     "item_name": "Набор специй",
     "profitable_lots": [
       {
-        "unit_price": 6041,
+        "unit_price": 5656,
         "avg_unit_price": 6094,
-        "total_price": 290000,
-        "quantity": 48,
-        "percent_diff": 0.87
+        "total_price": 62222,
+        "quantity": 11,
+        "percent_diff": 7.19
       }
     ]
   },
