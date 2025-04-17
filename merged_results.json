@@ -1979,18 +1979,6 @@
       }
     ]
   },
-  "3gn5g": {
-    "item_name": "ТКБ-0146М",
-    "profitable_lots": [
-      {
-        "unit_price": 400000,
-        "avg_unit_price": 470314,
-        "total_price": 400000,
-        "quantity": 1,
-        "percent_diff": 14.95
-      }
-    ]
-  },
   "6w64y": {
     "item_name": "Grizzly 8.5",
     "profitable_lots": [
