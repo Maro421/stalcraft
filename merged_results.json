@@ -2020,10 +2020,10 @@
     "profitable_lots": [
       {
         "unit_price": 100000,
-        "avg_unit_price": 101921,
+        "avg_unit_price": 102864,
         "total_price": 100000,
         "quantity": 1,
-        "percent_diff": 1.88
+        "percent_diff": 2.78
       }
     ]
   },
