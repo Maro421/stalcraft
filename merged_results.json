@@ -2031,11 +2031,11 @@
     "item_name": "Мачете «ЭМЧес»",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 10142,
-        "total_price": 10000,
+        "unit_price": 9000,
+        "avg_unit_price": 10132,
+        "total_price": 9000,
         "quantity": 1,
-        "percent_diff": 1.4
+        "percent_diff": 11.17
       }
     ]
   },
