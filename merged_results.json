@@ -159,11 +159,11 @@
     "item_name": "Баллон с пропаном",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 6092,
-        "total_price": 15000,
+        "unit_price": 4814,
+        "avg_unit_price": 5858,
+        "total_price": 14444,
         "quantity": 3,
-        "percent_diff": 17.93
+        "percent_diff": 17.82
       }
     ]
   },
@@ -171,11 +171,11 @@
     "item_name": "Баллон с метаном",
     "profitable_lots": [
       {
-        "unit_price": 6300,
+        "unit_price": 6111,
         "avg_unit_price": 7299,
-        "total_price": 6300,
-        "quantity": 1,
-        "percent_diff": 13.69
+        "total_price": 12222,
+        "quantity": 2,
+        "percent_diff": 16.28
       }
     ]
   },
