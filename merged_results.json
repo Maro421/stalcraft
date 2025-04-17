@@ -351,11 +351,11 @@
     "item_name": "Помидор",
     "profitable_lots": [
       {
-        "unit_price": 3600,
-        "avg_unit_price": 4044,
-        "total_price": 180000,
-        "quantity": 50,
-        "percent_diff": 10.98
+        "unit_price": 3333,
+        "avg_unit_price": 4191,
+        "total_price": 40000,
+        "quantity": 12,
+        "percent_diff": 20.47
       }
     ]
   },
