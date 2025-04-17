@@ -1875,11 +1875,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 644000,
-        "avg_unit_price": 768055,
-        "total_price": 644000,
+        "unit_price": 620000,
+        "avg_unit_price": 753333,
+        "total_price": 620000,
         "quantity": 1,
-        "percent_diff": 16.15
+        "percent_diff": 17.7
       }
     ]
   },
