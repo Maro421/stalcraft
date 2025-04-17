@@ -2223,11 +2223,11 @@
     "item_name": "Прицел оптический Sig Sauer",
     "profitable_lots": [
       {
-        "unit_price": 290000,
+        "unit_price": 250000,
         "avg_unit_price": 307992,
-        "total_price": 290000,
+        "total_price": 250000,
         "quantity": 1,
-        "percent_diff": 5.84
+        "percent_diff": 18.83
       }
     ]
   },
