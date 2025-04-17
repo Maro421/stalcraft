@@ -1395,11 +1395,11 @@
     "item_name": "«КЗС-5у»",
     "profitable_lots": [
       {
-        "unit_price": 140000,
-        "avg_unit_price": 199094,
-        "total_price": 140000,
+        "unit_price": 180000,
+        "avg_unit_price": 197162,
+        "total_price": 180000,
         "quantity": 1,
-        "percent_diff": 29.68
+        "percent_diff": 8.7
       }
     ]
   },
