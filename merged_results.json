@@ -3,11 +3,11 @@
     "item_name": "Мякоть сластены",
     "profitable_lots": [
       {
-        "unit_price": 7037,
-        "avg_unit_price": 8053,
-        "total_price": 105555,
-        "quantity": 15,
-        "percent_diff": 12.62
+        "unit_price": 7070,
+        "avg_unit_price": 8292,
+        "total_price": 155555,
+        "quantity": 22,
+        "percent_diff": 14.74
       }
     ]
   },
@@ -1599,11 +1599,11 @@
     "item_name": "Хроносфера",
     "profitable_lots": [
       {
-        "unit_price": 300000,
-        "avg_unit_price": 360888,
-        "total_price": 300000,
-        "quantity": 1,
-        "percent_diff": 16.87
+        "unit_price": 320000,
+        "avg_unit_price": 350467,
+        "total_price": 640000,
+        "quantity": 2,
+        "percent_diff": 8.69
       }
     ]
   },
