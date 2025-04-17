@@ -1571,18 +1571,6 @@
       }
     ]
   },
-  "2o65l": {
-    "item_name": "Сумка 5.56 мм «Прогрев»",
-    "profitable_lots": [
-      {
-        "unit_price": 32000,
-        "avg_unit_price": 33854,
-        "total_price": 32000,
-        "quantity": 1,
-        "percent_diff": 5.48
-      }
-    ]
-  },
   "3g0yl": {
     "item_name": "Сумка патронов 12 калибра «Кислотный дракон»",
     "profitable_lots": [
