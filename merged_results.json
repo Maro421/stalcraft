@@ -772,10 +772,10 @@
     "profitable_lots": [
       {
         "unit_price": 399,
-        "avg_unit_price": 1800,
+        "avg_unit_price": 959,
         "total_price": 19999,
         "quantity": 50,
-        "percent_diff": 77.83
+        "percent_diff": 58.39
       }
     ]
   },
@@ -1995,11 +1995,11 @@
     "item_name": "РПК-16",
     "profitable_lots": [
       {
-        "unit_price": 4785000,
-        "avg_unit_price": 5484210,
-        "total_price": 4785000,
+        "unit_price": 4790000,
+        "avg_unit_price": 5425526,
+        "total_price": 4790000,
         "quantity": 1,
-        "percent_diff": 12.75
+        "percent_diff": 11.71
       }
     ]
   },
