@@ -1899,23 +1899,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7280,
-        "total_price": 6666,
-        "quantity": 1,
-        "percent_diff": 8.43
-      }
-    ]
-  },
-  "1rlw2": {
-    "item_name": "Эссенция сброса",
-    "profitable_lots": [
-      {
-        "unit_price": 3100001,
-        "avg_unit_price": 3176922,
-        "total_price": 3100001,
-        "quantity": 1,
-        "percent_diff": 2.42
+        "unit_price": 5000,
+        "avg_unit_price": 6624,
+        "total_price": 20001,
+        "quantity": 4,
+        "percent_diff": 24.52
       }
     ]
   },
@@ -1936,10 +1924,10 @@
     "profitable_lots": [
       {
         "unit_price": 644000,
-        "avg_unit_price": 768055,
+        "avg_unit_price": 792249,
         "total_price": 644000,
         "quantity": 1,
-        "percent_diff": 16.15
+        "percent_diff": 18.71
       }
     ]
   },
@@ -1959,11 +1947,11 @@
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 11043,
-        "total_price": 10000,
+        "unit_price": 9000,
+        "avg_unit_price": 11143,
+        "total_price": 9000,
         "quantity": 1,
-        "percent_diff": 9.44
+        "percent_diff": 19.23
       }
     ]
   },
@@ -1971,11 +1959,11 @@
     "item_name": "HK MP5K",
     "profitable_lots": [
       {
-        "unit_price": 35000,
-        "avg_unit_price": 76902,
-        "total_price": 35000,
+        "unit_price": 60000,
+        "avg_unit_price": 76696,
+        "total_price": 60000,
         "quantity": 1,
-        "percent_diff": 54.49
+        "percent_diff": 21.77
       }
     ]
   },
@@ -1983,11 +1971,11 @@
     "item_name": "Ingram MAC-10",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 9686,
-        "total_price": 5000,
+        "unit_price": 4500,
+        "avg_unit_price": 9638,
+        "total_price": 4500,
         "quantity": 1,
-        "percent_diff": 48.38
+        "percent_diff": 53.31
       }
     ]
   },
