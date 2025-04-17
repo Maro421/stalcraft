@@ -2391,11 +2391,11 @@
     "item_name": "Бронекостюм «КЗ-3б»",
     "profitable_lots": [
       {
-        "unit_price": 175000,
-        "avg_unit_price": 203925,
-        "total_price": 175000,
+        "unit_price": 200000,
+        "avg_unit_price": 202925,
+        "total_price": 200000,
         "quantity": 1,
-        "percent_diff": 14.18
+        "percent_diff": 1.44
       }
     ]
   },
