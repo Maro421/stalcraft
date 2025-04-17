@@ -856,7 +856,7 @@
     "profitable_lots": [
       {
         "unit_price": 2790,
-        "avg_unit_price": 8676,
+        "avg_unit_price": 8675,
         "total_price": 120000,
         "quantity": 43,
         "percent_diff": 67.84
@@ -1388,18 +1388,6 @@
         "total_price": 65000,
         "quantity": 1,
         "percent_diff": 10.55
-      }
-    ]
-  },
-  "79w7": {
-    "item_name": "Патрон 12.7 мм ПП",
-    "profitable_lots": [
-      {
-        "unit_price": 1,
-        "avg_unit_price": 2,
-        "total_price": 150,
-        "quantity": 80,
-        "percent_diff": 50.0
       }
     ]
   },
@@ -1988,18 +1976,6 @@
         "total_price": 500000,
         "quantity": 1,
         "percent_diff": 0.66
-      }
-    ]
-  },
-  "zz24n": {
-    "item_name": "SIG SG 550 Sniper",
-    "profitable_lots": [
-      {
-        "unit_price": 260000,
-        "avg_unit_price": 302912,
-        "total_price": 260000,
-        "quantity": 1,
-        "percent_diff": 14.17
       }
     ]
   },
