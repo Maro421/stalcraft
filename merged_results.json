@@ -171,11 +171,11 @@
     "item_name": "Баллон с метаном",
     "profitable_lots": [
       {
-        "unit_price": 6666,
+        "unit_price": 6300,
         "avg_unit_price": 7299,
-        "total_price": 20000,
-        "quantity": 3,
-        "percent_diff": 8.67
+        "total_price": 6300,
+        "quantity": 1,
+        "percent_diff": 13.69
       }
     ]
   },
