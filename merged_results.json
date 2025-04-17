@@ -123,11 +123,11 @@
     "item_name": "Янтарная полынь",
     "profitable_lots": [
       {
-        "unit_price": 11000,
-        "avg_unit_price": 11440,
-        "total_price": 11000,
-        "quantity": 1,
-        "percent_diff": 3.85
+        "unit_price": 9020,
+        "avg_unit_price": 11000,
+        "total_price": 90200,
+        "quantity": 10,
+        "percent_diff": 18.0
       }
     ]
   },
@@ -2252,6 +2252,18 @@
         "total_price": 105000,
         "quantity": 1,
         "percent_diff": 15.36
+      }
+    ]
+  },
+  "zz939": {
+    "item_name": "ДТК «Вихрь»",
+    "profitable_lots": [
+      {
+        "unit_price": 160000,
+        "avg_unit_price": 165987,
+        "total_price": 160000,
+        "quantity": 1,
+        "percent_diff": 3.61
       }
     ]
   },
