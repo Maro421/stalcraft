@@ -1619,6 +1619,18 @@
       }
     ]
   },
+  "j5pd0": {
+    "item_name": "Ящик гранат «Гром»",
+    "profitable_lots": [
+      {
+        "unit_price": 25000,
+        "avg_unit_price": 25916,
+        "total_price": 25000,
+        "quantity": 1,
+        "percent_diff": 3.53
+      }
+    ]
+  },
   "rwldv": {
     "item_name": "Ящик гранат «Вьюга»",
     "profitable_lots": [
@@ -2175,11 +2187,11 @@
     "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
       {
-        "unit_price": 1499999,
-        "avg_unit_price": 1914700,
-        "total_price": 1499999,
+        "unit_price": 1690000,
+        "avg_unit_price": 1846438,
+        "total_price": 1690000,
         "quantity": 1,
-        "percent_diff": 21.66
+        "percent_diff": 8.47
       }
     ]
   },
