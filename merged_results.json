@@ -75,11 +75,11 @@
     "item_name": "Золотые минералы",
     "profitable_lots": [
       {
-        "unit_price": 3500,
+        "unit_price": 3461,
         "avg_unit_price": 4420,
-        "total_price": 7000,
-        "quantity": 2,
-        "percent_diff": 20.81
+        "total_price": 45000,
+        "quantity": 13,
+        "percent_diff": 21.7
       }
     ]
   },
