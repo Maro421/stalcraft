@@ -1955,18 +1955,6 @@
       }
     ]
   },
-  "wj7v3": {
-    "item_name": "РМО-93",
-    "profitable_lots": [
-      {
-        "unit_price": 1900000,
-        "avg_unit_price": 1985999,
-        "total_price": 1900000,
-        "quantity": 1,
-        "percent_diff": 4.33
-      }
-    ]
-  },
   "g4mgp": {
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
