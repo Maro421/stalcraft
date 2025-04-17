@@ -2295,11 +2295,11 @@
     "item_name": "Глушитель Salvo 12",
     "profitable_lots": [
       {
-        "unit_price": 1600000,
-        "avg_unit_price": 1635263,
-        "total_price": 1600000,
+        "unit_price": 1499999,
+        "avg_unit_price": 1632631,
+        "total_price": 1499999,
         "quantity": 1,
-        "percent_diff": 2.16
+        "percent_diff": 8.12
       }
     ]
   },
