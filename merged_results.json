@@ -615,11 +615,11 @@
     "item_name": "Гипс",
     "profitable_lots": [
       {
-        "unit_price": 380,
+        "unit_price": 340,
         "avg_unit_price": 470,
-        "total_price": 19000,
+        "total_price": 17000,
         "quantity": 50,
-        "percent_diff": 19.15
+        "percent_diff": 27.66
       }
     ]
   },
