@@ -491,18 +491,6 @@
       }
     ]
   },
-  "2d56": {
-    "item_name": "Набор болтов",
-    "profitable_lots": [
-      {
-        "unit_price": 5750,
-        "avg_unit_price": 9467,
-        "total_price": 11500,
-        "quantity": 2,
-        "percent_diff": 39.26
-      }
-    ]
-  },
   "9mr0": {
     "item_name": "Жгут",
     "profitable_lots": [
