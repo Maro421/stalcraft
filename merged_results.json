@@ -1347,11 +1347,11 @@
     "item_name": "Контейнер «Берлога-4у»",
     "profitable_lots": [
       {
-        "unit_price": 30000,
-        "avg_unit_price": 33727,
-        "total_price": 30000,
+        "unit_price": 24000,
+        "avg_unit_price": 35752,
+        "total_price": 24000,
         "quantity": 1,
-        "percent_diff": 11.05
+        "percent_diff": 32.87
       }
     ]
   },
