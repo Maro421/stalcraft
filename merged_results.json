@@ -863,18 +863,6 @@
       }
     ]
   },
-  "np0w": {
-    "item_name": "Поташ",
-    "profitable_lots": [
-      {
-        "unit_price": 500,
-        "avg_unit_price": 581,
-        "total_price": 20000,
-        "quantity": 40,
-        "percent_diff": 13.94
-      }
-    ]
-  },
   "prp5": {
     "item_name": "Очищенный жир",
     "profitable_lots": [
@@ -1976,18 +1964,6 @@
         "total_price": 500000,
         "quantity": 1,
         "percent_diff": 0.66
-      }
-    ]
-  },
-  "p63d2": {
-    "item_name": "HK417",
-    "profitable_lots": [
-      {
-        "unit_price": 16600000,
-        "avg_unit_price": 17127222,
-        "total_price": 16600000,
-        "quantity": 1,
-        "percent_diff": 3.08
       }
     ]
   },
