@@ -663,11 +663,11 @@
     "item_name": "Медь",
     "profitable_lots": [
       {
-        "unit_price": 580,
-        "avg_unit_price": 1098,
-        "total_price": 29000,
+        "unit_price": 599,
+        "avg_unit_price": 1330,
+        "total_price": 29999,
         "quantity": 50,
-        "percent_diff": 47.18
+        "percent_diff": 54.96
       }
     ]
   },
