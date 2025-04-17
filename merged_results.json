@@ -647,18 +647,6 @@
       }
     ]
   },
-  "prm6": {
-    "item_name": "Свинец",
-    "profitable_lots": [
-      {
-        "unit_price": 480,
-        "avg_unit_price": 588,
-        "total_price": 24000,
-        "quantity": 50,
-        "percent_diff": 18.37
-      }
-    ]
-  },
   "dqg5": {
     "item_name": "Животный жир",
     "profitable_lots": [
