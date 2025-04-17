@@ -3,11 +3,11 @@
     "item_name": "Мякоть сластены",
     "profitable_lots": [
       {
-        "unit_price": 6562,
-        "avg_unit_price": 7690,
-        "total_price": 105000,
-        "quantity": 16,
-        "percent_diff": 14.67
+        "unit_price": 7037,
+        "avg_unit_price": 8053,
+        "total_price": 105555,
+        "quantity": 15,
+        "percent_diff": 12.62
       }
     ]
   },
@@ -15,11 +15,11 @@
     "item_name": "Мякоть спиртня",
     "profitable_lots": [
       {
-        "unit_price": 2000,
-        "avg_unit_price": 2428,
-        "total_price": 100000,
-        "quantity": 50,
-        "percent_diff": 17.63
+        "unit_price": 1937,
+        "avg_unit_price": 2035,
+        "total_price": 31000,
+        "quantity": 16,
+        "percent_diff": 4.82
       }
     ]
   },
@@ -1731,11 +1731,11 @@
     "item_name": "Хроносфера",
     "profitable_lots": [
       {
-        "unit_price": 320000,
-        "avg_unit_price": 362844,
-        "total_price": 640000,
-        "quantity": 2,
-        "percent_diff": 11.81
+        "unit_price": 300000,
+        "avg_unit_price": 360888,
+        "total_price": 300000,
+        "quantity": 1,
+        "percent_diff": 16.87
       }
     ]
   },
@@ -2283,11 +2283,11 @@
     "item_name": "Магазин 7.62 NATO PMAG, хаки",
     "profitable_lots": [
       {
-        "unit_price": 7510000,
-        "avg_unit_price": 8110819,
-        "total_price": 7510000,
+        "unit_price": 7999999,
+        "avg_unit_price": 8078041,
+        "total_price": 7999999,
         "quantity": 1,
-        "percent_diff": 7.41
+        "percent_diff": 0.97
       }
     ]
   },
