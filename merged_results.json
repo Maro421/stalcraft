@@ -339,11 +339,11 @@
     "item_name": "Чеснок",
     "profitable_lots": [
       {
-        "unit_price": 1600,
+        "unit_price": 1071,
         "avg_unit_price": 2089,
-        "total_price": 80000,
-        "quantity": 50,
-        "percent_diff": 23.41
+        "total_price": 15000,
+        "quantity": 14,
+        "percent_diff": 48.73
       }
     ]
   },
@@ -1772,6 +1772,18 @@
         "total_price": 2999999,
         "quantity": 1,
         "percent_diff": 5.57
+      }
+    ]
+  },
+  "zzwmm": {
+    "item_name": "Сыворотка изменения",
+    "profitable_lots": [
+      {
+        "unit_price": 300000,
+        "avg_unit_price": 327280,
+        "total_price": 1200000,
+        "quantity": 4,
+        "percent_diff": 8.34
       }
     ]
   },
