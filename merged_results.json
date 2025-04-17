@@ -479,18 +479,6 @@
       }
     ]
   },
-  "pry2": {
-    "item_name": "Пластиковая бутылка",
-    "profitable_lots": [
-      {
-        "unit_price": 500,
-        "avg_unit_price": 964,
-        "total_price": 1000,
-        "quantity": 2,
-        "percent_diff": 48.13
-      }
-    ]
-  },
   "vrld": {
     "item_name": "Консервная банка",
     "profitable_lots": [
