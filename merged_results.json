@@ -64,10 +64,10 @@
     "profitable_lots": [
       {
         "unit_price": 3500,
-        "avg_unit_price": 4628,
+        "avg_unit_price": 4523,
         "total_price": 7000,
         "quantity": 2,
-        "percent_diff": 24.37
+        "percent_diff": 22.62
       }
     ]
   },
@@ -75,11 +75,11 @@
     "item_name": "Бледнолист",
     "profitable_lots": [
       {
-        "unit_price": 259,
+        "unit_price": 248,
         "avg_unit_price": 270,
-        "total_price": 12999,
+        "total_price": 12400,
         "quantity": 50,
-        "percent_diff": 4.07
+        "percent_diff": 8.15
       }
     ]
   },
@@ -2235,11 +2235,11 @@
     "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
       {
-        "unit_price": 1550000,
+        "unit_price": 1499999,
         "avg_unit_price": 1914700,
-        "total_price": 1550000,
+        "total_price": 1499999,
         "quantity": 1,
-        "percent_diff": 19.05
+        "percent_diff": 21.66
       }
     ]
   },
