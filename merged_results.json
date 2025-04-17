@@ -143,6 +143,18 @@
       }
     ]
   },
+  "g0vn": {
+    "item_name": "Канистра с бензином",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 5593,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 10.6
+      }
+    ]
+  },
   "z7lk": {
     "item_name": "Канистра с дизелем",
     "profitable_lots": [
