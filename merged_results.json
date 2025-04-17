@@ -299,6 +299,18 @@
       }
     ]
   },
+  "dq0n": {
+    "item_name": "Мясо хрюши",
+    "profitable_lots": [
+      {
+        "unit_price": 3000,
+        "avg_unit_price": 3730,
+        "total_price": 3000,
+        "quantity": 1,
+        "percent_diff": 19.57
+      }
+    ]
+  },
   "3rpg": {
     "item_name": "Полутухлая рыба",
     "profitable_lots": [
