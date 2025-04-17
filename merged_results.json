@@ -2351,15 +2351,27 @@
       }
     ]
   },
+  "knqkv": {
+    "item_name": "Бронескелет «Альбатрос-Разведчик»",
+    "profitable_lots": [
+      {
+        "unit_price": 8199000,
+        "avg_unit_price": 8251764,
+        "total_price": 8199000,
+        "quantity": 1,
+        "percent_diff": 0.64
+      }
+    ]
+  },
   "qj1lk": {
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
       {
-        "unit_price": 22222222,
+        "unit_price": 22000000,
         "avg_unit_price": 22554718,
-        "total_price": 22222222,
+        "total_price": 22000000,
         "quantity": 1,
-        "percent_diff": 1.47
+        "percent_diff": 2.46
       }
     ]
   },
