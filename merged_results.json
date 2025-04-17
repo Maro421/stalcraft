@@ -399,11 +399,11 @@
     "item_name": "Клей",
     "profitable_lots": [
       {
-        "unit_price": 1000,
+        "unit_price": 977,
         "avg_unit_price": 1055,
-        "total_price": 50000,
+        "total_price": 48888,
         "quantity": 50,
-        "percent_diff": 5.21
+        "percent_diff": 7.39
       }
     ]
   },
