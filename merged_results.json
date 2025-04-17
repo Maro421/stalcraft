@@ -2363,18 +2363,6 @@
       }
     ]
   },
-  "wjg2o": {
-    "item_name": "Тяжелый комплект «Алтын-Т»",
-    "profitable_lots": [
-      {
-        "unit_price": 95000,
-        "avg_unit_price": 95475,
-        "total_price": 95000,
-        "quantity": 1,
-        "percent_diff": 0.5
-      }
-    ]
-  },
   "qj1lk": {
     "item_name": "Бронекостюм «КЗ-4»",
     "profitable_lots": [
