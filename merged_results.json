@@ -1011,11 +1011,11 @@
     "item_name": "Полипропилен",
     "profitable_lots": [
       {
-        "unit_price": 1500,
-        "avg_unit_price": 2212,
-        "total_price": 1500,
-        "quantity": 1,
-        "percent_diff": 32.19
+        "unit_price": 1939,
+        "avg_unit_price": 2024,
+        "total_price": 96999,
+        "quantity": 50,
+        "percent_diff": 4.2
       }
     ]
   },
