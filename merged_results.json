@@ -2019,11 +2019,23 @@
     "item_name": "HK MP5K",
     "profitable_lots": [
       {
-        "unit_price": 33999,
-        "avg_unit_price": 78261,
-        "total_price": 33999,
+        "unit_price": 35000,
+        "avg_unit_price": 76902,
+        "total_price": 35000,
         "quantity": 1,
-        "percent_diff": 56.56
+        "percent_diff": 54.49
+      }
+    ]
+  },
+  "y32po": {
+    "item_name": "Ingram MAC-10",
+    "profitable_lots": [
+      {
+        "unit_price": 5000,
+        "avg_unit_price": 10241,
+        "total_price": 5000,
+        "quantity": 1,
+        "percent_diff": 51.18
       }
     ]
   },
