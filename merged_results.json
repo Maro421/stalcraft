@@ -147,11 +147,11 @@
     "item_name": "Канистра с дизелем",
     "profitable_lots": [
       {
-        "unit_price": 5000,
+        "unit_price": 4000,
         "avg_unit_price": 6181,
-        "total_price": 10000,
-        "quantity": 2,
-        "percent_diff": 19.11
+        "total_price": 4000,
+        "quantity": 1,
+        "percent_diff": 35.29
       }
     ]
   },
