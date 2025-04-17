@@ -1995,11 +1995,11 @@
     "item_name": "СОК-94",
     "profitable_lots": [
       {
-        "unit_price": 20000,
+        "unit_price": 19000,
         "avg_unit_price": 20142,
-        "total_price": 20000,
+        "total_price": 19000,
         "quantity": 1,
-        "percent_diff": 0.7
+        "percent_diff": 5.67
       }
     ]
   },
