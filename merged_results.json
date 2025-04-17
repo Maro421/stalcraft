@@ -2351,6 +2351,18 @@
       }
     ]
   },
+  "96ngz": {
+    "item_name": "Продвинутый ОЗК",
+    "profitable_lots": [
+      {
+        "unit_price": 25000,
+        "avg_unit_price": 25083,
+        "total_price": 25000,
+        "quantity": 1,
+        "percent_diff": 0.33
+      }
+    ]
+  },
   "1rkn1": {
     "item_name": "Комбинезон «Магнит»",
     "profitable_lots": [
