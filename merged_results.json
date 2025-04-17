@@ -219,11 +219,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 1200,
+        "unit_price": 1177,
         "avg_unit_price": 1648,
-        "total_price": 60000,
+        "total_price": 58888,
         "quantity": 50,
-        "percent_diff": 27.18
+        "percent_diff": 28.58
       }
     ]
   },
