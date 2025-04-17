@@ -219,11 +219,11 @@
     "item_name": "Аммиак",
     "profitable_lots": [
       {
-        "unit_price": 8999,
+        "unit_price": 8571,
         "avg_unit_price": 9552,
-        "total_price": 107988,
-        "quantity": 12,
-        "percent_diff": 5.79
+        "total_price": 60000,
+        "quantity": 7,
+        "percent_diff": 10.27
       }
     ]
   },
@@ -2248,10 +2248,10 @@
     "profitable_lots": [
       {
         "unit_price": 1499999,
-        "avg_unit_price": 1632631,
+        "avg_unit_price": 1619473,
         "total_price": 1499999,
         "quantity": 1,
-        "percent_diff": 8.12
+        "percent_diff": 7.38
       }
     ]
   },
