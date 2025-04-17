@@ -1299,11 +1299,11 @@
     "item_name": "«КЗС-3у»",
     "profitable_lots": [
       {
-        "unit_price": 8500,
+        "unit_price": 7899,
         "avg_unit_price": 18722,
-        "total_price": 8500,
+        "total_price": 7899,
         "quantity": 1,
-        "percent_diff": 54.6
+        "percent_diff": 57.81
       }
     ]
   },
