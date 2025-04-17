@@ -1391,18 +1391,6 @@
       }
     ]
   },
-  "qmjk": {
-    "item_name": "Зажигательные 12 калибра",
-    "profitable_lots": [
-      {
-        "unit_price": 18,
-        "avg_unit_price": 36,
-        "total_price": 1500,
-        "quantity": 80,
-        "percent_diff": 50.0
-      }
-    ]
-  },
   "0or1": {
     "item_name": "Боевая пуля 12 калибра",
     "profitable_lots": [
