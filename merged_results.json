@@ -495,11 +495,11 @@
     "item_name": "Мультитул",
     "profitable_lots": [
       {
-        "unit_price": 4000,
-        "avg_unit_price": 4375,
-        "total_price": 4000,
+        "unit_price": 2000,
+        "avg_unit_price": 3736,
+        "total_price": 2000,
         "quantity": 1,
-        "percent_diff": 8.57
+        "percent_diff": 46.47
       }
     ]
   },
