@@ -267,23 +267,11 @@
     "item_name": "Изолента",
     "profitable_lots": [
       {
-        "unit_price": 102,
-        "avg_unit_price": 324,
-        "total_price": 5111,
+        "unit_price": 120,
+        "avg_unit_price": 330,
+        "total_price": 6000,
         "quantity": 50,
-        "percent_diff": 68.52
-      }
-    ]
-  },
-  "rr05": {
-    "item_name": "Дрожжи",
-    "profitable_lots": [
-      {
-        "unit_price": 3333,
-        "avg_unit_price": 3613,
-        "total_price": 6666,
-        "quantity": 2,
-        "percent_diff": 7.75
+        "percent_diff": 63.64
       }
     ]
   },
