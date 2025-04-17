@@ -2271,11 +2271,11 @@
     "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
       {
-        "unit_price": 1900000,
-        "avg_unit_price": 1913883,
-        "total_price": 1900000,
+        "unit_price": 1750000,
+        "avg_unit_price": 1914700,
+        "total_price": 1750000,
         "quantity": 1,
-        "percent_diff": 0.73
+        "percent_diff": 8.6
       }
     ]
   },
