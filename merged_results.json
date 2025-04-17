@@ -1719,11 +1719,11 @@
     "item_name": "Сумка СБП 5.45 мм",
     "profitable_lots": [
       {
-        "unit_price": 7200,
-        "avg_unit_price": 8796,
-        "total_price": 7200,
+        "unit_price": 7500,
+        "avg_unit_price": 8631,
+        "total_price": 7500,
         "quantity": 1,
-        "percent_diff": 18.14
+        "percent_diff": 13.1
       }
     ]
   },
