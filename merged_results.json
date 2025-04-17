@@ -209,8 +209,8 @@
       {
         "unit_price": 800,
         "avg_unit_price": 979,
-        "total_price": 800,
-        "quantity": 1,
+        "total_price": 40000,
+        "quantity": 50,
         "percent_diff": 18.28
       }
     ]
