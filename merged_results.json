@@ -1083,11 +1083,11 @@
     "item_name": "Измерительное оборудование",
     "profitable_lots": [
       {
-        "unit_price": 20000,
-        "avg_unit_price": 24857,
-        "total_price": 60000,
-        "quantity": 3,
-        "percent_diff": 19.54
+        "unit_price": 20001,
+        "avg_unit_price": 24118,
+        "total_price": 20001,
+        "quantity": 1,
+        "percent_diff": 17.07
       }
     ]
   },
@@ -2223,11 +2223,11 @@
     "item_name": "Прицел коллиматорный Barska",
     "profitable_lots": [
       {
-        "unit_price": 1499999,
-        "avg_unit_price": 1914700,
-        "total_price": 1499999,
+        "unit_price": 1690000,
+        "avg_unit_price": 1846438,
+        "total_price": 1690000,
         "quantity": 1,
-        "percent_diff": 21.66
+        "percent_diff": 8.47
       }
     ]
   },
