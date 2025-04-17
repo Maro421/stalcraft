@@ -339,11 +339,11 @@
     "item_name": "Чеснок",
     "profitable_lots": [
       {
-        "unit_price": 1999,
+        "unit_price": 1600,
         "avg_unit_price": 2089,
-        "total_price": 99999,
+        "total_price": 80000,
         "quantity": 50,
-        "percent_diff": 4.31
+        "percent_diff": 23.41
       }
     ]
   },
