@@ -183,11 +183,11 @@
     "item_name": "Гнилые доски",
     "profitable_lots": [
       {
-        "unit_price": 1466,
+        "unit_price": 1299,
         "avg_unit_price": 1637,
-        "total_price": 73333,
+        "total_price": 64999,
         "quantity": 50,
-        "percent_diff": 10.45
+        "percent_diff": 20.65
       }
     ]
   },
@@ -195,11 +195,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 1300,
-        "avg_unit_price": 1653,
-        "total_price": 65000,
+        "unit_price": 1200,
+        "avg_unit_price": 1648,
+        "total_price": 60000,
         "quantity": 50,
-        "percent_diff": 21.36
+        "percent_diff": 27.18
       }
     ]
   },
