@@ -195,23 +195,11 @@
     "item_name": "Ткань",
     "profitable_lots": [
       {
-        "unit_price": 1096,
-        "avg_unit_price": 1670,
-        "total_price": 34000,
-        "quantity": 31,
-        "percent_diff": 34.37
-      }
-    ]
-  },
-  "y7po": {
-    "item_name": "Реагенты",
-    "profitable_lots": [
-      {
-        "unit_price": 900,
-        "avg_unit_price": 1793,
-        "total_price": 45000,
+        "unit_price": 1300,
+        "avg_unit_price": 1653,
+        "total_price": 65000,
         "quantity": 50,
-        "percent_diff": 49.8
+        "percent_diff": 21.36
       }
     ]
   },
