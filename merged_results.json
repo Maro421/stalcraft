@@ -2115,11 +2115,11 @@
     "item_name": "HK416",
     "profitable_lots": [
       {
-        "unit_price": 1150000,
-        "avg_unit_price": 1264122,
-        "total_price": 1150000,
+        "unit_price": 1050000,
+        "avg_unit_price": 1243122,
+        "total_price": 1050000,
         "quantity": 1,
-        "percent_diff": 9.03
+        "percent_diff": 15.54
       }
     ]
   },
