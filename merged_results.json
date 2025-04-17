@@ -1295,18 +1295,6 @@
       }
     ]
   },
-  "o335": {
-    "item_name": "«КЗС-2у»",
-    "profitable_lots": [
-      {
-        "unit_price": 8000,
-        "avg_unit_price": 9000,
-        "total_price": 8000,
-        "quantity": 1,
-        "percent_diff": 11.11
-      }
-    ]
-  },
   "1p2r": {
     "item_name": "«КЗС-3у»",
     "profitable_lots": [
