@@ -1727,27 +1727,15 @@
       }
     ]
   },
-  "96zjw": {
-    "item_name": "Подсумок с аптечками ученых",
-    "profitable_lots": [
-      {
-        "unit_price": 1050,
-        "avg_unit_price": 1072,
-        "total_price": 1050,
-        "quantity": 1,
-        "percent_diff": 2.05
-      }
-    ]
-  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
       {
         "unit_price": 770,
-        "avg_unit_price": 798,
+        "avg_unit_price": 800,
         "total_price": 770,
         "quantity": 1,
-        "percent_diff": 3.51
+        "percent_diff": 3.75
       }
     ]
   },
@@ -1779,11 +1767,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7280,
-        "total_price": 6666,
-        "quantity": 1,
-        "percent_diff": 8.43
+        "unit_price": 5000,
+        "avg_unit_price": 5446,
+        "total_price": 500000,
+        "quantity": 100,
+        "percent_diff": 8.19
       }
     ]
   },
@@ -1791,11 +1779,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3100001,
+        "unit_price": 2999999,
         "avg_unit_price": 3176922,
-        "total_price": 3100001,
+        "total_price": 2999999,
         "quantity": 1,
-        "percent_diff": 2.42
+        "percent_diff": 5.57
       }
     ]
   },
@@ -1815,11 +1803,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 644000,
-        "avg_unit_price": 768055,
-        "total_price": 644000,
+        "unit_price": 620000,
+        "avg_unit_price": 753333,
+        "total_price": 620000,
         "quantity": 1,
-        "percent_diff": 16.15
+        "percent_diff": 17.7
       }
     ]
   },
@@ -1835,15 +1823,27 @@
       }
     ]
   },
+  "969vz": {
+    "item_name": "HK UMP9",
+    "profitable_lots": [
+      {
+        "unit_price": 22222,
+        "avg_unit_price": 27368,
+        "total_price": 22222,
+        "quantity": 1,
+        "percent_diff": 18.8
+      }
+    ]
+  },
   "g4mgp": {
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
       {
-        "unit_price": 9000,
-        "avg_unit_price": 11564,
-        "total_price": 9000,
+        "unit_price": 10000,
+        "avg_unit_price": 11043,
+        "total_price": 10000,
         "quantity": 1,
-        "percent_diff": 22.17
+        "percent_diff": 9.44
       }
     ]
   },
@@ -1899,11 +1899,11 @@
     "item_name": "FN SCAR-L",
     "profitable_lots": [
       {
-        "unit_price": 70000,
-        "avg_unit_price": 102385,
-        "total_price": 70000,
+        "unit_price": 100000,
+        "avg_unit_price": 102864,
+        "total_price": 100000,
         "quantity": 1,
-        "percent_diff": 31.63
+        "percent_diff": 2.78
       }
     ]
   },
@@ -1912,10 +1912,10 @@
     "profitable_lots": [
       {
         "unit_price": 999999,
-        "avg_unit_price": 1195281,
+        "avg_unit_price": 1189399,
         "total_price": 999999,
         "quantity": 1,
-        "percent_diff": 16.34
+        "percent_diff": 15.92
       }
     ]
   },
@@ -1976,6 +1976,18 @@
         "total_price": 500000,
         "quantity": 1,
         "percent_diff": 0.66
+      }
+    ]
+  },
+  "p63d2": {
+    "item_name": "HK417",
+    "profitable_lots": [
+      {
+        "unit_price": 16600000,
+        "avg_unit_price": 17127222,
+        "total_price": 16600000,
+        "quantity": 1,
+        "percent_diff": 3.08
       }
     ]
   },
