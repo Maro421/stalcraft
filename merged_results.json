@@ -2043,11 +2043,11 @@
     "item_name": "МР-412",
     "profitable_lots": [
       {
-        "unit_price": 550000,
-        "avg_unit_price": 607036,
-        "total_price": 550000,
+        "unit_price": 600000,
+        "avg_unit_price": 604259,
+        "total_price": 600000,
         "quantity": 1,
-        "percent_diff": 9.4
+        "percent_diff": 0.7
       }
     ]
   },
