@@ -520,10 +520,10 @@
     "profitable_lots": [
       {
         "unit_price": 800,
-        "avg_unit_price": 1526,
+        "avg_unit_price": 1537,
         "total_price": 40000,
         "quantity": 50,
-        "percent_diff": 47.58
+        "percent_diff": 47.95
       }
     ]
   },
@@ -1799,27 +1799,15 @@
       }
     ]
   },
-  "96zjw": {
-    "item_name": "Подсумок с аптечками ученых",
-    "profitable_lots": [
-      {
-        "unit_price": 1050,
-        "avg_unit_price": 1072,
-        "total_price": 1050,
-        "quantity": 1,
-        "percent_diff": 2.05
-      }
-    ]
-  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
       {
         "unit_price": 770,
-        "avg_unit_price": 798,
+        "avg_unit_price": 800,
         "total_price": 770,
         "quantity": 1,
-        "percent_diff": 3.51
+        "percent_diff": 3.75
       }
     ]
   },
@@ -1851,11 +1839,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 6666,
-        "avg_unit_price": 7280,
-        "total_price": 6666,
-        "quantity": 1,
-        "percent_diff": 8.43
+        "unit_price": 5000,
+        "avg_unit_price": 5446,
+        "total_price": 500000,
+        "quantity": 100,
+        "percent_diff": 8.19
       }
     ]
   },
@@ -1863,11 +1851,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 3100001,
+        "unit_price": 2999999,
         "avg_unit_price": 3176922,
-        "total_price": 3100001,
+        "total_price": 2999999,
         "quantity": 1,
-        "percent_diff": 2.42
+        "percent_diff": 5.57
       }
     ]
   },
