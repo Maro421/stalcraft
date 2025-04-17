@@ -303,11 +303,11 @@
     "item_name": "Глаз зомби",
     "profitable_lots": [
       {
-        "unit_price": 875,
+        "unit_price": 861,
         "avg_unit_price": 1017,
-        "total_price": 3500,
+        "total_price": 3444,
         "quantity": 4,
-        "percent_diff": 13.96
+        "percent_diff": 15.34
       }
     ]
   },
