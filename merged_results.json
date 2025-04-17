@@ -2283,11 +2283,11 @@
     "item_name": "Барабанный магазин 5.56 NATO EMAG",
     "profitable_lots": [
       {
-        "unit_price": 5000000,
-        "avg_unit_price": 5146235,
-        "total_price": 5000000,
+        "unit_price": 4500000,
+        "avg_unit_price": 5117557,
+        "total_price": 4500000,
         "quantity": 1,
-        "percent_diff": 2.84
+        "percent_diff": 12.07
       }
     ]
   },
