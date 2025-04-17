@@ -1571,6 +1571,18 @@
       }
     ]
   },
+  "3gqkg": {
+    "item_name": "Нестабильная аномальная батарея",
+    "profitable_lots": [
+      {
+        "unit_price": 26666,
+        "avg_unit_price": 27888,
+        "total_price": 160000,
+        "quantity": 6,
+        "percent_diff": 4.38
+      }
+    ]
+  },
   "7l127": {
     "item_name": "Аномальная пыль",
     "profitable_lots": [
