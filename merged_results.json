@@ -15,11 +15,11 @@
     "item_name": "Мякоть спиртня",
     "profitable_lots": [
       {
-        "unit_price": 1937,
+        "unit_price": 1000,
         "avg_unit_price": 2035,
-        "total_price": 31000,
-        "quantity": 16,
-        "percent_diff": 4.82
+        "total_price": 20000,
+        "quantity": 20,
+        "percent_diff": 50.86
       }
     ]
   },
