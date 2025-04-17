@@ -2351,18 +2351,6 @@
       }
     ]
   },
-  "rwgl5": {
-    "item_name": "КИМ-100 «Гранат»",
-    "profitable_lots": [
-      {
-        "unit_price": 30000,
-        "avg_unit_price": 32088,
-        "total_price": 30000,
-        "quantity": 1,
-        "percent_diff": 6.51
-      }
-    ]
-  },
   "g4lk0": {
     "item_name": "Военная аптечка",
     "profitable_lots": [
