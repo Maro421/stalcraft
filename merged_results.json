@@ -1931,6 +1931,18 @@
       }
     ]
   },
+  "m0mz2": {
+    "item_name": "M1014 Breacher",
+    "profitable_lots": [
+      {
+        "unit_price": 510000,
+        "avg_unit_price": 566721,
+        "total_price": 510000,
+        "quantity": 1,
+        "percent_diff": 10.01
+      }
+    ]
+  },
   "g4mgp": {
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
