@@ -1035,11 +1035,11 @@
     "item_name": "Полипропилен",
     "profitable_lots": [
       {
-        "unit_price": 1999,
-        "avg_unit_price": 2389,
-        "total_price": 99999,
-        "quantity": 50,
-        "percent_diff": 16.32
+        "unit_price": 1500,
+        "avg_unit_price": 2212,
+        "total_price": 1500,
+        "quantity": 1,
+        "percent_diff": 32.19
       }
     ]
   },
@@ -2115,11 +2115,11 @@
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
       {
-        "unit_price": 270000,
+        "unit_price": 260000,
         "avg_unit_price": 302912,
-        "total_price": 270000,
+        "total_price": 260000,
         "quantity": 1,
-        "percent_diff": 10.87
+        "percent_diff": 14.17
       }
     ]
   },
