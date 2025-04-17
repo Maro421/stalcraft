@@ -1787,15 +1787,27 @@
       }
     ]
   },
+  "96zjw": {
+    "item_name": "Подсумок с аптечками ученых",
+    "profitable_lots": [
+      {
+        "unit_price": 1050,
+        "avg_unit_price": 1072,
+        "total_price": 1050,
+        "quantity": 1,
+        "percent_diff": 2.05
+      }
+    ]
+  },
   "1rlgq": {
     "item_name": "Подсумок с военными аптечками",
     "profitable_lots": [
       {
         "unit_price": 770,
-        "avg_unit_price": 800,
+        "avg_unit_price": 798,
         "total_price": 770,
         "quantity": 1,
-        "percent_diff": 3.75
+        "percent_diff": 3.51
       }
     ]
   },
@@ -1827,11 +1839,11 @@
     "item_name": "Катализатор",
     "profitable_lots": [
       {
-        "unit_price": 5000,
-        "avg_unit_price": 5446,
-        "total_price": 500000,
-        "quantity": 100,
-        "percent_diff": 8.19
+        "unit_price": 6666,
+        "avg_unit_price": 7280,
+        "total_price": 6666,
+        "quantity": 1,
+        "percent_diff": 8.43
       }
     ]
   },
@@ -1839,11 +1851,11 @@
     "item_name": "Эссенция сброса",
     "profitable_lots": [
       {
-        "unit_price": 2999999,
+        "unit_price": 3100001,
         "avg_unit_price": 3176922,
-        "total_price": 2999999,
+        "total_price": 3100001,
         "quantity": 1,
-        "percent_diff": 5.57
+        "percent_diff": 2.42
       }
     ]
   },
@@ -1863,11 +1875,11 @@
     "item_name": "M4 LB",
     "profitable_lots": [
       {
-        "unit_price": 620000,
-        "avg_unit_price": 753333,
-        "total_price": 620000,
+        "unit_price": 644000,
+        "avg_unit_price": 768055,
+        "total_price": 644000,
         "quantity": 1,
-        "percent_diff": 17.7
+        "percent_diff": 16.15
       }
     ]
   },
@@ -1887,11 +1899,11 @@
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 11043,
-        "total_price": 10000,
+        "unit_price": 9000,
+        "avg_unit_price": 11564,
+        "total_price": 9000,
         "quantity": 1,
-        "percent_diff": 9.44
+        "percent_diff": 22.17
       }
     ]
   },
