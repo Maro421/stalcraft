@@ -39,11 +39,11 @@
     "item_name": "Лазурные минералы",
     "profitable_lots": [
       {
-        "unit_price": 357,
+        "unit_price": 294,
         "avg_unit_price": 416,
-        "total_price": 9999,
-        "quantity": 28,
-        "percent_diff": 14.18
+        "total_price": 5000,
+        "quantity": 17,
+        "percent_diff": 29.33
       }
     ]
   },
