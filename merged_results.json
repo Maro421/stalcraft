@@ -387,11 +387,11 @@
     "item_name": "Банка с горохом",
     "profitable_lots": [
       {
-        "unit_price": 1000,
+        "unit_price": 900,
         "avg_unit_price": 1992,
-        "total_price": 50000,
+        "total_price": 45000,
         "quantity": 50,
-        "percent_diff": 49.8
+        "percent_diff": 54.82
       }
     ]
   },
@@ -2319,11 +2319,11 @@
     "item_name": "Барабанный магазин 5.56 NATO, хаки",
     "profitable_lots": [
       {
-        "unit_price": 2300000,
+        "unit_price": 2250000,
         "avg_unit_price": 2426731,
-        "total_price": 2300000,
+        "total_price": 2250000,
         "quantity": 1,
-        "percent_diff": 5.22
+        "percent_diff": 7.28
       }
     ]
   },
