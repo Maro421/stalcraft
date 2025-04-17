@@ -1887,11 +1887,11 @@
     "item_name": "IMI Micro Uzi",
     "profitable_lots": [
       {
-        "unit_price": 10000,
-        "avg_unit_price": 11043,
-        "total_price": 10000,
+        "unit_price": 8000,
+        "avg_unit_price": 11564,
+        "total_price": 8000,
         "quantity": 1,
-        "percent_diff": 9.44
+        "percent_diff": 30.82
       }
     ]
   },
