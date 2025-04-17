@@ -11,15 +11,27 @@
       }
     ]
   },
+  "y770": {
+    "item_name": "Мякоть лимонника",
+    "profitable_lots": [
+      {
+        "unit_price": 6249,
+        "avg_unit_price": 9783,
+        "total_price": 49999,
+        "quantity": 8,
+        "percent_diff": 36.12
+      }
+    ]
+  },
   "wooz": {
     "item_name": "Тусклые минералы",
     "profitable_lots": [
       {
-        "unit_price": 1333,
+        "unit_price": 1200,
         "avg_unit_price": 1375,
-        "total_price": 66666,
+        "total_price": 60000,
         "quantity": 50,
-        "percent_diff": 3.05
+        "percent_diff": 12.73
       }
     ]
   },
