@@ -2111,18 +2111,6 @@
       }
     ]
   },
-  "969jz": {
-    "item_name": "Steyr AUG A2",
-    "profitable_lots": [
-      {
-        "unit_price": 200000,
-        "avg_unit_price": 221228,
-        "total_price": 200000,
-        "quantity": 1,
-        "percent_diff": 9.6
-      }
-    ]
-  },
   "zz24n": {
     "item_name": "SIG SG 550 Sniper",
     "profitable_lots": [
