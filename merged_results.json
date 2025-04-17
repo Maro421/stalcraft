@@ -1619,18 +1619,6 @@
       }
     ]
   },
-  "qjl6j": {
-    "item_name": "Ящик гранат «Искра»",
-    "profitable_lots": [
-      {
-        "unit_price": 24000,
-        "avg_unit_price": 24257,
-        "total_price": 24000,
-        "quantity": 1,
-        "percent_diff": 1.06
-      }
-    ]
-  },
   "rwldv": {
     "item_name": "Ящик гранат «Вьюга»",
     "profitable_lots": [
