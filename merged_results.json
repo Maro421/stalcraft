@@ -1935,11 +1935,11 @@
     "item_name": "СВ-98",
     "profitable_lots": [
       {
-        "unit_price": 1000000,
-        "avg_unit_price": 1195281,
-        "total_price": 1000000,
+        "unit_price": 999999,
+        "avg_unit_price": 1189399,
+        "total_price": 999999,
         "quantity": 1,
-        "percent_diff": 16.34
+        "percent_diff": 15.92
       }
     ]
   },
